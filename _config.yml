@@ -36,7 +36,7 @@ minima:
   # generate social links in footer
   social_links:
     # twitter: jekyllrb
-    github:  amigospanarras
+    # github:  amigospanarras
     # devto: jekyll
     # dribbble: jekyll
     # facebook: jekyll
@@ -68,8 +68,8 @@ minima:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-#header_pages:
-# - about.md
+header_pages:
+ - about.markdown
 
 # Build settings
 theme: minima
