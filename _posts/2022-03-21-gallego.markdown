@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Pan tipo Gallego"
+date:   2022-03-20 18:00:39 -0400
+permalink: /gallego/
+categories: pan rustico capital
+---
+
+Aquí va la información sobre el Pan tipo Gallego...
+
