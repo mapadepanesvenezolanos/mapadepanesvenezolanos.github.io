@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pan tipo Gallego"
+title:  "Pan Gallego y Tipo Gallego"
 date:   2022-03-20 18:00:39 -0400
 permalink: /gallego/
 categories: pan rustico capital
