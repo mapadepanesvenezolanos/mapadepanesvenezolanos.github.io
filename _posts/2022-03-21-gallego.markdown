@@ -6,10 +6,6 @@ permalink: /gallego/
 categories: pan rustico capital
 ---
 
-**Origenes del pan de tipo gallego en Venezuela**
+Descarga el documento del Pan Gallego y Tipo Gallego
 
-**Pan de tipo gallego con centeno y afrecho**
-
-**Ingredientes**
-
-**Preparación**
+<iframe src="https://panesvenezolanos.github.io/assets/pdf/Pan-Tipo-Gallego.pdf" width="100%" height="700px">
