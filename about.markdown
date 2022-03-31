@@ -7,8 +7,8 @@ Hola!
 Bienvenidos al sitio de panes venezolanos en el mapa.
 
 **Quienes somos**
-- Jesús Méndez @1painalafois
-- Alexander Ramírez @hazpanencasa
+- Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
+- Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
 - Voluntarios de grupo Amigos Panarras
 
 **Mision**
