@@ -12,7 +12,7 @@ Bienvenidos al sitio de panes venezolanos en el mapa.
 - Voluntarios del grupo Amigos Panarras
 
 ## Misión
-Recopilar, organizar y publicar información de referencia geofráfica sobre los Panes Venezolanos.
+Recopilar, organizar y publicar información de referencia sobre los Panes Venezolanos en el mapa de Venezuela.
 
 ## Visión
 Ser una referencia y fuente de divulgación sobre las técnicas, fórmulas y procedimientos de la Panadería Venezolana.
