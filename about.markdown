@@ -24,5 +24,8 @@ Quisiera dejarle a mi familia, mis seres queridos y a las futuras generaciones d
 #### Alexander
 La Panadería me ha dado mucho a nivel personal y junto con el grupo de Amigos Panarras deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos.
 
+#### Advertencia
+Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
 **Amigos Panarras**
 
