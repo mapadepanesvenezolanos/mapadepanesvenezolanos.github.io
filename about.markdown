@@ -9,7 +9,7 @@ Bienvenidos al sitio de panes venezolanos en el mapa.
 ## ¿Quiénes somos?
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
-- Voluntarios de grupo Amigos Panarras
+- Voluntarios del grupo Amigos Panarras
 
 ## Misión
 Crear una fuente de documentos que permitan rápidamente ubicar los panes venezolanos por estado y por región.
@@ -25,7 +25,6 @@ Quisiera dejarle a mi familia, mis seres queridos y a las futuras generaciones d
 
 #### Alexander
 La Panadería me ha dado mucho a nivel personal y junto con el grupo de Amigos Panarras deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos.
-
 
 **Amigos Panarras**
 
