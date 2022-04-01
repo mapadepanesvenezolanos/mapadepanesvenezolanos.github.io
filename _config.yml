@@ -27,7 +27,6 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 show_excerpts: false # set to true to show excerpts on the homepage
-google_analytics: G-HRV9P3H4F9
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
