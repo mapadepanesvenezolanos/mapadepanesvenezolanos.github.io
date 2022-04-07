@@ -6,6 +6,6 @@ permalink: /gallego/
 categories: pan rustico capital
 ---
 
-<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-Tipo_Gallego-Mollete_Gallego.pdf">Descarga el documento del Pan Tipo Gallego y el Mollete Gallego
+<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-Tipo-Gallego-Mollete-Gallego.pdf">Descarga el documento del Pan Tipo Gallego y el Mollete Gallego
 </a>
-<iframe src="https://panesvenezolanos.github.io/assets/pdf/Pan-Tipo_Gallego-Mollete_Gallego.pdf" width="100%" height="700px">
+<iframe src="https://panesvenezolanos.github.io/assets/pdf/Pan-Tipo-Gallego-Mollete-Gallego.pdf" width="100%" height="700px">
