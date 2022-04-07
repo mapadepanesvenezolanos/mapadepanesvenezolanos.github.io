@@ -6,6 +6,6 @@ permalink: /leche/
 categories: pan enriquecido los_andes
 ---
 
-<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-de_Leche.pdf">Descarga el documento del Pan de Leche</a>
+<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-de-Leche.pdf">Descarga el documento del Pan de Leche</a>
 
 <iframe src="https://panesvenezolanos.github.io/assets/pdf/Pan-de-Leche.pdf" width="100%" height="700px">
