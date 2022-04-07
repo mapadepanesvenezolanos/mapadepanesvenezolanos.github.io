@@ -6,7 +6,7 @@ permalink: /canilla/
 categories: pan semirustico capital
 ---
 
-<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-Canilla-AmigosPanarras.pdf">Descarga el documento del Pan Canilla</a>
+<a href="https://panesvenezolanos.github.io/assets/pdf/Pan-Canilla.pdf">Descarga el documento del Pan Canilla</a>
 
 <iframe src="https://panesvenezolanos.github.io/assets/pdf/Pan-Canilla.pdf" width="100%" height="700px">
 
