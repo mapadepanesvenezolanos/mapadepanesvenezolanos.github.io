@@ -6,7 +6,7 @@ layout: home
 list_title: Artículos
 ---
 
-Te damos la bienvenida a nuestra referencia de Panes Venezolanos.
+Te damos la bienvenida a nuestra referencia de Panes Venezolanos para Panaderos Caseros.
 
 ### Mapa de Panes Venezolanos
 
