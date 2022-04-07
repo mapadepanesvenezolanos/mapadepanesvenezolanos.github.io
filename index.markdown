@@ -6,7 +6,7 @@ layout: home
 list_title: Artículos
 ---
 
-Te damos la bienvenida a nuestro sitio web, la referencia sobre Panes Venezolanos para Panaderos Caseros.
+Te damos la bienvenida a nuestro sitio,la referencia sobre Panes Venezolanos para Panaderos Caseros!
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1buGSEliAqisdW40ZYa1J0CtFn-VoDMaH&ehbc=2E312F" width="100%" height="700px" style="margin:2px;"></iframe>
 
