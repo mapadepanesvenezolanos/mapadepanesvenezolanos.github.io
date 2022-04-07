@@ -18,9 +18,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Panes Venezolanos
+title: Los Panes Venezolanos en el mapa
 author: 
-  name: Amigos Panarras
+  name: Amigos Panarras 
   email: amigospanarras@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 
@@ -44,7 +44,8 @@ minima:
     # dribbble: jekyll
     # facebook: jekyll
     # flickr:   jekyll
-    # instagram: jekyll
+     instagram: @1painalafois
+     instagram: @hazpanencasa
     # linkedin: jekyll
     # pinterest: jekyll
     # youtube: jekyll
