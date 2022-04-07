@@ -15,14 +15,14 @@ Bienvenidos al sitio de panes venezolanos en el mapa.
 Recopilar, organizar y publicar información de referencia sobre los Panes Venezolanos en el mapa de Venezuela.
 
 ## Visión
-Ser una referencia y fuente de divulgación sobre las técnicas, fórmulas y procedimientos de la Panadería Venezolana.
+Ser una referencia y fuente de divulgación sobre las técnicas, fórmulas y procedimientos de la Panadería Venezolana para los Panaderos Caseros.
 
 ## Motivación para darle vida a esta iniciativa
 #### Jesús
 Quisiera dejarle a mi familia, mis seres queridos y a las futuras generaciones de panaderos/amantes de la panadería una referencia documental de la memoria sensorial de los panes venezolanos. También quisiera rendirle homenaje a la cultura panadera de mi país de origen, y qué mejor manera que preparando los panes con los que crecí y otros que iremos descubriendo a través de este hermoso proyecto. Me motiva muchísimo aprender haciendo, compartirlo con otros y estoy seguro de que esta es una excelente manera de hacerlo, además es una forma de seguir practicando, mejorando como panadero.
 
 #### Alexander
-La Panadería me ha dado mucho a nivel personal y junto con el grupo de Amigos Panarras deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos.
+La Panadería me ha dado mucho a nivel personal y deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes en nuestras casas y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos.
 
 #### Advertencia
 Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
