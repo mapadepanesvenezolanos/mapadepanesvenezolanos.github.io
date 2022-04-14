@@ -14,7 +14,6 @@ Bienvenidos al sitio de panes venezolanos en el mapa.
 - Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
 - Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
 - Alba 
-
 ## Misión
 Recopilar, organizar y publicar información de referencia sobre los Panes Venezolanos en el mapa de Venezuela.
 
