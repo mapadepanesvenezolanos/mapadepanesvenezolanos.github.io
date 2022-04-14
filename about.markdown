@@ -9,6 +9,10 @@ Bienvenidos al sitio de panes venezolanos en el mapa.
 ## ¿Quiénes somos?
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
+### Equipo de pruebas y verificación de contenido
+- Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
+- Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
+- Alba 
 
 ## Misión
 Recopilar, organizar y publicar información de referencia sobre los Panes Venezolanos en el mapa de Venezuela.
