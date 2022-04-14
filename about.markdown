@@ -7,9 +7,10 @@ Hola!
 Bienvenidos al sitio de panes venezolanos en el mapa.
 
 ## ¿Quiénes somos?
+### Dirección y producción  
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
-### Equipo de pruebas y verificación de contenido
+### Aseguramiento de la calidad
 - Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
 - Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
 - Alba 
