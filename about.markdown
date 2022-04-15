@@ -27,6 +27,7 @@ Ser una referencia y fuente de divulgación sobre las técnicas, fórmulas y pro
 - Ser transparentes, dar visibilidad y respetar nuestro trabajo y el de los otros.
 - Compartir nuestra pasion por lo que hacemos con la comunidad de amigos panarras y el mundo entero.
 - Servirse de la bibliografia existente sobre Panaderia venezolana para completar y reforzar todo el trabajo que hacemos.
+- Dar cabida a la diversidad y crear un ambiente donde todas las personas puedan prosperar.
 
 ## Motivación para darle vida a esta iniciativa
 #### Jesús
