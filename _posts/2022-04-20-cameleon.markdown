@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Pan Cameleon"
+title:  "Pan Camaleon"
 date:   2022-03-21 18:00:39 -0400
 permalink: /canilla/
 pdf: Camaleon.pdf
