@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Pan Cameleon"
+date:   2022-03-21 18:00:39 -0400
+permalink: /canilla/
+pdf: Camaleon.pdf
+categories: pan dulce los andes
+---
+
+<a href="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+
+<iframe src="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+
