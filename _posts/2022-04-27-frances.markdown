@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Pan Francés"
-date:   2022-03-21 18:00:39 -0400
+date:   2022-04-27 18:00:39 -0400
 permalink: /frances/
 pdf: Pan-Frances.pdf
 categories: pan semirustico capital
