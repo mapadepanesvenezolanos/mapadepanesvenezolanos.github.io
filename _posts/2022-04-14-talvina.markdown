@@ -7,6 +7,6 @@ pdf: Talvina.pdf
 categories: masa_madre los_andes
 ---
 
-<a href="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento sobre la {{ page.title }}</a>
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento sobre la {{ page.title }}</a>
 
-<iframe src="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
