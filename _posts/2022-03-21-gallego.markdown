@@ -7,6 +7,6 @@ pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf
 categories: pan rustico capital
 ---
 
-<a href="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://panesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
