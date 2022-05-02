@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Los Panes Venezolanos en el mapa
+title: Mapa de Panes Venezolanos
 author: 
   name: Amigos Panarras 
   email: amigospanarras@gmail.com
