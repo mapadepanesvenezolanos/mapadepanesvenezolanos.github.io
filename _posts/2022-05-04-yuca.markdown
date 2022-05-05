@@ -3,7 +3,7 @@ layout: post
 title:  "Pan de Yuca"
 date:   2022-05-04 21:59:00 -0400
 permalink: /yuca/
-pdf: Pan-de-Yuca.pdf
+pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 ---
 
