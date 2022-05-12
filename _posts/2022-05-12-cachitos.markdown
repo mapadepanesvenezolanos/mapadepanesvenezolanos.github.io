@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Cachitos"
+date:   2022-05-12 14:28:00 -0400
+permalink: /cachitos/
+pdf: Cachitos.pdf
+categories: Cachitos capital
+---
+
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento de los {{ page.title }}</a>
+
+<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
