@@ -3,8 +3,9 @@ layout: page
 title: Acerca
 permalink: /acerca/
 ---
-Hola!
-Bienvenidos al sitio de panes venezolanos en el mapa.
+¡Hola!
+
+Bienvenidos al Mapa de Panes Venezolanos.
 
 ## ¿Quiénes somos?
 ### Dirección y producción  
