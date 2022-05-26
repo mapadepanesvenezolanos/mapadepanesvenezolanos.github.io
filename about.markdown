@@ -8,16 +8,16 @@ permalink: /acerca/
 Bienvenidos al Mapa de Panes Venezolanos.
 
 ## ¿Quiénes somos?
-### Dirección y producción  
+### El équipo de trabajo
+#### Dirección y producción
+#### Rol principal: Investigar, producir, preparar y decidir la orientacion, formato del contenido del mapa de panes venezolanos.
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
 ### Aseguramiento de la calidad
+#### Rol: Probar y corregir el contenido del mapa de panes venezolanos.
 - Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
 - Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
 - Alba Cennerazzo <a href="https://www.instagram.com/farinaelievito/">@farinaelievito en Instagram</a>
-### Colaboradores (Recetas, videos y referencias de contenido relacionado)
-- Ana Teresa Bogado
-- Luisa Jimenez
 
 ## Misión
 Recopilar, organizar y publicar información de referencia sobre los Panes Venezolanos en el mapa de Venezuela.
@@ -41,8 +41,16 @@ Quiero dejarle a mi familia, mis seres queridos y a las futuras generaciones de 
 #### Alexander
 La Panadería me ha dado mucho a nivel personal y deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes en nuestras casas y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos.
 
+## Para contribuir con el proyecto puedes convertirte en:
+### Colaborador (Recetas, videos y referencias de contenido relacionado)
+#### ¿Como jugar este rol? :  Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com
 
-#### Advertencia
+
+### Promotor
+#### ¿Como jugar este rol?:  Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web https://mapadepanesvenezolanos.github.io
+
+
+## Advertencia
 Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 **Amigos Panarras**
