@@ -9,7 +9,7 @@ Bienvenidos al Mapa de Panes Venezolanos.
 
 ## ¿Quiénes somos?
 ### El équipo de trabajo
-#### Dirección, Creación y Producción
+### Dirección, Creación y Producción
 #### Rol: Investigar, producir, preparar, decidir la orientacion, vision, formato, presentacion y estilo del contenido del mapa de panes venezolanos.
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
