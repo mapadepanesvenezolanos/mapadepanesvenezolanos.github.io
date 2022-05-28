@@ -13,6 +13,7 @@ Bienvenidos al Mapa de Panes Venezolanos.
 #### Rol: Investigar, producir, preparar, decidir la orientacion, vision, formato, presentacion y estilo del contenido del mapa de panes venezolanos.
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
+
 ### Aseguramiento de la calidad
 #### Rol: Probar y corregir el contenido del mapa de panes venezolanos.
 - Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
