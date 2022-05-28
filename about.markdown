@@ -58,15 +58,16 @@ Sprints de dos (2) semanas
 
 ## Para contribuir con el proyecto puedes convertirte en:
 ### Colaborador (Recetas, videos y referencias de contenido relacionado)
-#### ¿Como jugar este rol? :  Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com
-
+#### ¿Como jugar este rol? 
+Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com
 
 ### Promotor
-#### ¿Como jugar este rol?:  Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web https://mapadepanesvenezolanos.github.io
+#### ¿Como jugar este rol?
+Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web https://mapadepanesvenezolanos.github.io
 
 
 ## Advertencia
 Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-**Amigos Panarras**
+**Los Amigos Panarras**
 
