@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Golfeado"
+date:   2022-06-22 14:28:00 -0400
+permalink: /golfeado/
+pdf: Golfeado.pdf
+categories: golfeado capital
+---
+
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+
+<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
