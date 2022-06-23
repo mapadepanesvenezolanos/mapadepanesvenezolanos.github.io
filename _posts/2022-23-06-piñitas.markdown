@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Piñitas"
+date:   2022-06-23 19:19:00 -0400
+permalink: /piñitas/
+pdf: Piñitas.pdf
+categories: Piñitas Yaracuy
+---
+
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+
+<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
