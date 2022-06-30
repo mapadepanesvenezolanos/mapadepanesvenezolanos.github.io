@@ -4,7 +4,7 @@ date:   2022-06-23 19:19:00 -0400
 permalink: /pinitas/
 pdf: Pinitas.pdf
 categories: Piñitas Lara
-featured_image: '/images/panes/pinitas/pinitas_1.jpg'
+featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento de las {{ page.title }}</a>
