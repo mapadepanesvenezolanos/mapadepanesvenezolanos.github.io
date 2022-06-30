@@ -1,6 +1,6 @@
 ---
-title: Mapa de Panes Venezolanos
-description: Referencia sobre Panes Venezolanos para Panaderos Caseros.
+title: Panes
+description: Referencia sobre Panes Venezolanos para panaderos caseros.
 featured_image: /images/social.jpg
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Blog
-description: Mapa de Panes Venezolanos para panaderos caseros.
+title: Panes
+description: Referencia sobre Panes Venezolanos para panaderos caseros.
 featured_image: /images/social.jpg
 ---
 
@@ -40,8 +40,8 @@ featured_image: /images/social.jpg
 
 <section class="pagination">
 
-	<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large pagination__prev{% if paginator.previous_page %} pagination--on{% endif %}"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Newer Posts</span></a>
-	<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large pagination__next{% if paginator.next_page %} pagination--on{% endif %}"><span>Older Posts</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+	<a href="{{ paginator.previous_page_path | relative_url }}" class="button button--large pagination__prev{% if paginator.previous_page %} pagination--on{% endif %}"><i class="fa fa-angle-left" aria-hidden="true"></i> <span>Panes recientes...</span></a>
+	<a href="{{ paginator.next_page_path | relative_url }}" class="button button--large pagination__next{% if paginator.next_page %} pagination--on{% endif %}"><span>Más panes...</span> <i class="fa fa-angle-right" aria-hidden="true"></i></a>
 
 </section>
 
