@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Arepas"
 date:   2022-05-11 14:28:00 -0400
 permalink: /arepas/
 pdf: Arepas.pdf
 categories: Arepas los_llanos
+featured_image: '/images/panes/arepa/arepa_1.jpeg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+{% include pdf.html %}

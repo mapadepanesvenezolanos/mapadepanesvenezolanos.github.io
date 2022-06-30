@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Pan de Yuca"
 date:   2022-05-04 21:59:00 -0400
 permalink: /yuca/
 pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
+featured_image: '/images/panes/yuca/yuca_3.jpeg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+{% include pdf.html %}

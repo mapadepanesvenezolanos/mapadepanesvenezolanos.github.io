@@ -1,0 +1,12 @@
+---
+title:  "Cachitos"
+date:   2022-05-12 14:28:00 -0400
+permalink: /cachitos/
+pdf: Cachitos.pdf
+categories: Cachitos capital
+featured_image: '/images/panes/cachito/cachito_2.jpeg'
+---
+
+<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento de los {{ page.title }}</a>
+
+{% include pdf.html %}

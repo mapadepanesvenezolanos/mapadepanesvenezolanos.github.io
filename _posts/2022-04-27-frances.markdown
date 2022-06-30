@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Pan Francés"
 date:   2022-04-27 18:00:39 -0400
 permalink: /frances/
 pdf: Pan-Frances.pdf
 categories: pan semirustico capital
+featured_image: '/images/panes/frances/frances_2.jpeg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+{% include pdf.html %}

@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Pan de Leche"
 date:   2022-04-07 07:13:00 -0400
 permalink: /leche/
 pdf: Pan-de-Leche.pdf
 categories: pan enriquecido los_andes
+featured_image: '/images/panes/leche/leche_4.jpeg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+{% include pdf.html %}

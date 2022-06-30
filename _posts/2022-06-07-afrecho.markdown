@@ -1,12 +1,12 @@
 ---
-layout: post
 title:  "Pan de Afrecho"
 date:   2022-05-25 20:54:39 -0400
 permalink: /afrecho/
 pdf: Pan-de-afrecho.pdf
 categories: pan enriquecido andes
+featured_image: '/images/panes/afrecho/afrecho_3.jpg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
 
-<iframe src="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}" width="100%" height="700px">
+{% include pdf.html %}
