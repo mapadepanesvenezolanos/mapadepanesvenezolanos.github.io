@@ -2,7 +2,7 @@
 title: Acerca
 subtitle: 
 description: 
-featured_image: /images/panes/campesino/campesino_1.jpeg
+featured_image: /images/social.jpg
 ---
 
 ![](/images/panes/camaleon/camaleon_0.jpeg){:width="500px"}
