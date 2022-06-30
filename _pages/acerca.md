@@ -5,6 +5,7 @@ description:
 featured_image: /images/panes/campesino/campesino_1.jpeg
 ---
 
+![](/images/panes/camaleon/camaleon_0.jpeg){:width="500px"}
 
 Te damos la bienvenida al Mapa de Panes Venezolanos.
 
