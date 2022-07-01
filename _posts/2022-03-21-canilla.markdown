@@ -4,7 +4,7 @@ date:   2022-03-21 18:00:39 -0400
 permalink: /canilla/
 pdf: Pan-Canilla.pdf
 categories: pan semirustico capital
-featured_image: '/images/panes/canilla/canilla_6.jpeg'
+featured_image: '/images/panes/canilla/canilla_6.jpg'
 ---
 
 <a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
