@@ -151,4 +151,27 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_listing";
 @import "_includes/_contact-form";
 
+.post_image {
+	width: 30%;
+	margin: 20px;
+}
+
+.post_image_right {
+ float: right;
+ padding: 0 0 5px 5px;
+}
+
+.header_table {
+ display: inline-table;
+ width: 100%;
+}
+
+.fright {
+ float: right;
+}
+
+
+
+
+
 

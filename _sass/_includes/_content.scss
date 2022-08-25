@@ -186,35 +186,34 @@
 	}
 
 	.table-wrap {
-		display: block;
+		display: inline-table;
 		width: 100%;
-		max-width: 90%;
-		margin: 0 auto;
+		max-width: 60%;
+		margin: 0 0;
 		overflow-x: auto;
 
 		table {
-			max-width: 100%;
+			max-width: 60%;
 		}
 
 		@include mq(tabletp) {
-			max-width: 80%;
+			max-width: 60%;
 		}
 
 		@include mq(tabletl) {
-			max-width: 80%;
+			max-width: 60%;
 		}
 
 		@include mq(laptop) {
-			max-width: 80%;
+			max-width: 60%;
 		}
 
 		@include mq(desktop) {
-			max-width: 80%;
+			max-width: 60%;
 		}
 	}
 
 	table {
-		min-width: 600px;
 		border: 2px solid $text-dark-color;
 
 		thead {
@@ -229,16 +228,16 @@
 		}
 
 		th, td {
-			padding: 10px;
+			padding: 6px;
 			font-size: $p-small;
 			font-weight: $p-weight;
 
 			@include mq(tabletp) {
-				padding: 15px;
+				padding: 6px;
 			}
 
 			@include mq(laptop) {
-				padding: 20px;
+				padding: 6px;
 				font-size: $p-medium;
 			}
 		}
@@ -247,7 +246,10 @@
 
 			&:nth-child(2n) {
 				background: $background-alt-color;
+				color: inherit;
 			}
+
+
 		}
 	}
 

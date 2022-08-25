@@ -72,9 +72,12 @@
 <section class="intro">
 
 	<div class="wrap">
-
-		<h1>{{ page.title }}</h1>
-		<!--p>{{ page.date | date_to_long_string }}</p-->
+		<table class="header_table">
+			<tr>
+				<td><h1>{{ page.title }}</h1></td>
+				<td><button class="button fright" onclick="window.print();">Imprimir</button></td>
+			</tr>
+		</table>
 	</div>
 
 </section>
