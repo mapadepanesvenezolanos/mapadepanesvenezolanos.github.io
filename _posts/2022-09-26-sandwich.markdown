@@ -17,17 +17,11 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 * Un Pan de molde de 800 gramos
 * Temperatura ambiente 22ºC - 26ºC
-* 71.5% de hidratación (Baja hidratación)
+* 55% de hidratación (Baja hidratación)
 
 ## Resultado esperado
 
 Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
-
-## Origen 
-
-“” (2)
-
-(1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
 ## Tips
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centimetros de capacidad con las siguientes medidas: 12.1 centimetros de diametro, 21.6 centimetros de ancho x 11.1 centimetros de alto. 
@@ -118,7 +112,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 1.0 
+_Versión 1.1 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
