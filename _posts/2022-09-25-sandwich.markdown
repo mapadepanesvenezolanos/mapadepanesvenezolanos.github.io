@@ -33,15 +33,16 @@ Este es un pan de miga cerrada y suave, de corteza color marron claro de textura
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      479g |
-| Agua tibia                                                   |      25%      |      120g |
+| Harina panadera                                              |      100%     |      476g |
+| Agua tibia                                                   |      25%      |      119g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
 | Aceite de canola/maíz                                        |      10%      |       48g |
-| Azúcar                                                       |      7%       |       34g |
-| Leche en polvo                                               |      2%       |       10g |
+| Azúcar                                                       |      5%       |       24g |
+| Huevos batidos                                               |      20%      |       95g |
+| Leche en polvo                                               |      5%       |       24g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **167%**    | **800g**  |
+| **Total**                                                    |   **168%**    | **800g**  |
 
 ## Paso a paso del panadero
 
