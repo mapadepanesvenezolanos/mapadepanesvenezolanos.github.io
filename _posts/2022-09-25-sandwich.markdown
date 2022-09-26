@@ -1,9 +1,9 @@
 ---
-title:  "Pan de Sandwich"
-date:   2022-09-26 10:32:39 -0400
+title: "Pan de Sandwich"
+date: 2022-09-25 10:32:39 -0400
 permalink: /sandwich/
 pdf: Pan-de-sandwich.pdf
-categories: pan salado capital
+categories: pan salado enriquecido capital
 featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 ---
 
@@ -15,7 +15,7 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 ## Masa leudada con levadura instantánea
 
-* Un Pan de molde de 800 gramos
+* Un Pan de molde de 800g
 * Temperatura ambiente 22ºC - 26ºC
 * 55% de hidratación (Baja hidratación)
 
@@ -24,7 +24,8 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
 ## Tips
-* Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centimetros de capacidad con las siguientes medidas: 12.1 centimetros de diametro, 21.6 centimetros de ancho x 11.1 centimetros de alto. 
+
+* Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centimetros de ancho x 11.1 centímetros de alto. 
 
 ## Masa (Método directo)
 
@@ -32,15 +33,15 @@ Este es un pan de miga cerrada y suave, de corteza color marron claro de textura
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%      |      479g |
-| Agua tibia                             |      25%      |      120g |
+| Harina panadera                                              |      100%     |      479g |
+| Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
-| Sal                                                          |      2%       |        10g |
-| Aceite de canola/maiz                                          |      10%       |       48g |
-| Azúcar                                                       |      7%      |       34g |
+| Sal                                                          |      2%       |       10g |
+| Aceite de canola/maíz                                        |      10%      |       48g |
+| Azúcar                                                       |      7%       |       34g |
 | Leche en polvo                                               |      2%       |       10g |
-| ---------------------------                                  | ------------- |   ------- |
-| **Total**                                                    |   **167%**    | **800g** |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **167%**    | **800g**  |
 
 ## Paso a paso del panadero
 
@@ -95,14 +96,15 @@ Este es un pan de miga cerrada y suave, de corteza color marron claro de textura
 * Pása tu pan a una rejilla, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 * Deja reposar, por lo menos, treinta (30) minutos. ¡Mucha paciencia! Ya están casi listas. Disfruta tu Pan!!!
 
-### Consumo del pan 
+### Consumo del pan
+
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que recupere la crocancia.
 
 ------
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del manual de la cocina venezolana, panes y pastelitos y  del [Grupo Academico Panadero y Pastelero de Venezuela]
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y del [Grupo Academico Panadero y Pastelero de Venezuela]
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -112,7 +114,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 1.1 
+__Versión 1.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -122,5 +124,6 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Trina Arocha]: https://www.instagram.com/trinaarocha
 [Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 
