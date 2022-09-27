@@ -1,10 +1,10 @@
 ---
-title: "Pan de Sandwich"
-date: 2022-09-25 10:32:39 -0400
-permalink: /sandwich/
-pdf: Pan-de-sandwich.pdf
+title: "Panes Chinos"
+date: 2022-09-30 07:32:39 -0400
+permalink: /chinos/
+pdf: Panes-chinos.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
+featured_image: '/images/panes/chinos/chinos_1.jpeg'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -15,7 +15,7 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 ## Masa leudada con levadura instantánea
 
-* Un Pan de molde de 800g
+* Doce panes redondes de 45g cada uno
 * Temperatura ambiente 22ºC - 26ºC
 * 55% de hidratación (Baja hidratación)
 
@@ -52,14 +52,14 @@ pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduch�
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      476g |
-| Agua tibia                                                   |      25%      |      119g |
+| Harina panadera                                              |      100%     |      479g |
+| Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
 | Aceite de canola/maíz                                        |      10%      |       48g |
-| Azúcar                                                       |      5%       |       24g |
-| Huevos batidos                                               |      20%      |       95g |
-| Leche en polvo                                               |      5%       |       24g |
+| Azúcar                                                       |      7%       |       34g |
+| Huevos batidos                                               |      20%      |       96g |
+| Leche en polvo                                               |      2%       |       10g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **168%**    | **800g**  |
 
