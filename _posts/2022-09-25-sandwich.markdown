@@ -23,6 +23,25 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
+## Origen
+Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
+"Este práctico pan industrial cuadrado, elaborado
+en molde, goza de popularidad en el país, Su presentación inicial es el de una barra de corteza resistente y miga tierna que luego se prestará al proceso
+del rebanado."(1)
+Con respecto a la historia del pan de Sandwich, "se refieren dos momentos: uno de carácter legendario y otro técnico. El primero data del
+siglo XVIII y tiene como protagonista al aristócrata
+inglés John Montagu, IV conde de Sándwich, quien
+dada su afición al juego de cartas solicitaba emparedados que le permitieran alimentarse sin perder
+la partida. El segundo es del siglo XX y presenta al
+ingeniero estadounidense Otto Rohwedder, quien
+en 1927 ideó una máquina automática para cortar
+el pan en rebanadas, con lo cual revolucionó su producción y la forma de comercializarlo. 
+
+Este
+pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduchón y la serpentina."(1)
+
+(1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centimetros de ancho x 11.1 centímetros de alto. 
