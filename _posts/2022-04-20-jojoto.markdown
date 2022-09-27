@@ -21,15 +21,15 @@ featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 
 ## Resultado esperado
 
-Este es un pan de miga esponjosa, suave, bastante similar a la textura de un ponqué, debido a la combinación de leche, huevo, mantequilla y harina de cachapa que combinados con la azúcar blanca, producen un pan salado y dulce en boca, perfumado a maíz. La corteza de esta versión es un poquito crocante, y como diría el profesor Carlos Arias (1) “Es como comer cachapas en pan”. Es perfecto para compartir en familia. Para Jesús  ([@1painalafois](https://www.instagram.com/1painalafois)) este pan se ha convertido en un clásico de las reuniones familiares y Alexander ([@hazpanencasa](https://www.instagram.com/hazpanencasa)) lo está descubriendo apenas.
+Este es un pan de miga esponjosa, suave, bastante similar a la textura de un ponqué, debido a la combinación de leche, huevo, mantequilla y harina de cachapa que combinados con la azúcar blanca, producen un pan salado y dulce en boca, perfumado a maíz. La corteza de esta versión es un poquito crocante, y como diría el profesor Carlos Arias [^1] “Es como comer cachapas en pan”. Es perfecto para compartir en familia. Para Jesús  ([@1painalafois]) este pan se ha convertido en un clásico de las reuniones familiares y Alexander ([@hazpanencasa]) lo está descubriendo apenas.
 
 ## Origen 
 
 “Original del estado Táchira, el pan de maíz, mezcla de harinas del trigo y el maíz, pareciera tener por patria chica a la bella Pamplona, desde donde salió en un sueño por primera vez nuestra ciudad, y que según cuenta la crónica, en la palabra del
-cabildante Francisco Sánchez, fue propuesta como Villa para poblar en nombre de España, el “Valle de las Auyamas”, mediante la fundación de nuestra hoy ciudad de San Cristóbal. ” (2)
+cabildante Francisco Sánchez, fue propuesta como Villa para poblar en nombre de España, el 'Valle de las Auyamas', mediante la fundación de nuestra hoy ciudad de San Cristóbal”. [^2]
 
-(1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
-(2): La Cocina Tachirense 2da edición, Leonor Peña
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+[^2]: La Cocina Tachirense 2da edición, Leonor Peña
 
 ## Tips
 
@@ -78,6 +78,8 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 
 ### Mezcla y amasado
 
+<div id="primerciclo"></div>
+
 #### Primer ciclo de amasado
 
 - En un primer envase, mezcla la harina de maíz/mezcla de cachapas con la proporción de agua tibia indicada en la receta para remojar este ingrediente.
@@ -123,6 +125,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 * Coloca la masa formada en un envase que mantenga la forma y permita que siga fermentando la masa por una hora o hasta que esté esponjosa y aireada, cuidando de no sobre fermentar. Si el formado es batard el recipiente puede ser rectangular o ovalado. Si el formado es redondo el recipiente puede ser redondo como una quesillera.
 
 ### Fermentación final (maduración y retardo en nevera)
+
 * Coloca el recipiente tapado en la nevera entre 8h y 12h.
 
 ### Barnices, coberturas y cortes (Día 2)
@@ -144,14 +147,15 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 * Pása tu pan a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 * Deja reposar, por lo menos, treinta (30) minutos. ¡Mucha paciencia! Ya están casi listas. Disfruta tu Pan!!!
 
-### Consumo del pan 
+### Consumo del pan
+
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por 10 minutos para que recupere la crocancia.
 
 ------
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Academico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@taosbaker], [Chef Laszlo Gyomrey], [Escuela de Cocina Plaza's], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance]. 
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela]. 
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -161,7 +165,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 4.0 
+__Versión 3.0__ (23/08/2022) 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -171,5 +175,5 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 

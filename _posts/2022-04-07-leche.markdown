@@ -1,12 +1,11 @@
 ---
-title:  "Pan de Leche"
-date:   2022-04-07 07:13:00 -0400
+title: "Pan de Leche"
+date: 2022-04-07 07:13:00 -0400
 permalink: /leche/
 pdf: Pan-de-Leche.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'
 ---
-
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
