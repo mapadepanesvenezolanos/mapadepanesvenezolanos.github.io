@@ -52,16 +52,16 @@ pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduch�
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      476g |
-| Agua tibia                                                   |      25%      |      119g |
+| Harina panadera                                              |      100%     |      479g |
+| Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
 | Aceite de canola/maíz                                        |      10%      |       48g |
-| Azúcar                                                       |      5%       |       24g |
-| Huevos batidos                                               |      20%      |       95g |
-| Leche en polvo                                               |      5%       |       24g |
+| Azúcar                                                       |      7%       |       34g |
+| Huevos batidos                                               |      20%      |       96g |
+| Leche en polvo                                               |      2%       |       10g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **168%**    | **800g**  |
+| **Total**                                                    |   **167%**    | **800g**  |
 
 ## Paso a paso del panadero
 
@@ -135,7 +135,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1__
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
