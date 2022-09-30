@@ -24,6 +24,7 @@ featured_image: '/images/panes/chino/chino_1.jpeg'
 Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
 ## Origen
+
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
 " "
 (1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
