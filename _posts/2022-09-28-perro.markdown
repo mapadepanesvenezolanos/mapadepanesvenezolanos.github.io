@@ -1,0 +1,147 @@
+---
+title: "Pan de Perro Caliente"
+date: 2022-09-28 10:32:39 -0400
+permalink: /perro/
+pdf: Pan-de-perro.pdf
+categories: pan salado enriquecido capital
+featured_image: '/images/panes/perro/perro_1.jpeg'
+---
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+<div id="directo"></div>
+
+# Método directo
+
+## Masa leudada con levadura instantánea
+
+- Prepararemos 10 unidades de 80g para un total de 800g de masa
+- Temperatura ambiente 22ºC - 27ºC
+- 49% de hidratación (Baja hidratación)
+
+## Resultado esperado
+
+Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y acabado brillante.
+
+## Tips
+
+- La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
+- Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
+- Al momento de colocar el barniz hazlo con mucha atención para que cada pastón tenga barniz y el color quede con un acabado uniforme.
+- Para generarles humedad antes de consumirlos envuelvelos en papel toallín y colócalos en el microonda aproximadamente treinta (30) segundos.
+
+## Masa (Método directo)
+
+### Ingredientes para la masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      463g |
+| Agua                                                         |      40%      |      185g |
+| Levadura instantánea                                         |      1%       |        5g |
+| Sal                                                          |      1.6%     |        7g |
+| Huevos batidos                                               |      10%      |       46g |
+| Mantequilla/Aceite de canola/maíz                            |      10%      |       46g |
+| Azúcar                                                       |      5%       |       23g |
+| Leche en polvo                                               |      5%       |       23g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    | **172.6%**    | **800g**  |
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+#### Ciclo de amasado
+
+- En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
+- Crea un volcán con boca ancha.
+- En un segundo envase, mezcla el agua, los huevos y el azúcar.
+- Coloca los líquidos en el centro del volcán, coloca la sal en el borde y la mantequilla pomada o el aceite en el centro.
+- Integra los ingredientes mezclando hasta obtener una papilla.
+- Incorpora el resto de la harina hasta obtener una masa homogénea.
+- Forma una bola y déjala reposar por diez (10) minutos.
+
+<div id="sobado"></div>
+
+#### Ciclo de sobado 
+
+- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo unas 5 a 7 veces.
+- Dale un reposo de cinco (5) minutos.
+- Sigue realizando pliegues, unos 5 a 7.
+- Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
+- Forma una bola y déjala reposar por diez (10) minutos. 
+
+### División
+
+- Divide en porciones de 80g, bolea cada porción y déjalas reposar por diez (10) minutos.
+
+### Formado
+
+- Extiende cada bola en rectángulos con un ancho de 10cm a 12cm para formar barras.
+- A la masa extendida coloca agua con un aspersor.
+- Enrolla cada rectángulo y afina la masa en el extremo del cierre.
+- Deja cada pastón uno al lado del otro separados por 1cm.
+
+### Fermentación final (maduración)
+
+- Tapa la bandeja con plástico.
+- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante dos (2) a tres (3) horas.
+- Cada pastón, al menos, debe haber duplicado su volumen inicial y cada barra se deben pegar una de la otra.
+
+### Barnices, coberturas y cortes
+
+- Mezcla un huevo batido con una pizca de sal y azúcar, pásalo por un colador para que el barniz quede fino.
+- Con ayuda de una brocha de cocina, coloca el barniz a cada pastón con mucha atención de manera queden bien cubiertos sin derramar. Cuando se derrama queda en la base del Pan y en el horno se endurece.
+
+### Horneado
+
+- Enciende el horno una media antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente venticinco (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+
+### Enfriamiento
+
+- Coloca los panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
+- Si deseas puedes colocar un barniz de mantequilla clarificada para darles brillo al acabado.
+- Déjalos reposar, por lo menos, treinta (30) minutos.
+
+### Consumo del pan
+
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
+- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
+- si los congelaste, antes de consumirlos pásalos al refrigerador la noche anterior y en la mañana los colocas en el horno como hemos indicado previamente.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha].
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 1.0__
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/

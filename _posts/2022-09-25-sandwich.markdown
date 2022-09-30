@@ -24,23 +24,13 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
 ## Origen
-Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
-"Este práctico pan industrial cuadrado, elaborado
-en molde, goza de popularidad en el país, Su presentación inicial es el de una barra de corteza resistente y miga tierna que luego se prestará al proceso
-del rebanado."(1)
-Con respecto a la historia del pan de Sandwich, "se refieren dos momentos: uno de carácter legendario y otro técnico. El primero data del
-siglo XVIII y tiene como protagonista al aristócrata
-inglés John Montagu, IV conde de Sándwich, quien
-dada su afición al juego de cartas solicitaba emparedados que le permitieran alimentarse sin perder
-la partida. El segundo es del siglo XX y presenta al
-ingeniero estadounidense Otto Rohwedder, quien
-en 1927 ideó una máquina automática para cortar
-el pan en rebanadas, con lo cual revolucionó su producción y la forma de comercializarlo. 
+Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, "Este práctico pan industrial cuadrado, elaborado en molde, goza de popularidad en el país, Su presentación inicial es el de una barra de corteza resistente y miga tierna que luego se prestará al proceso del rebanado."[^1]
 
-Este
-pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduchón y la serpentina."(1)
+Con respecto a la historia del pan de Sandwich, "se refieren dos momentos: uno de carácter legendario y otro técnico. El primero data del siglo XVIII y tiene como protagonista al aristócrata inglés John Montagu, IV conde de Sándwich, quien dada su afición al juego de cartas solicitaba emparedados que le permitieran alimentarse sin perder la partida. El segundo es del siglo XX y presenta al ingeniero estadounidense Otto Rohwedder, quien en 1927 ideó una máquina automática para cortar el pan en rebanadas, con lo cual revolucionó su producción y la forma de comercializarlo.
 
-(1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduchón y la serpentina."[^1]
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
 ## Tips
 
@@ -102,7 +92,7 @@ pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduch�
 
 ### Fermentación final (maduración)
 
-- Coloca el recipiente tapado en mesa, preferiblemente a una temperatura entre 24ºC y 247ºC durante dos (2) horas.
+- Coloca el recipiente tapado en mesa, preferiblemente a una temperatura entre 24ºC y 27ºC durante dos (2) horas.
 - El pastón debe haber doblado su tamaño inicial.
 
 ### Horneado
@@ -125,7 +115,7 @@ pan rebanado transversalmente da lugar a dos festivas preparaciones: el sanduch�
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y del [Grupo Academico Panadero y Pastelero de Venezuela]
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y del [Grupo Academico Panadero y Pastelero de Venezuela].
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -135,7 +125,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
