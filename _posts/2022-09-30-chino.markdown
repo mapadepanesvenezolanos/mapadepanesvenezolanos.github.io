@@ -1,10 +1,10 @@
 ---
-title: "Panes Chinos"
+title: "Pan Chino"
 date: 2022-09-30 07:32:39 -0400
-permalink: /chinos/
-pdf: Panes-chinos.pdf
+permalink: /chino/
+pdf: Panes-chino.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/chinos/chinos_1.jpeg'
+featured_image: '/images/panes/chino/chino_1.jpeg'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
