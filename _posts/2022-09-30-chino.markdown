@@ -1,6 +1,6 @@
 ---
 title: "Panes Chinos"
-date: 2022-09-30 07:32:39 -0400
+date: 2022-10-31 07:32:39 -0400
 permalink: /chinos/
 pdf: Panes-chinos.pdf
 categories: pan salado enriquecido capital
