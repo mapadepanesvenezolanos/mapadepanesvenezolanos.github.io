@@ -165,9 +165,9 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 
 ### Paso a paso del panadero
 
-- Sigue el mismo procedimiento del [método directo](#directo).
 - Prepara la papa cocida el día anterior y resérvalo en la nevera. Una hora antes sácalo de la nevera.
-- Sigue el mismo procedimiento anterior colocando la papa cocida en el centro del volcán.
+- Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
+- Cuando formes el volcán coloca la papa cocida en el centro del mismo.
 - Debes obtener un masa más suave y uniforme.
 
 ---
@@ -205,7 +205,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 ### Paso a paso del panadero
 
-- Sigue el mismo procedimiento del [método directo](#directo).
+- Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
 - Al colocar los pastones en la bandeja déjalos separados 2cm por cada lado. 
 - Después de madurar y antes de entrar al horno deben estar pegados, esto le va a dar la humedad característica de los sliders.
 

@@ -22,7 +22,7 @@ featured_image: '/images/panes/perro/perro_1.jpeg'
 
 ## Resultado esperado
 
-Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y acabado brillando
+Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y acabado brillante.
 
 ## Tips
 
