@@ -118,7 +118,7 @@ de inmediato por el comensal venezolano.  "
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Academico Panadero y Pastelero de Venezuela], @taosbaker y @saporidellacucina
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Academico Panadero y Pastelero de Venezuela], [@taosbaker] y [@saporidellacucina]
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
