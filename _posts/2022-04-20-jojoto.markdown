@@ -152,9 +152,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por 10 minutos para que recupere la crocancia.
 
 ------
-
-# Método directo
-
+# Pan de Jojoto
 ## Masa mejorada con Prefermento Poolish
 * 75% de hidratación (Alta hidratación)
 
@@ -163,7 +161,7 @@ Planifica tres días para la preparación de esta versión del Pan.
 * Día 1: Preparación del prefermento Poolish
 * Día 2: Preparación de la masa del pan y fermentación en nevera
 * Día 3: Decoración, horneado y enfriado
-### Ver Otros tips
+*  Ver [otros tips](#otros-tips)
 
 ### Prefermento Poolish
 | Ingrediente                                                  |    Fórmula    |      Peso |
@@ -172,7 +170,7 @@ Planifica tres días para la preparación de esta versión del Pan.
 | Agua                                                         |     100%      |      140g |
 | Levadura instantánea seca                                    |     0.1%      |      0.1g |
 | ---------------------------                                  | ------------- |   ------- |
-| **Total**                                                    |  **200.1%**    |  **281g** |
+| **Total**                                                    |  **200.1%**   |  **281g** |
 
 ### Ingredientes para la masa
 
