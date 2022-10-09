@@ -4,7 +4,7 @@ date: 2022-10-08 07:30:39 -0400
 permalink: /chinos/
 pdf: Panes-chinos.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/chino/chino_1.png'
+featured_image: '/images/panes/chino/chinos_1.png'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
