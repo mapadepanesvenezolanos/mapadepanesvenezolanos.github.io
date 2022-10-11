@@ -15,7 +15,7 @@ Cuando le agregamos almidones a la preparación le estamos agregando hidratació
 
 Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
 
-* [Método directo](#directo)
+* [Pan de hamburguesa](#directo)
 * [Pan de Papa](#papa)
 * [Mini pan de hamburguesa (Sliders)](#sliders)
 * [Pan Brioche](#brioche)
