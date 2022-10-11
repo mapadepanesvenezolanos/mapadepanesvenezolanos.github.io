@@ -43,7 +43,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina todo uso                                              |      100%     |      294g |
 | Agua tibia                                                   |      40%      |      118g |
-| Levadura instantánea seca                                    |      1%       |        3g |
+| Levadura instantánea                                         |      1%       |        3g |
 | Sal                                                          |    0.5%       |        1g |
 | Aceite de canola/maíz                                        |      10%      |       29g |
 | Azúcar                                                       |      20%      |       59g |
@@ -66,11 +66,11 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla el agua tibia con los huevos y toda el azúcar hasta disolver.
-- Añade la levadura instantánea seca y mezcla hasta integrar completamente.
+- En un envase, mezcla el agua tibia con los huevos y toda el azúcar hasta disolver.
+- Añade la levadura instantánea y mezcla hasta integrar completamente.
 - Agrega la leche en polvo y mezcla nuevamente hasta integrar.
-- En un segundo envase, deposita la harina todo uso y forma un volcán dejando un hueco en el centro del envase.
-- En la mesa de trabajo crea un volcán con la harina todo uso y vierte la mezcla del primer envase en el centro del volcán. Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante cinco (5) minutos.
+- En la mesa de trabajo crea un volcán de boca ancha con la harina todo uso y vierte la mezcla del primer envase en el centro del volcán y coloca la sal en el borde del volcán. 
+- Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante cinco (5) minutos.
 - Forma una bola y dejala reposar en mesa a una temperatura idealmente entre veinticuatro (24ºC) y veintisiete (27ºC) grados centígrados, cubriéndola con un paño o bolsa plástica preferiblemente durante diez (10) minutos.
 
 <div id="sobado"></div>

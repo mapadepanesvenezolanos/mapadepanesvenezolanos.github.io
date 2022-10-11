@@ -74,7 +74,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
+- En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - Crea un volcán con boca ancha.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
 - Coloca los líquidos en el centro del volcán, coloca la sal en el borde y la mantequilla pomada o el aceite en el centro.
@@ -128,7 +128,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 - Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- si los congelaste, antes de consumirlos pásalos al refrigerador la noche anterior y en la mañana los colocas en el horno como hemos indicado previamente.
+- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ---
 
@@ -166,7 +166,7 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 
 ### Paso a paso del panadero
 
-- Prepara la papa cocida el día anterior y resérvalo en la nevera. Una hora antes sácalo de la nevera.
+- Prepara la papa cocida el día anterior y resérvala en la nevera. Una hora antes sácala de la nevera.
 - Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
 - Cuando formes el volcán coloca la papa cocida en el centro del mismo.
 - Debes obtener un masa más suave y uniforme.
@@ -209,6 +209,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 - Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
 - Al colocar los pastones en la bandeja déjalos separados 2cm por cada lado. 
 - Después de madurar y antes de entrar al horno deben estar pegados, esto le va a dar la humedad característica de los sliders.
+
 
 ---
 
