@@ -18,6 +18,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Método directo](#directo)
 * [Pan de Papa](#papa)
 * [Mini pan de hamburguesa (Sliders)](#sliders)
+* [Abriochado](#brioche)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -210,6 +211,42 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 - Al colocar los pastones en la bandeja déjalos separados 2cm por cada lado. 
 - Después de madurar y antes de entrar al horno deben estar pegados, esto le va a dar la humedad característica de los sliders.
 
+---
+
+<div id="brioche"></div>
+
+# Abriochado
+
+## Masa leudada con levadura instantánea
+
+- Prepararemos 8 unidades de 100g para un total de 800g de masa
+- Temperatura ambiente 22ºC - 27ºC
+- 53% de hidratación (Baja hidratación) y 29% de grasa.
+
+## Resultado esperado
+
+Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor delicioso.
+
+## Masa (Con retardo en nevera)
+
+### Ingredientes para la masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      395g |
+| Agua                                                         |      25%      |       99g |
+| Levadura instantánea                                         |      1%       |        4g |
+| Sal                                                          |      1.8%     |        7g |
+| Huevos batidos                                               |      30%      |      119g |
+| Mantequilla                                                  |      30%      |      119g |
+| Azúcar                                                       |      10%      |       40g |
+| Leche en polvo                                               |      5%       |       20g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |  **202.8%**   |  **800g** |
+
+### Paso a paso del panadero
+
+- (En proceso)
 
 ---
 
