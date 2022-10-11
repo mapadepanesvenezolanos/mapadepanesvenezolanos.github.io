@@ -17,7 +17,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 * [Método directo](#directo)
 * [Pan de Papa](#papa)
-* [Sliders](#sliders)
+* [Mini pan de hamburguesa (Sliders)](#sliders)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -41,7 +41,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia 100g de mantequilla equivale a 85g de aceite o manteca vegetal y 15g de agua. En este caso formulamos utilizando 46g de mantequilla, si vas a utilizar aceite entonces son 39g de aceite y 7g de agua adicionales.
 - Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
 - Al momento de colocar el barniz hazlo con mucha atención para que todo el pastón tenga barniz y el color quede con un acabado uniforme.
-- Te recomendamos grillar las tapas del Pan antes de utilizar.
+- Cuando vayas a preparar tus hamburguesas, te recomendamos grillar las tapas del Pan antes de utilizar, para sellarlas y evitar que el Pan absorba humedad de los ingredientes.
 
 ## Masa (Método directo)
 
@@ -175,7 +175,7 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 
 <div id="sliders"></div>
 
-# Sliders (Método directo)
+# Mini pan de hamburguesa (Sliders)
 
 ## Masa leudada con levadura instantánea
 
