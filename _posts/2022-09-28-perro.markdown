@@ -9,7 +9,7 @@ featured_image: '/images/panes/perro/perro_alba.jpeg'
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/perro/perro_alba_acabado.jpeg" alt="{{page.title}}">
 <div id="directo"></div>
 
 # Método directo
@@ -18,7 +18,7 @@ featured_image: '/images/panes/perro/perro_alba.jpeg'
 
 - Prepararemos 10 unidades de 80g para un total de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación)
+- 49% de hidratación (Baja hidratación) y 10% de grasa.
 
 ## Resultado esperado
 
@@ -98,6 +98,8 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 - Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante dos (2) a tres (3) horas.
 - Cada pastón, al menos, debe haber duplicado su volumen inicial y cada barra se deben pegar una de la otra.
 
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
 ### Barnices, coberturas y cortes
 
 - Mezcla un huevo batido con una pizca de sal y azúcar, pásalo por un colador para que el barniz quede fino.
@@ -107,6 +109,8 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 
 - Enciende el horno una media antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinte (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+
+<img class="post_image post_image_right" src="/images/panes/perro/perro_alba_miga.jpeg" alt="{{page.title}}">
 
 ### Enfriamiento
 
