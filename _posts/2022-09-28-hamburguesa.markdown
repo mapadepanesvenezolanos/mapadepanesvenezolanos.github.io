@@ -24,7 +24,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 <div id="directo"></div>
 
-# Método directo
+# Pan de hamburguesa
 
 ## Masa leudada con levadura instantánea
 
