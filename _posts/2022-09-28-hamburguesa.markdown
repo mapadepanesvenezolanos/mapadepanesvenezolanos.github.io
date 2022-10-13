@@ -327,7 +327,7 @@ Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor del
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao] y Erika Soto [@oreganobaguette]. ¡Muchas gracias!
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -348,4 +348,6 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
 [Trina Arocha]: https://www.instagram.com/trinaarocha
+[@pandemelao]: https://www.instagram.com/pandemelao
+[@oreganobaguette] https://www.instagram.com/oreganobaguette
 [Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
