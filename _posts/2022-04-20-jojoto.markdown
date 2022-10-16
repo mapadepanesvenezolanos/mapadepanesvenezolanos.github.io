@@ -7,6 +7,11 @@ categories: pan semidulce los_andes
 featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 ---
 
+Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
+
+* [Pan de Jojoto](#directo)
+* [Pan de Jojoto mejorado con prefermento Poolish](#poolish)
+
 #### RECETA, FÓRMULA y TÉCNICAS
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -47,6 +52,8 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 * Aroma y sabor ligero a cachapa:
     * Combina 30% de harina de cachapas, con 70% de harina de maíz
 * En ausencia de mezcla de cachapas, puedes utilizar harina de maíz en la misma proporción.
+
+<div id="directo"></div>
 
 ## Masa (Método directo)
 
@@ -152,6 +159,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por 10 minutos para que recupere la crocancia.
 
 ------
+<div id="poolish"></div>
+
 # Pan de Jojoto
 ## Masa mejorada con Prefermento Poolish
 * 75% de hidratación (Alta hidratación)
