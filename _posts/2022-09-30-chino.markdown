@@ -1,10 +1,10 @@
 ---
-title: "Panes Chinos"
-date: 2022-10-08 07:30:39 -0400
-permalink: /chinos/
-pdf: Panes-chinos.pdf
+title: "Pan Chino"
+date: 2022-09-30 07:30:39 -0400
+permalink: /chino/
+pdf: Pan-chino.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/chino/chinos_1.png'
+featured_image: '/images/panes/chino/chino_1.png'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -15,28 +15,25 @@ featured_image: '/images/panes/chino/chinos_1.png'
 
 ## Masa leudada con levadura instantánea
 
-* Diez panes redondos de 54gramos cada uno
+* Diez panes redondos de 54g cada uno
 * Temperatura ambiente 22ºC - 26ºC
 * 60% de hidratación (media hidratación)
 
 ## Resultado esperado
 
-Este es un pan de miga muy suave, pequeño,esponjoso y dulzón, de corteza color marron claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, delicioso con un toque de mantequilla recien salido del horno.
+Este es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, delicioso con un toque de mantequilla recién salido del horno.
 
 ## Origen
 
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
-"Es muy diferente al pan cocido al vapor, un bollo blanco típico de China. Su origen se remonta a finales de los años cuarenta del siglo XX, poco después de haber finalizado la Segunda Guerra Mundial, con la llegada al
-país de los inmigrantes, europeos en su mayoría y, en menor medida, asiáticos. Estos últimos se dedicaron al comercio y a la restauración y fueron introduciendo sus costumbres, al tiempo de ir comprendiendo las
-nuestras. Y fue precisamente un hábito venezolano, el de acompañar las comidas con arepa o pan, el que
-motivó a los restauradores oriundos de la provincia de Cantón a crear el singular pancito, el cual fue acogido
-de inmediato por el comensal venezolano.  "
-(1): Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+"Es muy diferente al pan cocido al vapor, un bollo blanco típico de China. Su origen se remonta a finales de los años cuarenta del siglo XX, poco después de haber finalizado la Segunda Guerra Mundial, con la llegada al país de los inmigrantes, europeos en su mayoría y, en menor medida, asiáticos. Estos últimos se dedicaron al comercio y a la restauración y fueron introduciendo sus costumbres, al tiempo de ir comprendiendo las nuestras. Y fue precisamente un hábito venezolano, el de acompañar las comidas con arepa o pan, el que motivó a los restauradores oriundos de la provincia de Cantón a crear el singular pancito, el cual fue acogido de inmediato por el comensal venezolano."[^1]
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 
-* Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11 gramos de agua adicionales a la cantidad de agua indicada en la lista de ingredientes de la masa.
+* Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
 ## Masa (Método directo)
 
@@ -46,12 +43,12 @@ de inmediato por el comensal venezolano.  "
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina todo uso                                              |      100%     |      294g |
 | Agua tibia                                                   |      40%      |      118g |
-| Levadura instantánea seca                                    |      1%       |        3g |
+| Levadura instantánea                                         |      1%       |        3g |
 | Sal                                                          |    0.5%       |        1g |
 | Aceite de canola/maíz                                        |      10%      |       29g |
 | Azúcar                                                       |      20%      |       59g |
 | Huevos batidos                                               |      10%      |       29g |
-| Leche en polvo                                               |      2%       |       6g |
+| Leche en polvo                                               |      2%       |       6g  |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **183.5%**   | **540g**  |
 
@@ -69,28 +66,28 @@ de inmediato por el comensal venezolano.  "
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla el agua tibia con los huevos y toda el azucar hasta disolver.
-- Añade la levadura instantánea seca y mezcla hasta integrar completamente.
+- En un envase, mezcla el agua tibia con los huevos y toda el azúcar hasta disolver.
+- Añade la levadura instantánea y mezcla hasta integrar completamente.
 - Agrega la leche en polvo y mezcla nuevamente hasta integrar.
-- En un segundo envase, deposita la harina todo uso y forma un volcán dejando un hueco en el centro del envase.
-- En la mesa de trabajo crea un volcán con la harina todo uso y vierte la mezcla del primer envase en el centro del volcán. Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante cinco (5) minutos.
-- Forma una bola y dejala reposar en mesa a una temperatura idealmente entre veinticuatro (24º) y veintisiete (27º) centígrados, cubriendola con un paño o bolsa plástica preferiblemente durante diez (10) minutos.
+- En la mesa de trabajo crea un volcán de boca ancha con la harina todo uso y vierte la mezcla del primer envase en el centro del volcán y coloca la sal en el borde del volcán. 
+- Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante cinco (5) minutos.
+- Forma una bola y dejala reposar en mesa a una temperatura idealmente entre veinticuatro (24ºC) y veintisiete (27ºC) grados centígrados, cubriéndola con un paño o bolsa plástica preferiblemente durante diez (10) minutos.
 
 <div id="sobado"></div>
 
 #### Ciclo de sobado 
 
 - Extrae la bolita de masa del recipiente.
-- Sobre la mesa de trabajo, procede a sobar la masa durante dos (2) minutos o hasta lograr que la masa tenga una textura lisa, terza, suave al tacto.
+- Sobre la mesa de trabajo, procede a sobar la masa durante dos (2) minutos o hasta lograr que la masa tenga una textura lisa, tersa, suave al tacto.
 - Deja reposar la masa en la mesa de trabajo, cubierta con un paño o bolsa plástica, durante cinco (5) minutos.
 
 ### División y Formado
 
-- Divide la masa en porciones de cincuenta y cuatro (54) gramos cada una.
+- Divide la masa en porciones de cincuenta y cuatro (54g) gramos cada una.
 - Lleva los extremos de la masa hacia el centro, formando una bolita.
 - Cierra la masa y colocando la parte mas lisa de la bolita hacia la mesa de trabajo, usando la palma de tu mano, haz un movimiento circular en sentido contrario a las agujas del reloj, para darle forma redonda a tu bolita de masa.
 - Repite el paso anterior con cada una de las diez (10) bolitas de masa.
-- Engrasa las paredes y la base del interior de tu molde de pan, usando mantequilla sin sal.
+- Engrasa las paredes y la base del interior de tu molde de pan, usando mantequilla sin sal o manteca vegetal.
 - Haz dos filas de 5 bolitas cada una, guardando una formación de dos en dos. 
 
 ### Fermentación final (maduración)
@@ -108,7 +105,7 @@ de inmediato por el comensal venezolano.  "
 ### Enfriamiento
 
 * Pása tus panes a una rejilla en un lugar cálido preferiblemente, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
-* Dejalos reposar, por lo menos, diez (10) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
+* Déjalos reposar, por lo menos, diez (10) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
 
 ### Consumo del pan
 

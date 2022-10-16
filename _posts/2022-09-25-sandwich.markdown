@@ -21,9 +21,10 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 ## Resultado esperado
 
-Este es un pan de miga cerrada y suave, de corteza color marron claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
+Este es un pan de miga cerrada y suave, de corteza color marrón claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
 ## Origen
+
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, "Este práctico pan industrial cuadrado, elaborado en molde, goza de popularidad en el país, Su presentación inicial es el de una barra de corteza resistente y miga tierna que luego se prestará al proceso del rebanado."[^1]
 
 Con respecto a la historia del pan de Sandwich, "se refieren dos momentos: uno de carácter legendario y otro técnico. El primero data del siglo XVIII y tiene como protagonista al aristócrata inglés John Montagu, IV conde de Sándwich, quien dada su afición al juego de cartas solicitaba emparedados que le permitieran alimentarse sin perder la partida. El segundo es del siglo XX y presenta al ingeniero estadounidense Otto Rohwedder, quien en 1927 ideó una máquina automática para cortar el pan en rebanadas, con lo cual revolucionó su producción y la forma de comercializarlo.
@@ -34,7 +35,8 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 ## Tips
 
-* Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centimetros de ancho x 11.1 centímetros de alto. 
+* Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
+* Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
 ## Masa (Método directo)
 
@@ -42,7 +44,7 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      479g |
+| Harina todo uso                                              |      100%     |      479g |
 | Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
@@ -70,21 +72,25 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 - En un primer envase, mezcla la harina con la levadura seca instantánea, la leche en polvo y el azúcar.
 - En un segundo envase, mezcla el agua tibia, los huevos y la sal.
 - Integra un tercio del contenido del primer envase con el segundo poco a poco.
-- Una vez integrados los solidos con los líquidos de forma homogénea, en la mesa de trabajo crea un volcán con el contenido del primer envase y vierte la mezcla del paso anterior en el centro del volcán. Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante 8 a 10 minutos.
+- Una vez integrados los ingredientes secos con los líquidos de forma homogénea, en la mesa de trabajo crea un volcán con el contenido del primer envase y vierte la mezcla del paso anterior en el centro del volcán. Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante 8 a 10 minutos.
 - Forma una bola y deja reposar por diez (10) minutos.
 
 <div id="sobado"></div>
 
 #### Ciclo de sobado 
 
-- Extiende la masa con ayuda de un rodillo en la mesa de trabajo, formando un cuadrado haciendo un doblado simple al menos diez veces.
-- Forma un rectángulo con la masa hasta alcanzar el ancho del molde.
-- Sigue amasando hasta incorporar dentro de la masa y alcances una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
+- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo hacia el extremo superior izquierdo del cuadrado de masa.
+- Repite el paso anterior, ahora llevando el rodillo al extremo superior derecho del cuadrado de masa.
+- Una vez hayas sobado los cuatros extremos del cuadrado, dobla la masa en forma de cuaderno, de derecha a izquierda. 
+- Repite los cuatro (4) pasos anteriores al menos diez (10) veces hasta alcanzar una textura de masa tersa y lisa
+- Ahora, forma un rectángulo con la masa del ancho del molde donde hornearas el paston, y de al menos veinticinco (25) centímetros de largo.
 
 ### Formado
 
-- Enrolla la masa formando un cilindro del largo del molde donde hornearas el pan. Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
-- Asegúrate de colocar la masa, con el cierre hacia abajo, cosa de evitar que se abra el pan durante el horneado.
+- Enrolla la masa formando un cilindro del largo del molde donde hornearás el pan. 
+- Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
+- Asegúrate de colocar la masa, con el cierre hacia abajo, para evitar que se abra el pan durante el horneado.
 
 ### Barnices, coberturas y cortes
 
@@ -99,12 +105,12 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 * Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 * Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce el molde de pan.
-* Horne tu pan de sandwich durante treinta 30 minutos.
+* Hornea tu pan de sándwich durante treinta 30 minutos.
 * Apaga el horno, saca el molde de pan.
 
 ### Enfriamiento
 
-* Pása tu pan a una rejilla, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+* Pasa el pan a una rejilla, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 * Deja reposar, por lo menos, treinta (30) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
 
 ### Consumo del pan

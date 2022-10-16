@@ -4,12 +4,12 @@ date: 2022-09-28 10:32:39 -0400
 permalink: /perro/
 pdf: Pan-de-perro.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/perro/perro_1.jpeg'
+featured_image: '/images/panes/perro/perro_alba.jpeg'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/perro/perro_alba_acabado.jpeg" alt="{{page.title}}">
 <div id="directo"></div>
 
 # Método directo
@@ -18,7 +18,7 @@ featured_image: '/images/panes/perro/perro_1.jpeg'
 
 - Prepararemos 10 unidades de 80g para un total de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación)
+- 49% de hidratación (Baja hidratación) y 10% de grasa.
 
 ## Resultado esperado
 
@@ -27,9 +27,10 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 ## Tips
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
+- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia 100g de mantequilla equivale a 85g de aceite o manteca vegetal y 15g de agua. En este caso formulamos utilizando 46g de mantequilla, si vas a utilizar aceite entonces son 39g de aceite y 7g de agua adicionales.
 - Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
 - Al momento de colocar el barniz hazlo con mucha atención para que cada pastón tenga barniz y el color quede con un acabado uniforme.
-- Para generarles humedad antes de consumirlos envuelvelos en papel toallín y colócalos en el microonda aproximadamente treinta (30) segundos.
+- Para generar humedad antes de consumirlos envuélvelos en papel toallín y colócalos en el microondas aproximadamente treinta (30) segundos.
 
 ## Masa (Método directo)
 
@@ -62,7 +63,7 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
+- En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - Crea un volcán con boca ancha.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
 - Coloca los líquidos en el centro del volcán, coloca la sal en el borde y la mantequilla pomada o el aceite en el centro.
@@ -88,7 +89,7 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 
 - Extiende cada bola en rectángulos con un ancho de 10cm a 12cm para formar barras.
 - A la masa extendida coloca agua con un aspersor.
-- Enrolla cada rectángulo y afina la masa en el extremo del cierre.
+- Enrolla cada rectángulo y afina la masa en el extremo del cierre con el rodillo.
 - Deja cada pastón uno al lado del otro separados por 1cm.
 
 ### Fermentación final (maduración)
@@ -96,6 +97,8 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 - Tapa la bandeja con plástico.
 - Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante dos (2) a tres (3) horas.
 - Cada pastón, al menos, debe haber duplicado su volumen inicial y cada barra se deben pegar una de la otra.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ### Barnices, coberturas y cortes
 
@@ -105,7 +108,9 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 ### Horneado
 
 - Enciende el horno una media antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente venticinco (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinte (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+
+<img class="post_image post_image_right" src="/images/panes/perro/perro_alba_miga.jpeg" alt="{{page.title}}">
 
 ### Enfriamiento
 
@@ -117,7 +122,7 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 
 - Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- si los congelaste, antes de consumirlos pásalos al refrigerador la noche anterior y en la mañana los colocas en el horno como hemos indicado previamente.
+- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ---
 

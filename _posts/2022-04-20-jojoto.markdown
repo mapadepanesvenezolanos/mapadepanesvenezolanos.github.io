@@ -164,12 +164,13 @@ Planifica tres días para la preparación de esta versión del Pan.
 *  Ver [otros tips](#otros-tips)
 
 ### Prefermento Poolish
+
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera                                              |     100%      |      140g |
 | Agua                                                         |     100%      |      140g |
 | Levadura instantánea seca                                    |     0.1%      |      0.1g |
-| ---------------------------                                  | ------------- |   ------- |
+|--------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **200.1%**   |  **281g** |
 
 ### Ingredientes para la masa
@@ -186,7 +187,7 @@ Planifica tres días para la preparación de esta versión del Pan.
 | Azúcar                                                       |      19%      |       86g |
 | Leche en polvo                                               |      5%       |       23g |
 | Prefermento Poolish                                          |     54%       |    244.2g |
-| ---------------------------                                  | ------------- |   ------- |
+|--------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **245%**    | **1110g** |
 
 ## Paso a paso del panadero
