@@ -35,7 +35,8 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 ## Tips
 
-- Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
+* Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
+* Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
 ## Masa (Método directo)
 
@@ -43,7 +44,7 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      479g |
+| Harina todo uso                                              |      100%     |      479g |
 | Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
@@ -78,13 +79,17 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 #### Ciclo de sobado 
 
-- Extiende la masa con ayuda de un rodillo en la mesa de trabajo, formando un cuadrado haciendo un doblado simple al menos diez veces.
-- Forma un rectángulo con la masa hasta alcanzar el ancho del molde.
-- Sigue amasando hasta incorporar dentro de la masa y alcances una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
+- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo hacia el extremo superior izquierdo del cuadrado de masa.
+- Repite el paso anterior, ahora llevando el rodillo al extremo superior derecho del cuadrado de masa.
+- Una vez hayas sobado los cuatros extremos del cuadrado, dobla la masa en forma de cuaderno, de derecha a izquierda. 
+- Repite los cuatro (4) pasos anteriores al menos diez (10) veces hasta alcanzar una textura de masa tersa y lisa
+- Ahora, forma un rectángulo con la masa del ancho del molde donde hornearas el paston, y de al menos veinticinco (25) centímetros de largo.
 
 ### Formado
 
-- Enrolla la masa formando un cilindro del largo del molde donde hornearás el pan. Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
+- Enrolla la masa formando un cilindro del largo del molde donde hornearás el pan. 
+- Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
 - Asegúrate de colocar la masa, con el cierre hacia abajo, para evitar que se abra el pan durante el horneado.
 
 ### Barnices, coberturas y cortes
