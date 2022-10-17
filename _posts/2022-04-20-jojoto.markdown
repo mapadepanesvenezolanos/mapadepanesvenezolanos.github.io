@@ -7,18 +7,9 @@ categories: pan semidulce los_andes
 featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 ---
 
-Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
-
-* [Pan de Jojoto](#directo)
-* [Pan de Jojoto mejorado con prefermento Poolish](#poolish)
-
 #### RECETA, FÓRMULA y TÉCNICAS
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
-# Método directo
-
-## Masa leudada con levadura instantánea
 
 * Una Hogaza de pan de 1.110kg
 * Temperatura ambiente 21.5ºC - 25ºC
@@ -36,6 +27,17 @@ cabildante Francisco Sánchez, fue propuesta como Villa para poblar en nombre de
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 [^2]: La Cocina Tachirense 2da edición, Leonor Peña
 
+Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
+
+* [Pan de Jojoto](#directo)
+* [Pan de Jojoto mejorado con prefermento Poolish](#poolish)
+
+<div id="directo"></div>
+
+## Método directo
+
+## Masa leudada con levadura instantánea
+
 ## Tips
 
 * Planifica dos días para la preparación de esta versión del Pan.
@@ -52,10 +54,6 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 * Aroma y sabor ligero a cachapa:
     * Combina 30% de harina de cachapas, con 70% de harina de maíz
 * En ausencia de mezcla de cachapas, puedes utilizar harina de maíz en la misma proporción.
-
-<div id="directo"></div>
-
-## Masa (Método directo)
 
 ### Ingredientes para la masa
 
