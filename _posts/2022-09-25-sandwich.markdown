@@ -11,10 +11,6 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-# Método directo
-
-## Masa leudada con levadura instantánea
-
 * Un Pan de molde de 800g
 * Temperatura ambiente 22ºC - 26ºC
 * 55% de hidratación (Baja hidratación)
@@ -38,13 +34,22 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
-## Masa (Método directo)
+De acuerdo al tipo de miga de tu preferencia, te proponemos dos formulas panaderas que se preparan siguiendo el mismo paso a paso panadero, y que difieren en un ingrediente: la leche en polvo.
 
-### Ingredientes para la masa
+* [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
+* [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
+
+# Pan de Sandwich 
+
+## Masa leudada con levadura instantánea (Método directo)
+
+<div id="migatipobrioche"></div>
+
+### Ingredientes para la masa (miga aireada tipo brioche)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina todo uso                                              |      100%     |      479g |
+| Harina de trigo todo uso                                     |      100%     |      479g |
 | Agua tibia                                                   |      25%      |      120g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |       10g |
@@ -54,6 +59,22 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 | Leche en polvo                                               |      2%       |       10g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **167%**    | **800g**  |
+
+<div id="migatupidacerrada"></div>
+
+### Ingredientes para la masa (miga tupida y cerrada)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina de trigo todo uso                                     |      100%     |      487g |
+| Agua tibia                                                   |      25%      |      122g |
+| Levadura instantánea                                         |      1%       |        5g |
+| Sal                                                          |      2%       |       10g |
+| Aceite de canola/maíz                                        |      10%      |       44g |
+| Azúcar                                                       |      7%       |       35g |
+| Huevos batidos                                               |      20%      |       97g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **164.2%**  | **800g**  |
 
 ## Paso a paso del panadero
 
@@ -69,7 +90,8 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla la harina con la levadura seca instantánea, la leche en polvo y el azúcar.
+- En un primer envase, mezcla la harina con la levadura seca instantánea y el azúcar.
+- (Paso opcional) Agrega a la mezcla del paso anterior la leche en polvo, solamente si estas preparando la formula con miga aireada tipo brioche.
 - En un segundo envase, mezcla el agua tibia, los huevos y la sal.
 - Integra un tercio del contenido del primer envase con el segundo poco a poco.
 - Una vez integrados los ingredientes secos con los líquidos de forma homogénea, en la mesa de trabajo crea un volcán con el contenido del primer envase y vierte la mezcla del paso anterior en el centro del volcán. Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco el aceite de canola/maíz a la mezcla. Amasa durante 8 a 10 minutos.
@@ -116,7 +138,6 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 ### Consumo del pan
 
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
-
 ------
 
 ### Referencias y enlaces
@@ -131,7 +152,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -143,4 +164,3 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
 [Trina Arocha]: https://www.instagram.com/trinaarocha
 [Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
-
