@@ -45,7 +45,7 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 ### Miga aireada tipo brioche
 
-### Ingredientes para la masa 
+#### Masa 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -64,7 +64,7 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 ### Miga tupida y cerrada
 
-### Ingredientes para la masa 
+#### Masa 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
