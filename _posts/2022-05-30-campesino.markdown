@@ -78,7 +78,7 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Pesa todos los ingredientes y colócalos en envases separados. 
 - Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
 - Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que va a utilizar durante el proceso al alcance de la mano. 
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano. 
 
 ### Mezcla y amasado manual
 
@@ -151,7 +151,7 @@ Planifica dos días para la preparación de tu pan.
 * Día 1: Preparación del prefermento pie francés.
 * Día 2: Preparación de la masa del pan, horneado, enfriado y consumo.
 
-### Prefermento Pie Fracés
+### Prefermento Pie Francés
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
