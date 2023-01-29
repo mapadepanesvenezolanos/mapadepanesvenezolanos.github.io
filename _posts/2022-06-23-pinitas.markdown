@@ -7,7 +7,7 @@ categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
-Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
+Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
