@@ -115,7 +115,7 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### División 
 
-- Divide la masa en dos porciones o de acuerdo a la cantidad de masa preparada.
+- Esta fórmula es para una unidad, pero si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
 
 ### Preformado 
 
@@ -123,7 +123,7 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### Descanso en mesa 
 
-- Cubre cada bola. Deja reposar 10 minutos o hasta que estén relajadas. 
+- Cubre la(s) bola(s). Déjalas reposar 10 minutos o hasta que estén relajadas. 
 
 ### Formado
 
@@ -132,7 +132,8 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### Precalentar el horno
 
-- Precalienta el horno a 220ºC/430ºF con un caldero en el piso del horno.
+- Precalienta el horno a 220ºC/430ºF 
+- Introduce un caldero en el piso del horno para precalentarlo y luego generar vapor.
 
 <img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
 
@@ -160,6 +161,7 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 ### Enfriamiento
 
 - Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
+- Apaga el horno.
 
 ---
 
