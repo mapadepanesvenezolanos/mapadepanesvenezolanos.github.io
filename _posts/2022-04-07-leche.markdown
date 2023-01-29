@@ -7,9 +7,20 @@ categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'
 ---
 
+Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
+
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Método directo](#directo)
+* [Método indirecto - Pie Francés](#piefrances)
+* [Método indirecto - Biga 125%](#biga125)
+* [Método indirecto - Masa Madre Talvina](#talvina)
+
 #### RECETA, FÓRMULA y TÉCNICAS
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+<div id="directo"></div>
 
 # Método directo
 
