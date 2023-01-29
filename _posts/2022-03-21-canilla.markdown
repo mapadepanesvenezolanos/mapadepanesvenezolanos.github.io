@@ -23,9 +23,9 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ## Resultado esperado
 
-Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marrón y quebradiza.
-Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
-La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco énfasis en desarrollar sabores y en darle una corteza suave.
+- Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marrón y quebradiza.
+- Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
+- La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco énfasis en desarrollar sabores y en darle una corteza suave.
 
 ## Origen
 
@@ -96,7 +96,7 @@ La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco �
 - Pesa todos los ingredientes y colócalos en envases separados.
 - Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
 - Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que va a utilizar durante el proceso al alcance de la mano.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano.
 
 ### Mezcla y amasado manual
 
