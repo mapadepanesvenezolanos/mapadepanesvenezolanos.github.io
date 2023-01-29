@@ -254,7 +254,7 @@ Planifica dos días para la preparación de tu pan.
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Academico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [Plaza’s Escuela de Cocina].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [Plaza’s Escuela de Cocina].
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -280,5 +280,5 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Trina Arocha]: https://www.instagram.com/trinaarocha
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
