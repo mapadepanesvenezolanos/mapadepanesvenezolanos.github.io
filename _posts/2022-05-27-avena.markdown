@@ -7,6 +7,150 @@ categories: pan enriquecido andes
 featured_image: '/images/panes/avena/avena_4.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+#### RECETA, FÓRMULA y TÉCNICAS
 
-{% include pdf.html %}
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+* Una (1) barra de pan de 900g 
+* Temperatura ambiente 22ºC - 27ºC
+* 65% de hidratación (media hidratación)
+
+## Resultado esperado
+
+Queremos que puedas crear un pan de molde, de miga cerrada y esponjosa, debido a la combinación de huevo, leche y
+mantequilla. La intención es obtener una pieza de pan con aroma y sabor pronunciado a avena. La combinación de ingredientes, ha sido pensada con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región
+andina del mapa de panes venezolanos, con el toque maravilloso y único que le da la avena tanto en la miga como en la costra.
+
+## Origen
+
+Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasado”... “Para llamar las cosas por su nombre y hacerle honor a aquello de que al pan pan y al vino vino, hay más de veinte diferentes panes típicos de los Andes, muchos de los cuales parten de la misma masa que luego se aliña de manera especial cada uno de ellos, así como varían los
+agregados que servirán para identificarlos” … “Con la llegada de los alemanes que comercializaban el café, surgieron panes
+integrales llamados Negro, de Avena y Afrecho, segun el componente incorporados a la masa”[^1].
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+
+## Tips
+
+- La harina panadera se caracteriza por la cantidad de proteínas que contiene.
+- Recomiendo que la harina que utilices contenga al menos doce (12%) por ciento de proteínas.
+- Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan par elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
+- El extracto de malta se utiliza generalmente para producir panes con una miga y corteza de color oscuro con aromas a cereales. Este ingrediente podrías obtenerlo reduciendo el líquido de una lata de malta a fuego lento hasta que el líquido esté espeso. Otra opción sería utilizar melao de papelón, miel de papelón o miel de abeja para reemplazar el extracto de malta en la masa, en la misma proporción.
+
+<div id="directo"></div>
+
+## Masa leudada con levadura instantánea
+
+### Ingredientes para la masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina todo uso                                              |       80%     |      377g |
+| Afrecho                                                      |        5%     |       24g |
+| Avena en polvo                                               |       15%     |       71g |
+| Agua/Leche líquida                                           |       48%     |      226g |
+| Levadura instantánea                                         |      0.8%     |        4g |
+| Sal                                                          |      1.2%     |        6g |
+| Huevos ligeramente batidos                                   |       20%     |       94g |
+| Mantequilla sin sal                                          |      7.5%     |       35g |
+| Azúcar                                                       |        5%     |       24g |
+| Extracto de malta                                            |      1.5%     |        7g |
+| Leche en polvo                                               |        2%     |        9g |
+| Avena en hojuelas                                            |        5%     |       24g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |    **191%**   |  **900g** |
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+#### Ciclo de amasado
+
+- En un primer envase mezcla el agua tibia, con el extracto de malta y toda el azúcar hasta disolver.
+- En otro envase, mezcla la levadura instantánea, con la harina y la leche en polvo hasta integrar completamente.
+- En la mesa de trabajo crea un volcán de boca ancha con el contenido de los solidos mezclados en el paso previo y luego vierte la mezcla del primer envase en el centro del volcán, colocando la sal en el borde del volcán. 
+- Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco la mantequilla pomada a la mezcla. 
+- Amasa hasta formar una bolita homogenea.
+- Forma una bola y dejala reposar en mesa a una temperatura idealmente entre veinticuatro (24ºC) y veintisiete (27ºC) grados centígrados, cubriéndola con un paño o bolsa plástica preferiblemente durante diez (10) minutos.
+
+<div id="ciclodesobado"></div>
+
+#### Ciclo de sobado 
+
+- Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
+- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo hacia el extremo superior izquierdo del cuadrado de masa.
+- Repite el paso anterior, ahora llevando el rodillo al extremo superior derecho del cuadrado de masa.
+- Una vez hayas sobado los cuatros extremos del cuadrado, voltea la masa. 
+- Repite los tres (3) pasos anteriores al menos diez (10) veces. 
+- Cubre la masa con un plastico y llevala a la nevera durante diez (10) minutos.
+- Retira la masa de la nevera y colocala en la mesa de trabajo.
+- Soba la masa por una ultima vez, hasta alcanzar una textura de masa tersa y lisa.
+
+### Preformado
+- Realiza un preformado redondo, boleando la masa
+
+### Descanso en mesa
+- Cubre cada bola con plástico y déjala reposar diez (10) minutos o hasta que estén relajadas.
+
+### Formado
+- Con ayuda del rodillo, forma un rectangulo con la masa, de 1 centímetri de alto, treinta centímetros de largo y  veinte (20) centímetros de largo.
+- Enrolla la masa formando un cilindro haciendo poca presión. 
+- Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
+- Asegúrate de colocar el paston con el cierre hacia abajo, para evitar que se abra durante el horneado.
+
+### Fermentación final (maduración)
+
+- Tapa el paston con un paño limpio o con una bolsa plastica, y dejalo reposar a una temperatura entre 24ºC y 27ºC preferiblemente durante dos (2) horas y treinta (30) minutos.
+- Al final de la fermentación, el pastón debe haber doblado su tamaño inicial.
+
+### Barnices, coberturas y cortes
+
+- Rocia el pastón de masa con una capa fina de agua.
+- Con una hojilla de barbero afilada, procede a realizarle tres (3) cortes diagonales superficiales al paston, siguiendo la direccion del paston.
+
+### Horneado
+
+* Media hora antes de hornear, enciende el horno a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+* Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan.
+* Hornea tu paston entre veinticinco (25)  y treinta (30) minutos.
+* Apaga el horno y saca la bandeja de pan.
+
+### Enfriamiento
+
+* Pasa el pan a una rejilla, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+* Deja reposar por lo menos treinta (30) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
+
+### Consumo del pan
+
+* Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración la receta del [Grupo Academico Panadero y Pastelero de Venezuela] y el [Instituto Europeo del PAN].
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 0.1.0__
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
