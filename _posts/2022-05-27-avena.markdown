@@ -130,12 +130,12 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 ### Barnices, coberturas y cortes
 - En una bandeja plana seca y un poco más grande que el tamaño del pastón, coloca las hojuelas de avena distribuidas a lo largo y ancho de la bandeja.
-- Con ayuda de un aspersor, humedece la superficie del pastón.
+- Con ayuda de un aspersor, humedece la superficie del pastón con agua.
 - Deja rodar el pastón sobre la avena, cubriendo la parte superior lisa del pastón.
 - Coloca el pastón en el molde rectangular previamente engrasado con mantequilla sin sal.
 
 ### Maduración
-- Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que supere la prueba de maduración con el dedo.
+- Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que ** supere la prueba de maduración con el dedo.**
 
 ### Horneado
 * Media hora antes de hornear, enciende el horno a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
@@ -162,7 +162,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1.0__
+__Versión 1.1.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
