@@ -1,5 +1,6 @@
 ---
 title:  "Pan de Jojoto"
+description: "Pan de Jojoto en dos presentaciones, masa leudada con levadura instantánea y masa mejorada con prefermento Poolish"
 date:   2022-09-06 10:32:39 -0400
 permalink: /jojoto/
 pdf: Pan-de-Jojoto.pdf
