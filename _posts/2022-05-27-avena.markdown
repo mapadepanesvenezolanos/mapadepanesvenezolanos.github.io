@@ -71,64 +71,82 @@ integrales llamados Negro, de Avena y Afrecho, segun el componente incorporados 
 
 ### Mezcla y amasado
 
-#### Ciclo de amasado
+#### Primer ciclo de amasado
 
-- En un primer envase mezcla el agua tibia, con el extracto de malta y toda el azúcar hasta disolver.
-- En otro envase, mezcla la levadura instantánea, con la harina y la leche en polvo hasta integrar completamente.
-- En la mesa de trabajo crea un volcán de boca ancha con el contenido de los solidos mezclados en el paso previo y luego vierte la mezcla del primer envase en el centro del volcán, colocando la sal en el borde del volcán. 
-- Ve mezclando ambas partes hasta formar una bolita de masa homogénea, incorporando poco a poco la mantequilla pomada a la mezcla. 
-- Amasa hasta formar una bolita homogenea.
-- Forma una bola y dejala reposar en mesa a una temperatura idealmente entre veinticuatro (24ºC) y veintisiete (27ºC) grados centígrados, cubriéndola con un paño o bolsa plástica preferiblemente durante diez (10) minutos.
+- Reserva la sal y la mantequilla sin sal a parte. Para decorar el pastón, reserva las hojuelas de avena.
+- En un envase mezcla los ingredientes sólidos de la masa: harina, afrecho, azúcar, leche en polvo, extracto de malta en
+polvo, levadura instantánea seca y la avena en polvo.
+- En un segundo envase, mezcla los ingredientes líquidos: el agua/leche líquida tibia con el huevo ligeramente batido.
+- Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán.
+- Integra los ingredientes de ambos envases hasta tener un amasijo. 
+- Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos
+(2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos
 
-<div id="ciclodesobado"></div>
+<div id="segundociclodeamasado"></div>
 
-#### Ciclo de sobado 
+#### Segundo ciclo de amasado 
 
-- Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
-- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo hacia el extremo superior izquierdo del cuadrado de masa.
-- Repite el paso anterior, ahora llevando el rodillo al extremo superior derecho del cuadrado de masa.
-- Una vez hayas sobado los cuatros extremos del cuadrado, voltea la masa. 
-- Repite los tres (3) pasos anteriores al menos diez (10) veces. 
-- Cubre la masa con un plastico y llevala a la nevera durante diez (10) minutos.
-- Retira la masa de la nevera y colocala en la mesa de trabajo.
-- Soba la masa por una ultima vez, hasta alcanzar una textura de masa tersa y lisa.
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa.
+- Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos
 
-### Preformado
-- Realiza un preformado redondo, boleando la masa
+### Prueba de la membrana de gluten
+- Realiza la prueba de la membrana de gluten para verificar que ya se ha formado la red de gluten. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla
+de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie.
 
-### Descanso en mesa
-- Cubre cada bola con plástico y déjala reposar diez (10) minutos o hasta que estén relajadas.
+### Fermentación en bloque 
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa
+aproximadamente.
+
+- Coloca la masa en un recipiente con una película de aceite vegetal y un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada para que no se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Después de la primera hora se realiza la manipulación
+
+### Manipulación
+La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
+- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper. 
+- Realiza pliegues desde los extremos de la masa al centro.
+- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
+- Cubra la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
+
+### Preformado 
+- Aplica un preformado redondo a la masa. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar tensión. Cubrir la bolita con una bolsa
+plástica
+
+### Reposo en mesa (relajación de la masa)
+- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos. 
+
+### Fermentación en bloque y retardo (opcional)
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Saca el molde rectangular de la nevera y llévalo a la mesa de trabajo.
 
 ### Formado
-- Con ayuda del rodillo, forma un rectangulo con la masa, de 1 centímetri de alto, treinta centímetros de largo y  veinte (20) centímetros de largo.
-- Enrolla la masa formando un cilindro haciendo poca presión. 
-- Cierra la masa en ambos extremos y colócala en el molde de pan, previamente enmantequillado/aceitado.
-- Asegúrate de colocar el paston con el cierre hacia abajo, para evitar que se abra durante el horneado.
-
-### Fermentación final (maduración)
-
-- Tapa el paston con un paño limpio o con una bolsa plastica, y dejalo reposar a una temperatura entre 24ºC y 27ºC preferiblemente durante dos (2) horas y treinta (30) minutos.
-- Al final de la fermentación, el pastón debe haber doblado su tamaño inicial.
+- Bolea la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
+- Estira la bola con el rodillo y forma un rectángulo del ancho del molde rectangular donde vas a hornear tu pastón.
+- Enrolla la masa formando un cilindro, siempre respetando el largo del molde rectangular donde lo vamos a hornear posteriormente.
+- Deja reposar el pastón durante cinco (5) minutos, cubierto con una bolsa plástica.
 
 ### Barnices, coberturas y cortes
+- En una bandeja plana seca y un poco más grande que el tamaño del pastón, coloca las hojuelas de avena distribuidas a lo largo y ancho de la bandeja.
+- Con ayuda de un aspersor, humedece la superficie del pastón.
+- Deja rodar el pastón sobre la avena, cubriendo la parte superior lisa del pastón.
+- Coloca el pastón en el molde rectangular previamente engrasado con mantequilla sin sal.
 
-- Rocia el pastón de masa con una capa fina de agua.
-- Con una hojilla de barbero afilada, procede a realizarle tres (3) cortes diagonales superficiales al paston, siguiendo la direccion del paston.
+### Maduración
+- Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que supere la prueba de maduración con el dedo.
 
 ### Horneado
-
 * Media hora antes de hornear, enciende el horno a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-* Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan.
-* Hornea tu paston entre veinticinco (25)  y treinta (30) minutos.
+* Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan en el medio del horno.
+* Hornea tu paston entre treinta (30)  y treinta cinco (35) minutos.
 * Apaga el horno y saca la bandeja de pan.
 
 ### Enfriamiento
-
-* Pasa el pan a una rejilla, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
-* Deja reposar por lo menos treinta (30) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
+* Desmolda el pan y pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe, evitar que se condense el agua y que se genere humedad en la miga, lo que definitivamente podría afectar/dañar tu pan.
+- Dejalo reposar, por lo menos veinte (20) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
 
 ### Consumo del pan
-
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
 
 ### Referencias y enlaces
@@ -143,7 +161,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 0.1.0__
+__Versión 1.1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
