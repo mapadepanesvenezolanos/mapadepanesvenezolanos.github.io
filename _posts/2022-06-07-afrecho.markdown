@@ -1,5 +1,6 @@
 ---
 title:  "Pan de Afrecho"
+description: "Pan de Afrecho en dos presentaciones, método directo y con preferemento Pie francés"
 date:   2022-05-25 20:54:39 -0400
 permalink: /afrecho/
 pdf: Pan-de-afrecho.pdf
