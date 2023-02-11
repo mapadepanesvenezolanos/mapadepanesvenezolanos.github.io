@@ -28,6 +28,11 @@ agregados que servirán para identificarlos” … “Con la llegada de los alem
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
+Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
+
+* [Pan de Jojoto, masa leudada con levadura instantánea](#directo)
+* [Pan de Jojoto, masa mejorada con prefermento Pie Francés](#piefrances)
+
 ## Tips
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
