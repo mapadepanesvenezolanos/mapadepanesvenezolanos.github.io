@@ -1,5 +1,6 @@
 ---
 title: "Pan de Sandwich"
+description: "Pan de Sandwich en dos presentaciones, miga aireada tipo brioche y miga tupida y cerrada"
 date: 2022-09-25 10:32:39 -0400
 permalink: /sandwich/
 pdf: Pan-de-sandwich.pdf
@@ -29,16 +30,16 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
+De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que se realizan siguiendo el mismo paso a paso panadero, y que difieren en un ingrediente: la leche en polvo.
+
+* [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
+* [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
+
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 * Las formulas propuestas en esta receta son leudadas con levadura instantánea y preparadas siguiendo los pasos del método directo.
-
-De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que se realizan siguiendo el mismo paso a paso panadero, y que difieren en un ingrediente: la leche en polvo.
-
-* [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
-* [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
 
 <div id="migatipobrioche"></div>
 
@@ -153,7 +154,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 2.1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
