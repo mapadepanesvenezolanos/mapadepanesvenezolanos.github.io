@@ -140,11 +140,12 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 ### Consumo del pan
 
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
-------
+
+---
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y del [Grupo Academico Panadero y Pastelero de Venezuela].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y del [Grupo Académico Panadero y Pastelero de Venezuela].
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -165,4 +166,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
 [Trina Arocha]: https://www.instagram.com/trinaarocha
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/

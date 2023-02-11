@@ -77,7 +77,6 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 #### Ciclo de sobado 
 
-- Extrae la bolita de masa del recipiente.
 - Sobre la mesa de trabajo, procede a sobar la masa durante dos (2) minutos o hasta lograr que la masa tenga una textura lisa, tersa, suave al tacto.
 - Deja reposar la masa en la mesa de trabajo, cubierta con un paño o bolsa plástica, durante cinco (5) minutos.
 
@@ -115,7 +114,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Academico Panadero y Pastelero de Venezuela], [@taosbaker] y [@saporidellacucina]
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Académico Panadero y Pastelero de Venezuela], [@taosbaker] y [@saporidellacucina]
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -137,5 +136,5 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@taosbaker]: https://www.instagram.com/taosbaker
 [@saporidellacucina]: https://www.instagram.com/saporidellacucina
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 

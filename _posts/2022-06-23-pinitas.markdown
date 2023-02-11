@@ -7,6 +7,301 @@ categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento de las {{ page.title }}</a>
+Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
 
-{% include pdf.html %}
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Método directo](#directo)
+* [Método indirecto - Poolish](#poolish)
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+<div id="directo"></div>
+
+# Piñitas
+
+## Masa leudada con levadura instantánea
+
+- 12 Panes de 50 gramos de masa cada uno. Masa total de 600 gramos
+- Temperatura ambiente 21.5ºC - 27ºC
+- 55% de hidratación (Hidratación baja)
+
+
+## Resultado esperado
+
+La fórmula panadera de nuestra receta de panes piñitas, ha sido creada con la intención de llevarte directo al mostrador de la panadería a la que tú o tus padres, iban a comprar esos pancitos cubiertos de azúcar y decorados en el tope con unos piquitos sobresalientes, que le daban al pan un parecido a la piña en Venezuela. Según la literatura gastronómica panadera detrás de nuestras investigaciones,  el pan de Tunja ha sido ubicado en la región de los llanos del Mapa de Panes Venezolanos.
+
+## Origen 
+
+En el libro Soy Panadero, se indica: ”Tunja: Este pan, también conocido como “Tumba gobierno”, como apuntó Mariano Picón Salas, debió venir a Venezuela desde la población colombiana de Tunja con los héroes de Ayacucho quienes iban camino a librar la histórica batalla que marcó el fin del dominio español en América del Sur. ”... A este pan también se le conoce como “piñita”, debido a la forma en picos que se le hace en la parte superior luego de agregarle azúcar.” [^1]
+
+Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo región histórica” indican sobre el pan de Tunja lo siguiente: “En lo económico, se debe señalar que desde el comienzo del período de la colonia, El Tocuyo fue pionera en la producción de caña y ganadería, y el municipio Morán se convertiría en uno de los principales productores de café en Venezuela, desde mediados del siglo XIX. 
+… La ciudad de El Tocuyo se convierte también en epicentro del comercio hacia otras regiones del país y hacia otras naciones… La ciudad de Tunja del Nuevo Reino de Granada, fundada en 1539 por el capitán y conquistador español Gonzalo Suárez Rendón, está ubicada a 2.820 metros sobre el nivel del mar. Antiguamente fue capital de los Muiscas, nación poderosa de indígenas que ocupaban la zona en el siglo XV. Esta y otras ciudades del virreinato quedaron, pues, incorporadas al comercio con nuestra provincia” Venezuela. Por otra parte, ”...por la tenacidad y el interés de los tocuyanos, quienes no cejaron hasta lograr esa nueva vía de penetración. Podemos presumir que el renombrado amasijo tocuyano tuvo su origen en alguna fórmula culinaria traída de Tunja, ya que tradicionalmente a este tipo de pan dulce fabricado hasta hoy en El Tocuyo, se le llama Pan de Tunja.” 
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+
+## Tips
+
+- Recomiendo que la harina todo uso que utilices para preparar estos panes, contenga al menos doce (12%) por ciento de proteínas. 
+- Te sugiero moler los granos de anís antes de mezclarlos con la harina de la masa, de esa manera, se mejora la experiencia al momento de degustar la miga del pan y el aroma en miga a anís será bastante pronunciado.
+- Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad. 
+
+## Masa (Método directo)
+
+### Ingredientes para la masa
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina todo uso           |        100% |  314g  |
+| Agua                      |         45% |  141g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |          1% |    3g  |
+| Huevos ligeramente batidos|         10% |   31g  |
+| Mantequilla sin sal       |         10% |   31g  |
+| Azúcar                    |         20% |   63g  | 
+| Leche en polvo            |          2% |    6g  |
+| Anís en grano (molido)    |          2% |    6g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **191%**  |**600g**|
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+#### Primer ciclo de amasado
+
+- Reserva en envases separados, la sal y la mantequilla sin sal.
+- En un primer envase, mezcla los ingredientes sólidos de la masa: harina, azúcar, leche en polvo, levadura instantánea seca y el anís en granos molidos.
+- En un segundo envase, mezcla los ingredientes líquidos:  el agua, con el huevo ligeramente batido y el cinco porciento (5%) de la cantidad total de mantequilla sin sal.
+- Crea un volcán con la mezcla de los ingredientes sólidos dejando un hueco en el centro del envase.
+- En los extremos más externos del volcán, distribuye la sal.  
+- Coloca los líquidos en el centro del volcán y mezclalos poco a poco con los sólidos, haciendo una papilla.
+- Integra los ingredientes hasta tener un amasijo. Amasa hasta formar una bola que recoja todos los ingredientes. Deja reposar por diez (10) minutos.
+
+<div id="segundociclo"></div>
+
+#### Segundo ciclo de amasado
+
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. 
+- Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. 
+- La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. 
+- La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante treinta (30) minutos. 
+
+### Prueba de la membrana de gluten
+
+- Realiza la prueba de la membrana de gluten para verificar que ya se formó la red de gluten. 
+- Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie.
+
+### Fermentación en bloque
+
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+
+- Coloca la masa en un recipiente con una película de aceite vegetal y un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada para que no se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Después de la primera hora se realiza la manipulación.
+
+### Manipulación
+
+La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
+
+- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
+- Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
+- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue. 
+- Cubra la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
+
+### División y pesado
+
+- Saca la masa del recipiente tapado y pesa la masa total.
+- Divide la masa en doce (12) porciones de igual peso.
+
+### Preformado
+
+- A cada porción aplica un preformado redondo. 
+- Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- Voltea la bola (el lado liso por arriba), bolea un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+
+### Reposo en mesa (relajación de la masa)
+
+- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
+
+### Formado
+
+- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
+- Escoge una bandeja de metal que puedas meter en el horno, donde puedan caber tus doce (12) pastones, separados por al menos un centímetro.
+- Engrasa la bandeja con mantequilla sin sal, teniendo en cuenta que tus pastones se pegarán y crecerán hacia arriba durante la fermentación.
+
+### Barnices, coberturas y cortes
+
+- Con una brocha de cocina, decora la parte superior de cada pastón con la mezcla de un huevo batido, aligerado con la misma cantidad de leche líquida, una pizca de sal y de azúcar.
+- Llena una taza limpia y seca con azúcar blanca.
+- Con la mano, toma un puñito de azúcar y decora la parte superior de cada pastón generosamente.
+
+### Fermentación final (maduración)
+
+- Deje reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC.
+
+<div id="retardo"></div>
+
+### Retardo en nevera (opcional)
+
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC y 27ºC.
+
+### Prueba del dedo
+
+- Con el dedo índice, verifica que la masa pase la prueba de maduración.
+- Media hora antes de finalizar la segunda fermentación (maduración), enciende el horno a una temperatura de 180ºC - 355ºF. 
+- Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+
+<div id="cortes"></div>
+
+### Cortes
+
+- Toma una tijera de cocina. 
+- En el centro superior de cada pastón, realiza una cruz, haciendo tres cortes, uno primero y luego de bada lado para hacer la forma de la piñita.
+
+<div id="horneado"></div>
+
+### Horneado
+
+- Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
+- Verifica la cocción de tus panes, asegurando que se hornean de manera uniforme. 
+- Dale vueltas si hace falta para lograr que los panes se horneen uniformemente.
+- Saca los panes del horno cuando tengan un color dorado a tu gusto.
+- Asegúrate de apagar el horno.
+
+<div id="enfriamiento"></div>
+
+### Enfriamiento
+
+- Al sacar los panes del horno, pásalos a una rejilla o tabla de madera en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Apaga el horno.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listas. Disfruta tus piñitas!!!
+
+------
+
+<div id="poolish"></div>
+
+# Piñitas
+
+## Masa mejorada con Prefermento Poolish
+
+### Tips
+
+- El objetivo del prefermento es potenciar las cualidades organolépticas del pan: sabor, aroma, textura y conservación. 
+- Para que el pan desarrolle sus sabores y aromas, es imprescindible dejar que actúen las levaduras y bacterias presentes en la harina  y para eso necesitamos darle tiempo a la fermentación.
+- Al utilizar prefermentos le otorgamos a la masa, todos los beneficios de la fermentación, incluido el gas, el alcohol y la acidez. Sin dejar a un lado el sabor, aromas y vida útil del pan.
+- Ten en consideración que en todas nuestras recetas, preparamos siempre un quince 15% más de la cantidad indicada de prefermento en la masa, para que puedas tener suficiente cantidad y un poquito más de lo que necesitas para preparar la masa. 
+- Si te fijas bien, durante el proceso de fermentación del prefermento, la cantidad total inicial se reduce. 
+- Planifica tres días para la preparación de esta versión de las Piñitas.
+	* Día 1: Preparación del prefermento Poolish.
+	* Día 2: Preparación de la masa y fermentación en bloque con retardo en nevera.
+	* Día 3: Horneado, enfriamiento y degustación del pan.
+
+### Prefermento Poolish
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina panadera           |        100% |   51g  |
+| Agua                      |        100% |   51g  |
+| Levadura instantánea      |          1% |  0.2g  |
+|---------------------------|-------------|--------|
+| **Total**                 |    **201%** |**103g**|
+
+### Ingredientes para la masa (Método indirecto)
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina panadera           |        100% |  269g  |
+| Agua                      |         40% |   97g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |          1% |    3g  |
+| Huevos ligeramente batidos|         12% |   31g  |
+| Mantequilla sin sal       |         12% |   31g  |
+| Azúcar                    |         23% |   63g  |
+| Leche en polvo            |          2% |    6g  |
+| Anís en grano (molido)    |          2% |    6g  |
+| Prefermento Poolish       |         33% |   90g  |
+|---------------------------|-------------|--------|
+| **Total**                 |     **226%**|**600g**|
+
+## Paso a paso del panadero
+
+### Preparación del prefermento Poolish (Día 1)
+
+- La noche anterior a la preparación de la masa, en un envase redondo de boca grande, agrega el agua de acuerdo a lo indicado en la fórmula panadera.
+- Incorpora la levadura y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
+- Agrega poco a poco la harina y ve disolviendo en la mezcla creada en el paso anterior, hasta formar un amasijo.
+- Cubre el envase y deja reposar a temperatura ambiente (entre veinticuatro (24) y veintisiete (27) grados centígrados preferiblemente) durante cuatro (4) horas o hasta que la masa triplique su altura.
+- Reserva en nevera hasta el día siguiente
+
+### Preparación de la masa (Día 2)
+
+- Sigue los pasos en la sección [**preparación de la masa**](#preparacion).
+
+## Mezcla y amasado
+
+<div id="primerciclo"></div>
+
+### Primer ciclo de amasado con prefermento
+
+- Para la mezcla inicial, en envases separados reserva la sal, la mantequilla sin sal y la cantidad indicada en la preparación de la masa de prefermento poolish. 
+- En un primer envase, mezcla los ingredientes sólidos de la masa: harina, azúcar, leche en polvo, la levadura instantánea seca y el anís en granos molidos.
+- En un segundo envase, mezcla los ingredientes líquidos y el prefermento poolish de la siguiente forma:  combina el agua con el huevo ligeramente batido, el cinco porciento (5%) de la mantequilla sin sal y el prefermento poolish picado en pequeños trocitos.
+- Crea un volcán con la mezcla de los ingredientes sólidos dejando un hueco en el centro del envase.
+- Distribuye la sal en los extremos más externos del volcán. 
+- Coloca los líquidos en el centro del volcán y mezclando poco a poco con los sólidos, ve creando una papilla.
+- Integra los ingredientes hasta tener un amasijo. Amasa hasta formar una bola que recoja todos los ingredientes. Deja reposar por diez (10) minutos.
+- A partir de aquí, sigue los pasos indicados en la sección [**segundo ciclo de amasado**](#segundociclo) hasta llegar al [**retardo**](#retardo) en nevera que en este caso es obligatorio, siguiendo hasta la etapa de los [**cortes**](#cortes).
+
+### Horneado
+
+- Sigue los pasos indicados para proceder con el [**horneado**](#horneado).
+
+### Enfriamiento
+
+- Procede con los pasos indicados en [**enfriamiento**](#enfriamiento).
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Chef Laszlo Gyomrey], [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela] y el libro "Panes Venezolanos" de Juan Carlos Bruzual.
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 2.2 (01/07/2022)_
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@taosbaker]: http://www.instagram.com/taosbaker
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@steconstance]: http://www.instagram.com/steconstance
+

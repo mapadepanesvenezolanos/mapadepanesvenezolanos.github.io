@@ -8,6 +8,326 @@ categories: golfeado capital
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+El Gofeado es uno de mis panes favoritos, de hecho lo considero una golosina. 
 
-{% include pdf.html %}
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+Es dulce, húmedo, con melao y queso que da una textura grumosa a la cobertura y combinado con el queso le damos un balance de textura y sabor. Después de estudiar y probarlos en distintas panaderías de caracas, la guaira y el junquito observamos diferencias en la preparación y la hemos clasificado en la versión caraqueña y la versión del junquito. 
+
+En la versión caraqueña suelen ser más grandes, en muchas paranderías le agregan queso rayado por encima (no me gusta este detalle), suelen ser menos hidratados y con mucha presencia del anís dulce en grano. 
+
+En el caso del junquito, son más pequeños, húmedos y bañados en melao, con cobertura grumosa de papelón, azúcar y queso, procesado en un rayador y queda como peloticas pequeñas, en este caso el anís es menos presente.
+
+Hemos probado golfeados en otros lugares de venezuela y son muy variantes las interpretaciones, en general tienden a ser una versión de la caraqueña.
+
+
+Les dejamos los enlaces para cada proceso:
+
+* [Al estilo Caraqueña](#caraqueno)
+* [Al estilo del Junquito](#junquito)
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+<div id="caraqueno"></div>
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_4.jpeg" alt="{{page.title}}">
+
+# Golfeado (al estilo Caraqueño)
+
+## Resultado esperado
+
+Es una masa dulce enriquecida, con mantequilla, huevo y leche, con anís en grano y formada en rollo relleno y a veces con cobertura. El relleno y cobertura es una combinación de queso, papelón, azúcar, canela, anís y se barniza con un melao de papelón. Hemos notado que en Caracas se preparan sin cobertura y barnizados con un melao de papelón que puede ser especiado. En el Junquito hemos notado que el rollo tiene menos relleno y cobertura con los mismos ingredientes del relleno. Vamos a describir nuestra versión de ambas preparaciones. El golfeado debe ser de miga cerrada, suave y húmedo tanto en su superficie como en su base.
+
+## Origen 
+
+“Es una pieza de bollería con masa esponjosa y suave, humedecida con melao de papelón, aromatizada con anís y complementada con queso blanco rayado. “No hay consenso para identificar al inventor de los golfeados (...). Se trata de una producto regional surgido originalmente en el estado Miranda a orillas del río Guaire”, escribe Miro Popic (2017). Detalla este autor que el verdadero nombre del golfiao se origina en un tipo de semilla de café que tiene forma de caracol a la que los campesinos denominan así, golfiao: “Hasta mediados del siglo pasado en muchas zonas de Caracas todavía se cultivaba café y posiblemente unos de los trabajadores de la hacienda El Hoyo de Las Tapias, que quedaba cerca de Petare, cuando vio los dulces en una venta pidió ‘dame unos de esos que parecen golfeados’. 
+
+El local era la panadería Central, ubicada cerca de la estación del tren Petare-Santa Lucía, regentada por una familia de origen canario, los hermanos María Duarte y Gregorio Vicente Duarte”.”[^1] 
+
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_9.png" alt="{{page.title}}">
+
+Les dejamos una foto del corte transversal de la cereza de un grano de café. La semilla interna es lo que hemos conseguido que se parece a la forma enrollada del Golfeado. 
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+
+## Tips
+
+- Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
+- Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
+- El queso del relleno preferimos pasarlo por un procesador para que quede en bolitas pequeñas.
+- Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
+- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melao de papelón dos o tres veces cada 10 minutos.
+- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especias.
+- Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
+- En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
+
+## Masa (6 unidades de 100g)
+
+### Ingredientes para la masa
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina todo uso           |        100% |  316g  |
+| Agua                      |         25% |   80g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |          1% |    3g  |
+| Huevos ligeramente batidos|         20% |   63g  |
+| Mantequilla sin sal       |         20% |   63g  |
+| Azúcar                    |         15% |   47g  | 
+| Leche en polvo            |          5% |   16g  |
+| Anís en grano (molido)    |          1% |    3g  |
+| Miel                      |          1% |    3g  |
+| Vainilla                  |          1% |    3g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **190%**  |**600g**|
+
+### Relleno
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Queso                     |        100% |   80g  |
+| Papelón                   |        100% |   80g  |
+| Azúcar                    |        100% |   80g  | 
+| Anís en grano (molido)    |          1% |    1g  |
+| Canela                    |          1% |    1g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **302%**  |**242g**|
+
+### Melao
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Papelón                   |        100% |  200g  |
+| Agua                      |         50% |  100g  |
+| Especias                  |          5% |   10g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **155%**  |**310g**|
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación del relleno
+
+- Si es posible, pasa el queso por un procesador para que quede bien granulado, en bolitas.
+- Al queso agrega el papelón cernido y el azúcar.
+- Mezcla y reserva.
+
+### Preparación del melao
+
+- En una olla a fuego medio a bajo, agrega el papelón y el agua. Deja que se disuelva. Si vas a agregar especias, sigue el tip que dejamos previamente.
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+- Para la mezcla inicial reserva la mitad de la mantequilla, sal y anís en grano.
+- En un envase mezcla la harina, levadura instantánea, azúcar y leche en polvo. 
+- En otro envase mezcla el agua, huevo, miel y vainilla hasta disolver.
+- Crea un volcán con la mezcla de ingredientes secos, agrega los líquidos, la mitad de la mantequilla en el centro del volcán y la sal alrededor del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. 
+- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa utilizando el rodillo haciendo pliegues, unos 5 a 7 y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+### Formado
+
+- Con el rodillo extiende la masa en un rectángulo de 30cm x 40cm.
+- Coloca la masa como te sea más cómoda para enrollar por el lado de 30cm.
+- Coloca el relleno sobre la masa dejando unos 5cm sin relleno en uno de los lados de 30cm.
+- Enrolla desde el lado de 30cm con relleno al lado sin relleno, sin generar tensión.
+- Engrasa un recipiente o bandeja alto para mantener la humedad.
+- Corta el rollo en 6 partes y coloca cada parte en el recipiente.
+
+### Fermentación final (maduración)
+
+- A una temperatura entre 24ºC y 27ºC deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
+
+<div id="horneado"></div>
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante diez (10) minutos. 
+- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
+- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
+- Déjalos en el horno entre veinticinco (25) a treinta (30) minutos.
+
+<div id="enfriamiento"></div>
+
+### Enfriamiento
+
+- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
+
+------
+
+<div id="junquito"></div>
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_1.jpeg" alt="{{page.title}}">
+
+# Golfeado al estilo del Junquito (nuestra interpretación)
+
+## Método directo
+
+### Tips
+
+- Los golfeados del Junquito suelen ser más pequeños y el rollo debe ser de al menos tres vueltas.
+- Esta versión tiene relleno y cobertura de manera que se siente una textura grumosa, dulce y melosa en la superficie.
+- Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
+- Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
+- El queso del relleno preferimos pasarlo por un procesador para que quede en bolitas pequeñas.
+- Si no te gusta conseguir el anís en grano en la masa, puedes utilizar anís molido en la misma cantidad.
+- Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
+- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melado de papelón dos o tres veces cada 10 minutos.
+- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especies.
+- Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
+- En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
+
+### Ingredientes para la masa (6 unidades de 80g)
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina todo uso           |        100% |  267g  |
+| Agua                      |         30% |   80g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |          1% |    3g  |
+| Huevos ligeramente batidos|         10% |   27g  |
+| Mantequilla sin sal       |         15% |   40g  |
+| Azúcar                    |         15% |   40g  | 
+| Leche en polvo            |          5% |   13g  |
+| Anís en grano (molido)    |          1% |    3g  |
+| Miel                      |          1% |    3g  |
+| Vainilla                  |          1% |    3g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **180%**  |**482g**|
+
+### Relleno y cobertura
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Queso                     |        100% |   61g  |
+| Papelón                   |        100% |   61g  |
+| Azúcar                    |         75% |   46g  | 
+| Anís en grano (molido)    |          1% |    1g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **276%**  |**169g**|
+|---------------------------|-------------|--------|
+| Relleno                   |         60% |  101g  |
+| Cobertura                 |         40% |   68g  |
+
+### Melao
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Papelón                   |        100% |  200g  |
+| Agua                      |         50% |  100g  |
+| Especias                  |          5% |   10g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **155%**  |**310g**|
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación del relleno
+
+- Si es posible, pasa el queso por un procesador para que quede bien granulado, en bolitas.
+- Al queso agrega el papelón cernido y el azúcar.
+- Mezcla, pesa y divide lo que va a ser relleno y cobertura, reserva.
+
+### Preparación del melao
+
+- En una olla a fuego medio a bajo agrega el papelón y el agua. Deja que se disuelva. Si vas a agregar especias, sigue el tip que dejamos previamente.
+
+### Preparación de la masa
+
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_2.jpeg" alt="{{page.title}}">
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+- Para la mezcla inicial reserva la mitad de la mantequilla, sal y anís en grano.
+- En un envase mezcla la harina, levadura instantánea, azúcar, leche en polvo, 
+- En otro envase mezcla el agua, huevo, miel y vainilla hasta disolver.
+- Cree un volcán con la mezcla de ingredientes secos y coloca los líquidos y la mitad de la mantequilla en el centro del volcán y la sal alrededor del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa utilizando el rodillo haciendo pliegues, unos 5 a 7 y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+### Formado
+
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_8.jpeg" alt="{{page.title}}">
+
+- Con el rodillo extiende la masa en un rectángulo de 30cm x 40cm.
+- Coloca la masa como te sea más cómoda para enrollar por el lado de 30cm.
+- Coloca el relleno (101g) sobre la masa dejando unos 5cm sin relleno en uno de los lados de 30cm.
+- Enrolla desde el lado de 30cm con relleno al lado sin relleno, sin generar tensión.
+- Engrasa un recipiente o bandeja alto para mantener la humedad.
+- Corta el rollo en 6 partes y coloca cada parte en el recipiente.
+
+### Fermentación final (maduración)
+
+- A una temperatura entre 24ºC y 27ºC deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
+
+### Barnices, coberturas y cortes
+
+- Después de una (1) hora de maduración coloca la cobertura (la mezcla del relleno sobrante - 68g) sobre las masas.
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante 10 minutos. 
+- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
+- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
+- Déjalos en el horno entre veinticinco (25) a treinta (30) minutos.
+
+### Enfriamiento
+
+- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Chef Laszlo Gyomrey], [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@pochove], [@panbelis], [@elgatogolosoblog] y el libro rojo de Scannone.
+
+Es particularmente interesante el video de [@pana_dero](https://www.youtube.com/watch?v=U3NzD1GIdDQ) sobre el Golfeado al estilo caraqueño.
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 1.2 (28/06/2022)_
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@pochove]: http://www.instagram.com/pochove
+[@taosbaker]: http://www.instagram.com/taosbaker
+[@panbelis]: http://www.instagram.com/panbelis
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@steconstance]: http://www.instagram.com/steconstance
+[@andrescooking]: http://www.instagram.com/andrescooking
+
+

@@ -350,4 +350,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Trina Arocha]: https://www.instagram.com/trinaarocha
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/

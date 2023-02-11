@@ -4,11 +4,201 @@ date:   2022-03-21 18:00:39 -0400
 permalink: /canilla/
 pdf: Pan-Canilla.pdf
 categories: pan semirustico capital
-featured_image: '/images/panes/canilla/canilla_6.jpg'
+featured_image: '/images/panes/canilla/canilla_11.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-{% include pdf.html %}
+#### RECETA, FÓRMULA y TÉCNICAS
+
+<div id="directo"></div>
+
+# Pan Canilla
+
+## Masa leudada con levadura instantánea
+
+- Un Pan con 220g a 250g de masa.
+- Una masa sobada entre 50% y 60% de hidratación.
+- Contiene azúcar y grasa.
+
+## Resultado esperado
+
+- Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marrón y quebradiza.
+- Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
+- La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco énfasis en desarrollar sabores y en darle una corteza suave.
+
+## Origen
+
+“Se le conoce como la versión tropicalizada de la baguette francesa, pero a diferencia de ésta, tiene una costra menos crujiente y una miga más suave. Es un pan salado, delgado y largo, muy popular. Su historia data de la década de los años ochenta del siglo pasado. Empezó a elaborarse en las panaderías venezolanas en la búsqueda de un pan de rápida cocción y a gusto del venezolano. Una de las diferencias entre la baguette y la canilla es su tiempo de hechura, el de la baguette es más largo. Otra diferencia tiene que ver con las características físicas: color, costra y textura de la miga. La canilla es de costra quebradiza y de tonalidades entre beige y marrón. La de la baguette es dorada y crujiente. La textura de la miga también es distinta: la de canilla es más densa y con alvéolos uniformes, mientras los de la baguette son irregulares. El nombre deriva del parecido con las “canillas”, como llamamos en Venezuela a las piernas largas y delgadas de algunas personas.” [^1]
+
+## Tips
+
+- Es un Pan que se realiza por método directo en un proceso de entre 2 a 3 horas.
+- Se hornea a media temperatura (200ºC/395ºF) por aproximadamente 20 a 25 minutos de los cuales los primeros 5 minutos se hornea con vapor.
+- No tiene fermentación inicial, por eso se denomina un Pan rápido y por ello, en general, no suele desarrollar mucho sabor. 
+- Está cocido cuando alcanza entre 92ºC a 95ºC de temperatura interior.
+- Tradicionalmente en las panaderías por costo se utiliza manteca vegetal o aceite neutro. En general se puede hacer con cualquier tipo de grasa con ligeras diferencias en el resultado. Para un Pan más saludable recomendamos el uso de mantequilla.
+- Hay Panaderos que utilizan más grasa, hasta 10% e inclusive huevo entre 5% y 10% o leche entre 10% a 15%. La cantidad de agua se debe ajustar en base a la presencia de ingredientes que aportan hidratación como la leche o la mantequilla.
+- Si se enriquece la masa (se agrega huevo o leche), la temperatura de horneado de partida debe ser menor (180ºC/355ºF).
+- El nivel de hidratación es bajo, pero varía dependiendo del tipo de harina que utilices. Los rangos sugeridos son los siguientes:
+
+| Harina Todo Uso   |    Harina Panificable    | Harina de fuerza |
+|:------------------|:-------------------------|:-----------------|
+| 50%-53%           |         54%-57%          |      58%-60%     |
+
+- Hay que considerar que mientras más agua la corteza se hace más gruesa y para la Canilla se desea una corteza fina quebradiza.
+- La cantidad de levadura recomendada tiene que ver con la temperatura ambiente. Los rangos sugeridos son los siguientes:
+
+| Menos de 22ºC     |    Entre 22ºC y 28ºC     |  Más de 28ºC     |
+|:------------------|:-------------------------|:-----------------|
+| 1%                |         0,66%            |      0,33%       |
+
+- Los tiempos del proceso presentado son referenciales y se ajustan y adaptan a las condiciones ambientales.
+- Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
+
+
+## Masa (Método directo)
+
+### Ingredientes para la masa (1 unidad)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera (12%)                                        |      100%     |      300g |
+| Agua                                                         |      55%      |      165g |
+| Levadura instantánea                                         |      1%       |        3g |
+| Sal                                                          |      2%       |        6g |
+| Azúcar                                                       |      5%       |       15g |
+| Grasa                                                        |      5%       |       15g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |  **168%**     |  **504g** |
+
+### Rangos referenciales
+
+| Ingrediente                                                  |    Fórmula    |
+|:-------------------------------------------------------------|:-------------:|
+| Harina panadera (12%)                                        |      100%     |
+| Agua                                                         |    50% - 60%  |
+| Levadura instantánea                                         |  0.33% - 1%   |
+| Sal                                                          |   1.6% - 2%   |
+| Azúcar                                                       |   0.5% - 5%   |
+| Grasa                                                        |     1% - 5%   |
+| -------------------------------------------------------------|---------------|
+
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_7.jpeg" alt="{{page.title}}">
+
+### Preparación
+
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
+- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano.
+
+### Mezcla y amasado manual
+
+- Mezcla la harina con la levadura instantánea.
+- Diluye el azúcar y la sal en el agua.
+- Crea un volcán con la mezcla de harina y levadura.
+- Coloca el agua en medio del volcán y los trozos de mantequilla en el medio.
+- En el centro del volcán mezcla la harina con los líquidos hasta obtener un engrudo. Integre el resto de la harina haciendo presión.
+- Con las dos manos sigue integrando todo hasta que la mesa y las manos estén limpias.
+- Amasa por dos minutos y deja reposar la masa por 10 minutos.
+- Después de los 10 minutos realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas 4 a 7 veces. Dejar reposar 10 minutos.
+- Realiza la prueba del gluten, si todavía falta vuelva a sobar la masa y haga reposos de 10 minutos hasta que el gluten se desarrolle. 
+- Usualmente con una o dos tandas de sobado es suficiente.
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_8.jpeg" alt="{{page.title}}">
+
+### División 
+
+- Esta fórmula es para una unidad, pero si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
+
+### Preformado 
+
+- Realiza un preformado redondo, boleando la masa.
+
+### Descanso en mesa 
+
+- Cubre la(s) bola(s). Déjalas reposar 10 minutos o hasta que estén relajadas. 
+
+### Formado
+
+- Estirar cada bola con el rodillo y formar un rectángulo.
+- Enrolla la masa y coloca en una bandeja engrasada.
+
+### Precalentar el horno
+
+- Precalienta el horno a 220ºC/430ºF 
+- Introduce un caldero en el piso del horno para precalentarlo y luego generar vapor.
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
+
+### Maduración
+
+- Deja los pastones reposar una (1) hora a 90 minutos aproximadamente o hasta que se dupliquen en tamaño. El tiempo varía en base a la temperatura del día. Puede ser más o menos.
+
+### Barnices, coberturas y cortes
+
+- Coloca agua sobre cada pastón con un aspersor.
+- Realiza los cortes en la dirección del pastón, el corte siguiente se solapa un poco con el anterior.
+- Evita los cortes de forma transversal.
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_10.jpeg" alt="{{page.title}}">
+
+### Horneado
+
+- Reduce la temperatura del horno a 200ºC/390ºF.
+- Introduce la bandeja en el horno.
+- Coloca tres hielos en el caldero y cierra la puerta.
+- Deja el vapor en el horno durante cinco (5) minutos.
+- Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC-355ºF.
+- Deja el Pan 20 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
+
+### Enfriamiento
+
+- Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
+- Apaga el horno.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal], [Plaza’s Escuela de Cocina], [William Tse], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance].
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 1.5__ (30/05/2022)
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Panadero Artesanal]: https://www.instagram.com/panadero_artesanal
+[William Tse]: https://www.instagram.com/taosbaker
+[@elgatogolosoblog]: https://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: https://www.instagram.com/consentidoenboca 
+[@steconstance]: https://www.instagram.com/steconstance
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Plaza’s Escuela de Cocina]: https://www.youtube.com/@ZonaDeleitePlazas
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[@pandemelao]: https://www.instagram.com/pandemelao
+[@oreganobaguette]: https://www.instagram.com/oreganobaguette
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+
 
 

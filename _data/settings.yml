@@ -15,8 +15,6 @@ menu_settings:
       url: '/panes/'
     - title: 'Acerca'
       url: '/acerca'
-    - title: 'Contacto'
-      url: '/contacto'
 
 footer_settings:
   footer_tagline: Referencia sobre Panes Venezolanos para Panaderos Caseros.
@@ -165,7 +163,7 @@ font_settings:
     letter_spacing: 0
 
 advanced_settings:
-  ajax_loading: true
+  ajax_loading: false
   analytics_code: G-HRV9P3H4F9
   custom_styles: ""
   header_js: ""

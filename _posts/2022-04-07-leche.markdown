@@ -7,11 +7,22 @@ categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'
 ---
 
+Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
+
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Método directo](#directo)
+* [Método indirecto - Pie Francés](#piefrances)
+* [Método indirecto - Biga 125%](#biga125)
+* [Método indirecto - Masa Madre Talvina](#talvina)
+
 #### RECETA, FÓRMULA y TÉCNICAS
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-# Método directo
+<div id="directo"></div>
+
+# Pan de Leche
 
 ## Masa leudada con levadura instantánea
 
@@ -326,7 +337,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Academico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@taosbaker], [Chef Laszlo Gyomrey], [Escuela de Cocina Plaza's], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance]. 
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@taosbaker], [Chef Laszlo Gyomrey], [Escuela de Cocina Plaza's], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance]. 
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -346,7 +357,7 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
-[Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 [@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
 [@taosbaker]: http://www.instagram.com/taosbaker
 [Chef Laszlo Gyomrey]: https://mirecetadepan.com/
