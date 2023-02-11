@@ -1,5 +1,6 @@
 ---
 title:  "Piñitas"
+description: "Piñtas en dos presentaciones, método directo y masa mejorada con prefermento poolish"
 date:   2022-06-23 19:19:00 -0400
 permalink: /pinitas/
 pdf: Pinitas.pdf
@@ -7,17 +8,7 @@ categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
-Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
-
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
-
-* [Método directo](#directo)
-* [Método indirecto - Poolish](#poolish)
-
 #### RECETA, FÓRMULA y TÉCNICAS
-
-<div id="directo"></div>
 
 # Piñitas
 
@@ -41,11 +32,21 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
+Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Método directo](#directo)
+* [Método indirecto - Poolish](#poolish)
+
 ## Tips
 
 - Recomiendo que la harina todo uso que utilices para preparar estos panes, contenga al menos doce (12%) por ciento de proteínas. 
 - Te sugiero moler los granos de anís antes de mezclarlos con la harina de la masa, de esa manera, se mejora la experiencia al momento de degustar la miga del pan y el aroma en miga a anís será bastante pronunciado.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad. 
+
+<div id="directo"></div>
 
 ## Masa (Método directo)
 
