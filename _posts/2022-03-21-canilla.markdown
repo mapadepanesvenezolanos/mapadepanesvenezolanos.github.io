@@ -46,6 +46,8 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 - Los tiempos del proceso presentado son referenciales y se ajustan y adaptan a las condiciones ambientales.
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
 
+---
+
 <div id="directo"></div>
 
 # Pan Canilla

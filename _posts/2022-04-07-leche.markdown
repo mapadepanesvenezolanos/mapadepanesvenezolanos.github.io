@@ -39,6 +39,8 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - Normalmente se realiza la decoración del pastón justo antes de meterlo en el horno. Como cada pastón va a tener una costra de azúcar, este paso se va a realizar antes de la fermentación final. Se cambia el orden para generar el efecto de la costra de azúcar. Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
 
+---
+
 <div id="directo"></div>
 
 # Pan de Leche
