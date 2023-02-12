@@ -94,7 +94,8 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 - Pesa todos los ingredientes y colócalos en envases separados.
 - Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
-- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
+- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. 
+- Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano.
 
 ### Mezcla y amasado manual
