@@ -27,8 +27,8 @@ agregados que servirán para identificarlos” … “Con la llegada de los alem
 
 Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
 
-* [Pan de Afrecho, masa leudada con levadura instantánea](#directo)
-* [Pan de Afrecho, masa mejorada con prefermento Pie Francés](#piefrances)
+* [Masa leudada con levadura instantánea](#directo)
+* [Masa mejorada con prefermento Pie Francés](#piefrances)
 
 ## Tips
 
@@ -147,6 +147,8 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 ### Consumo del pan
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
 
+---
+
 # Pan de Afrecho
 
 <div id="piefrances"></div>
@@ -225,6 +227,8 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 - De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de afrecho con el método directo, a partir de la [**prueba de la membrana de gluten**](#pruebamembranagluten). Solo debemos considerar diferencias en el tiempo de maduración ya que estamos utilizando poca levadura y prefermento pie.
 
 **Nota**: Los barnices, coberturas, cortes, el horneado y enfriamiento se hacen el Dia 3.
+
+---
 
 ### Referencias y enlaces
 

@@ -335,6 +335,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja reposar los pastones con costra de azúcar, sin tapar, aproximadamente por tres (3) o cuatro (4) horas en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que supere la prueba de maduración con el dedo.
 - Si no utilizas levadura, el tiempo es más prolongado, aproximadamente 16 a 20 horas o hasta que supere la prueba de maduración con el dedo.
 
+---
+
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@taosbaker], [Chef Laszlo Gyomrey], [Escuela de Cocina Plaza's], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance]. 

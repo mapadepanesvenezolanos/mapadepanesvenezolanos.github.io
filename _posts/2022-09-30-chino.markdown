@@ -27,6 +27,8 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
+---
+
 # Pan Chino
 
 ## Masa leudada con levadura instantánea
@@ -108,7 +110,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 325ºF por cinco (5) minutos para que se recupere.
 
-------
+---
 
 ### Referencias y enlaces
 
