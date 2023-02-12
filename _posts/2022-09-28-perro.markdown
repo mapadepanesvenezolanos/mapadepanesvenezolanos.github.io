@@ -25,15 +25,13 @@ Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y 
 
 <div id="directo"></div>
 
-# Método directo
+# Pan de Perro
 
 ## Masa leudada con levadura instantánea
 
 - Prepararemos 10 unidades de 80g para un total de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
 - 49% de hidratación (Baja hidratación) y 10% de grasa.
-
-## Masa (Método directo)
 
 ### Ingredientes para la masa
 

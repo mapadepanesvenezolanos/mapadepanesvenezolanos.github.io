@@ -49,8 +49,6 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 52.5% de hidratación (Baja hidratación).
 
-## Masa (Método directo)
-
 ### Ingredientes para la masa
 
 | Ingrediente               | Fórmula     | Peso  |

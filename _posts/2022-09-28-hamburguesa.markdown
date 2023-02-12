@@ -44,8 +44,6 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Temperatura ambiente 22ºC - 27ºC
 - 49% de hidratación (Baja hidratación)
 
-## Masa (Método directo)
-
 ### Ingredientes para la masa
 
 | Ingrediente                                                  |    Fórmula    |      Peso |

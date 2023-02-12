@@ -54,8 +54,6 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Una masa semi rústica entre 55% y 65% de hidratación.
 - Contiene azúcar y grasa.
 
-## Masa (Método directo)
-
 ### Ingredientes para la masa (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |

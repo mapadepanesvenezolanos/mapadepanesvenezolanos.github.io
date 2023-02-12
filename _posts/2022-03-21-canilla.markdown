@@ -56,8 +56,6 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 - Una masa sobada entre 50% y 60% de hidratación.
 - Contiene azúcar y grasa.
 
-## Masa (Método directo)
-
 ### Ingredientes para la masa (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |

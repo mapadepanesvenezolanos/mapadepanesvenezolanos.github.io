@@ -35,8 +35,6 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 * Temperatura ambiente 22ºC - 26ºC
 * 60% de hidratación (media hidratación)
 
-## Masa (Método directo)
-
 ### Ingredientes para la masa
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
