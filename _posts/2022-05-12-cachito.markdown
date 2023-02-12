@@ -1,12 +1,205 @@
 ---
-title:  "Cachitos"
+title:  "Cachito"
 date:   2022-05-12 14:28:00 -0400
-permalink: /cachitos/
+permalink: /cachito/
 pdf: Cachitos.pdf
 categories: Cachitos capital
-featured_image: '/images/panes/cachito/cachito_2.jpeg'
+featured_image: '/images/panes/cachito/cachito_4.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento de los {{ page.title }}</a>
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-{% include pdf.html %}
+#### RECETA, FÓRMULA y TÉCNICAS
+
+## Resultado esperado
+
+Este es un pan relleno con jamón de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
+
+## Origen 
+
+En [Wikipedia](https://es.wikipedia.org/wiki/Cachito_de_jam%C3%B3n) se resume lo que hemos podido encontrar en línea.
+
+“Existen diversas teorías acerca del origen del panecillo. Una de estas teorías afirma que el mismo es obra de inmigrantes lusitanos que regentan panaderías en este país (tomando en cuenta que el trigo en realidad no es autóctono de Venezuela por ser de clima templado). 
+
+Otra teoría afirma que el origen del cachito se ubica en la población mirandina de [Petare](https://es.wikipedia.org/wiki/Parroquia_Petare) y se atribuye su creación a un panadero apodado "Cachito". 
+
+Igualmente, existe una tercera teoría que argumenta que se le dio ese nombre a juzgar por el hecho de su forma (originalmente tenía forma de medialuna, pero con el tiempo la ha perdido).
+
+Por lo tanto, su origen no está totalmente comprobado.” [^1]
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+
+## Tips
+
+- Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (10%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
+- Esta preparación se puede hacer con harina todo uso ya que es de hidratación baja. Sin embargo, la calidad mejora con harina panadera.
+- Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día.
+- El Cachito se rellena de jamón. La calidad del relleno mejora la preparación, por ejemplo el uso de Jamón Ahumado mejora el sabor. También se puede agregar queso o tocineta. 
+- Para darle un toque de sabor en la masa nosotros utilizamos la grasa de la tocineta. De los 34g de mantequilla utilizamos 24g de mantequilla y 10g de aceite de tocineta, o para un sabor más fuerte, aceite de chistorra.
+- Para sacar el aceite de chistorra o tocineta se ponen sobre un sarten y se les da vuelta hasta que estén cocidas. Tomas el aceite que generan para tu preparación.
+- Nosotros pasamos las tocinetas por una plancha para potenciar el sabor.
+- Parte del agua se puede sustituir por malta o cerveza, recomendamos alrededor del 5% (17g en este caso).
+- Algunos panaderos agregan papelón rallado al relleno. Inclusive se puede pintar la masa con melao de papelón, puedes usar miel, melaza, mostaza y hasta salsa BBQ. Tu imaginación es el límite. Cuida no excederte para que no se salgan los líquidos del pan en el horno.
+- Para darles un tono de color atractivo, durante el horneado a mitad del tiempo pásales un barniz de melao de papelón fino y los metes en el horno para que terminen su cocción.
+- Finalmente, al salir del horno le pones mantequilla clarificada con una brocha a cada Cachito para un acabado espectacular.
+
+---
+
+<div id="directo"></div>
+
+# Cachito
+
+## Masa leudada con levadura instantánea
+
+* 6 Cachitos de 100g de masa y 70g de relleno entre jamón y tocineta.
+
+### Ingredientes para la masa
+
+| Ingrediente                                   |    Fórmula    |      Peso |
+|:----------------------------------------------|:-------------:|----------:|
+| Harina panadera (12%)                         |     100%      |      345g |
+| Agua                                          |      25%      |       86g |
+| Levadura instantánea                          |       1%      |        3g |
+| Sal                                           |       2%      |        7g |
+| Huevos batidos                                |       5%      |       17g |
+| Mantequilla sin sal o Aceite de canola/maíz   |      10%      |       34g |
+| Azúcar                                        |      10%      |       34g |
+| Leche en completa líquida                     |      20%      |       70g |
+| Vainilla                                      |       1%      |        3g |
+| ----------------------------------------------|---------------|-----------|
+| **Total**                                     |   **174%**    | **599g**  |
+
+### Relleno
+
+| Ingrediente                               |    Fórmula    |      Peso |
+|:------------------------------------------|:-------------:|----------:|
+| Jamón ahumado                             |      100%     |      360g |
+| Tocineta                                  |      15%      |       54g |
+| ------------------------------------------|---------------|-----------|
+| **Total**                                 |   **115%**    | **414g**  |
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. 
+- Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado 
+
+#### Primer ciclo de amasado
+
+- Para la mezcla inicial reserva la mantequilla y la sal.
+- En un envase mezcla la harina y la levadura instantánea. 
+- En otro envase mezcla el agua, la leche, el huevo ligeramente batido, la vainilla y el azúcar hasta disolver. 
+- Si utilizas aceite de tocineta u otro lo agregas al principio junto con los líquidos.
+- Crea un volcán con la mezcla de harina y levadura y coloca los líquidos en el centro del volcán.
+- Integra los ingredientes hasta tener un amasijo. 
+- Amasa con el rodillo por dos minutos y realiza pliegues, deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+### Segundo ciclo de amasado
+
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. 
+- La masa se va a separar durante esta etapa, es normal que esto suceda. 
+- Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. 
+- La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos. 
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos con el rodillo y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie. 
+
+### División y pesado
+
+- Saca la masa del recipiente tapado.
+- Procede a pesar la masa total.
+- Divide la masa en seis (6) porciones de igual peso, según tu preferencia.
+
+### Preformado
+
+- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+
+### Reposo en mesa (relajación de la masa)
+
+- Deja reposar la masa sobre la mesa de trabajo, tapada por cinco (5) minutos y ahora presionando cada bola dale forma de bastón.
+
+### Formado
+
+- Extiende cada bastón con el rodillo dejando una lengua larga y en la parte superior en forma de P o de disco. 
+- Luego de extender pinta la masa (opcional) y luego colocas el relleno, lo envuelves con la masa en la parte superior y luego lo enrollas con la lengua de la masa.
+- Coloca todos los pastones en una bandeja engrasada separados unos tres dedos.
+
+---
+
+### Formado alternativo, tipo Pizza
+
+- Extiende toda la masa, sin dividir, con un rodillo y forma un disco como una Pizza.
+- Corta la masa con un cortador de Pizza en seis porciones.
+- Cada triángulo lo extiendes con el rodillo ligeramente y deja la parte más fina del triángulo lo menos gruesa posible con el rodillo. 
+- Coloca el relleno en la parte más gruesa y enrolla, como un Croissant, hacia abajo, sin ladear la masa.
+
+---
+
+### Fermentación final
+
+- Deje reposar los pastones tapados con plástico, aproximadamente por una (1) hora a 90 minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC.
+
+### Barnices, coberturas y cortes
+
+- Bate un huevo ligeramente, coloca una pizca de sal y azúcar y revuelve, pásalo por un colador para que quede fino y con una brocha se lo aplicas a cada Cachito.
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. 
+- Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja en el medio del horno durante aproximadamente 20 a 25 minutos.
+- Verifica el horno asegurándote que los Cachitos se hornean de manera uniforme. 
+- Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
+- Saca los Cachitos del horno cuando tengan un color dorado a tu gusto.
+
+### Enfriamiento
+
+- Al sacar los Cachitos del horno, pásalos a una rejilla o tabla de madera.
+- Coloca un barniz de mantequilla clarificada para un brillo espectacular.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia!
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de los Cachitos, hemos utilizado como fuente de inspiración, las fórmulas del [Chef Laszlo Gyomrey], [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@doctorapan], [@pochove] y [@steconstance]. 
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta #mapadepanesvenezolanos y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 1.5 (01/06/2022)_
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@taosbaker]: http://www.instagram.com/taosbaker
+[@doctorapan]: http://www.instagram.com/doctorapan
+[@pochove]: http://www.instagram.com/pochove
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@steconstance]: http://www.instagram.com/steconstance
+
