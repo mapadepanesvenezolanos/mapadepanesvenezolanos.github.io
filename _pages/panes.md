@@ -1,5 +1,7 @@
 ---
-title: Panes
+layout: default
+title: Panes Venezolanos
+permalink: /panes-venezolanos/
 description: Referencia sobre Panes Venezolanos para panaderos caseros.
 featured_image: /images/social.jpg
 ---

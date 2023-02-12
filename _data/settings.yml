@@ -11,8 +11,8 @@ menu_settings:
   menu_items:
     - title: 'Mapa'
       url: '/'
-    - title: 'Panes'
-      url: '/panes/'
+    - title: 'Panes Venezolanos'
+      url: '/panes-venezolanos/'
     - title: 'Acerca'
       url: '/acerca'
 

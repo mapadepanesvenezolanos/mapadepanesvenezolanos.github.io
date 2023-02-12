@@ -9,7 +9,7 @@ collections:
     permalink: /:name
   posts:
     output: true
-    permalink: /panes/:slug
+    permalink: /panes-venezolanos/:slug
 
 defaults:
   -
