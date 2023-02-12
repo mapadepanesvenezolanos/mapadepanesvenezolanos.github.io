@@ -20,18 +20,12 @@ En el caso del junquito, son más pequeños, húmedos y bañados en melao, con c
 
 Hemos probado golfeados en otros lugares de venezuela y son muy variantes las interpretaciones, en general tienden a ser una versión de la caraqueña.
 
-
 Les dejamos los enlaces para cada proceso:
 
 * [Al estilo Caraqueña](#caraqueno)
 * [Al estilo del Junquito](#junquito)
 
 #### RECETA, FÓRMULA y TÉCNICAS
-
-<div id="caraqueno"></div>
-<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_4.jpeg" alt="{{page.title}}">
-
-# Golfeado (al estilo Caraqueño)
 
 ## Resultado esperado
 
@@ -59,6 +53,11 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especias.
 - Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
+
+<div id="caraqueno"></div>
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_4.jpeg" alt="{{page.title}}">
+
+# Golfeado (al estilo Caraqueño)
 
 ## Masa (6 unidades de 100g)
 

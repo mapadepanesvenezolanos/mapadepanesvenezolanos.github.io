@@ -12,10 +12,6 @@ featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-* Una Hogaza de pan de 1.110kg
-* Temperatura ambiente 21.5ºC - 25ºC
-* 71.5% de hidratación (Alta hidratación)
-
 ## Resultado esperado
 
 Este es un pan de miga esponjosa, suave, bastante similar a la textura de un ponqué, debido a la combinación de leche, huevo, mantequilla y harina de cachapa que combinados con la azúcar blanca, producen un pan salado y dulce en boca, perfumado a maíz. La corteza de esta versión es un poquito crocante, y como diría el profesor Carlos Arias [^1] “Es como comer cachapas en pan”. Es perfecto para compartir en familia. Para Jesús  ([@1painalafois]) este pan se ha convertido en un clásico de las reuniones familiares y Alexander ([@hazpanencasa]) lo está descubriendo apenas.
@@ -33,6 +29,12 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Pan de Jojoto, masa mejorada con prefermento Poolish](#poolish)
 
 <div id="directo"></div>
+
+# Pan de Jojoto
+
+* Una Hogaza de pan de 1.110kg
+* Temperatura ambiente 21.5ºC - 25ºC
+* 71.5% de hidratación (Alta hidratación)
 
 ## Masa leudada con levadura instantánea
 
@@ -154,14 +156,18 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por 10 minutos para que recupere la crocancia.
 
-------
+---
+
 <div id="poolish"></div>
 
 # Pan de Jojoto
+
 ## Masa mejorada con Prefermento Poolish
+
 * 75% de hidratación (Alta hidratación)
 
 ## Tips
+
 Planifica tres días para la preparación de esta versión del Pan.
 * Día 1: Preparación del prefermento Poolish
 * Día 2: Preparación de la masa del pan y fermentación en nevera

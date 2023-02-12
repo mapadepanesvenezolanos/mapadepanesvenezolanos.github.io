@@ -1,6 +1,6 @@
 ---
 title:  "Piñitas"
-description: "Piñtas en dos presentaciones, método directo y masa mejorada con prefermento poolish"
+description: "Piñitas en dos presentaciones, método directo y masa mejorada con prefermento poolish"
 date:   2022-06-23 19:19:00 -0400
 permalink: /pinitas/
 pdf: Pinitas.pdf
@@ -8,16 +8,16 @@ categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
+
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Método directo](#directo)
+* [Método indirecto - Poolish](#poolish)
+
 #### RECETA, FÓRMULA y TÉCNICAS
-
-# Piñitas
-
-## Masa leudada con levadura instantánea
-
-- 12 Panes de 50 gramos de masa cada uno. Masa total de 600 gramos
-- Temperatura ambiente 21.5ºC - 27ºC
-- 55% de hidratación (Hidratación baja)
-
 
 ## Resultado esperado
 
@@ -32,14 +32,6 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
-
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
-
-* [Método directo](#directo)
-* [Método indirecto - Poolish](#poolish)
-
 ## Tips
 
 - Recomiendo que la harina todo uso que utilices para preparar estos panes, contenga al menos doce (12%) por ciento de proteínas. 
@@ -48,7 +40,13 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 <div id="directo"></div>
 
-## Masa (Método directo)
+## Masa leudada con levadura instantánea (Método directo)
+
+- 12 Panes de 50 gramos de masa cada uno. Masa total de 600 gramos
+- Temperatura ambiente 21.5ºC - 27ºC
+- 55% de hidratación (Hidratación baja)
+
+## Masa
 
 ### Ingredientes para la masa
 

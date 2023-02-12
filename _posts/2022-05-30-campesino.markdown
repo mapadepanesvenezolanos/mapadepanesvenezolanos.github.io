@@ -18,16 +18,6 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<div id="directo"></div>
-
-# Pan Campesino
-
-## Masa leudada con levadura instantánea
-
-- Un Pan con 474g de masa.
-- Una masa semi rústica entre 55% y 65% de hidratación.
-- Contiene azúcar y grasa.
-
 ## Resultado esperado
 
 Es un Pan semi rústico de miga suave, esponjada, con corteza marrón y crujiente.
@@ -53,6 +43,16 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Si se enriquece la masa (se agrega huevo o leche), la temperatura de horneado de partida debe ser menor entre 180ºC/355ºF y 200ºC/390ºF.
 - Para una corteza más gruesa y crujiente deja el Pan más tiempo a baja temperatura (180ºC/355ºF) en el horno..
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera la dejamos atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
+
+<div id="directo"></div>
+
+# Pan Campesino
+
+## Masa leudada con levadura instantánea
+
+- Un Pan con 474g de masa.
+- Una masa semi rústica entre 55% y 65% de hidratación.
+- Contiene azúcar y grasa.
 
 ## Masa (Método directo)
 

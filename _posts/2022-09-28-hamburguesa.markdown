@@ -22,16 +22,6 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<div id="directo"></div>
-
-# Pan de hamburguesa
-
-## Masa leudada con levadura instantánea
-
-- Prepararemos 8 unidades de 100g para un total de 800g de masa
-- Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación)
-
 ## Resultado esperado
 
 Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza uniforme. 
@@ -43,6 +33,16 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
 - Al momento de colocar el barniz hazlo con mucha atención para que todo el pastón tenga barniz y el color quede con un acabado uniforme.
 - Cuando vayas a preparar tus hamburguesas, te recomendamos grillar las tapas del Pan antes de utilizar, para sellarlas y evitar que el Pan absorba humedad de los ingredientes.
+
+<div id="directo"></div>
+
+# Pan de hamburguesa
+
+## Masa leudada con levadura instantánea
+
+- Prepararemos 8 unidades de 100g para un total de 800g de masa
+- Temperatura ambiente 22ºC - 27ºC
+- 49% de hidratación (Baja hidratación)
 
 ## Masa (Método directo)
 

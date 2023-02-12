@@ -12,10 +12,6 @@ featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-* Un Pan de molde de 800g
-* Temperatura ambiente 22ºC - 26ºC
-* 55% de hidratación (Baja hidratación)
-
 ## Resultado esperado
 
 Este es un pan de miga cerrada y suave, de corteza color marrón claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
@@ -32,8 +28,8 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que se realizan siguiendo el mismo paso a paso panadero, y que difieren en un ingrediente: la leche en polvo.
 
-* [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
 * [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
+* [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
 
 ## Tips
 
@@ -42,6 +38,12 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 * Las formulas propuestas en esta receta son leudadas con levadura instantánea y preparadas siguiendo los pasos del método directo.
 
 <div id="migatipobrioche"></div>
+
+# Pan de Sandwich
+
+* Un Pan de molde de 800g
+* Temperatura ambiente 22ºC - 26ºC
+* 55% de hidratación (Baja hidratación)
 
 ### Miga aireada tipo brioche
 

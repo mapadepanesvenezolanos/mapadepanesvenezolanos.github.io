@@ -11,14 +11,6 @@ featured_image: '/images/panes/chino/chino_1.png'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-# Método directo
-
-## Masa leudada con levadura instantánea
-
-* Diez panes redondos de 54g cada uno
-* Temperatura ambiente 22ºC - 26ºC
-* 60% de hidratación (media hidratación)
-
 ## Resultado esperado
 
 Este es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, delicioso con un toque de mantequilla recién salido del horno.
@@ -34,6 +26,14 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
+
+# Pan Chino
+
+## Masa leudada con levadura instantánea
+
+* Diez panes redondos de 54g cada uno
+* Temperatura ambiente 22ºC - 26ºC
+* 60% de hidratación (media hidratación)
 
 ## Masa (Método directo)
 

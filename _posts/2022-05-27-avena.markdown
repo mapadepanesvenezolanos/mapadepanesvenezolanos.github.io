@@ -11,10 +11,6 @@ featured_image: '/images/panes/avena/avena_4.jpeg'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-* Una (1) barra de pan de 900g 
-* Temperatura ambiente 22ºC - 27ºC
-* 65% de hidratación (media hidratación)
-
 ## Resultado esperado
 
 Queremos que puedas crear un pan de molde, de miga cerrada y esponjosa, debido a la combinación de huevo, leche y
@@ -37,6 +33,12 @@ integrales llamados Negro, de Avena y Afrecho, segun el componente incorporados 
 - El extracto de malta se utiliza generalmente para producir panes con una miga y corteza de color oscuro con aromas a cereales. Este ingrediente podrías obtenerlo reduciendo el líquido de una lata de malta a fuego lento hasta que el líquido esté espeso. Otra opción sería utilizar melao de papelón, miel de papelón o miel de abeja para reemplazar el extracto de malta en la masa, en la misma proporción.
 
 <div id="directo"></div>
+
+# Pan de Avena
+
+* Una (1) barra de pan de 900g 
+* Temperatura ambiente 22ºC - 27ºC
+* 65% de hidratación (media hidratación)
 
 ## Masa leudada con levadura instantánea
 

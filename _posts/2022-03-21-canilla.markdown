@@ -11,16 +11,6 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<div id="directo"></div>
-
-# Pan Canilla
-
-## Masa leudada con levadura instantánea
-
-- Un Pan con 220g a 250g de masa.
-- Una masa sobada entre 50% y 60% de hidratación.
-- Contiene azúcar y grasa.
-
 ## Resultado esperado
 
 - Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marrón y quebradiza.
@@ -56,6 +46,15 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 - Los tiempos del proceso presentado son referenciales y se ajustan y adaptan a las condiciones ambientales.
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
 
+<div id="directo"></div>
+
+# Pan Canilla
+
+## Masa leudada con levadura instantánea
+
+- Un Pan con 220g a 250g de masa.
+- Una masa sobada entre 50% y 60% de hidratación.
+- Contiene azúcar y grasa.
 
 ## Masa (Método directo)
 

@@ -13,10 +13,6 @@ featured_image: '/images/panes/afrecho/afrecho_3.jpeg'
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-* Una (1) barra de pan de 900g 
-* Temperatura ambiente 22ºC - 27ºC
-* 628% de hidratación (hidratación media)
-
 ## Resultado esperado
 
 Queremos que puedas producir una masa que te servirá para formar un hermoso pan de molde, un pan tipo deli o también panecillos de hamburguesa. La miga que estamos buscando, es cerrada, esponjosa y muy suave debido a la combinación de huevo, leche en polvo, mantequilla, y el adecuado nivel de hidratación. Los ingredientes han sido combinados con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región andina del mapa de
@@ -41,6 +37,12 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero,esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 
 <div id="directo"></div>
+
+# Pan de Afrecho
+
+* Una (1) barra de pan de 900g 
+* Temperatura ambiente 22ºC - 27ºC
+* 628% de hidratación (hidratación media)
 
 ## Masa leudada con levadura instantánea
 

@@ -20,16 +20,6 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-<div id="directo"></div>
-
-# Pan de Leche
-
-## Masa leudada con levadura instantánea
-
-* 12 Panes de 45 g de masa/6 panes de 90g.
-* Temperatura ambiente 22.5ºC - 27ºC.
-* 52.5% de hidratación (Baja hidratación).
-
 ## Resultado esperado
 
 Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa los aman recién salidos del horno, calentados 8 segundos en el microondas. Jesús [@1painalafois] se los come untados con diablitos underwood. A Alexander [@hazpanencasa] le encanta comerlos con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
@@ -48,6 +38,16 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - Normalmente se realiza la decoración del pastón justo antes de meterlo en el horno. Como cada pastón va a tener una costra de azúcar, este paso se va a realizar antes de la fermentación final. Se cambia el orden para generar el efecto de la costra de azúcar. Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
+
+<div id="directo"></div>
+
+# Pan de Leche
+
+## Masa leudada con levadura instantánea
+
+* 12 Panes de 45 g de masa/6 panes de 90g.
+* Temperatura ambiente 22.5ºC - 27ºC.
+* 52.5% de hidratación (Baja hidratación).
 
 ## Masa (Método directo)
 
