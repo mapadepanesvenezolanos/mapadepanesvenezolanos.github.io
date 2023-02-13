@@ -1,5 +1,6 @@
 ---
 title: "Pan de Hamburguesa"
+subtitle: "El resuelve de las noches y los fines de semana."
 date: 2022-09-28 10:32:39 -0400
 permalink: /hamburguesa/
 pdf: Pan-de-hamburguesa.pdf

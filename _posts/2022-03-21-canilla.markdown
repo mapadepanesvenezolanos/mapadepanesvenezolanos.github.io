@@ -1,5 +1,6 @@
 ---
 title:  "Pan Canilla"
+subtitle: "El pan más popular de Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque."
 date:   2022-03-21 18:00:39 -0400
 permalink: /canilla/
 pdf: Pan-Canilla.pdf

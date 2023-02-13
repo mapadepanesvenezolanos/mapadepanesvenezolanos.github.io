@@ -1,5 +1,6 @@
 ---
 title: "Pan de Leche"
+subtitle: "Nuestro pancito dulce tradicional azucarado."
 date: 2022-04-07 07:13:00 -0400
 permalink: /leche/
 pdf: Pan-de-Leche.pdf

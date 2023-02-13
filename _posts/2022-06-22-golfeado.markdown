@@ -1,6 +1,6 @@
 ---
 title:  "Golfeado"
-description: Golfeados en dos presentaciones, caraqueño y del junquito.
+subtitle: "Nuestro rollo tradicional con melao de papelón y queso."
 date:   2022-06-22 14:28:00 -0400
 permalink: /golfeado/
 pdf: Golfeado.pdf

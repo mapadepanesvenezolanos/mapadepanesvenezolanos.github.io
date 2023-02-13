@@ -1,5 +1,6 @@
 ---
 title: "Pan Chino"
+subtitle: "El que te sirven cuando pides arroz chino."
 date: 2022-09-30 07:30:39 -0400
 permalink: /chino/
 pdf: Pan-chino.pdf

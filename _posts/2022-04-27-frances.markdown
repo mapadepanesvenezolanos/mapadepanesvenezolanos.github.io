@@ -1,5 +1,6 @@
 ---
 title:  "Pan Francés"
+subtitle: "El que recuerdas de niño, el  pan de a locha."
 date:   2022-04-27 18:00:39 -0400
 permalink: /frances/
 pdf: Pan-Frances.pdf

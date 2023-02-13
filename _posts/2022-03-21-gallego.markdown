@@ -1,5 +1,6 @@
 ---
 title:  "Pan Tipo Gallego y el Mollete Gallego"
+subtitle: "El pan que te sirven en la candelaria cuando vas a comer paella."
 date:   2022-03-20 18:00:39 -0400
 permalink: /gallego/
 pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf

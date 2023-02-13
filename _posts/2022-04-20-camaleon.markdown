@@ -1,5 +1,6 @@
 ---
 title:  "Pan Camaleón"
+subtitle: "El pan tradicional de los andes. Es la base para muchos panes que recordamos de los andes."
 date:   2022-03-21 18:00:39 -0400
 permalink: /camaleon/
 pdf: Camaleon.pdf

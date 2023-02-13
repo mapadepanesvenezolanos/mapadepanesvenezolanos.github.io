@@ -1,5 +1,6 @@
 ---
 title: "Pan de Perro Caliente"
+subtitle: "Para resolver una comida, rápido y conveniente."
 date: 2022-09-28 10:32:39 -0400
 permalink: /perro/
 pdf: Pan-de-perro.pdf
