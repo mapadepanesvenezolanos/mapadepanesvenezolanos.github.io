@@ -1,5 +1,6 @@
 ---
 title:  "Arepas"
+description: "El pan de los venezolanos"
 date:   2022-05-11 14:28:00 -0400
 permalink: /arepas/
 pdf: Arepas.pdf
@@ -7,6 +8,139 @@ categories: Arepas los_llanos
 featured_image: '/images/panes/arepa/arepa_1.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+#### RECETA, FÓRMULA y TÉCNICAS
 
-{% include pdf.html %}
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+### Masa con harina de maíz blanco precocido
+
+- 10 Arepas de 75 g de masa
+- Temperatura ambiente 21.5ºC - 27ºC
+- 150% de hidratación (Alta hidratación)
+- Tiempo de preparación aproximado: entre 35 y 45 minutos
+
+## Resultado esperado
+
+La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que
+se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas
+con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús (@1painalafois) las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
+
+## Origen
+
+“Del cumanagoto erepa 'maíz'. Especie de pan de forma circular, hecho con maíz ablandado a fuego lento y luego molido, o con harina de maíz precocida, que se cocina sobre un budare o una plancha. La arepa es el plato típico venezolano por
+excelencia icónico de la gastronomía del país. Es consumida en toda la geografía del país, se suele comer casi todos los
+días, rellena, en el desayuno o en la cena como plato principal o como acompañante.”[^1]
+
+"Sobre las arepas cuenta que “hacen otra suerte de pan a modo de tortillas, de un dedo de grueso redondas y grandes como un plato a la francesa, o poco más o menos, y las ponen a cocer en una tortera sobre el fuego, untándolas con grasa para que no se peguen, volteándolas hasta que estén cocidas por ambos lados y a esta clase llaman areppas y algunos fecteguas”. También habla de un pan de maíz pequeño y redondo cocido bajo las brasas al que llaman abozzos que no es indígena, ya que “lo han aprendido a hacer de nosotros en ciertos anafres de barro”. Más adelante escribe que “el pan de dicho grano, o maíz, que nosotros los cristianos hacíamos allá era muy bueno, sobre todo cuando llegábamos a los pueblos”. Cuenta que las indias ponían en remojo un poco de dicho grano y que “una hace mejor pan que otra, según la mano, y hay muchos que tienen una india para hacer pan solo para dos o tres cristianos”. Cuando tenían que salir repentinamente por 4 o 5 días, “sin llevar indias que muela, asaban las arepas en una tortera para llevarlas secas como mantenimiento"[^2]
+
+[^1]: El señor de los aliños, Miro Popic.
+[^2]: La historia de las arepas de Zoraida Rodriguez por Miro Popic.
+
+## Tips
+
+- Para garantizar un mejor resultado durante la cocción y así crear una buena costra, te recomiendo utilizar un sartén bien curado en la superficie y de ser posible un budare
+
+#### Masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina de maiz precocida (P.A.N)                             |      100%     |      295g |
+| Agua tibia                                                   |      155%     |      155g |
+| Sal                                                          |      1.3%     |        4g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **256%**    |  **750g** |
+
+## Paso a paso 
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+- En un envase deposita el agua y agrega dos (2) gramos de sal. 
+- Luego mezcla ambos ingredientes ayudándote con una paleta o mi utensilio favorito, el dedo mágico de cocina.
+- Prueba el agua y verifica el sabor del agua para saber si el nivel de sal está a tu gusto.
+- Si a tu gusto le hace falta más sal, agrega los 2 gramos de sal restantes hasta disolver completamente en el agua.
+- Agrega poco a poco la harina de maíz precocida en el envase con la mezcla de agua y sal, y ayudándote con la paleta/dedo mágico de cocina ve mezclando la harina hasta formar una bolita homogénea de masa. 
+- Amasa durante dos (2) minutos.
+- Cubre el envase y deja la masa reposar en la mesa a temperatura ambiente durante cinco (5) minutos.
+
+#### División y pesado 
+
+- Saca la masa del recipiente tapado.
+- Procede a pesar la masa total.
+- Divide la masa en diez (10) porciones de setenta y cinco (75) gramos cada una.
+
+### Pre-Formado
+
+- **Bolea** la masa con ambas manos, dejando la superficie lisa y suave.
+- Deja reposar las bolitas cubiertas en la mesa durante cinco (5) minutos.\
+
+### Formado plano
+
+- Toma una bolita, coloca sobre la mesa de trabajo y con la palma de la mano, haz presión en la parte superior de la bolita, hasta formar un platillo de masa de diez (10) centímetros de diámetro por uno y medio (1.5) centímetros de
+alto.
+- Repite el paso anterior con cada bolita.
+- Coloca las bolitas en una bandeja plana.
+
+<div id="cocinadosimultaneo"></div>
+
+### Cocinado por lotes de cinco arepas 
+
+- Enciende una de las hornillas de tu cocina a fuego medio.
+- Con la ayuda de una brochita de cocina, barniza tu plancha de cocina con una media cucharadita (½)de aceite vegetal.
+- Coloca la plancha de cocina en la hornilla
+- Calienta la plancha de cocina hasta que al colocar tu mano por encima y a diez (10) centímetros de distancia, sientas el calor que de ella se desprende.
+- Coloca tus primeros (5) discos de masa/arepas en la plancha, distribuidos de tal forma que estén separados al menos un centímetro en la plancha.
+- Cocina tus arepas cinco minutos por cada lado.
+
+### Prueba de cocción
+
+- Por cada arepa en la plancha de cocina, con la ayuda de un guante de cocina, retira la arepa que deseas probar y percute uno de sus lados con tu dedo índice. Si el sonido es hueco, entonces tu arepa está lista. En caso contrario, coloca la arepa de nuevo en la plancha de cocina y verifica nuevamente en dos minutos.
+- Repite el paso anterior con cada una de las arepas dispuestas en la plancha.
+- Retira cada arepa de la plancha de cocina, y colócalas en un recipiente cubiertas con un paño de tela para que mantengan el calor.
+
+Procede a cocinar el segundo lote de arepas, siguiendo los pasos que se indican en la etapa [Cocinado por lotes de cinco arepas simultáneamente](#cocinadosimultaneo)
+
+### Horneado (opcional)
+
+- Enciende el horno a trescientos cincuenta y cinco (355) grados fahrenheit.
+- Una vez alcanzada la temperatura del horno, coloca tus arepas ya cocidas en una bandeja plana.
+- Introduce la bandeja en el horno y hornea las arepas durante diez (10) minutos o hasta que veas que percibas que se infla la costra.
+
+### Relleno y degustación
+
+- Abre tu arepa por un costado y rellénala al gusto !!
+- Disfruta cada bocado de tu arepa de maíz precocido!!!
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de esta receta, hemos utilizado como fuente de inspiración, las fórmulas del libro **Clásicos de la cocina venezolana de Armando Scannonne** y las instrucciones de fabricación que vienen en el reverso de la Harina de maíz precocida marca P.A.N
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 2.3.0__
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
