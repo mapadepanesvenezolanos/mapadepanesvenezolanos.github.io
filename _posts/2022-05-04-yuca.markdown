@@ -1,7 +1,7 @@
 ---
 title:  "Pan de Yuca"
 date:   2022-05-04 21:59:00 -0400
-permalink: /yuca/
+permalink: /panes-venezolanos/pan-de-yuca/
 pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/yuca/yuca_3.jpeg'

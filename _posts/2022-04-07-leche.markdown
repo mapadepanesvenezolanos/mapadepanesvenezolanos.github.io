@@ -2,7 +2,7 @@
 title: "Pan de Leche"
 subtitle: "Nuestro pancito dulce tradicional azucarado."
 date: 2022-04-07 07:13:00 -0400
-permalink: /leche/
+permalink: /panes-venezolanos/pan-de-leche/
 pdf: Pan-de-Leche.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'

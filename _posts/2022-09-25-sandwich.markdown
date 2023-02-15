@@ -2,7 +2,7 @@
 title: "Pan de Sandwich"
 description: "Pan de Sandwich en dos presentaciones, miga aireada tipo brioche y miga tupida y cerrada"
 date: 2022-09-25 10:32:39 -0400
-permalink: /sandwich/
+permalink: /panes-venezolanos/pan-de-sandwich/
 pdf: Pan-de-sandwich.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/sandwich/sandwich_1.jpeg'

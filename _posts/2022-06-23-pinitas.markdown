@@ -2,7 +2,7 @@
 title:  "Piñitas"
 subtitle: "Un pan dulce inconfundible con aroma y sabor a anís."
 date:   2022-06-23 19:19:00 -0400
-permalink: /pinitas/
+permalink: /panes-venezolanos/pinitas/
 pdf: Pinitas.pdf
 categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'

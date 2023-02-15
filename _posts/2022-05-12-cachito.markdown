@@ -2,7 +2,7 @@
 title:  "Cachito"
 subtitle: "El desayuno tradicional de todos los días."
 date:   2022-05-12 14:28:00 -0400
-permalink: /cachito/
+permalink: /panes-venezolanos/cachito/
 pdf: Cachitos.pdf
 categories: Cachitos capital
 featured_image: '/images/panes/cachito/cachito_4.jpeg'

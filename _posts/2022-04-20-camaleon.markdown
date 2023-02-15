@@ -2,7 +2,7 @@
 title:  "Pan Camaleón"
 subtitle: "El pan tradicional de los andes. Es la base para muchos panes que recordamos de los andes."
 date:   2022-03-21 18:00:39 -0400
-permalink: /camaleon/
+permalink: /panes-venezolanos/pan-camaleon/
 pdf: Camaleon.pdf
 categories: pan_dulce los_andes
 featured_image: '/images/panes/camaleon/camaleon_0.jpeg'

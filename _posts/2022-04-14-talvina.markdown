@@ -2,7 +2,7 @@
 title:  "Talvina"
 subtitle: "Nuestra masa madre. La base de los panes que se hacen en los andes venezolanos, la base del pan andino."
 date:   2022-04-07 07:13:00 -0400
-permalink: /Talvina/
+permalink: /panes-venezolanos/talvina/
 pdf: Talvina.pdf
 categories: masa_madre los_andes
 featured_image: '/images/panes/talvina/talvina_3.jpeg'

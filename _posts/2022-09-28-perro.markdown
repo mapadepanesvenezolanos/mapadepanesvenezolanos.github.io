@@ -2,7 +2,7 @@
 title: "Pan de Perro Caliente"
 subtitle: "Para resolver una comida, rápido y conveniente."
 date: 2022-09-28 10:32:39 -0400
-permalink: /perro/
+permalink: /panes-venezolanos/pan-de-perro/
 pdf: Pan-de-perro.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/perro/perro_alba.jpeg'

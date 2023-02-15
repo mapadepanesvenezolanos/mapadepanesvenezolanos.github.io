@@ -2,7 +2,7 @@
 title:  "Golfeado"
 subtitle: "Nuestro rollo tradicional con melao de papelón y queso."
 date:   2022-06-22 14:28:00 -0400
-permalink: /golfeado/
+permalink: /panes-venezolanos/golfeado/
 pdf: Golfeado.pdf
 categories: golfeado capital
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'

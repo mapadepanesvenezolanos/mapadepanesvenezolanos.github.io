@@ -2,7 +2,7 @@
 title:  "Pan Campesino"
 subtitle: "El pan que acompaña nuestras comidas y bueno para un sandwich bien resuelto."
 date:   2022-05-30 18:00:39 -0400
-permalink: /campesino/
+permalink: /panes-venezolanos/pan-campesino/
 pdf: Pan-Campesino.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/campesino/campesino_1.jpeg'
