@@ -64,7 +64,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ## Paso a paso del panadero
 
-<div id="preparacion"></div>
+<div id="preparaciondelamasa"></div>
 
 ### Preparación de la masa
 
@@ -199,9 +199,7 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 
 ### Preparación de la masa
 
-- Pesa todos los ingredientes y colócalos en envases separados.
-- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+- Ir a la sección [**preparación de la masa**](#preparaciondelamasa)
 
 ### Mezcla y amasado
 
@@ -219,6 +217,62 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 - Forma una bola y deposítala dentro de un envase cubierto durante diez (10) minutos.
 - De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso[**prueba de la membrana de gluten**](#pruebamembranagluten).
 
+---
+# Pan de Yuca
+
+<div id="talvina"></div>
+
+## Masa mejorada con Talvina
+
+## Tips
+
+Planifica dos días para la preparación de esta versión del Pan de Yuca. 
+- Día 1: Preparación de la Masa Madre [Talvina]
+- Día 2: Preparación de la masa del pan
+
+### Ingredientes para la masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      220g |
+| Puré de yuca                                                 |       44%     |       97g |
+| Agua                                                         |       25%     |       55g |
+| Levadura instantánea                                         |        1%     |        2g |
+| Sal                                                          |        3%     |        6g |
+| Huevos ligeramente batidos                                   |      9,3%     |       20g |
+| Mantequilla sin sal                                          |      8,7%     |       19g |
+| Azúcar                                                       |        5%     |       10g |
+| Aceite vegetal/canola                                        |        6%     |       14g |
+| Talvina                                                      |       49%     |      108g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |    **251%**   |  **550g** |
+
+## Paso a paso del panadero
+
+### Preparación de la talvina
+- Ir a la sección preparación de la [Talvina]
+
+### Preparación de la masa
+
+- Ir a la sección [**preparación de la masa**](#preparaciondelamasa)
+
+### Mezcla y amasado
+
+####  Ciclo de amasado
+
+- Para la mezcla inicial reserva la sal.
+- En un primer envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
+- En un segundo envase, mezcla los ingredientes líquidos: el agua, con la talvina, el huevo ligeramente batido, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante 20 segundos hasta disolver. 
+- Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán.
+- Integra los ingredientes hasta tener un amasijo.
+- Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
+- Continua amasando la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso[**prueba de la membrana de gluten**](#pruebamembranagluten). Solo debemos considerar diferencias en el tiempo de maduración ya que estamos utilizando poca levadura y talvina.
+
+#### Fermentación final (maduración y retardo en nevera)
+- Deje reposar los pastones tapados, aproximadamente por tres (3) horas en un lugar fresco, sin corrientes de aire, a una temperatura entre 24oC y 27oC o hasta que **supere la prueba de maduración con el dedo**.
+- Si no utilizas levadura, el tiempo es más prolongado, aproximadamente 16 a 20 horas o hasta que supere la prueba de maduración con el dedo. 
+
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración la receta del [Grupo Academico Panadero y Pastelero de Venezuela] y el [Instituto Europeo del PAN].
@@ -231,7 +285,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.8.0__
+__Versión 3.0.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
@@ -242,3 +296,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
 [Grupo Academico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Talvina]:https://mapadepanesvenezolanos.github.io/panes-venezolanos/talvina/
