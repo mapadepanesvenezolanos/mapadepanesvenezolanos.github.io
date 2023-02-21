@@ -188,12 +188,13 @@
 	.table-wrap {
 		display: inline-table;
 		width: 100%;
-		max-width: 60%;
+		max-width: 90%;
 		margin: 0 0;
 		overflow-x: auto;
+		padding-left:30px;
 
 		table {
-			max-width: 60%;
+			max-width: 90%;
 		}
 
 		@include mq(tabletp) {

@@ -18,7 +18,7 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 
 ## Resultado esperado
 
-Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un poco de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
+Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
 
 ## Tips
 
@@ -30,11 +30,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 
 <img class="post_image post_image_right" src="/images/panes/gallego/gallego_6.jpeg" alt="{{page.title}}">
 
-- En la nevera se duermen las levaduras, por el frío, y quedan realizando el proceso de fermentación las bacterias, las
-bacterias generan ácidos que le darán sabor al futuro Pan. Si deseas bajar la acidez entonces el pH de inicio debe ser mayor a 4.2. Para lograr esto recomiendo que los refrescos a la Masa Madre se realicen cuando está activa y no cuando ha
-bajado. Es decir, posiblemente antes de las 12h ya la Masa Madre va a requerir un refresco. Es frecuente que en 5h una Masa Madre alimentada 1:1:1 ya alcanza su pico, es en ese momento que se utiliza o se refresca. Si deseas hacer más lento ese proceso puedes aumentar la relación a 1:4:4 o 1:8:8. Este aumento de la relación hace más lento el proceso y permite planificar y adaptarla a un cronograma que nos convenga. Yo particularmente he subido la relación a 1:16:16 porque alcanza su pico entre 9-10 horas y como el proceso es lento tengo más tiempo para iniciar la preparación sin que se acidifique
-mucho la Masa Madre, además no tengo descarte con una relación alta y me permite ahorrar ingredientes. Para subirla a 1:16:16, hay que hacerlo poco a poco, de 1:1:1, a 1:2:2, cuando ya alcanza el pico en 8 horas, la puedes subir a
-1:4:4 y así hasta llegar a la relación que deseas. Esto es aplicar larga fermentación inclusive a la Masa Madre.
+- En la nevera se duermen las levaduras, por el frío, y quedan realizando el proceso de fermentación las bacterias, las bacterias generan ácidos que le darán sabor al futuro Pan. Si deseas bajar la acidez entonces el pH de inicio debe ser mayor a 4.2. Para lograr esto recomiendo que los refrescos a la Masa Madre se realicen cuando está activa y no cuando ha bajado. Es decir, posiblemente antes de las 12h ya la Masa Madre va a requerir un refresco. Es frecuente que en 5h una Masa Madre alimentada 1:1:1 ya alcanza su pico, es en ese momento que se utiliza o se refresca. Si deseas hacer más lento ese proceso puedes aumentar la relación a 1:4:4 o 1:8:8. Este aumento de la relación hace más lento el proceso y permite planificar y adaptarla a un cronograma que nos convenga. Yo particularmente he subido la relación a 1:16:16 porque alcanza su pico entre 9-10 horas y como el proceso es lento tengo más tiempo para iniciar la preparación sin que se acidifique mucho la Masa Madre, además no tengo descarte con una relación alta y me permite ahorrar ingredientes. Para subirla a 1:16:16, hay que hacerlo poco a poco, de 1:1:1, a 1:2:2, cuando ya alcanza el pico en 8 horas, la puedes subir a 1:4:4 y así hasta llegar a la relación que deseas. Esto es aplicar larga fermentación inclusive a la Masa Madre.
 - Para lograr una greña espectacular deben ocurrir al menos tres cosas: Tener una masa con estructura, esto es que mantiene su forma, no dejar que sobre fermente la masa y una primera etapa de horneado con vapor. La estructura se logra con pliegues, estirar y plegar, extender y plegar durante la fermentación en bloque. Evitar la sobre fermentación cuidando el punto donde entra a la nevera y finaliza la fermentación el bloque y empieza el retardo. Hornear con vapor en la primera etapa en el horno para permitir que se expanda la pieza lo más posible antes que la corteza se forme.
 - A veces la Masa Madre es lenta o con poca fuerza, recomiendo que la fermentación en bloque y maduración se haga a temperatura ambiente para entender la fermentación y su efecto para luego realizar retardo en nevera. La temperatura idónea para el proceso de fermentación está alrededor de los 25ºC a 28ºC, procura dicha temperatura.
 
@@ -55,9 +51,9 @@ mucho la Masa Madre, además no tengo descarte con una relación alta y me permi
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera (13%)                                        |      100%     |      300g |
-| Agua                                                         |      70%      |      210g |
-| Sal                                                          |      2%       |        6g |
-| Masa Madre                                                   |     20%       |       60g |
+| Agua                                                         |       70%     |      210g |
+| Sal                                                          |        2%     |        6g |
+| Masa Madre                                                   |       20%     |       60g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **192%**    |  **576g** |
 
@@ -130,6 +126,7 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 - Saca la bandeja y mueve el Pan a una rejilla. Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 355ºF por diez (10) minutos para que recupere la crocancia.
+
 ---
 
 <div id="tipomollete"></div>
@@ -151,7 +148,8 @@ Planifica dos días para la preparación de esta hogaza de pan.
 - Día 2: Preparación de la masa de hogaza del pan
 
 Esta hogaza de pan se conserva bien a temperatura ambiente, en bolsa de papel/plástico, durante al menos 5 días.
-Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan en el horno a 350 grados farenheit durante cinco (5) minutos.
+
+Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan en el horno a 350ºF durante cinco (5) minutos.
 
 ### Prefermento Pie Francés
 
@@ -202,8 +200,7 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 - En un segundo envase, coloca 300 gramos del total del agua indicada en la fórmula.
 - Agrega poco a poco, la harina y la sal en el segundo envase con agua. 
 - Mezcla los ingredientes hasta que se forme una bolita de masa.
- Nota: Si su harina soporta mayor cantidad de agua, entonces agregue poco a poco los 130 gramos de agua restantes de la
- fórmula.
+ Nota: Si su harina soporta mayor cantidad de agua, entonces agregue poco a poco los 130 gramos de agua restantes de la fórmula.
 - Continúa mezclando los ingredientes hasta que la bolita de masa haya recogido toda la harina del fondo del envase.
 - Integra el prefermento pie (masa madre) con la masa hasta que quede bien mezclada.
 - Cubre el envase con una bolsa de plástico, o paño de tela y luego deja reposar en mesa a temperatura ambiente (25 grados centígrados) durante 20 minutos.
