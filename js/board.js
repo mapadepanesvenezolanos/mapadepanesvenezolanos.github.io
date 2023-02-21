@@ -329,7 +329,7 @@
 	}
 
 	// Run functions on load
-	pageFunctions();
+	//pageFunctions();
 
 
 	// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
