@@ -170,6 +170,9 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
  float: right;
 }
 
+.big-table {
+ max-width: 90%;
+}
 
 
 

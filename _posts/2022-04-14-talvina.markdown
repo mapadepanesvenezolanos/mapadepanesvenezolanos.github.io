@@ -8,6 +8,164 @@ categories: masa_madre los_andes
 featured_image: '/images/panes/talvina/talvina_3.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento sobre la {{ page.title }}</a>
+Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición, te dejamos el procedimiento para prepararla desde cero y también para prepararla a partir de una masa madre líquida. La primera opción nos gusta mas porque genera sabores más desarrollados.
 
-{% include pdf.html %}
+Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+
+* [Talvina](#talvina)
+* [Talvina Express](#express)
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+La Talvina es la masa madre de origen Venezolano que se ha utilizado en la preparación de Panes en la región de Los Andes.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+## Resultado esperado
+
+Una Masa Madre líquida dulce y especiada para hacer Panes Andinos con un sabor lo más cercano posible al tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el  aroma a papelón.
+
+## Origen
+
+El Pan dulce Andino “...parte un fermento denominado ‘guarapo’ o ‘talvina’ (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.” [^1]
+
+La Talvina se utiliza en la preparación artesanal y tradicional de los Panes Andinos que parten de una masa base para realizar distintas preparaciones en distintos formatos, en rollo, rellenas, en bollo o en barra. Entre ellos el Pan de Leche, de Guayaba, de Arequipe, Camaleón, entre los más representativos. 
+
+En una publicación reciente[^2], [@pochove] nos dice que su versión de la Talvina con la cual prepara sus Panes “... tiene cacao, tiene café de aquí de Yaracuy, tiene canela, tiene clavo, tiene guayabita, tiene Pan…, trigo de Mérida,...”.
+
+Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propietario de la Panadería “Las Cumbres” donde señala que en una pipa (barril) se le pone agua a la mitad, 18 o 24 panelas de papelón y tres potes de harina, se mezcla y luego se coloca harina encima. Al día siguiente ya debe tener burbujas.
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+[^2]: “Pocho” Suarez Baker Chef.
+[^3]: Palabras del Dr. Ramón J. Velasquez y el panadero Sebastian Alviárez. de panadería "Las Cumbres"
+
+## Tips
+
+- Esta Masa Madre originalmente se fermenta a temperatura ambiente entre  12ºC y 22ºC  en los Andes Venezolanos.
+- La proporción de agua es mayor que la proporción de harina y esto mejora la actividad en la Masa Madre.
+- Contiene azúcar y papelón rayado, además de especies, para darle sabor.
+- Esta Masa Madre reta lo convencional en la Panadería (temperatura ambiente ideal entre 24ºC y 28ºC y sin azúcar añadida), ya que se siembra y se mantiene a temperatura baja y tiene alto contenido de azúcar, lo cual la hace tolerante al azúcar.
+- En las tablas de cantidades, hemos agregado una columna de nombre “A preparar”. Utiliza esas cantidades, ya que la Masa Madre pierde peso durante la fermentación. Estamos agregando 15% más de cada ingrediente.
+- Puedes sustituir el azúcar por miel.
+- Además, puedes agregar algunas especies para darle un sabor característico y diferente. Algunas opciones son: clavo de olor, pimienta guayabita, canela, anís, cacao, café, entre otros.
+- Hemos visto versiones donde se agrega malta o cerveza. Puedes reemplazar un poco del agua por estos dos líquidos.
+- También puedes utilizar esencia de vainilla (1% - 2%).
+
+---
+
+# Masa Madre **Talvina**
+
+<div id="talvina"></div>
+
+### Ingredientes
+
+| Ingrediente               | Fórmula     | Peso   | 15% más|
+|:--------------------------|:-----------:|-------:|-------:|
+| Harina panadera           |        100% |   39g  |   45g  |
+| Agua                      |        150% |   58g  |   67g  |
+| Azúcar                    |         30% |   12g  |   13g  |
+| Panela                    |         30% |   12g  |   13g  |
+|---------------------------|-------------|--------|--------|
+|**Total**                  |    **310%** |**120g**|**138g**|
+
+## Paso a paso de la preparación
+
+| Día     | Procedimiento                                            | Reposo   |
+|:--------|:---------------------------------------------------------|---------:|
+| 0       | Mezcla los ingredientes en un frasco en la cantidad indicada en la tabla “Talvina” en la columna “A preparar” y tápalo con una gasa. Déjalo a temperatura ambiente (24ºC).                                                               |     24h  |
+| 1       | Mezcla el contenido del frasco.                          |     24h  |
+| 2       | Mezcla el contenido del frasco.                          |     24h  |
+| 3       | Mezcla el contenido del frasco.                          |     24h  |
+| 4       | Mezcla el contenido del frasco.                          |     24h  |
+| 5       | Mezcla el contenido del frasco.                          |     24h  |
+| 6       | Descarta la mitad de la mezcla y agrega la cantidad indicada en “Talvina refresco” en la columna “A preparar”.                                                |     12h  |
+| 7       | Descarta la mitad de la mezcla y agrega la cantidad indicada en “Talvina refresco” en la columna “A preparar”.                                                |      ?   |
+| 7       | Cuando esté activa, aproximadamente 4h después ya la puedes utilizar en tu preparación. Deja levar la masa de tu Pan a temperatura ambiente.                      | 18h - 24h|
+|---------|----------------------------------------------------------|----------|
+
+### Ingredientes del refresco
+
+| Ingrediente               | Fórmula     | Peso   | 15% más|
+|:--------------------------|:-----------:|-------:|-------:|
+| Harina panadera           |        100% |   19g  |   22g  |
+| Agua                      |        150% |   29g  |   33g  |
+| Azúcar                    |         30% |    6g  |    7g  |
+| Panela                    |         30% |    6g  |    7g  |
+| Talvina                   |        310% |   60g  |   69g  |
+|---------------------------|-------------|--------|--------|
+|**Total**                  |    **620%** |**120g**|**138g**|
+
+## Paso a paso del refresco
+
+- En un recipiente agrega la Talvina, el agua y mezcla.
+- Agrega el azúcar y el papelón y mezcla.
+- Agrega la harina y mezcla, cuida que no queden grumos o harina pegada al envase.
+- Coloca el frasco en un lugar fresco con una temperatura entre 24ºC a 26ºC.
+
+---
+
+# **Talvina** Express
+
+<div id="express"></div>
+
+### Ingredientes
+
+| Ingrediente               | Fórmula     | Peso   | 15% más|
+|:--------------------------|:-----------:|-------:|-------:|
+| Harina panadera           |        100% |   36g  |   42g  |
+| Agua                      |        150% |   55g  |   63g  |
+| Azúcar                    |         30% |   11g  |   10g  |
+| Panela                    |         30% |   11g  |   10g  |
+| Masa Madre natural líquida|         30% |   11g  |   13g  |
+|---------------------------|-------------|--------|--------|
+|**Total**                  |    **340%** |**124g**|**138g**|
+
+## Paso a paso de la preparación
+
+| Día     | Procedimiento                                            | Reposo   |
+|:--------|:---------------------------------------------------------|---------:|
+| 0       | Refresca tu masa madre líquida.                          | 3h - 6h  |
+| 1       | Mezcla los ingredientes de la Talvina con la masa madre líquida en su pico de actividad.                                                           |18h - 24h |
+| 2       | Cuando esté activa la Talvina úsala en la preparación del Pan. Deja levar la masa a temperatura ambiente (24ºC).                                                     |18h - 24h |
+|---------|----------------------------------------------------------|----------|
+
+---
+
+### Referencias y enlaces
+
+Como referencia hemos utilizado como fuente las fórmulas de [@saporidellacucina], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Chef Laszlo Gyomrey], [@pochove], [las recetas favorita de hilmar] y [la reseña de la Chef Panadera Edelmira D’Santiago de Baptista].
+
+Nos gusta particularmente la reseña de Frederick Jiménez Silva de nombre “[Lo Sabroso del Pan Andino se llama Talvina]”. Además de la [página de su autoría] donde deja varios artículos interesantes sobre el tema.
+
+Hay dos referencias muy importantes que nos dan luces sobre nuestra historia gastronómica: Leonor Peña con su libro La Cocina Tachirense y el Profesor Rafael Cartay. Ambos aparecen repetidamente en las bibliografías consultadas.
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 1.4 (27/05/2022)_
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@taosbaker]: http://www.instagram.com/taosbaker
+[@pochove]: http://www.instagram.com/pochove
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[las recetas favorita de hilmar]: https://www.recetasfavoritashilmar.com/search?q=talvina
+[la reseña de la Chef Panadera Edelmira D’Santiago de Baptista]: http://lachefpanadera.blogspot.com/2012/11/masa-madre-natural-de-guarapo-o-papelon.html
+[Lo Sabroso del Pan Andino se llama Talvina]: http://rutasgolosas.com/2016/10/lo-sabroso-del-pan-andino-se-llama-talvina-por-frederick-jimenez-silva/?doing_wp_cron=1649864755.0887439250946044921875
+[página de su autoría]: http://pantachirense.blogspot.com
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@saporidellacucina]: http://www.instagram.com/saporidellacucina
+[@steconstance]: http://www.instagram.com/steconstance

@@ -291,12 +291,12 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="talvina"></div>
 
-## Masa Madre [**Talvina**](/talvina/)
+## Masa Madre [**Talvina**](/panes-venezolanos/talvina/)
 
 ### Tips
 
 - Planifica dos días para la preparación de esta versión del Pan de Leche.
-	* Día 1: Preparación de la [**Masa Madre Talvina**](/talvina/)
+	* Día 1: Preparación de la [**Masa Madre Talvina**](/panes-venezolanos/talvina/)
 	* Día 2: Preparación de la masa del pan
 
 ### Masa
