@@ -54,17 +54,17 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 ### Ingredientes para la masa
 
-| Ingrediente               | Fórmula     | Peso  |
-|:--------------------------|:-----------:|------:|
-| Harina panadera           |        100% |  274g |
-| Agua                      |         35% |   96g |
-| Levadura instantánea      |          1% |  2,7g |
-| Sal                       |          1% |  2,7g |
-| Huevos ligeramente batidos|         20% |   55g |
-| Mantequilla sin sal       |         15% |   41g |
-| Azúcar                    |         20% |   55g |
-| Leche en polvo            |          5% |   14g |
-|---------------------------|-------------|-------|
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina panadera           |        100% |  274g  |
+| Agua                      |         35% |   96g  |
+| Levadura instantánea      |          1% |  2,7g  |
+| Sal                       |          1% |  2,7g  |
+| Huevos ligeramente batidos|         20% |   55g  |
+| Mantequilla sin sal       |         15% |   41g  |
+| Azúcar                    |         20% |   55g  |
+| Leche en polvo            |          5% |   14g  |
+|---------------------------|-------------|--------|
 | **Total**                 |    **197%** |**540g**|
 
 ## Paso a paso del panadero

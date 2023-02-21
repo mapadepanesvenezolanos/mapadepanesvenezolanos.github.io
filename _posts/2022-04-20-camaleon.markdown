@@ -8,7 +8,166 @@ categories: pan_dulce los_andes
 featured_image: '/images/panes/camaleon/camaleon_0.jpeg'
 ---
 
-<a href="https://mapadepanesvenezolanos.github.io/assets/pdf/{{ page.pdf }}">Descarga el documento del {{ page.title }}</a>
+#### RECETA, FÓRMULA y TÉCNICAS
 
-{% include pdf.html %}
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+## Resultado esperado
+
+Este es un pan emblema de la panadería Venezolana de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es delgada y crocante por el azúcar. Esta masa se suele utilizar para hacer otros panes con distintos sabores o formas.
+
+## Origen 
+
+Original del estado Táchira, este pan dulce parte de un [fermento denominado “guarapo” o “talvina”](/panes-venezolanos/talvina/) (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.
+
+Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón, la cual se dibuja sobre el pan o se decora mientras está en el proceso de fermentación. De miga suave y esponjosa, costra delgada y ligeramente crujiente, rociado con azúcar.
+
+”Cuando no lleva azúcar sino sal, se le llama pan aliñado con sal. Cuando se amasa con algo más de leche, pasa a llamarse pan de leche. Y pan de queso cuando la masa se rellena con queso blanco. La misma masa horneada dos veces se llama bizcocho o pan tostado y se acostumbra darlo a los ancianos y parturientas”, escribe Miro Popic (2017) en El señor de los aliños.[^1]
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+
+## Tips
+
+- Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal.
+- La harina panadera se caracteriza por la cantidad de proteínas que contiene. Te recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas de calidad. 
+- Esta preparación sigue el método indirecto de la panadería, es decir, se hace una preparación previa, que en este caso es la [Talvina](/panes-venezolanos/talvina/) y se utiliza como ingrediente. 
+- Sigue el paso a paso visual que está publicado en la [historia destacada](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA2NDI2ODc1OTYwMTk1?story_media_id=2609036431089050126&igshid=YmMyMTA2M2Y=) de la cuenta [@hazpanencasa].
+
+Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
+
+---
+
+<div id="camaleon"></div>
+
+# Pan Camaleón
+
+## Masa leudada con Talvina
+
+* Una barra de aproximadamente 515 g de masa.
+* Lleva bastante azúcar para ser un Pan levado con Masa Madre.
+
+### Ingredientes para la masa
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina panadera           |        100% |  238g  |
+| Agua                      |         38% |   91g  |
+| Sal                       |          1% |    2g  |
+| Papelón/Panela            |          1% |    2g  |
+| Huevos ligeramente batidos|          5% |   12g  |
+| Mantequilla sin sal       |         10% |   24g  |
+| Azúcar                    |         30% |   72g  |
+| Miel                      |          1% |    2g  |
+| Leche en polvo            |          5% |   12g  |
+| Talvina                   |         25% |   60g  |
+|---------------------------|-------------|--------|
+| **Total**                 |    **216%** |**515g**|
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Prepara la Talvina y úsala cuando esté activa (burbujeante y con fragancia).
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+#### Primer ciclo de amasado
+
+- Para la mezcla inicial reserva la mantequilla y la sal.
+- En un envase mezcla el agua con la Talvina, la leche en polvo, el huevo, la miel, el papelón y el azúcar hasta disolver.
+- Crea un volcán con la harina y vierte los líquidos en el centro del volcán.
+- Empieza a mezclar la harina con la mezcla líquida, busca hacer una papilla, poco a poco vas integrando toda la harina. 
+- Cuando ya no quede líquido suelto, integra los ingredientes hasta tener un amasijo. Amasa dos a tres minutos, forma una bola y deja reposar por diez (10) minutos.
+- Amasa durante un (1) minuto, haz un hilo de sal e incorpórala amasando hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+#### Segundo ciclo de amasado
+
+- Extiende la masa y coloca la mantequilla picada pomada en cuadritos sobre la masa. 
+- Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. 
+- La masa se va a separar durante esta etapa, es normal que esto suceda. 
+- Sigue amasando hasta incorporar la mantequilla y se alcance una masa tersa y lisa. 
+- La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos. 
+- Ahora vamos a sobar la masa con el rodillo. 
+- Extiende la masa sobre la mesa, con una película de aceite, estira la masa con el rodillo sin rasgar y dobla la masa sobre sí misma, la volteas y continuas sobando con el rodillo. 
+- Haz tandas de 6-7 pliegues con el rodillo y descansos de 10 minutos hasta lograr que el gluten esté desarrollado.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. 
+- Si todavía le falta, repite el ciclo de sobados de 6-7 pliegues y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+
+### Preformado
+
+- Realiza un preformado redondo, la masa debe quedar lisa en la superficie.
+
+### Descanso en mesa
+
+- Deja la masa reposar por 10 minutos para que se relaje antes de realizar el formado.
+
+### Formado
+- Ayúdate con el rodillo para estirar la masa y formar un rectángulo con la longitud de tu bandeja, unos 35cm y forma una barra.
+- Coloca la barra en una bandeja engrasada con manteca vegetal.
+
+### Fermentación final (maduración a temperatura ambiente)
+
+- Deja reposar la barra, sin tapar, aproximadamente por 16h a 18h hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que supere la prueba de maduración con el dedo.
+
+### Barnices, coberturas y cortes
+
+- Haz la prueba del dedo y si devuelve lento, aproximadamente de 16h a 18h, con un aspersor humedece la barra por todos lados y con un colador coloca azúcar al gusto.
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja en el medio del horno durante aproximadamente 25 minutos.
+- Verifica el horno asegurándote que los panes se hornean de manera uniforme. 
+- Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
+- Saca el Camaleón del horno cuando tengan un color dorado a tu gusto.
+
+### Enfriamiento
+
+- Al sacar la barra del horno, pásalos a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el vapor, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi listo. ¡Disfruta tu Pan Camaleón!
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este documento, hemos utilizado como referencia y fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@saporidellacucina] y [@taosbaker] en sus publicaciones [parte 1](https://www.instagram.com/p/B-LalcxnG1x/?utm_source=ig_web_copy_link) y [parte 2](https://www.instagram.com/p/B-Nyh3DHcF7/?utm_source=ig_web_copy_link).
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 1.4 (27/05/2022)_
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@taosbaker]: http://www.instagram.com/taosbaker
+[@pochove]: http://www.instagram.com/pochove
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[las recetas favorita de hilmar]: https://www.recetasfavoritashilmar.com/search?q=talvina
+[la reseña de la Chef Panadera Edelmira D’Santiago de Baptista]: http://lachefpanadera.blogspot.com/2012/11/masa-madre-natural-de-guarapo-o-papelon.html
+[Lo Sabroso del Pan Andino se llama Talvina]: http://rutasgolosas.com/2016/10/lo-sabroso-del-pan-andino-se-llama-talvina-por-frederick-jimenez-silva/?doing_wp_cron=1649864755.0887439250946044921875
+[página de su autoría]: http://pantachirense.blogspot.com
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@saporidellacucina]: http://www.instagram.com/saporidellacucina
+[@steconstance]: http://www.instagram.com/steconstance
 
