@@ -251,7 +251,7 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [Plaza’s Escuela de Cocina] y la receta de pan Mollete Gallego del libro [100 Recetas Pan de Pueblo].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [Plaza’s Escuela de Cocina] y la receta de pan Mollete Gallego del libro 100 recetas de pan de pueblo: Ideas y trucos para hacer en casa panes de toda España de Iban Yarza [100 Recetas Pan de Pueblo].
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
@@ -279,4 +279,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
-[100 Recetas Pan de Pueblo]: 100 recetas de pan de pueblo: Ideas y trucos para hacer en casa panes de toda España,Iban Yarza
+[100 Recetas Pan de Pueblo]: https://www.amazon.com/100-recetas-pan-pueblo-Recipes/dp/8417338640
