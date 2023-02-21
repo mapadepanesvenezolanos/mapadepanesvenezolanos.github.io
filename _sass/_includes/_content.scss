@@ -191,26 +191,32 @@
 		max-width: 90%;
 		margin: 0 0;
 		overflow-x: auto;
-		padding-left:30px;
+		padding-left:20px;
+		padding-right:30px;
 
 		table {
 			max-width: 90%;
+			padding-left:55px;
 		}
 
 		@include mq(tabletp) {
 			max-width: 60%;
+			padding-left:60px;
 		}
 
 		@include mq(tabletl) {
 			max-width: 60%;
+			padding-left:60px;
 		}
 
 		@include mq(laptop) {
 			max-width: 60%;
+			padding-left:60px;
 		}
 
 		@include mq(desktop) {
 			max-width: 60%;
+			padding-left:60px;
 		}
 	}
 
