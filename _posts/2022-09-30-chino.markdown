@@ -5,7 +5,7 @@ date: 2022-09-30 07:30:39 -0400
 permalink: /panes-venezolanos/pan-chino/
 pdf: Pan-chino.pdf
 categories: pan salado enriquecido capital
-featured_image: '/images/panes/chino/chino_1.png'
+featured_image: '/images/panes/chino/chino_2.jpeg'
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
