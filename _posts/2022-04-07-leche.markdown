@@ -313,7 +313,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 | Mantequilla sin sal       |         17% |   41g |
 | Azúcar                    |         19% |   45g |
 | Leche en polvo            |          6% |   14g |
-| [**Talvina**](/talvina/)  |         45% |  108g |
+| [**Talvina**](/panes-venezolanos/talvina/)  |         45% |  108g |
 |---------------------------|-------------|-------|
 |**Total**                  |    **229%** |**550g**|
 
