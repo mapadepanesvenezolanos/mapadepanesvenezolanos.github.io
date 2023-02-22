@@ -41,7 +41,6 @@ sass:
 
 plugins:
   - jekyll-paginate
-  - jekyll-sitemap
 
 paginate: 40
 paginate_path: "/panes/page:num/"

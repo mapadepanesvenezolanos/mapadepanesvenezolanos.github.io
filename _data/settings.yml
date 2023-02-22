@@ -3,6 +3,7 @@ basic_settings:
   main_title: Panes Venezolanos
   site_owner: Amigos Panarras
   favicon_image: /images/favicon.png
+  mapsiteurl: https://panesvenezolanos.com
 
 header_settings:
   logo_image: 
