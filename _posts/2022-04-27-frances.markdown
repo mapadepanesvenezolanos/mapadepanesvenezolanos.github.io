@@ -1,6 +1,7 @@
 ---
 title:  "Pan Francés"
 subtitle: "El que recuerdas de niño, el  pan de a locha."
+description: "El pan francés es un pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa de las Canillas que contiene grasa y azúcar para darle más duración y color."
 date:   2022-04-27 18:00:39 -0400
 permalink: /panes-venezolanos/pan-frances/
 pdf: Pan-Frances.pdf

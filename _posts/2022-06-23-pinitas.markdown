@@ -1,6 +1,7 @@
 ---
 title:  "Piñitas"
 subtitle: "Un pan dulce inconfundible con aroma y sabor a anís."
+description: "La fórmula panadera de nuestra receta de panes piñitas, ha sido creada con la intención de llevarte directo al mostrador de la panadería a la que tú o tus padres, iban a comprar esos pancitos cubiertos de azúcar y decorados en el tope con unos piquitos sobresalientes, que le daban al pan un parecido a la piña en Venezuela."
 date:   2022-06-23 19:19:00 -0400
 permalink: /panes-venezolanos/pinitas/
 pdf: Pinitas.pdf

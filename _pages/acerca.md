@@ -1,7 +1,7 @@
 ---
 title: Acerca
 subtitle: ¿Quienes somos?
-description: Un equipo decidido a ayudarte a hacer los Panes Venezolanos.
+description: Somos un equipo decidido a ayudarte a hacer los Panes Venezolanos.
 featured_image: /images/social.jpg
 ---
 

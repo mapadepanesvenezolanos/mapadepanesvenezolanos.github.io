@@ -1,5 +1,7 @@
 ---
 title:  "Pan de Yuca"
+subtitle: "Con origen en nuestras tradiciones, disfruta de una Pan de Yuca espectacular."
+description: "El pan de yuca es un pan de miga esponjosa debido a la combinación del puré de yuca, huevo y mantequilla. Su sabor es dulce y salado, un excelente acompañante para tu almuerzo, ideal para una merienda combinandolo con un buen queso blanco fresco y una mermelada de fresa."
 date:   2022-05-04 21:59:00 -0400
 permalink: /panes-venezolanos/pan-de-yuca/
 pdf: Pan-de-yuca.pdf
@@ -23,9 +25,7 @@ Este es un pan de miga esponjosa debido a la combinación del puré de yuca, hue
 
 **Miro Popic** dice: “Los amasijos andinos se diferencian por el horno y el amasado”... “Para llamar las cosas por su nombre y hacerle honor a aquello de que al pan pan y al vino vino, hay más de veinte diferentes panes típicos de los Andes, muchos de los cuales parten de la misma masa que luego se aliña de manera especial cada uno de ellos, así como varían los agregados que servirán para identificarlos” … “De Colombia llegó para quedarse el Pan de Yuca, hecho con almidón de yuca dulce.”[^1]
 
-**Leonor Peña** menciona al respecto: ”En la mesa tachirense, la receta del pan se vistió de galas indígenas colombianas para llevar al horno una masa distinta al trigo, pero rica en esponjoso crecer y en suavidades mórbidas de harinas: la masa
-de la harina de yuca para elaborar el famoso pan de yuca que llegó entre crónicas y bastimento, pertrechos de expedición y
-cacerolas de cocina, desde la casa vecina de nuestra hermana siamesa: Colombia, hasta el horno del Táchira”[^2].
+**Leonor Peña** menciona al respecto: ”En la mesa tachirense, la receta del pan se vistió de galas indígenas colombianas para llevar al horno una masa distinta al trigo, pero rica en esponjoso crecer y en suavidades mórbidas de harinas: la masa de la harina de yuca para elaborar el famoso pan de yuca que llegó entre crónicas y bastimento, pertrechos de expedición y cacerolas de cocina, desde la casa vecina de nuestra hermana siamesa: Colombia, hasta el horno del Táchira”[^2].
 
 [^1]: El señor de los aliños. En busca del sabor perdido, Miro Popic.
 [^2]: La cocina tachirense, Leonor Peña.

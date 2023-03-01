@@ -1,6 +1,7 @@
 ---
 title:  "Arepas"
-description: "El pan de los venezolanos"
+subtitle: "El pan de cada día de los venezolanos, para rellenarla a tu gusto."
+description: "La Arepa es sin duda alguna “El Pan de los venezolanos”. Hecha con harina de maíz precocida y rellena a tu gusto. Cuando no hay mucho tiempo haz una arepa para resolver."
 date:   2022-05-11 14:28:00 -0400
 permalink: /panes-venezolanos/arepas/
 pdf: Arepas.pdf
@@ -21,15 +22,11 @@ featured_image: '/images/panes/arepa/arepa_1.jpeg'
 
 ## Resultado esperado
 
-La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que
-se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas
-con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús (@1painalafois) las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
+La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois] las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
 
 ## Origen
 
-“Del cumanagoto erepa 'maíz'. Especie de pan de forma circular, hecho con maíz ablandado a fuego lento y luego molido, o con harina de maíz precocida, que se cocina sobre un budare o una plancha. La arepa es el plato típico venezolano por
-excelencia icónico de la gastronomía del país. Es consumida en toda la geografía del país, se suele comer casi todos los
-días, rellena, en el desayuno o en la cena como plato principal o como acompañante.”[^1]
+“Del cumanagoto erepa 'maíz'. Especie de pan de forma circular, hecho con maíz ablandado a fuego lento y luego molido, o con harina de maíz precocida, que se cocina sobre un budare o una plancha. La arepa es el plato típico venezolano por excelencia icónico de la gastronomía del país. Es consumida en toda la geografía del país, se suele comer casi todos los días, rellena, en el desayuno o en la cena como plato principal o como acompañante.”[^1]
 
 "Sobre las arepas cuenta que “hacen otra suerte de pan a modo de tortillas, de un dedo de grueso redondas y grandes como un plato a la francesa, o poco más o menos, y las ponen a cocer en una tortera sobre el fuego, untándolas con grasa para que no se peguen, volteándolas hasta que estén cocidas por ambos lados y a esta clase llaman areppas y algunos fecteguas”. También habla de un pan de maíz pequeño y redondo cocido bajo las brasas al que llaman abozzos que no es indígena, ya que “lo han aprendido a hacer de nosotros en ciertos anafres de barro”. Más adelante escribe que “el pan de dicho grano, o maíz, que nosotros los cristianos hacíamos allá era muy bueno, sobre todo cuando llegábamos a los pueblos”. Cuenta que las indias ponían en remojo un poco de dicho grano y que “una hace mejor pan que otra, según la mano, y hay muchos que tienen una india para hacer pan solo para dos o tres cristianos”. Cuando tenían que salir repentinamente por 4 o 5 días, “sin llevar indias que muela, asaban las arepas en una tortera para llevarlas secas como mantenimiento"[^2]
 

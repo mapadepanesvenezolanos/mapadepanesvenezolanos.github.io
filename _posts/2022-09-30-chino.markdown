@@ -1,6 +1,7 @@
 ---
 title: "Pan Chino"
 subtitle: "El que te sirven cuando pides arroz chino."
+description: "El Pan Chino es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, especialmente arroz chino especial y delicioso con un toque de mantequilla recién salido del horno."
 date: 2022-09-30 07:30:39 -0400
 permalink: /panes-venezolanos/pan-chino/
 pdf: Pan-chino.pdf
@@ -14,7 +15,7 @@ featured_image: '/images/panes/chino/chino_2.jpeg'
 
 ## Resultado esperado
 
-Este es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, delicioso con un toque de mantequilla recién salido del horno.
+Este es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, especialmente arroz chino especial y delicioso con un toque de mantequilla recién salido del horno.
 
 ## Origen
 

@@ -1,6 +1,7 @@
 ---
 title:  "Cachito"
 subtitle: "El desayuno tradicional de todos los días."
+description: "El cachito es un pan relleno con jamón y a veces tocineta, de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce."
 date:   2022-05-12 14:28:00 -0400
 permalink: /panes-venezolanos/cachito/
 pdf: Cachitos.pdf
@@ -14,7 +15,7 @@ featured_image: '/images/panes/cachito/cachito_4.jpeg'
 
 ## Resultado esperado
 
-Este es un pan relleno con jamón de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
+Este es un pan relleno con jamón y a veces tocineta, de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
 
 ## Origen 
 
