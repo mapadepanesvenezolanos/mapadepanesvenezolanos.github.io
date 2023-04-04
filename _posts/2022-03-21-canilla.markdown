@@ -19,6 +19,8 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 - Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 - La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco énfasis en desarrollar sabores y en darle una corteza suave.
 
+{% include whatsapp.html %}
+
 ## Origen
 
 “Se le conoce como la versión tropicalizada de la baguette francesa, pero a diferencia de ésta, tiene una costra menos crujiente y una miga más suave. Es un pan salado, delgado y largo, muy popular. Su historia data de la década de los años ochenta del siglo pasado. Empezó a elaborarse en las panaderías venezolanas en la búsqueda de un pan de rápida cocción y a gusto del venezolano. Una de las diferencias entre la baguette y la canilla es su tiempo de hechura, el de la baguette es más largo. Otra diferencia tiene que ver con las características físicas: color, costra y textura de la miga. La canilla es de costra quebradiza y de tonalidades entre beige y marrón. La de la baguette es dorada y crujiente. La textura de la miga también es distinta: la de canilla es más densa y con alvéolos uniformes, mientras los de la baguette son irregulares. El nombre deriva del parecido con las “canillas”, como llamamos en Venezuela a las piernas largas y delgadas de algunas personas.” [^1]

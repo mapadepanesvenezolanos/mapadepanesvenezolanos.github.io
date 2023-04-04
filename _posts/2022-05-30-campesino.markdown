@@ -33,6 +33,8 @@ En Venezuela, en general, la corteza es más delgada y le damos suavidad a la co
 
 Haremos dos versiones, una siguiendo la práctica usual de los panaderos que utilizan la misma masa de la Canilla y una segunda versión mejorada con el prefermento pie francés y un proceso ligeramente distinto para generar un Pan más duradero.
 
+{% include whatsapp.html %}
+
 ## Tips
 
 - Es un Pan que generalmente se realiza por método directo en un proceso de entre 4 a 5 horas. Haremos una segunda versión con método indirecto.

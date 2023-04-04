@@ -29,6 +29,8 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Masa leudada con levadura instantánea](#directo)
 * [Masa mejorada con prefermento Pie Francés](#piefrances)
 
+{% include whatsapp.html %}
+
 ## Tips
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.

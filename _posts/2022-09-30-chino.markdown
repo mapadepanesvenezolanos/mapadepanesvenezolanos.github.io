@@ -24,6 +24,8 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
+{% include whatsapp.html %}
+
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 

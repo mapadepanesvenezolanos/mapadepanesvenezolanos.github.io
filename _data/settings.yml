@@ -5,6 +5,10 @@ basic_settings:
   favicon_image: /images/favicon.png
   mapsiteurl: https://panesvenezolanos.com
 
+whatsapp:
+  group1_link: 'https://chat.whatsapp.com/GrnANlWQiTvJaRFvrbhvjo'
+  group1_qr: '/images/group1_qr_whatsapp.jpg'
+
 header_settings:
   logo_image: 
   logo_width: 200

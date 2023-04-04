@@ -29,6 +29,8 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Pan de Jojoto, masa leudada con levadura instantánea](#directo)
 * [Pan de Jojoto, masa mejorada con prefermento Poolish](#poolish)
 
+{% include whatsapp.html %}
+
 <div id="directo"></div>
 
 # Pan de Jojoto

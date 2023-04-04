@@ -23,6 +23,8 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
+{% include whatsapp.html %}
+
 ## Tips
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.

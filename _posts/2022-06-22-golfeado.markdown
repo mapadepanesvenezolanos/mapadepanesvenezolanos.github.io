@@ -44,6 +44,8 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
+{% include whatsapp.html %}
+
 ## Tips
 
 - Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.

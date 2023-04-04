@@ -33,6 +33,8 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
+{% include whatsapp.html %}
+
 ## Tips
 
 - Recomiendo que la harina todo uso que utilices para preparar estos panes, contenga al menos doce (12%) por ciento de proteínas. 
