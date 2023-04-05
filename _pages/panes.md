@@ -1,10 +1,12 @@
 ---
-layout: default
+layout: panesvenezolanos
 title: Panes Venezolanos
 permalink: /panes-venezolanos/
 description: Referencia sobre Panes Venezolanos para panaderos caseros.
 featured_image: /images/social.jpg
 ---
+
+{% include intro.html %}
 
 <section class="listing">
 
@@ -36,3 +38,5 @@ featured_image: /images/social.jpg
 	</div>
 
 </section>
+
+{% include aporta.html %}

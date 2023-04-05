@@ -16,7 +16,7 @@ header_settings:
 menu_settings:
   menu_items:
     - title: 'Mapa'
-      url: '/'
+      url: '/mapa/'
     - title: 'Panes Venezolanos'
       url: '/panes-venezolanos/'
     - title: 'Acerca'
