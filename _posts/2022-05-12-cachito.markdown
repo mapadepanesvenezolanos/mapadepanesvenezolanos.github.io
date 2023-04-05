@@ -31,8 +31,6 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (10%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
@@ -47,7 +45,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 - Para darles un tono de color atractivo, durante el horneado a mitad del tiempo pásales un barniz de melao de papelón fino y los metes en el horno para que terminen su cocción.
 - Finalmente, al salir del horno le pones mantequilla clarificada con una brocha a cada Cachito para un acabado espectacular.
 
----
+{% include whatsapp.html %}
 
 <div id="directo"></div>
 

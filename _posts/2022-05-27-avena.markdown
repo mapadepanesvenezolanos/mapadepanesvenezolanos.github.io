@@ -23,8 +23,6 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
@@ -32,7 +30,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan par elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - El extracto de malta se utiliza generalmente para producir panes con una miga y corteza de color oscuro con aromas a cereales. Este ingrediente podrías obtenerlo reduciendo el líquido de una lata de malta a fuego lento hasta que el líquido esté espeso. Otra opción sería utilizar melao de papelón, miel de papelón o miel de abeja para reemplazar el extracto de malta en la masa, en la misma proporción.
 
----
+{% include whatsapp.html %}
 
 <div id="directo"></div>
 

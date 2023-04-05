@@ -42,8 +42,6 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 [^2]: “Pocho” Suarez Baker Chef.
 [^3]: Palabras del Dr. Ramón J. Velasquez y el panadero Sebastian Alviárez. de panadería "Las Cumbres"
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Esta Masa Madre originalmente se fermenta a temperatura ambiente entre  12ºC y 22ºC  en los Andes Venezolanos.
@@ -56,7 +54,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 - Hemos visto versiones donde se agrega malta o cerveza. Puedes reemplazar un poco del agua por estos dos líquidos.
 - También puedes utilizar esencia de vainilla (1% - 2%).
 
----
+{% include whatsapp.html %}
 
 # Masa Madre **Talvina**
 

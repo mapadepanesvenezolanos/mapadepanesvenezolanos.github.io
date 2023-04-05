@@ -27,8 +27,6 @@ Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón,
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal.
@@ -38,7 +36,7 @@ Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón,
 
 Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
 
----
+{% include whatsapp.html %}
 
 <div id="camaleon"></div>
 

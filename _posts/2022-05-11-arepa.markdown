@@ -33,11 +33,15 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 [^1]: El señor de los aliños, Miro Popic.
 [^2]: La historia de las arepas de Zoraida Rodriguez por Miro Popic.
 
-{% include whatsapp.html %}
-
 ## Tips
 
-- Para garantizar un mejor resultado durante la cocción y así crear una buena costra, te recomiendo utilizar un sartén bien curado en la superficie y de ser posible un budare
+- Para garantizar un mejor resultado durante la cocción y así crear una buena costra, te recomiendo utilizar un sartén bien curado en la superficie y de ser posible un budare.
+
+{% include whatsapp.html %}
+
+<div id="directo"></div>
+
+# Arepas
 
 #### Masa
 

@@ -36,15 +36,17 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Pan de Yuca, masa mejorada con prefermento Biga](#biga)
 * [Pan de Yuca, masa mejorada con Talvina](#talvina)
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - Una hora antes de iniciar la preparación de la masa del pan, al momento de preparar el puré de yuca, cocina la yuca pelada y cortada en trozos verticales largos como el tamaño del dedo índice de una de tus manos. Una vez que hayas cocinado la yuca hasta que esté blanda y masticable, asegúrate de retirar la vena/raíz y luego proceder a hacer la papilla de tu puré, de esta manera evitarás encontrarte pedazos dentro de la masa o la miga una vez cocido el pan.
 - Para controlar la cocción de tus panes de yuca, puedes mover una de las rejillas de tu horno a la parte superior de tu horno casero y allí colocar una bandeja metálica para reducir el efecto de la refracción del calor en tus pastones. De esta manera, podrás regular visualmente, el color dorado deseado que deseas ver en la costra de tus panes
 
+{% include whatsapp.html %}
+
 <div id="directo"></div>
+
+# Pan de Yuca
 
 ## Masa leudada con levadura instantánea
 

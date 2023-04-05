@@ -33,8 +33,6 @@ En Venezuela, en general, la corteza es más delgada y le damos suavidad a la co
 
 Haremos dos versiones, una siguiendo la práctica usual de los panaderos que utilizan la misma masa de la Canilla y una segunda versión mejorada con el prefermento pie francés y un proceso ligeramente distinto para generar un Pan más duradero.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Es un Pan que generalmente se realiza por método directo en un proceso de entre 4 a 5 horas. Haremos una segunda versión con método indirecto.
@@ -48,7 +46,7 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Para una corteza más gruesa y crujiente deja el Pan más tiempo a baja temperatura (180ºC/355ºF) en el horno..
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera la dejamos atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
 
----
+{% include whatsapp.html %}
 
 <div id="directo"></div>
 

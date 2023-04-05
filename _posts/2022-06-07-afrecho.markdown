@@ -29,15 +29,13 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Masa leudada con levadura instantánea](#directo)
 * [Masa mejorada con prefermento Pie Francés](#piefrances)
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
 - Recomiendo que la harina que utilices contenga al menos doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero,esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 
----
+{% include whatsapp.html %}
 
 <div id="directo"></div>
 

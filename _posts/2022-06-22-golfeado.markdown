@@ -44,8 +44,6 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
@@ -57,7 +55,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
----
+{% include whatsapp.html %}
 
 <div id="caraqueno"></div>
 <img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_4.jpeg" alt="{{page.title}}">

@@ -22,8 +22,6 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 
 Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Lo primero que debemos tener antes de empezar a hacer un Pan como este es Masa Madre. Un cultivo de levaduras estable y activo, alimentado con regularidad. 
@@ -38,7 +36,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 - Para lograr una greña espectacular deben ocurrir al menos tres cosas: Tener una masa con estructura, esto es que mantiene su forma, no dejar que sobre fermente la masa y una primera etapa de horneado con vapor. La estructura se logra con pliegues, estirar y plegar, extender y plegar durante la fermentación en bloque. Evitar la sobre fermentación cuidando el punto donde entra a la nevera y finaliza la fermentación el bloque y empieza el retardo. Hornear con vapor en la primera etapa en el horno para permitir que se expanda la pieza lo más posible antes que la corteza se forme.
 - A veces la Masa Madre es lenta o con poca fuerza, recomiendo que la fermentación en bloque y maduración se haga a temperatura ambiente para entender la fermentación y su efecto para luego realizar retardo en nevera. La temperatura idónea para el proceso de fermentación está alrededor de los 25ºC a 28ºC, procura dicha temperatura.
 
----
+{% include whatsapp.html %}
 
 <div id="tipogallego"></div>
 

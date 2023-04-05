@@ -29,8 +29,6 @@ En Vietnam un formato similar se conoce como [Bahn Mi](https://en.wikipedia.org/
 
 En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también conocido como pan francés. Salado, de costra suave y alargado, pero en formato pequeño (aproximadamente 15 centímetros). Muy útil para preparar sándwiches o bocadillos. Su denominación obedece al precio original por unidad, la antigua “locha” (12,5 céntimos de bolívar)”. [^1]
 
-{% include whatsapp.html %}
-
 ## Tips
 
 - Es un Pan que se realiza por método directo en un proceso de entre 2 a 3 horas.
@@ -57,7 +55,7 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
 - Puedes seguir el procedimiento resumido en la cuenta de Instagram [@hazpanencasa].
 
----
+{% include whatsapp.html %}
 
 <div id="directo"></div>
 

@@ -32,15 +32,13 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 * [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
 * [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
 
-{% include whatsapp.html %}
-
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 * Las formulas propuestas en esta receta son leudadas con levadura instantánea y preparadas siguiendo los pasos del método directo.
 
----
+{% include whatsapp.html %}
 
 <div id="migatipobrioche"></div>
 
