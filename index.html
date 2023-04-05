@@ -1,30 +1,41 @@
 ---
-layout: default
-title: Mapa
+layout: panesvenezolanos
+title: Panes Venezolanos
 description: Referencia sobre Panes Venezolanos para panaderos caseros.
-featured_image: /images/social2.jpg
+featured_image: /images/social.jpg
 ---
 
-<section class="intro">
+{% include intro.html %}
 
-	<div class="wrap">
-		<p>Te doy la bienvenida a la referencia sobre Panes Venezolanos para Panaderos Caseros, es sobre nuestros panes y los panes que hemos adoptado como nuestros.</p>
+<section class="listing">
+
+	<div class="content-wrap listing-wrap">
+
+		{% for post in site.posts %}
+
+		<div class="listing-item">
+
+			<a class="listing-item__link" href="{{ post.url | relative_url }}">
+
+				<div class="listing-item__image">
+					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+				</div>
+
+				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+					<div class="listing-item__info">
+						<h2 class="listing-item__title">{{ post.title }}</h2>
+						<p class="listing-item__subtitle">{{ post.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
 	</div>
 
 </section>
 
-<section class="intro">
-
-	<div class="wrap">
-
-<iframe src="https://www.google.com/maps/d/embed?mid=1buGSEliAqisdW40ZYa1J0CtFn-VoDMaH&ehbc=2E312F&ll=8.759589689283557%2C-66.33123775666793&z=7" width="100%" height="800px" style="margin:2px;"></iframe>
-
-	</div>
-
-</section>
-
-<section class="intro">
-	<div class="wrap">
-		<p>Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta. Cualquier aporte que realices será reconocido y referenciado, anímate y deja un legado.</p>
-	</div>
-</section>
+{% include aporta.html %}
