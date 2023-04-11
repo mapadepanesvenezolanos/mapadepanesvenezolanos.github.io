@@ -9,21 +9,21 @@ categories: golfeado capital
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
 ---
 
-El Gofeado es uno de mis panes favoritos, de hecho lo considero una golosina. 
+El Golfeado es uno de mis panes favoritos, de hecho lo considero una merienda.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-Es dulce, húmedo, con melao y queso que da una textura grumosa a la cobertura y combinado con el queso le damos un balance de textura y sabor. Después de estudiar y probarlos en distintas panaderías de caracas, la guaira y el junquito observamos diferencias en la preparación y la hemos clasificado en la versión caraqueña y la versión del junquito. 
+Es dulce, húmedo, con melao y queso que da una textura grumosa a la cobertura. La combinación de lo dulce con el queso le da un balance de textura y sabor. Después de estudiar y probarlos en distintas panaderías de Caracas, La Guaira y el Junquito observamos diferencias en la preparación y la hemos clasificado en la versión caraqueña y la versión del Junquito.
 
-En la versión caraqueña suelen ser más grandes, en muchas paranderías le agregan queso rayado por encima (no me gusta este detalle), suelen ser menos hidratados y con mucha presencia del anís dulce en grano. 
+En la versión caraqueña suelen ser más grandes, en muchas panaderías le agregan queso rallado por encima (no me gusta este detalle), suelen ser menos hidratados y con mucha presencia del anís dulce en grano.
 
-En el caso del junquito, son más pequeños, húmedos y bañados en melao, con cobertura grumosa de papelón, azúcar y queso, procesado en un rayador y queda como peloticas pequeñas, en este caso el anís es menos presente.
+En el caso del Junquito, son más pequeños, húmedos y bañados en melao, con cobertura grumosa de papelón, azúcar y queso rallado como peloticas pequeñas, en este caso el anís es menos presente.
 
-Hemos probado golfeados en otros lugares de venezuela y son muy variantes las interpretaciones, en general tienden a ser una versión de la caraqueña.
+Hemos probado golfeados en otros lugares de Venezuela y son muy variantes las interpretaciones, en general tienden a ser una versión de la caraqueña.
 
 Les dejamos los enlaces para cada proceso:
 
-* [Al estilo Caraqueña](#caraqueno)
+* [Al estilo Caraqueño](#caraqueno)
 * [Al estilo del Junquito](#junquito)
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -62,7 +62,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 # Golfeado (al estilo Caraqueño)
 
-## ## Masa leudada con levadura instantánea (6 unidades de 100g)
+## Masa leudada con levadura instantánea (6 unidades de 100g)
 
 ### Ingredientes para la masa
 
@@ -111,7 +111,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 ### Preparación del relleno
 
 - Si es posible, pasa el queso por un procesador para que quede bien granulado, en bolitas.
-- Al queso agrega el papelón cernido y el azúcar.
+- Al queso agrega el papelón cernido y el azúcar, la idea es que esté fino.
 - Mezcla y reserva.
 
 ### Preparación del melao
@@ -185,7 +185,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
 - Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melado de papelón dos o tres veces cada 10 minutos.
 - En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especies.
-- Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
+- Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
 ### Ingredientes para la masa (6 unidades de 80g)
@@ -255,7 +255,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 ### Mezcla y amasado
 
 - Para la mezcla inicial reserva la mitad de la mantequilla, sal y anís en grano.
-- En un envase mezcla la harina, levadura instantánea, azúcar, leche en polvo, 
+- En un envase mezcla la harina, levadura instantánea, azúcar y leche en polvo, 
 - En otro envase mezcla el agua, huevo, miel y vainilla hasta disolver.
 - Cree un volcán con la mezcla de ingredientes secos y coloca los líquidos y la mitad de la mantequilla en el centro del volcán y la sal alrededor del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
