@@ -7,7 +7,7 @@ featured_image: /images/social.jpg
 
 ![](/images/panes/camaleon/camaleon_0.jpeg){:width="500px"}
 
-Te damos la bienvenida al Mapa de Panes Venezolanos.
+Te damos la bienvenida a la Página de los Panes Venezolanos.
 
 Queremos ayudarte a conocer y a preparar los Panes típicos de Venezuela en casa.
 
@@ -19,6 +19,7 @@ Queremos ayudarte a conocer y a preparar los Panes típicos de Venezuela en casa
 #### Dirección, Creación y Producción
 
 Rol: Investigar, producir, preparar, decidir la orientacion, vision, formato, presentacion y estilo del contenido del mapa de panes venezolanos.
+
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
 
@@ -84,17 +85,18 @@ Para contribuir con el proyecto puedes convertirte en:
 
 ¿Cómo participo como Colaborador? 
 
-Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com
+Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com.
 
 ### Promotor
 
 ¿Cómo participo como Promotor?
 
-Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web https://mapadepanesvenezolanos.github.io
+Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web [https://panesvenezolanos.com](https://panesvenezolanos.com)
 
 
 ## Advertencia
 
 Toda la información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
+**Alexander Ramírez y Jesús Méndez**
 **Amigos Panarras**
