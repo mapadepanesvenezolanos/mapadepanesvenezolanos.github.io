@@ -52,7 +52,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
 - Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melao de papelón dos o tres veces cada 10 minutos.
 - En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especias.
-- Se espuma y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
+- Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
 {% include whatsapp.html %}
