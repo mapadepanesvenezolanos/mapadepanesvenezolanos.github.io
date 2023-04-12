@@ -15,10 +15,10 @@ header_settings:
 
 menu_settings:
   menu_items:
+    - title: 'Panes'
+      url: '/'
     - title: 'Mapa'
       url: '/mapa/'
-    - title: 'Panes Venezolanos'
-      url: '/'
     - title: 'Acerca'
       url: '/acerca'
 
