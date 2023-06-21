@@ -1,6 +1,6 @@
 ---
 title:  "Pan de Afrecho"
-subtitle: "Pan de Afrecho en dos presentaciones, masa leudada con levadura instantánea y masa mejorada con prefermento Pie francés"
+subtitle: "Pan de Afrecho en dos presentaciones, con levadura instantánea y con Pie francés"
 description: "Con el Pan de Afrecho queremos que puedas producir una masa que te servirá para formar un hermoso pan de molde, un pan tipo deli o también panecillos de hamburguesa. La miga que estamos buscando, es cerrada, esponjosa y muy suave debido a la combinación de huevo, leche en polvo, mantequilla, y el adecuado nivel de hidratación. Los ingredientes han sido combinados con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región andina del mapa de panes venezolanos, con el toque especial que le da el afrecho a la miga."
 date:   2022-05-25 20:54:39 -0400
 permalink: /panes-venezolanos/pan-de-afrecho/

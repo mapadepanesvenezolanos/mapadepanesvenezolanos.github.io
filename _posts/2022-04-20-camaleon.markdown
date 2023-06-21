@@ -1,6 +1,6 @@
 ---
 title:  "Pan Camaleón"
-subtitle: "El pan tradicional de los andes. Es la base para muchos panes que recordamos de los andes."
+subtitle: "El pan tradicional de los andes."
 description: "El pan camaleón es original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina”, confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente."
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-camaleon/
