@@ -1,5 +1,5 @@
 ---
-title:  "Pan y Mollete Gallego"
+title:  "Mollete Gallego"
 subtitle: "Es el pan que nos gusta cuando vamos a la Candelaria a comer paella."
 description: "El pan gallego tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
 date:   2022-03-20 18:00:39 -0400
