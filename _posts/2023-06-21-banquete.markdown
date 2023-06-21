@@ -1,0 +1,166 @@
+---
+title: "Pan de banquete"
+subtitle: "Nuestro pancito para las fiestas tradicional."
+description: "El pan de banquete es un pan enriquecido típico para acompañar la ensalada de gallina en una fiesta. Es un Pan suave en formato de bollo pequeño."
+date: 2023-06-21 07:13:00 -0400
+permalink: /panes-venezolanos/pan-de-banquete/
+published: false
+categories: pan enriquecido 
+featured_image: '/images/panes/banquete/banquete_1.jpeg'
+---
+
+Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la comida. Es un Pan básico, enriquecido, semi dulce, de miga cerrada.
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+## Resultado esperado
+
+Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa enriquecida y económica, con poca grasa y huevo batido. Se suele vender en bolsas plásticas transparentes por docena.
+
+## Origen 
+
+"Es un panecillo popular también conocido como pirulín, cuyo uso se asocia a las celebraciones debido a su tamaño y versatilidad. Tiene forma de aceituna y suele ser muy suave. Se disfrutan solos, como acompañantes o como emparedados con distintos rellenos.” [^1]
+
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+
+## Tips
+
+- Este Pan utiliza el quince (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
+- Este Pan se puede hacer con harina todo uso y se suele hacer por método directo y sin fermentación inicial o en bloque.
+
+{% include whatsapp.html %}
+
+<div id="directo"></div>
+
+# Pan de Banquete
+
+## Masa leudada con levadura instantánea
+
+* 12 Panes de 40g de masa.
+* Temperatura ambiente 22.5ºC - 27ºC.
+* 55% de hidratación (Baja hidratación).
+
+### Ingredientes para la masa
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina panadera           |        100% |  300g  |
+| Agua                      |         50% |  150g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |        1,7% |    5g  |
+| Huevos ligeramente batidos|          5% |   15g  |
+| Grasa                     |          5% |   15g  |
+| Azúcar                    |          5% |   15g  |
+| Leche en polvo            |          1% |    3g  |
+|---------------------------|-------------|--------|
+| **Total**                 |  **168,7%** |**506g**|
+
+## Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colocarlos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+- La grasa puede ser mantequilla, aceite neutro o manteca vegetal.
+
+### Mezcla y amasado
+
+#### Integración y amasado inicial
+
+- Para la mezcla inicial reserva la sal.
+- En un envase mezcla la harina y la levadura instantánea.
+- En otro envase mezcla el agua con la leche en polvo, el huevo y el azúcar hasta disolver.
+- Crea un volcán con la mezcla de harina y levadura y coloca los líquidos y la grasa en el centro del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+#### Ciclo de sobado 
+
+- Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
+- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo del centro al extremo anterior y del centro al extremo posterior. Pliega la masa sobre si misma, voltea la masa 90º y repite el proceso de sobado.
+- Repite el paso anterior cinco (5) a siete (7) veces. 
+- Cubre la masa con un plastico durante diez (10) minutos.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de sobado con reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie.
+- Deja la masa reposar en un recipiente por diez (10) minutos.
+
+### División y pesado
+
+- Saca la masa del recipiente tapado.
+- Procede a pesar la masa total.
+- Divide la masa en doce (12) porciones de igual peso según tu preferencia.
+
+### Preformado
+
+- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+
+### Reposo en mesa (relajación de la masa)
+
+- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
+
+### Formado
+
+- Pliega la masa para formar un bollo, dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
+- Coloca los pastones en una bandeja con papel de horno o papel encerado.
+
+### Precalentar el horno
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+
+### Fermentación final (maduración y retardo en nevera)
+
+- Deja reposar los pastones aproximadamente por una (1) hora en un bandeja, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
+
+### Barnices, coberturas y cortes
+
+- Con una brocha coloca un barniz de huevo batido con una pizca de sal y azúcar.
+
+### Horneado
+
+- Coloca la bandeja en el medio del horno durante aproximadamente 15 a 20 minutos.
+- Verifica el horno asegurándote que los panes se hornean de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
+- Saca los panes del horno cuando tengan un color dorado a tu gusto.
+
+### Enfriamiento
+
+- Al sacar los panes del horno, pásalos a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listos. Disfruta tu Pan de Banquete!!!
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, el libro del Maestro Panadero [Máximo Colina] La Magia de la Panadería, las fórmulas del [Instituto Europeo del PAN] y el [Grupo Académico Panadero y Pastelero de Venezuela]. 
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+_Versión 1.0 (21/06/2023)_
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Máximo Colina]: https://www.instagram.com/maximocolina
+[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
+[@taosbaker]: http://www.instagram.com/taosbaker
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
+[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
+[@consentidoenboca]: http://www.instagram.com/consentidoenboca
+[@steconstance]: http://www.instagram.com/steconstance
