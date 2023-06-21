@@ -1,5 +1,5 @@
 ---
-title: "Pan de Perro Caliente"
+title: "Pan de Perro"
 subtitle: "Para resolver una comida, rápido y conveniente."
 description: "El Pan de Perro Caliente es un pan de miga cerrada y suave, de corteza uniforme y acabado brillante. Listo para rellenar con la salchicha de tu preferencia."
 date: 2022-09-28 10:32:39 -0400
