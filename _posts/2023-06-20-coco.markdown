@@ -118,11 +118,11 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 
 ### Precalentar el horno
 
-- Enciende el horno media hora antes de hornear a una temperatura de 160ºC - 320ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media hora antes de hornear a una temperatura de 160ºC - 320ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 
 <img class="post_image post_image_right" src="/images/panes/coco/coco_3.jpeg" alt="{{page.title}}">
 
-### Fermentación final (maduración y retardo en nevera)
+### Fermentación final (maduración)
 
 - Deja reposar los pastones con cobertura de coco rallado, sin tapar, aproximadamente por una (1) hora y treinta minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo** y estén pegados los pastones entre ellos.
 
