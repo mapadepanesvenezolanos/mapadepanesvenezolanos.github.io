@@ -68,7 +68,7 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 
 ### Preparación de la masa
 
-- Pesa todos los ingredientes y colocarlos en envases separados.
+- Pesa todos los ingredientes y colócalos en envases separados.
 - Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 - Prepara la mezcla de coco rallado, azúcar y leche de coco.
@@ -95,7 +95,7 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 
 - Saca la masa del recipiente tapado.
 - Procede a pesar la masa total.
-- Divide la masa en venticuatro (24) porciones de iguales.
+- Divide la masa en venticuatro (24) porciones iguales.
 
 <img class="post_image post_image_right" src="/images/panes/coco/coco_2.jpeg" alt="{{page.title}}">
 
