@@ -19,14 +19,14 @@ Queremos ayudarte a conocer y a preparar los Panes típicos de Venezuela en casa
 
 #### Dirección, Creación y Producción
 
-Rol: Investigar, producir, preparar, decidir la orientacion, vision, formato, presentacion y estilo del contenido del mapa de panes venezolanos.
+Rol: Investigar, producir, preparar, decidir la orientación, visión, formato, presentación y estilo del contenido del mapa de panes venezolanos.
 
 - Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
 - Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
 
 #### Aseguramiento de la calidad
 
-Rol: Probar y corregir el contenido del mapa de panes venezolanos.
+Rol: Probar y corregir el contenido de Panes Venezolanos.
 
 - Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
 - Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
@@ -46,15 +46,15 @@ Ser una referencia y fuente de divulgación sobre las técnicas, fórmulas y pro
 - Respetar los derechos de autor, publicando contenido original y producido exclusivamente por nosotros.
 - El contenido que provenga de autores, blogeros o cualquier tercero será debidamente referenciado en nuestro sitio, indicando el nombre del autor, y el sitio web, red social o otra forma de contacto que permita al lector ir directamente a la fuente.
 - Ser transparentes, dar visibilidad y respetar nuestro trabajo y el de los otros.
-- Compartir nuestra pasion por lo que hacemos con la comunidad de amigos panarras y el mundo entero.
-- Servirse de la bibliografia existente sobre Panaderia venezolana para completar y reforzar todo el trabajo que hacemos.
+- Compartir nuestra pasión por lo que hacemos con la comunidad de amigos panarras y el mundo entero.
+- Servirse de la bibliografía existente sobre Panaderia Venezolana para completar y reforzar todo el trabajo que hacemos.
 - Dar cabida a la diversidad y crear un ambiente donde todas las personas puedan prosperar.
 
 ## Motivación para darle vida a esta iniciativa
 
 #### Jesús
 
-Quiero dejarle a mi familia, mis seres queridos y a las futuras generaciones de panaderos/amantes de la panadería, una referencia documental de las memorias y experiencias que iremos descubriendo acerca de los panes venezolanos, como una forma de rendirle tributo a la riqueza cultural gastronómica panadera de mi país de origen. Preparando los panes con los que crecí y otros que iremos que descubriendo a través de este hermoso proyecto, me motiva muchísimo. Aprender haciendo, compartir mis aprendizajes y experiencias con otros apasionados como yo, es una excelente manera de conectarme con mis raices, una forma fantástica y mut divertida de seguir practicando, creciendo y mejorando en el arte de ser panadero casero.
+Quiero dejarle a mi familia, mis seres queridos y a las futuras generaciones de panaderos/amantes de la panadería, una referencia documental de las memorias y experiencias que iremos descubriendo acerca de los panes venezolanos, como una forma de rendirle tributo a la riqueza cultural gastronómica panadera de mi país de origen. Preparando los panes con los que crecí y otros que iremos que descubriendo a través de este hermoso proyecto, me motiva muchísimo. Aprender haciendo, compartir mis aprendizajes y experiencias con otros apasionados como yo, es una excelente manera de conectarme con mis raices, una forma fantástica y muy divertida de seguir practicando, creciendo y mejorando en el arte de ser panadero casero.
 
 #### Alexander
 
@@ -69,14 +69,14 @@ Ciclos de dos (2) semanas.
 ### Etapas del proceso de trabajo
 
 1. Planificación (Al inicio de cada sprint, los directores deciden cuales recetas que se van a producir durante la iteración)
-2. Investigación (Se inicia el proceso de investigación para determinar el origen y los ingredientes tipicamente utilizados para producir las recetas)
-3. Creacion, prueba y ajuste de la formula panadera preliminar (Se produce, se prueba y ajusta una primera version de la receta)
-4. Documentacion (Se documenta la receta y se produce una primera version)
-5. Asesguramiento de la calidad (El equipo de aseguramiento de la calidad prueba la receta, propone correcciones y ajustes tanto a la formula como al paso a paso panadero)
-6. Revision (Se consolidan las correcciones y se ajusta la receta y su formula)
-7. Publicacion en el mapa (Se publica la version final en el mapa de panes venezolanos)
-8. Difusion en la redes sociales (Se difunde en las redes sociales)
-9. Retrospectiva (Se verifica en equipo lo que estamos haciendo bien, lo que se debe mejorar y se toman acciones para adaptar el proceso y la dinamica de trabajo)
+2. Investigación (Se inicia el proceso de investigación para determinar el origen y los ingredientes típicamente utilizados para producir las recetas)
+3. Creacion, prueba y ajuste de la fórmula panadera preliminar (Se produce, se prueba y ajusta una primera versión de la receta)
+4. Documentación (Se documenta la receta y se produce una primera versión)
+5. Asesguramiento de la calidad (El equipo de aseguramiento de la calidad prueba la receta, propone correcciones y ajustes tanto a la fórmula como al paso a paso panadero)
+6. Revisión (Se consolidan las correcciones y se ajusta la receta y su fórmula)
+7. Publicación en el mapa (Se publica la versión final en el mapa de panes venezolanos)
+8. Difusión en la redes sociales (Se difunde en las redes sociales)
+9. Retrospectiva (Se verifica en equipo lo que estamos haciendo bien, lo que se debe mejorar y se toman acciones para adaptar el proceso y la dinámica de trabajo)
 
 ## ¿Deseas contribuir?
 
@@ -86,13 +86,13 @@ Para contribuir con el proyecto puedes convertirte en:
 
 ¿Cómo participo como Colaborador? 
 
-Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigacion y producion del contenido del mapa de panes venezolanos, con el equipo trabajo via nuestra dirección de correo electronico amigospanarras@gmail.com.
+Compartiendo referencias (Recetas, videos y referencias de contenido relacionado) que puedan nutrir el proceso de investigación y produción del contenido del mapa de panes venezolanos, con el equipo trabajo a través de nuestra dirección de correo electrónico amigospanarras@gmail.com.
 
 ### Promotor
 
 ¿Cómo participo como Promotor?
 
-Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que esten relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. Tambien puedes compartir con tus amigos el enlace a nuestro sitio web [https://panesvenezolanos.com](https://panesvenezolanos.com)
+Agregando el hashtag #mapadepanesvenezolanos a tus publicaciones en instagram que estén relacionadas con las experiencias y resultados obtenidos luego de haber consumido, probado el contenido (alguna de las recetas) del mapa de panes venezolanos. También puedes compartir con tus amigos el enlace a nuestro sitio web [https://panesvenezolanos.com](https://panesvenezolanos.com)
 
 
 ## Advertencia
