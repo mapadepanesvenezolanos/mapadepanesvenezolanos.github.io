@@ -1,5 +1,5 @@
 ---
-layout: panesvenezolanos
+layout: post
 title: Acerca
 subtitle: ¿Quienes somos?
 description: Somos un equipo decidido a ayudarte a hacer los Panes Venezolanos.
