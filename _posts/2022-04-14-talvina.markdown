@@ -62,14 +62,14 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 ### Ingredientes
 
-| Ingrediente               | Fórmula     | Peso   | 15% más|
-|:--------------------------|:-----------:|-------:|-------:|
-| Harina panadera           |        100% |   39g  |   45g  |
-| Agua                      |        150% |   58g  |   67g  |
-| Azúcar                    |         30% |   12g  |   13g  |
-| Panela                    |         30% |   12g  |   13g  |
-|---------------------------|-------------|--------|--------|
-|**Total**                  |    **310%** |**120g**|**138g**|
+| Ingrediente               | Fórmula     | Peso   | A preparar |
+|:--------------------------|:-----------:|-------:|-----------:|
+| Harina panadera           |        100% |   39g  |   45g      |
+| Agua                      |        150% |   58g  |   67g      |
+| Azúcar                    |         30% |   12g  |   13g      |
+| Panela                    |         30% |   12g  |   13g      |
+|---------------------------|-------------|--------|------------|
+|**Total**                  |    **310%** |**120g**|  **138g**  |
 
 ## Paso a paso de la preparación
 
@@ -88,7 +88,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 ### Ingredientes del refresco
 
-| Ingrediente               | Fórmula     | Peso   | 15% más|
+| Ingrediente               | Fórmula     | Peso   | A preparar |
 |:--------------------------|:-----------:|-------:|-------:|
 | Harina panadera           |        100% |   19g  |   22g  |
 | Agua                      |        150% |   29g  |   33g  |
@@ -113,7 +113,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 ### Ingredientes
 
-| Ingrediente               | Fórmula     | Peso   | 15% más|
+| Ingrediente               | Fórmula     | Peso   | A preparar |
 |:--------------------------|:-----------:|-------:|-------:|
 | Harina panadera           |        100% |   36g  |   42g  |
 | Agua                      |        150% |   55g  |   63g  |
