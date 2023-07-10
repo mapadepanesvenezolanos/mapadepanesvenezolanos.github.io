@@ -13,7 +13,7 @@ Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición, t
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-La primera opción nos gusta mas porque genera sabores más desarrollados.
+La primera opción nos gusta más porque genera sabores más desarrollados.
 
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
 
@@ -26,7 +26,7 @@ La Talvina es la masa madre de origen Venezolano que se ha utilizado en la prepa
 
 ## Resultado esperado
 
-Una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con un sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el  aroma a papelón.
+Una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con un sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el aroma a papelón.
 
 ## Origen
 
@@ -46,11 +46,11 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 - Esta Masa Madre originalmente se fermenta a temperatura ambiente entre  12ºC y 22ºC  en los Andes Venezolanos.
 - La proporción de agua es mayor que la proporción de harina y esto mejora la actividad en la Masa Madre.
-- Contiene azúcar y papelón rayado, además de especies, para darle sabor.
+- Contiene azúcar y papelón rallado, además de especias, para darle sabor.
 - Esta Masa Madre reta lo convencional en la Panadería (temperatura ambiente ideal entre 24ºC y 28ºC y sin azúcar añadida), ya que se siembra y se mantiene a temperatura baja y tiene alto contenido de azúcar, lo cual la hace tolerante al azúcar.
 - En las tablas de cantidades, hemos agregado una columna de nombre “A preparar”. Utiliza esas cantidades, ya que la Masa Madre pierde peso durante la fermentación. Estamos agregando 15% más de cada ingrediente.
 - Puedes sustituir el azúcar por miel.
-- Además, puedes agregar algunas especies para darle un sabor característico y diferente. Algunas opciones son: clavo de olor, pimienta guayabita, canela, anís, cacao, café, entre otros.
+- Además, puedes agregar algunas especias para darle un sabor característico y diferente. Algunas opciones son: clavo de olor, pimienta guayabita, canela, anís, cacao, café, entre otros.
 - Hemos visto versiones donde se agrega malta o cerveza. Puedes reemplazar un poco del agua por estos dos líquidos.
 - También puedes utilizar esencia de vainilla (1% - 2%).
 
