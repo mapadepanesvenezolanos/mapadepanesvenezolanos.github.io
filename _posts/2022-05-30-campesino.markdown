@@ -105,12 +105,19 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 
 ### Descanso en mesa 
 
-- Cubre cada bola con plástico y déjala reposar 10 minutos o hasta que estén relajadas. 
+- Cubre cada bola con plástico y déjala reposar diez (10) minutos o hasta que estén relajadas. 
 
 ### Formado
 
+#### Barras
+
 - Estirar cada bola con el rodillo y formar un rectángulo.
 - Enrolla la masa y coloca en una bandeja engrasada.
+
+#### Hogazas
+
+- Bolea generando tensión en la superficie. 
+- Cubre cada bola con plástico.
 
 ### Precalentar el horno
 
@@ -131,7 +138,7 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Reduce la temperatura del horno a 220ºC/410ºF.
 - Introduce la bandeja en el horno.
 - Coloca tres hielos en el caldero y cierra la puerta.
-- Deja el vapor en el horno durante cinco (10) minutos.
+- Deja el vapor en el horno durante diez (10) minutos.
 - Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC/355ºF.
 - Deja el Pan entre 20 a 25 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
 
@@ -188,7 +195,7 @@ Planifica dos días para la preparación de tu pan.
 - Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que va a utilizar durante el proceso al alcance de la mano. 
 
-## Mezcla y amasado manual
+### Mezcla y amasado manual
 
 - Mezcla la harina con la levadura instantánea.
 - Diluye el azúcar en el agua.
@@ -202,53 +209,60 @@ Planifica dos días para la preparación de tu pan.
 - Realiza la prueba del gluten, si todavía falta, vuelve a sobar la masa y haz reposos de 10 minutos hasta que el gluten se desarrolle. 
 - Usualmente con una o dos tandas de sobado es suficiente.
 
-## Fermentación en bloque y retardo
+### Fermentación en bloque y retardo
 
 - Deja la masa tapada a temperatura ambiente por una hora.
 - Lleva la masa tapada a la nevera por al menos 6h, recomendable 18h.
 
-## División 
+### División 
 
 - Al sacar la masa de la nevera déjala atemperar por 15 minutos.
 - Divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
 
-## Preformado 
+### Preformado 
 
 - Realiza un preformado en barra.
 
-## Descanso en mesa 
+### Descanso en mesa 
 
 - Cubre cada bola con plástico y déjala reposar 30 minutos o hasta que estén relajadas. 
 
-## Formado
+### Formado
 
-- Estirar cada masa como en un rectángulo alargado.
-- Realiza un formado en barra y coloca el pastón en una bandeja engrasada.
+#### Barras
 
-## Precalentar el horno
+- Estirar cada bola con el rodillo y formar un rectángulo.
+- Enrolla la masa y coloca en una bandeja engrasada.
+
+#### Hogazas
+
+- Bolea generando tensión en la superficie. 
+- Cubre cada bola con plástico.
+
+### Precalentar el horno
 
 - Precalienta el horno a 240ºC/460ºF con un caldero en el piso del horno.
 
-## Maduración
+### Maduración
 
 - Deja los pastones reposar 90 minutos aproximadamente o hasta que se dupliquen en tamaño. El tiempo varía en base a la temperatura del día. Puede ser más o menos.
 
-## Barnices, coberturas y cortes
+### Barnices, coberturas y cortes
 
 - Coloca agua sobre cada pastón con un aspersor.
 - Realiza tres cortes en la dirección del pastón, el corte siguiente se solapa un tercio con el anterior.
 - Evita los cortes de forma transversal que atraviesan el pastón de un lado a otro..
 
-## Horneado
+### Horneado
 
 - Reduce la temperatura del horno a 220ºC/410ºF.
 - Introduce la bandeja en el horno.
 - Coloca tres hielos en el caldero y cierra la puerta.
-- Deja el vapor en el horno durante cinco (10) minutos.
+- Deja el vapor en el horno durante diez (10) minutos.
 - Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC/355ºF.
 - Deja el Pan entre 20 a 25 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
 
-## Enfriamiento
+### Enfriamiento
 
 - Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
 
