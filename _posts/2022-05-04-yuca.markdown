@@ -109,6 +109,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
 - Cubre la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
 
+### Fermentación en bloque y retardo (opcional)
+Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Una vez terminado el período de fermentación, saca el molde rectangular de la nevera y llévalo a la mesa de trabajo.
+- Deja reposar el pastón en la mesa de trabajo durante trenta minutos (30) para que la masa recupere la temperatura ambiente y sea manipulable.
+
 ### División y pesado
 - Saca la masa del recipiente tapado.
 - Procede a pesar la masa total.
@@ -120,17 +125,12 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Reposo en mesa (relajación de la masa)
 - Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos. 
 
-### Fermentación en bloque y retardo (opcional)
-Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
-- Una vez terminado el período de fermentación, daca el molde rectangular de la nevera y llévalo a la mesa de trabajo.
-- Deja reposar el pastón en la mesa de trabajo durante treinta minutos (30) para que la masa recupere la temperatura ambiente y sea manipulable.
-
 ### Formado
-- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensiónsin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
+- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
 
 ### Barnices, coberturas y cortes
-- Con una brocha de cocina, cubre cada pastón por todos lados con una capa de un huevo previamente aligerado con una cucharadita de leche líquida. 
 - Coloca los pastones en una bandeja engrasada de tres en tres separados medio centímetro uno de otro de cada lado. En la fermentación se pegarán y crecerán hacia arriba.
+- Con una brocha de cocina, cubre cada pastón por todos lados con una capa de un huevo previamente aligerado con una cucharadita de leche líquida. 
 
 ### Maduración
 - Deje reposar los pastones tapados aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que ** supere la prueba de maduración con el dedo.**
@@ -273,10 +273,6 @@ Planifica dos días para la preparación de esta versión del Pan de Yuca.
 - Continua amasando la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
 - De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso[**prueba de la membrana de gluten**](#pruebamembranagluten). Solo debemos considerar diferencias en el tiempo de maduración ya que estamos utilizando poca levadura y talvina.
 
-#### Fermentación final (maduración y retardo en nevera)
-- Deje reposar los pastones tapados, aproximadamente por tres (3) horas en un lugar fresco, sin corrientes de aire, a una temperatura entre 24oC y 27oC o hasta que **supere la prueba de maduración con el dedo**.
-- Si no utilizas levadura, el tiempo es más prolongado, aproximadamente 16 a 20 horas o hasta que supere la prueba de maduración con el dedo. 
-
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración la receta del [Grupo Academico Panadero y Pastelero de Venezuela] y el [Instituto Europeo del PAN].
@@ -289,7 +285,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0.0__
+__Versión 4.0.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
