@@ -66,10 +66,11 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **212.3%**   |  **539g** |
 
-###Ingredientes para Barnices y coberturas
-| Ingrediente                                                  
-* 1 huevo fresco
-* 1 cucharadita de leche liquida       
+### Ingredientes para Barnices y coberturas
+| Ingrediente                                                  |    Cantidad/medida   |       
+|:------------------------------------------------------------ |:---------------------|
+| Huevo Fresco                                                 |          1           |    
+| Leche liquida                                                |    1 cucharadita     |    
 
 ## Paso a paso del panadero
 
