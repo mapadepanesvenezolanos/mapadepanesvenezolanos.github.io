@@ -47,7 +47,7 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 
 ## Masa leudada con levadura instantánea (Método directo)
 
-- 12 Panes de 50 gramos de masa cada uno. Masa total de 600 gramos
+- 12 Panes de 50g de masa cada uno. Masa total de 600g.
 - Temperatura ambiente 21.5ºC - 27ºC
 - 55% de hidratación (Hidratación baja)
 
@@ -65,7 +65,7 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 | Leche en polvo            |          2% |    6g  |
 | Anís en grano (molido)    |          2% |    6g  |
 |---------------------------|-------------|--------|
-| **Total**                 |   **191%**  |**600g**|
+| **Total**                 |   **191%**  |**598g**|
 
 ## Paso a paso del panadero
 
@@ -97,7 +97,7 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 - Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. 
 - La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. 
 - La mesa y tus manos deben quedar limpias luego del amasado.
-- Forma una bola y deja reposar tapada con un envase durante treinta (30) minutos. 
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos. 
 
 ### Prueba de la membrana de gluten
 
@@ -128,29 +128,19 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Preformado
 
-- A cada porción aplica un preformado redondo. 
-- Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
-- Voltea la bola (el lado liso por arriba), bolea un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+- A cada pastón aplica un preformado redondo de la forma siguiente: extiende cada pastón con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- Voltea la bola (el lado liso por arriba), bolea un poco sin generar mucha tensión y cúbrelas con una bolsa plástica.
 
 ### Reposo en mesa (relajación de la masa)
 
-- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
+- Deja reposar cada pastón sobre la mesa de trabajo, tapados por diez (10) minutos.
 
 ### Formado
 
-- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
 - Escoge una bandeja de metal que puedas meter en el horno, donde puedan caber tus doce (12) pastones, separados por al menos un centímetro.
 - Engrasa la bandeja con mantequilla sin sal, teniendo en cuenta que tus pastones se pegarán y crecerán hacia arriba durante la fermentación.
-
-### Barnices, coberturas y cortes
-
-- Con una brocha de cocina, decora la parte superior de cada pastón con la mezcla de un huevo batido, aligerado con la misma cantidad de leche líquida, una pizca de sal y de azúcar.
-- Llena una taza limpia y seca con azúcar blanca.
-- Con la mano, toma un puñito de azúcar y decora la parte superior de cada pastón generosamente.
-
-### Fermentación final (maduración)
-
-- Deje reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC.
+- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
+- Coloca cada bola en la bandeja engrasada con una separación de un centímetro de cada lado.
 
 <div id="retardo"></div>
 
@@ -159,18 +149,30 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC y 27ºC.
 
+### Barnices, coberturas y cortes
+
+- Con una brocha de cocina, decora la parte superior de cada pastón con la mezcla de un huevo batido, aligerado con la misma cantidad de leche líquida, una pizca de sal y de azúcar.
+- Llena una taza limpia y seca con azúcar blanca.
+- Con la mano, toma un puñito de azúcar y decora la parte superior de cada pastón generosamente.
+
+### Precalentar el horno
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+
+### Fermentación final (maduración)
+
+- Deje reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC.
+
 ### Prueba del dedo
 
 - Con el dedo índice, verifica que la masa pase la prueba de maduración.
-- Media hora antes de finalizar la segunda fermentación (maduración), enciende el horno a una temperatura de 180ºC - 355ºF. 
-- Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 
 <div id="cortes"></div>
 
 ### Cortes
 
 - Toma una tijera de cocina. 
-- En el centro superior de cada pastón, realiza una cruz, haciendo tres cortes, uno primero y luego de bada lado para hacer la forma de la piñita.
+- En el centro superior de cada pastón, realiza una cruz, haciendo tres cortes, uno primero y luego de cada lado para hacer la forma de la piñita.
 
 <div id="horneado"></div>
 
@@ -188,7 +190,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Al sacar los panes del horno, pásalos a una rejilla o tabla de madera en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Apaga el horno.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listas. Disfruta tus piñitas!!!
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listas. ¡Disfruta tus piñitas!
 
 ------
 
