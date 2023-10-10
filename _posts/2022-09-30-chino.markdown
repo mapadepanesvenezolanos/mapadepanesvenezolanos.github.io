@@ -43,7 +43,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina todo uso                                              |      100%     |      294g |
+| Harina todo uso                                              |      100%     |      295g |
 | Agua tibia                                                   |      40%      |      118g |
 | Levadura instantánea                                         |      1%       |        3g |
 | Sal                                                          |    0.5%       |        1g |
