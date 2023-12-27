@@ -12,10 +12,10 @@ featured_image: '/images/panes/yuca/yuca_3.jpeg'
 #### RECETA, FÓRMULA y TÉCNICAS
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
+s
 - 12 Panes de 45 g de masa/6 panes de 90g.
 - Temperatura ambiente 21.5ºC - 27ºC
-- 42% de hidratación (Baja hidratación)
+- 50% de hidratación (Baja hidratación)
 
 ## Resultado esperado
 
@@ -290,7 +290,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 4.0.0__
+__Versión 4.0.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
