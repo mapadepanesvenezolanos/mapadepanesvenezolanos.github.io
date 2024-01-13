@@ -84,6 +84,8 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ### Mezcla y amasado
 
+<div id="primercicloamasado"></div>
+
 ####  Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la sal.
@@ -95,7 +97,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 - Amasa dos (2) minutos, forma una bola y deja reposar por diez (10) minutos.
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
 
-<div id="segundociclo"></div>
+<div id="segundocicloamasado"></div>
 
 #### Segundo ciclo de amasado
 - Realiza dos (2) ciclos de amasado consecutivos, iniciando por amasar el pastón durante dos (2) minutos y dejandolo reposar en mesa durante diez (10) minutos.
@@ -191,18 +193,19 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      210g |
-| Puré de yuca                                                 |     46,1%     |       97g |
-| Agua                                                         |     33,9%     |       71g |
+| Harina panadera                                              |      100%     |      206g |
+| Puré de yuca                                                 |     46,3%     |       95g |
+| Agua                                                         |     33,7%     |       69g |
 | Levadura instantánea                                         |      0.8%     |        2g |
 | Sal                                                          |        3%     |        6g |
 | Huevos ligeramente batidos                                   |      9,7%     |       20g |
-| Mantequilla sin sal                                          |      9,1%     |       19g |
+| Mantequilla sin sal                                          |      9,7%     |       20g |
 | Azúcar                                                       |      9,7%     |       20g |
-| Aceite vegetal/canola                                        |      6,7%     |       14g |
-| Prefermento biga                                             |     38,6%     |       81g |
+| Aceite vegetal/canola                                        |      7,3%     |       15g |
+| Leche en polvo                                               |      2,4%     |        5g |
+| Prefermento biga                                             |     39,4%     |       81g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **257.6%**   |  **540g** |
+| **Total**                                                    |  **262.4%**   |  **540g** |
 
 ## Paso a paso del panadero
 
@@ -211,8 +214,8 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 - Incorpora ahora la levadura y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
 - Agrega poco a poco la harina y ve disolviendo en la mezcla del paso anterior hasta formar una bola de masa.
 - Coloca la masa en un envase transparente y haz una marca en el envase, indicando la altura inicial de la masa.
-- Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante 3 horas o hasta que la masa triplique su altura.
-- Lleve su envase a la nevera y deje reposar durante 18 horas
+- Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante tres (3) horas o hasta que la masa triplique su altura.
+- Lleve su envase a la nevera y deje reposar durante cubierto durante doce (12) horas.
 
 ### Preparación de la masa
 
@@ -220,19 +223,19 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 
 ### Mezcla y amasado
 
-####  Ciclo de amasado
+####  Primer ciclo de amasado
 
 - Para la mezcla inicial reserva el prefermento Biga y la sal.
 - En un envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
-- En un segundo envase, mezcla los ingredientes líquidos: el agua con el huevo ligeramente batido, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante 20 segundos hasta disolver.
+- En un segundo envase, mezcla los siguientes ingredientes : coloca el agua con el huevo ligeramente batido, el prefermento biga, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante veinte (20) segundos hasta disolver.
 - Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán.
-- Integra los ingredientes hasta tener un amasijo.
-- Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Continua amasando la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Integra los ingredientes hasta tener un amasijo. 
+- Continua amasando durante un (1) minuto y agrega la sal, amasando hasta que no sientas granos de sal en la masa.
+- Amasa dos (2) minutos, forma una bola y deja reposar por diez (10) minutos.
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
 - Amasa la mezcla durante un (1) minuto y agrega el prefermento Biga hasta integrar completamente en la masa. Amasa no más de dos (2) minutos.
 - Forma una bola y deposítala dentro de un envase cubierto durante diez (10) minutos.
-- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso[**prueba de la membrana de gluten**](#pruebamembranagluten).
+- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso[**segundo ciclo de amasado**](#segundocicloamasado).
 
 ---
 # Pan de Yuca
