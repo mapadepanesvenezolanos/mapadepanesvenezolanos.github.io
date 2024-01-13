@@ -39,7 +39,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 ## Tips
 
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
-- Una hora antes de iniciar la preparación de la masa del pan, prepara el puré de yuca blanca, iniciando por cortarla en trozos verticales largos como el tamaño del dedo índice de una de tus manos. Durante el corte,  asegúrate de retirar la vena/raíz de la yuca. En una olla una taza de agua y el total de los dedos de yuca blanca previamente cortados. Cocina a fuego medio hasta que la yuca esté blanda y masticable. Luego retira la olla de la hornilla de cocina, elimina toda el agua de y coloca la yuca blanca blanda en un recipiente seco. Haz un puré con la yuca blanda y déjalo enfriar en mesa.
+- Una (1) hora antes de iniciar la preparación de la masa del pan, prepara el puré de yuca blanca, iniciando por cortarla en trozos. En una olla agrega una taza de agua y los trozos de yuca blanca previamente cortados. Cocina a fuego medio hasta que la yuca esté blanda y masticable. Luego retira la olla de la hornilla de cocina, elimina toda el agua de la olla y coloca la yuca blanca blanda en un recipiente seco. Haz un puré con los trozos de yuca blanda, asegurandote de retirar la raíz. Déja enfriar el puré en la mesa de trabajo.
 - Para controlar la cocción de tus panes de yuca, puedes mover una de las rejillas de tu horno a la parte superior de tu horno casero y allí colocar una bandeja metálica para reducir el efecto de la refracción del calor en tus pastones. De esta manera, podrás regular visualmente, el color dorado deseado que deseas ver en la costra de tus panes.
 - Para hornear estos deliciosos panes de yuca, nosotros utilizamos una bandeja de metal con las siguientes dimensiones: 28x26x4 centímetros de largo, ancho y alto respectivamente.
 
@@ -99,7 +99,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 <div id="ciclosobado"></div>
 
 #### Ciclo de sobado
-- Realiza dos (2) ciclos de amasado consecutivos, iniciando por amasar el pastón durante dos (2) minutos y dejandolo reposar en mesa durante diez (10) minutos.
+- Soba la masa durante dos (2) minutos. Dejalo reposar en la mesa de trabajo durante diez (10) minutos. Repite estos pasos una vez más.
 
 <div id="pruebamembranagluten"></div>
 
@@ -143,8 +143,7 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 - Coloca en la bandeja de metal engrasada, los pastones formando tres (3) filas de cuatro (4) pastones cada una, dejando un espacio entre cada pastón. Durante el horneado, los pastones se pegarán y crecerán hacia arriba.
 
 ### Barnices, coberturas y cortes
-- Mezcla el huevo fresco y la cucharadita de leche líquida indicados en la tabla de ingredientes para barnices y coberturas. Agrega una pizca de sal y azucar a la mezcla y remueve.
-- Utilizando una brocha de cocina, cubre cada pastón por todos lados con una capita de la mezcla indicada en el paso anterior. 
+- Con la ayuda de un vaporizador, rocia los pastones con una fina capa de agua.
 
 ### Maduración
 - Deje reposar los pastones tapados aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que ** supere la prueba de maduración con el dedo.**
