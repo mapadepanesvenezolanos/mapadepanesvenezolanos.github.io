@@ -39,8 +39,9 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 ## Tips
 
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
-- Una hora antes de iniciar la preparación de la masa del pan, al momento de preparar el puré de yuca, cocina la yuca pelada y cortada en trozos verticales largos como el tamaño del dedo índice de una de tus manos. Una vez que hayas cocinado la yuca hasta que esté blanda y masticable, asegúrate de retirar la vena/raíz y luego proceder a hacer la papilla de tu puré, de esta manera evitarás encontrarte pedazos dentro de la masa o la miga una vez cocido el pan.
-- Para controlar la cocción de tus panes de yuca, puedes mover una de las rejillas de tu horno a la parte superior de tu horno casero y allí colocar una bandeja metálica para reducir el efecto de la refracción del calor en tus pastones. De esta manera, podrás regular visualmente, el color dorado deseado que deseas ver en la costra de tus panes
+- Una hora antes de iniciar la preparación de la masa del pan, prepara el puré de yuca blanca, iniciando por cortarla en trozos verticales largos como el tamaño del dedo índice de una de tus manos. Durante el corte,  asegúrate de retirar la vena/raíz de la yuca. En una olla una taza de agua y el total de los dedos de yuca blanca previamente cortados. Cocina a fuego medio hasta que la yuca esté blanda y masticable. Luego retira la olla de la hornilla de cocina, elimina toda el agua de y coloca la yuca blanca blanda en un recipiente seco. Haz un puré con la yuca blanda y déjalo enfriar en mesa.
+- Para controlar la cocción de tus panes de yuca, puedes mover una de las rejillas de tu horno a la parte superior de tu horno casero y allí colocar una bandeja metálica para reducir el efecto de la refracción del calor en tus pastones. De esta manera, podrás regular visualmente, el color dorado deseado que deseas ver en la costra de tus panes.
+- Para hornear estos deliciosos panes de yuca, nosotros utilizamos una bandeja de metal con las siguientes dimensiones: 28x26x4 centímetros de largo, ancho y alto respectivamente.
 
 {% include whatsapp.html %}
 
@@ -54,17 +55,18 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      254g |
-| Puré de yuca                                                 |       38%     |       97g |
-| Agua                                                         |       42%     |      107g |
-| Levadura instantánea                                         |      0,8%     |        2g |
-| Sal                                                          |      2,5%     |        6g |
+| Harina panadera                                              |      100%     |      252g |
+| Puré de yuca blanca                                          |       38%     |       96g |
+| Agua                                                         |       42%     |      106g |
+| Levadura instantánea                                         |        1%     |        2g |
+| Sal                                                          |      2.5%     |        6g |
 | Huevos ligeramente batidos                                   |        8%     |       20g |
-| Mantequilla sin sal                                          |      7,5%     |       19g |
+| Mantequilla sin sal                                          |        8%     |       20g |
 | Azúcar                                                       |        8%     |       20g |
-| Aceite vegetal/canola                                        |      5,5%     |       14g |
+| Aceite vegetal/canola                                        |        6%     |       15g |
+| Leche en polvo                                               |        2%     |        5g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **212.3%**   |  **539g** |
+| **Total**                                                    |  **215.5%**   |  **540g** |
 
 ### Ingredientes para Barnices y coberturas
 - Un (1) huevo fresco/cincuenta y cuatro (54) gramos
@@ -82,22 +84,28 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ### Mezcla y amasado
 
-####  Ciclo de amasado
+####  Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la sal.
 - En un envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
 - En un segundo envase, mezcla los ingredientes líquidos: el agua con el huevo ligeramente batido, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante 20 segundos hasta disolver. Espera que la mantequilla se enfrie.
 - Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán.
-- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Integra los ingredientes hasta tener un amasijo. 
+- Continua amasando durante un (1) minuto y agrega la sal, amasando hasta que no sientas granos de sal en la masa.
+- Amasa dos (2) minutos, forma una bola y deja reposar por diez (10) minutos.
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
+
+<div id="segundociclo"></div>
+
+#### Segundo ciclo de amasado
+- Realiza dos (2) ciclos de amasado consecutivos, iniciando por amasar el pastón durante dos (2) minutos y dejandolo reposar en mesa durante diez (10) minutos.
 
 <div id="pruebamembranagluten"></div>
 
 ### Prueba de la membrana de gluten
-- Realiza la prueba de la membrana de gluten para verificar que ya se ha formado la red de gluten. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla
+- Realiza la prueba de la membrana de gluten para verificar que ya se ha formado la red de gluten. Si todavía le falta, repite un ultimo  ciclo de amasado de dos (2) minutos y un reposo de diez (10) minutos, hasta superar la prueba de la malla
 de gluten.
-- Realiza un preformado redondo, la masa queda lisa en la superficie.
+- Realiza un preformado redondo, la masa queda lisa y brillante en la superficie.
 
 ### Primera fermentación  
 La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa
@@ -114,14 +122,14 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Cubre la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
 
 ### Fermentación en bloque y retardo (opcional)
-Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a cuatro (4) grados centígrados entre seis (6)y ocho (8) horas.
 - Una vez terminado el período de fermentación, saca el molde rectangular de la nevera y llévalo a la mesa de trabajo.
 - Deja reposar el pastón en la mesa de trabajo durante treinta (30) minutos para que la masa recupere la temperatura ambiente y sea manipulable.
 
 ### División y pesado
 - Saca la masa del recipiente tapado.
 - Procede a pesar la masa total.
-- Divide la masa en doce (12) porciones de cuarenta y cinco (45) gramos o en seis (6) porciones de noventa (90) gramos cada una.
+- Divide la masa en doce (12) porciones iguales en peso.
 
 ### Preformado 
 - A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
@@ -131,10 +139,10 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 ### Formado
 - **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
+- Coloca en la bandeja de metal engrasada, los pastones formando tres (3) filas de cuatro (4) pastones cada una, dejando un espacio entre cada pastón. Durante el horneado, los pastones se pegarán y crecerán hacia arriba.
 
 ### Barnices, coberturas y cortes
-- Coloca los pastones en una bandeja engrasada de tres en tres separados medio centímetro uno de otro de cada lado. En la fermentación se pegarán y crecerán hacia arriba.
-- Mezcla el huevo fresco y la cucharadita de leche líquida indicados en la tabla de ingredientes para barnices y coberturas. 
+- Mezcla el huevo fresco y la cucharadita de leche líquida indicados en la tabla de ingredientes para barnices y coberturas. Agrega una pizca de sal y azucar a la mezcla y remueve.
 - Utilizando una brocha de cocina, cubre cada pastón por todos lados con una capita de la mezcla indicada en el paso anterior. 
 
 ### Maduración
@@ -142,14 +150,14 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 ### Horneado
 - Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Coloca la bandeja en el medio del horno durante aproximadamente 15 a 25 minutos.
+- Coloca la bandeja en el medio del horno durante aproximadamente 20 a 25 minutos.
 - Verifica el horno asegurándote que los panes se hornean de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
 - Saca los panes del horno cuando tengan un color dorado a tu gusto.
 
 ### Enfriamiento
 - Al sacar los panes del horno, pásalos a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listos. Disfruta tu Pan de Yuca!!!
+- Deja reposar, por lo menos, diez (10) minutos. ¡Mucha paciencia! Ya están casi listos. Disfruta tu Pan de Yuca!!!
 
 ### Consumo del pan
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
@@ -290,7 +298,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 4.0.1__
+__Versión 4.1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
