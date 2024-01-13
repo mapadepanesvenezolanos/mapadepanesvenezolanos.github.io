@@ -86,18 +86,19 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 <div id="primercicloamasado"></div>
 
-####  Primer ciclo de amasado
+####  Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la sal.
 - En un envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
-- En un segundo envase, mezcla los ingredientes líquidos: el agua con el huevo ligeramente batido, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante 20 segundos hasta disolver. Espera que la mantequilla se enfrie.
+- Derrite la mantequilla sin sal durante veinte segundos en el microondas. Espera que la mantequilla se enfríe.
+- En un segundo envase, mezcla los ingredientes líquidos: el agua con el huevo ligeramente batido, el aceite vegetal y la mantequilla sin sal previamente derretida.
 - Crea un volcán con la mezcla de los ingredientes sólidos, agrega la sal en el borde del volcán y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. 
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
 
-<div id="segundocicloamasado"></div>
+<div id="ciclosobado"></div>
 
-#### Segundo ciclo de amasado
+#### Ciclo de sobado
 - Realiza dos (2) ciclos de amasado consecutivos, iniciando por amasar el pastón durante dos (2) minutos y dejandolo reposar en mesa durante diez (10) minutos.
 
 <div id="pruebamembranagluten"></div>
@@ -221,15 +222,16 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 
 ### Mezcla y amasado
 
-####  Primer ciclo de amasado
+####  Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la sal.
 - En un envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
-- En un segundo envase, mezcla los siguientes ingredientes : coloca el agua con el huevo ligeramente batido, el prefermento biga, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante veinte (20) segundos hasta disolver.
+- Derrite la mantequilla sin sal durante veinte segundos en el microondas. Espera que la mantequilla se enfríe.
+- En un segundo envase, mezcla los siguientes ingredientes : coloca el agua con el huevo ligeramente batido, el prefermento biga, el aceite vegetal y la mantequilla sin sal previamente derretida.
 - Crea un volcán con la mezcla de los ingredientes sólidos, agrega la sal en el borde del volcán y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. 
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
-- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso [**segundo ciclo de amasado**](#segundocicloamasado).
+- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso [**ciclo de sobado**](#ciclosobado).
 
 ---
 # Pan de Yuca
@@ -273,15 +275,16 @@ Planifica dos días para la preparación de esta versión del Pan de Yuca.
 
 ### Mezcla y amasado
 
-####  Primer ciclo de amasado
+####  Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la sal.
-- En un envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
-- En un segundo envase, mezcla los siguientes ingredientes : coloca el agua con el huevo ligeramente batido, la Talvina, el aceite vegetal y la mantequilla sin sal previamente derretida en microondas durante veinte (20) segundos hasta disolver.
+- En un primer envase mezcla los ingredientes sólidos de la masa: harina, azúcar, la levadura instantánea seca y el puré de yuca.
+- Derrite la mantequilla sin sal durante veinte segundos en el microondas. Espera que la mantequilla se enfríe.
+- En un segundo envase, mezcla los siguientes ingredientes : coloca el agua con el huevo ligeramente batido, la Talvina, el aceite vegetal y la mantequilla sin sal previamente derretida.
 - Crea un volcán con la mezcla de los ingredientes sólidos, agrega la sal en el borde del volcán y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. 
 - Forma una bola y colócala dentro de un envase cubierto durante treinta (30) minutos.
-- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso [**segundo ciclo de amasado**](#segundocicloamasado). Solo debemos considerar diferencias en el tiempo de maduración ya que estamos utilizando poca levadura y talvina.
+- De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso [**ciclo de sobado**](#ciclosobado). Solo debemos considerar diferencias en el tiempo de maduración ya que estamos utilizando poca levadura y talvina.
 
 ### Referencias y enlaces
 
