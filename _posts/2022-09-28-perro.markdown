@@ -17,6 +17,15 @@ featured_image: '/images/panes/perro/perro_alba.jpeg'
 
 Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y acabado brillante.
 
+## Origen
+“Según Michael Quinn, un nativo de Brooklyn e historiador de Coney Island, fue un inmigrante alemán llamado Charles L. Feltman quien sirvió hot dogs en este lugar. Feltman llegó a Estados Unidos en 1856 y como muchos inmigrantes alemanes de la época trajo consigo una afición por las salchichas estilo Frankfurt, comunes en su tierra natal. Al ser un experimentado panadero, Feltman abrió una panadería en Brooklyn en 1865 y se ganó la vida entregando tortas a los negocios de Coney Island, con ayuda de un carrito en el que también vendía almejas. A fines de la década de 1860, cuando el recién inaugurado tren de Coney Island y Brooklyn trajo a muchas más personas a la costa desde Manhattan, los clientes le dijeron a Feltman que querían comida caliente, no almejas frías, según cuenta Richard F. Snow, ex-editor de la revista American Heritage. Así que en 1867, Feltman pidió que le adaptaron un brasero a la medida para cocinar salchichas y una caja de metal para calentar el pan en su carrito.[^1]
+
+### Perro caliente venezolano
+Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las personas lo preparan igual. Lo que generalmente se le agrega adentro del pan luego de abrirse es:  Salchicha, cebolla picadita, repollo rallado, zanahoria rallada, papitas fritas (patatas chips), mayonesa, mostaza, salsa de tomate (ketchup).[^2]
+
+[^1]:El verdadero origen de los hot dogs, la comida rápida más emblemática de los Estados Unidos, https://www.bbc.com/mundo/vert-tra-49067202 
+[^2]:El perro caliente venezolano, https://www.venelogia.com/archivos/10285/ 
+
 ## Tips
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
@@ -141,7 +150,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
