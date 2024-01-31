@@ -52,7 +52,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 - Prepararemos 8 unidades de 100g para un total de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación)
+- 50% de hidratación (Baja hidratación)
 
 ### Ingredientes para la masa
 
