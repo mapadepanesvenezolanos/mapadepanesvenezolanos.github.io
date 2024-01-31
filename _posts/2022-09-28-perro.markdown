@@ -15,7 +15,7 @@ featured_image: '/images/panes/perro/perro_alba.jpeg'
 
 ## Resultado esperado
 
-Este es un Pan de Perro Caliente de miga cerrada y suave, de corteza uniforme y acabado brillante.
+Este es un Pan de miga cerrada y suave, de corteza uniforme y acabado brillante.
 
 ## Origen
 “Según Michael Quinn, un nativo de Brooklyn e historiador de Coney Island, fue un inmigrante alemán llamado Charles L. Feltman quien sirvió hot dogs en este lugar. Feltman llegó a Estados Unidos en 1856 y como muchos inmigrantes alemanes de la época trajo consigo una afición por las salchichas estilo Frankfurt, comunes en su tierra natal. Al ser un experimentado panadero, Feltman abrió una panadería en Brooklyn en 1865 y se ganó la vida entregando tortas a los negocios de Coney Island, con ayuda de un carrito en el que también vendía almejas. A fines de la década de 1860, cuando el recién inaugurado tren de Coney Island y Brooklyn trajo a muchas más personas a la costa desde Manhattan, los clientes le dijeron a Feltman que querían comida caliente, no almejas frías, según cuenta Richard F. Snow, ex-editor de la revista American Heritage. Así que en 1867, Feltman pidió que le adaptaron un brasero a la medida para cocinar salchichas y una caja de metal para calentar el pan en su carrito.[^1]
@@ -29,7 +29,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 ## Tips
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
-- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia 100g de mantequilla equivale a 85g de aceite o manteca vegetal y 15g de agua. En este caso formulamos utilizando 46g de mantequilla, si vas a utilizar aceite entonces son 39g de aceite y 7g de agua adicionales.
+- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia cien (100) g de mantequilla equivale a ochenta y cinco (85)g de aceite o manteca vegetal y quince (15)g de agua. En este caso formulamos utilizando cuarenta y seis (46)g de mantequilla, si vas a utilizar aceite entonces son treinta y nueva (39)g de aceite y siete (7)g de agua adicionales.
 - Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
 - Al momento de colocar el barniz hazlo con mucha atención para que cada pastón tenga barniz y el color quede con un acabado uniforme.
 - Para generar humedad antes de consumirlos envuélvelos en papel toallín y colócalos en el microondas aproximadamente treinta (30) segundos.
@@ -44,7 +44,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 - Prepararemos 10 unidades de 80g para un total de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación) y 10% de grasa.
+- 50% de hidratación (Baja hidratación) y 10% de grasa.
 
 ### Ingredientes para la masa
 
@@ -85,29 +85,33 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 <div id="sobado"></div>
 
-#### Ciclo de sobado 
+#### Ciclo de sobado (manual)
 
-- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo unas 5 a 7 veces.
+- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo entre cinco (5) a siete (7) veces.
 - Dale un reposo de cinco (5) minutos.
-- Sigue realizando pliegues, unos 5 a 7.
 - Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
-- Forma una bola y déjala reposar por diez (10) minutos. 
+- Forma una bola y déjala reposar por diez (10) minutos.
+
+### Ciclo de sobado (máquina)
+
+- Lleva la bolita de masa al asistente mezclador.
+- Con el utensilio gancho del asistente mezclador, soba la masa a velocidad tres (3) entre ocho (8) y diez (10) minutos.
 
 ### División
 
-- Divide en porciones de 80g, bolea cada porción y déjalas reposar por diez (10) minutos.
+- Divide en porciones de ochenta (80)g, bolea cada porción y déjalas reposar por diez (10) minutos.
 
 ### Formado
 
-- Extiende cada bola en rectángulos con un ancho de 10cm a 12cm para formar barras.
+- Extiende cada bola en rectángulos con un ancho de diez (10)cm a doce (12)cm para formar barras.
 - A la masa extendida coloca agua con un aspersor.
 - Enrolla cada rectángulo y afina la masa en el extremo del cierre con el rodillo.
-- Deja cada pastón uno al lado del otro separados por 1cm.
+- Deja cada pastón uno al lado del otro separados por un (1)cm.
 
 ### Fermentación final (maduración)
 
 - Tapa la bandeja con plástico.
-- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante dos (2) a tres (3) horas.
+- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC entre dos (2) y tres (3) horas.
 - Cada pastón, al menos, debe haber duplicado su volumen inicial y cada barra se deben pegar una de la otra.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -119,7 +123,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 ### Horneado
 
-- Enciende el horno una media antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinte (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
 <img class="post_image post_image_right" src="/images/panes/perro/perro_alba_miga.jpeg" alt="{{page.title}}">
@@ -132,9 +136,9 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 ### Consumo del pan
 
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a ciento ochenta (180)ºC - trescientos cincuenta (350)ºF de cinco (5) a diez (10) minutos para que recuperen su frescura.
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+- Si los congelaste, entre ocho (8) a doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ---
 
@@ -150,7 +154,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 2.2__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
