@@ -31,7 +31,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 ## Tips
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
-- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia 100g de mantequilla equivale a 85g de aceite o manteca vegetal y 15g de agua. En este caso formulamos utilizando 46g de mantequilla, si vas a utilizar aceite entonces son 39g de aceite y 7g de agua adicionales.
+- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia cien (100)g de mantequilla equivale a ochenta y cinco (85)g de aceite o manteca vegetal y quince (15)g de agua. En este caso formulamos utilizando cuarenta y seis (46)g de mantequilla, si vas a utilizar aceite entonces son treinta y nueve (39)g de aceite y siete (7)g de agua adicionales.
 - Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
 - Al momento de colocar el barniz hazlo con mucha atención para que todo el pastón tenga barniz y el color quede con un acabado uniforme.
 - Cuando vayas a preparar tus hamburguesas, te recomendamos grillar las tapas del Pan antes de utilizar, para sellarlas y evitar que el Pan absorba humedad de los ingredientes.
@@ -75,7 +75,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 ### Mezcla y amasado
 
-#### Ciclo de amasado
+#### Ciclo de amasado 
 
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - Crea un volcán con boca ancha.
@@ -87,28 +87,33 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 <div id="sobado"></div>
 
-#### Ciclo de sobado 
+#### Ciclo de sobado (manual)
 
-- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo unas 5 a 7 veces.
+- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo entre cinco (5) a siete (7) veces.
 - Dale un reposo de cinco (5) minutos.
-- Sigue realizando pliegues, unos 5 a 7.
 - Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
-- Forma una bola y déjala reposar por diez (10) minutos. 
+- Forma una bola y déjala reposar por diez (10) minutos.
+
+### Ciclo de sobado (máquina)
+
+- Lleva la bolita de masa al asistente mezclador.
+- Con el utensilio gancho del asistente mezclador, soba la masa a velocidad tres (3) entre ocho (8) y diez (10) minutos.
 
 ### División
 
-- Divide en porciones de 100g, bolea cada porción y déjalas reposar por diez (10) minutos.
+- Divide en porciones de cien (100)g, bolea cada porción y déjalas reposar por diez (10) minutos.
 
 ### Formado
 
-- Bolea de nuevo dejando una superficie uniforme.
-- Extiende aceite con las manos o con una brocha a cada pastón y lo colocas en la bandeja.
-- Deja cada pastón separado unos 5cm de cada lado.
+- Bolea de nuevo creando una superficie uniforme.
+- Extiende aceite con las manos o con una brocha sobre cada pastón y colócalos uno a uno en una bandeja previamente aceitada. 
+- Deja cada pastón separado unos cinco (5)cm de cada lado.
+
 
 ### Fermentación final (maduración)
 
 - Tapa la bandeja con plástico.
-- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante dos (2) a tres (3) horas.
+- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC entre dos (2) a tres (3) horas.
 - El pastón, al menos, debe haber duplicado su volumen inicial.
 
 ### Barnices, coberturas y cortes
@@ -117,8 +122,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Con ayuda de una brocha de cocina, coloca el barniz a cada pastón con mucha atención de manera queden bien cubiertos sin derramar. Cuando se derrama queda en la base del Pan y en el horno se endurece.
 
 ### Horneado
-
-- Enciende el horno una media antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinticinco (25) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
 ### Enfriamiento
@@ -129,9 +133,9 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 ### Consumo del pan
 
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a ciento ochenta (180)ºC - trescientos cincuenta (350)ºF de cinco (5) a diez (10) minutos para que recuperen su frescura.
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+- Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ---
 
