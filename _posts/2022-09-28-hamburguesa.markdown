@@ -28,6 +28,12 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza uniforme. 
 
+## Origen
+
+"Rastreando su origen más remoto, ya en la época romana, en tiempos del emperador Tiberio, aparecen referencias a la “Isicia omentata”, un plato fácilmente transportable para las legiones, compuesto por una mezcla de carne picada, vino blanco, pan, granos de pimienta y piñones. En la Edad Media, el emperador mongol Gengis Kan extendió las fronteras “hamburgueseras” hasta Rusia y Ucrania. Pero claro, no se trataba ni mucho menos del plato que conocemos hoy en día: sino de unas tiras y pedazos de carne aderezados que se colocaban debajo de las monturas para que se cocinaran con su propio calor un invento que adoptado por los tártaros daría al parecer origen al famoso steak tartar. Los intercambios comerciales condujeron a estas “prehamburguesas” hasta Hamburgo, el mayor puerto del Viejo Continente, donde refinaron la receta introduciendo huevo a la mezcla original de carne picada. Punto de partida a las Américas, desde allí viajó hasta los locales del puerto de Nueva York, donde comenzaron a servirse “filetes al estilo de Hamburgo” y a popularizarse entre los inmigrantes asentados en el Valle del río Ohio. ¿a quién se le ocurrió colocar la carne entre dos rebanadas de pan? La verdad es que no está claro. Son varias las comarcas de EEUU que se apropian del invento. Entre otras, la ciudad de Hamburg, en Nueva York, que alega ser la que inventó este “sándwich de carne molida”, y que fue precisamente éste el que dio nombre a la ciudad. Lo que sí está claro es que la hamburguesa empezó a popularizarse a finales del siglo XIX y principios del XX, unida al ritmo de vida más acelerado que impone la industrialización. Una carta del Restaurante Delmonico´s del año 1834 es el documento más antiguo donde se ofrece una hamburguesa."[^1]
+
+[^1]:Breve historia de la hamburguesa, https://www.facebook.com/VenezuelaFusion/posts/breve-historia-de-la-hamburguesadesde-las-tiras-de-carne-cocinadas-bajo-las-mont/1894447347366313/ 
+
 ## Tips
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
@@ -343,7 +349,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__ (28/09/2022)
+__Versión 2.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
