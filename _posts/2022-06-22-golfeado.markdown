@@ -11,8 +11,6 @@ featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
 
 El Golfeado es uno de mis panes favoritos, de hecho lo considero una merienda.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Es dulce, húmedo, con melao y queso que da una textura grumosa a la cobertura. La combinación de lo dulce con el queso le da un balance de textura y sabor. Después de estudiar y probarlos en distintas panaderías de Caracas, La Guaira y el Junquito observamos diferencias en la preparación y la hemos clasificado en la versión caraqueña y la versión del Junquito.
 
 En la versión caraqueña suelen ser más grandes, en muchas panaderías le agregan queso rallado por encima (no me gusta este detalle), suelen ser menos hidratados y con mucha presencia del anís dulce en grano.
@@ -20,6 +18,8 @@ En la versión caraqueña suelen ser más grandes, en muchas panaderías le agre
 En el caso del Junquito, son más pequeños, húmedos y bañados en melao, con cobertura grumosa de papelón, azúcar y queso rallado como peloticas pequeñas, en este caso el anís es menos presente.
 
 Hemos probado golfeados en otros lugares de Venezuela y son muy variantes las interpretaciones, en general tienden a ser una versión de la caraqueña.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 Les dejamos los enlaces para cada proceso:
 

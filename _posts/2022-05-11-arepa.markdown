@@ -11,8 +11,6 @@ featured_image: '/images/panes/arepa/arepa_1.jpeg'
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ### Masa con harina de maíz blanco precocido
 
 - 10 Arepas de 75 g de masa
@@ -23,6 +21,8 @@ featured_image: '/images/panes/arepa/arepa_1.jpeg'
 ## Resultado esperado
 
 La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois] las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Origen
 

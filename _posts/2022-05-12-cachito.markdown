@@ -9,8 +9,6 @@ categories: Cachitos capital
 featured_image: '/images/panes/cachito/cachito_4.jpeg'
 ---
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 #### RECETA, FÓRMULA y TÉCNICAS
 
 ## Resultado esperado
@@ -30,6 +28,8 @@ Igualmente, existe una tercera teoría que argumenta que se le dio ese nombre a 
 Por lo tanto, su origen no está totalmente comprobado.” [^1]
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Tips
 

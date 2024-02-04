@@ -11,8 +11,6 @@ featured_image: '/images/panes/talvina/talvina_3.jpeg'
 
 Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición, te dejamos el procedimiento para prepararla desde cero y también para prepararla a partir de una masa madre líquida. 
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 La primera opción nos gusta más porque genera sabores más desarrollados.
 
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
@@ -23,6 +21,8 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 #### RECETA, FÓRMULA y TÉCNICAS
 
 La Talvina es la masa madre de origen Venezolano que se ha utilizado en la preparación de Panes en la región de Los Andes.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Resultado esperado
 

@@ -9,8 +9,6 @@ categories: pan rustico capital
 featured_image: '/images/panes/gallego/gallego_7.jpeg'
 ---
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
 
 * [Tipo Gallego](#tipogallego)
@@ -21,6 +19,8 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 ## Resultado esperado
 
 Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Tips
 

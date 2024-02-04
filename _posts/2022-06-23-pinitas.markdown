@@ -9,8 +9,6 @@ categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 ---
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
 
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
@@ -23,6 +21,8 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 ## Resultado esperado
 
 La fórmula panadera de nuestra receta de panes piñitas, ha sido creada con la intención de llevarte directo al mostrador de la panadería a la que tú o tus padres, iban a comprar esos pancitos cubiertos de azúcar y decorados en el tope con unos piquitos sobresalientes, que le daban al pan un parecido a la piña en Venezuela. Según la literatura gastronómica panadera detrás de nuestras investigaciones,  el pan de Tunja ha sido ubicado en la región de los llanos del Mapa de Panes Venezolanos.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Origen 
 

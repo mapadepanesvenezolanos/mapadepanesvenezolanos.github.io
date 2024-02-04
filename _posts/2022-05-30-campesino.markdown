@@ -11,8 +11,6 @@ featured_image: '/images/panes/campesino/campesino_1.jpeg'
 
 Ahora vamos a hacer Pan Campesino por método directo o por método indirecto con prefermento Pie Francés.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
 
 * [Método directo](#directo)
@@ -24,6 +22,8 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 
 Es un Pan semi rústico de miga suave, esponjada, con corteza marrón y crujiente.
 Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Origen
 
