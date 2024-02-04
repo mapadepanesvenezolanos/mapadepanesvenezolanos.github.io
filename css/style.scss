@@ -186,3 +186,9 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 .intropad {
   padding-bottom: 20px;
 }
+
+.reset-a, .reset-a:hover, .reset-a:visited, .reset-a:focus, .reset-a:active  {
+  text-decoration: none;
+  color: inherit;
+  outline: 0;
+}

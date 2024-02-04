@@ -10,8 +10,6 @@ featured_image: '/images/panes/tovareno/tovareno_2.jpeg'
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Resultado esperado
 
 El Pan Tovareño es uno de los panes emblema en Venezuela, es aromático, dulce, de concha firme y dorada, compacto, pero suave, y con esa textura que se “derrite” en la boca. 
@@ -21,6 +19,8 @@ El Pan Tovareño es uno de los panes emblema en Venezuela, es aromático, dulce,
 "El pan tovareño, como detalla la investigación de la periodista Reina Carreño, es un pan dulce andino que tomó un nombre propio y una personalidad, gracias a lugar específico donde se prepara. Nació en la panadería Mi Favorita ([@panaderiamifavorita1960]), en el Sector El Corozo del municipio Tovar, en el estado Mérida. Se dice que este establecimiento es el más antiguo de la localidad y su receta permanece inalterable desde hace más de 100 años.”[^1]
 
 “En torno a la elaboración de este pan andino existen muchos secretos y rituales que nutren la masa y le dan su exclusivo sabor.  Recién salido del horno es todo un espectáculo y a la vez una promesa. El aroma está impregnado de notas frutales, canela, clavito y caña de azúcar. La miga es apretada, algo húmeda, fina y delicada; la corteza es suave y un poco crujiente. Es un pan para comer sin acompañamientos, solo o remojado con café con leche o agua miel”, escribe Carreño."[^1]
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 [^1]: Adriana Gibbs, https://adrianagibbs.com/el-pan-tovareno-viajo-a-espana/
 
