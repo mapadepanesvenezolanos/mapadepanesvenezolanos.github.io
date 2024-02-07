@@ -9,9 +9,11 @@ categories: pan semi salado enriquecido capital
 featured_image: '/images/panes/brioche/brioche_1.jpeg'
 ---
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+El Pan brioche es muy conocido en todo el mundo, tiene muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas. 
 
 #### RECETA, FÓRMULA y TÉCNICAS
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Resultado esperado
 
