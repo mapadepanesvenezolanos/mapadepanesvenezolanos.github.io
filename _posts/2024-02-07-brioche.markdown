@@ -1,6 +1,6 @@
 ---
 title: "Pan Brioche"
-subtitle: "El resuelve de las noches y los fines de semana."
+subtitle: "El aperitivo de lujo de tus comidas."
 description: "El Pan de Brioche es un pan de masa enriquecida, de miga esponjada, sabor delicioso que lo disfrutas con el relleno de tu preferencia."
 date: 2022-09-28 10:32:39 -0400
 permalink: /panes-venezolanos/pan-brioche/
