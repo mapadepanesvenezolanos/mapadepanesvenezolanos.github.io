@@ -13,8 +13,6 @@ El Pan brioche es muy conocido en todo el mundo, tiene muchas variaciones y dife
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Resultado esperado
 
 Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
@@ -24,6 +22,8 @@ Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
 "Este singular pan tiene un origen francés y algunos dicen que su genealogía llega hasta la antigua Roma. Lo cierto es que en 1404, en la región de Normandía (Francia), aparece por primera vez escrito el nombre brioche, garabateado en las páginas de un viejo recetario. El brioche nació originalmente como un pan dulce  enriquecido con azúcar, huevos y mantequilla, ingredientes que le dan un gusto más sofisticado y una consistencia más suave y esponjosa con respecto al pan normal. La mayoría de las recetas procuran, también, la adición de leche, crema de leche, agua o algún licor."[^1]
 
 [^1]:Brioche: una dulce historia, https://www.cyrano.com.ec/blog/brioche
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Tips
 
