@@ -6,9 +6,12 @@ description: Somos un equipo decidido a ayudarte a hacer los Panes Venezolanos.
 featured_image: /images/social.jpg
 ---
 
+![](/images/panes/camaleon/camaleon_0.jpeg){:width="500px"}
+
 Te damos la bienvenida a la Página de los Panes Venezolanos.
 
 Queremos ayudarte a conocer y a preparar los Panes típicos de Venezuela en casa.
+
 
 ## ¿Quiénes somos?
 
