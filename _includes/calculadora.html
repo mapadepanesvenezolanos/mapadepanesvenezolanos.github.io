@@ -1,0 +1,225 @@
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    max-width: 800px;
+    margin: 20px auto;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .ingredient {
+    margin-bottom: 10px;
+  }
+
+  .result {
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+    pointer-events: none;
+  }
+
+  .weights {
+    width: 100%;
+    text-align: right;
+    padding-right: 0;
+  }
+
+  .ingredients {
+    width: 100%;
+    text-align: left;
+    padding-left: 5;
+    margin-right: 50px;
+  }
+</style>
+
+<section class="intro">
+  <div class="wrap">
+    <table class="header_table">
+      <tr>
+        <td>
+          <h1>{{ page.title }}</h1>
+        </td>
+        <td><button class="button" onclick="window.print();">Imprimir</button></td>
+      </tr>
+    </table>
+  </div>
+</section>
+
+<div class="container">
+  <p style="margin-bottom: 10px;">En panadería se usa la fórmula panadera para conocer la proporción de los ingredientes
+    en relación a la harina. </p>
+  <p>A partir de la fórmula se puede calcular el peso de los ingredientes para cualquier cantidad de unidades a
+    preparar.</p>
+  <p>Escribe los pesos de los ingredientes para obtener la fórmula.</p>
+  <form id="breadCalculator">
+    <div class="form-group row ingredient">
+      <label for="flour" class="col-sm-3 col-form-label">Harina (g)</label>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="flour" name="flour" value="600" required>
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="flourResult" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <label for="water" class="col-sm-3 col-form-label">Agua (g)</label>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="water" name="water" value="330" required>
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="waterResult" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <label for="yeast" class="col-sm-3 col-form-label">Levadura (g)</label>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="yeast" name="yeast" value="6" required>
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="yeastResult" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <label for="salt" class="col-sm-3 col-form-label">Sal (g)</label>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="salt" name="salt" value="12" required>
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="saltResult" readonly>
+      </div>
+    </div>
+
+    <div class="form-group row ingredient">
+      <div class="col-sm-3">
+        <input type="text" class="ingredients form-control" id="ing1name" name="ing1name" value="Azúcar">
+      </div>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="ing1w" name="ing1w" value="30">
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="ing1Result" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <div class="col-sm-3">
+        <input type="text" class="ingredients form-control" id="ing2name" name="ing2name" value="Mantequilla">
+      </div>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="ing2w" name="ing2w" value="30">
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="ing2Result" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <div class="col-sm-3">
+        <input type="text" class="ingredients form-control" id="ing3name" name="ing3name" value="Huevo">
+      </div>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="ing3w" name="ing3w" value="0">
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="ing3Result" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <div class="col-sm-3">
+        <input type="text" class="ingredients form-control" id="ing4name" name="ing4name" value="">
+      </div>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="ing4w" name="ing4w" value="0">
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="ing4Result" readonly>
+      </div>
+    </div>
+    <div class="form-group row ingredient">
+      <div class="col-sm-3">
+        <input type="text" class="ingredients form-control" id="ing5name" name="ing5name" value="">
+      </div>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="ing5w" name="ing5w" value="0">
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="ing5Result" readonly>
+      </div>
+    </div>
+
+    <div class="form-group row ingredient">
+      <label for="total" class="col-sm-3 col-form-label">Total</label>
+      <div class="col-sm-3">
+        <input type="number" class="form-control weights" id="total" name="total" required>
+      </div>
+      <div class="col-sm-2">
+        <input type="text" class="form-control result" id="totalResult" readonly>
+      </div>
+    </div>
+  </form>
+</div>
+
+<!-- Add Bootstrap and your own JavaScript scripts -->
+<!-- Make sure to include jQuery for Bootstrap functionality -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.5.0/dist/js/bootstrap.min.js"></script>
+<script>
+    // Function to calculate the baker's formula
+    function calculateFormula() {
+        const flour = parseFloat(document.getElementById('flour').value);
+        const water = parseFloat(document.getElementById('water').value);
+        const salt = parseFloat(document.getElementById('salt').value);
+        const yeast = parseFloat(document.getElementById('yeast').value);
+
+        const hydration = (water / flour) * 100;
+        const saltPercentage = (salt / flour) * 100;
+        const yeastPercentage = (yeast / flour) * 100;
+
+        document.getElementById('flourResult').value = "100%";
+        document.getElementById('waterResult').value = `${hydration.toFixed(2)}%`;
+        document.getElementById('saltResult').value = `${saltPercentage.toFixed(2)}%`;
+        document.getElementById('yeastResult').value = `${yeastPercentage.toFixed(2)}%`;
+
+        const ing1 = parseFloat(document.getElementById('ing1w').value);
+        const ing1Percentage = (ing1 / flour) * 100;
+        document.getElementById('ing1Result').value = `${ing1Percentage.toFixed(2)}%`;
+
+        const ing2 = parseFloat(document.getElementById('ing2w').value);
+        const ing2Percentage = (ing2 / flour) * 100;
+        document.getElementById('ing2Result').value = `${ing2Percentage.toFixed(2)}%`;
+
+        const ing3 = parseFloat(document.getElementById('ing3w').value);
+        const ing3Percentage = (ing3 / flour) * 100;
+        document.getElementById('ing3Result').value = `${ing3Percentage.toFixed(2)}%`;
+
+        const ing4 = parseFloat(document.getElementById('ing4w').value);
+        const ing4Percentage = (ing4 / flour) * 100;
+        document.getElementById('ing4Result').value = `${ing4Percentage.toFixed(2)}%`;
+
+        const ing5 = parseFloat(document.getElementById('ing5w').value);
+        const ing5Percentage = (ing5 / flour) * 100;
+        document.getElementById('ing5Result').value = `${ing5Percentage.toFixed(2)}%`;
+
+        const total = flour+water+salt+yeast+ing1+ing2+ing3+ing4+ing5;
+        document.getElementById('total').value = `${total.toFixed(2)}`;
+
+        const totalResult = 100+hydration+saltPercentage+yeastPercentage+ing1Percentage+ing2Percentage+ing3Percentage+ing4Percentage+ing5Percentage;
+        document.getElementById('totalResult').value = `${totalResult.toFixed(2)}%`;
+
+
+    }
+
+    calculateFormula();
+    // Event listener to calculate the formula when the user inputs or changes a quantity
+    const inputs = document.querySelectorAll('.form-control');
+    inputs.forEach(input => {
+        input.addEventListener('input', calculateFormula);
+    });
+</script>
