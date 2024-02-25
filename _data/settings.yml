@@ -19,6 +19,8 @@ menu_settings:
       url: '/'
     - title: 'Mapa'
       url: '/mapa/'
+    - title: 'Calculadoras'
+      url: '/calculadoras'
     - title: 'Acerca'
       url: '/acerca'
 
