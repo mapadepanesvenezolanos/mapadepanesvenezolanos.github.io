@@ -55,12 +55,15 @@
 </section>
 
 <div class="container">
-  <p style="margin-bottom: 10px;">En panadería se usa la fórmula panadera para conocer la proporción de los ingredientes
-    en relación a la harina. </p>
-  <p>A partir de la fórmula se puede calcular el peso de los ingredientes para cualquier cantidad de unidades a
-    preparar.</p>
-  <p>Escribe los pesos de los ingredientes para obtener la fórmula.</p>
+  <p style="margin-bottom: 10px;">Partiendo de la fórmula podemos calcular el pesos de los ingredientes para cualquier
+    cantidad de masa requerida.</p>
+  <p>Escribe la cantidad de unidades y el peso por unidad.</p>
   <form id="breadCalculator">
+    <div class="form-group row ingredient">
+        <label for="ingredient" class="col-sm-3 col-form-label">Ingredientes</label>
+        <label for="percent" class="col-sm-3 col-form-label">%</label>
+        <label for="weight" class="col-sm-2 col-form-label">Pesos (g)</label>
+      </div>
     <div class="form-group row ingredient">
       <label for="flour" class="col-sm-3 col-form-label">Harina (g)</label>
       <div class="col-sm-3">
@@ -171,55 +174,56 @@
 <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.5.0/dist/js/bootstrap.min.js"></script>
 <script>
-    // Function to calculate the baker's formula
-    function calculateFormula() {
-        const flour = parseFloat(document.getElementById('flour').value);
-        const water = parseFloat(document.getElementById('water').value);
-        const salt = parseFloat(document.getElementById('salt').value);
-        const yeast = parseFloat(document.getElementById('yeast').value);
+  // Function to calculate the baker's formula
+  function calculateFormula() {
+    const flour = parseFloat(document.getElementById('flour').value);
+    const water = parseFloat(document.getElementById('water').value);
+    const salt = parseFloat(document.getElementById('salt').value);
+    const yeast = parseFloat(document.getElementById('yeast').value);
 
-        const hydration = (water / flour) * 100;
-        const saltPercentage = (salt / flour) * 100;
-        const yeastPercentage = (yeast / flour) * 100;
+    const hydration = (water / flour) * 100;
+    const saltPercentage = (salt / flour) * 100;
+    const yeastPercentage = (yeast / flour) * 100;
 
-        document.getElementById('flourResult').value = "100%";
-        document.getElementById('waterResult').value = `${hydration.toFixed(2)}%`;
-        document.getElementById('saltResult').value = `${saltPercentage.toFixed(2)}%`;
-        document.getElementById('yeastResult').value = `${yeastPercentage.toFixed(2)}%`;
+    document.getElementById('flourResult').value = "100%";
+    document.getElementById('waterResult').value = `${hydration.toFixed(2)}%`;
+    document.getElementById('saltResult').value = `${saltPercentage.toFixed(2)}%`;
+    document.getElementById('yeastResult').value = `${yeastPercentage.toFixed(2)}%`;
 
-        const ing1 = parseFloat(document.getElementById('ing1w').value);
-        const ing1Percentage = (ing1 / flour) * 100;
-        document.getElementById('ing1Result').value = `${ing1Percentage.toFixed(2)}%`;
+    const ing1 = parseFloat(document.getElementById('ing1w').value);
+    const ing1Percentage = (ing1 / flour) * 100;
+    document.getElementById('ing1Result').value = `${ing1Percentage.toFixed(2)}%`;
 
-        const ing2 = parseFloat(document.getElementById('ing2w').value);
-        const ing2Percentage = (ing2 / flour) * 100;
-        document.getElementById('ing2Result').value = `${ing2Percentage.toFixed(2)}%`;
+    const ing2 = parseFloat(document.getElementById('ing2w').value);
+    const ing2Percentage = (ing2 / flour) * 100;
+    document.getElementById('ing2Result').value = `${ing2Percentage.toFixed(2)}%`;
 
-        const ing3 = parseFloat(document.getElementById('ing3w').value);
-        const ing3Percentage = (ing3 / flour) * 100;
-        document.getElementById('ing3Result').value = `${ing3Percentage.toFixed(2)}%`;
+    const ing3 = parseFloat(document.getElementById('ing3w').value);
+    const ing3Percentage = (ing3 / flour) * 100;
+    document.getElementById('ing3Result').value = `${ing3Percentage.toFixed(2)}%`;
 
-        const ing4 = parseFloat(document.getElementById('ing4w').value);
-        const ing4Percentage = (ing4 / flour) * 100;
-        document.getElementById('ing4Result').value = `${ing4Percentage.toFixed(2)}%`;
+    const ing4 = parseFloat(document.getElementById('ing4w').value);
+    const ing4Percentage = (ing4 / flour) * 100;
+    document.getElementById('ing4Result').value = `${ing4Percentage.toFixed(2)}%`;
 
-        const ing5 = parseFloat(document.getElementById('ing5w').value);
-        const ing5Percentage = (ing5 / flour) * 100;
-        document.getElementById('ing5Result').value = `${ing5Percentage.toFixed(2)}%`;
+    const ing5 = parseFloat(document.getElementById('ing5w').value);
+    const ing5Percentage = (ing5 / flour) * 100;
+    document.getElementById('ing5Result').value = `${ing5Percentage.toFixed(2)}%`;
 
-        const total = flour+water+salt+yeast+ing1+ing2+ing3+ing4+ing5;
-        document.getElementById('total').value = `${total.toFixed(2)}`;
+    const total = flour + water + salt + yeast + ing1 + ing2 + ing3 + ing4 + ing5;
+    document.getElementById('total').value = `${total.toFixed(2)}`;
 
-        const totalResult = 100+hydration+saltPercentage+yeastPercentage+ing1Percentage+ing2Percentage+ing3Percentage+ing4Percentage+ing5Percentage;
-        document.getElementById('totalResult').value = `${totalResult.toFixed(2)}%`;
+    const totalResult = 100 + hydration + saltPercentage + yeastPercentage + ing1Percentage + ing2Percentage + ing3Percentage + ing4Percentage + ing5Percentage;
+    document.getElementById('totalResult').value = `${totalResult.toFixed(2)}%`;
 
 
-    }
+  }
 
-    calculateFormula();
-    // Event listener to calculate the formula when the user inputs or changes a quantity
-    const inputs = document.querySelectorAll('.form-control');
-    inputs.forEach(input => {
-        input.addEventListener('input', calculateFormula);
-    });
+  calculateFormula();
+  // Event listener to calculate the formula when the user inputs or changes a quantity
+  const inputs = document.querySelectorAll('.form-control');
+  inputs.forEach(input => {
+    input.addEventListener('input', calculateFormula);
+  });
 </script>
+
