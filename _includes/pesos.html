@@ -1,4 +1,4 @@
-<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+
 <style>
   body {
     font-family: Arial, sans-serif;
@@ -14,27 +14,27 @@
     margin-bottom: 30px;
   }
 
-  .topingredient {
-    margin-bottom: 10px;
-  }
-
-  .ingredient {
-    margin-bottom: 10px;
-  }
-
-  .result {
+  .percent {
     width: 100%;
     text-align: right;
     padding-right: 10px;
   }
 
-  .weights {
+  .weight {
     border: none;
     background-color: transparent;
     width: 100%;
     text-align: right;
     padding-right: 10px;
     pointer-events: none;
+  }
+
+  .topingredient {
+    margin-bottom: 10px;
+  }
+
+  .ingredient {
+    margin-bottom: 10px;
   }
 
   .ingredients {
@@ -51,34 +51,21 @@
   }
 </style>
 
-<section class="intro">
-  <div class="wrap">
-    <table class="header_table">
-      <tr>
-        <td>
-          <h1>{{ page.title }}</h1>
-        </td>
-        <td><button class="button" onclick="window.print();">Imprimir</button></td>
-      </tr>
-    </table>
-  </div>
-</section>
-
 <div class="container">
   <p style="margin-bottom: 10px;">Partiendo de la fórmula podemos calcular el pesos de los ingredientes para cualquier
     cantidad de masa requerida.</p>
-  <p>Escribe la cantidad de unidades y el peso por unidad y ajusta a fórmula.</p>
+  <p class="non-printable">Escribe la cantidad de unidades y el peso por unidad y ajusta a fórmula.</p>
   <form id="breadCalculator">
     <div class="form-group row topingredient">
       <label for="flour" class="col-sm-3 col-form-label">Unidades</label>
       <div class="col-sm-3">
-        <input type="number" class="form-control result" id="unidades" name="unidades" value="4" required>
+        <input type="number" class="form-control percent" id="unidades" name="unidades" value="4" required>
       </div>
     </div>
     <div class="form-group row topingredient">
       <label for="flour" class="col-sm-3 col-form-label">Peso por unidad (g)</label>
       <div class="col-sm-3">
-        <input type="number" class="form-control result" id="pesoPorUnidad" name="pesoPorUnidad" value="252" required>
+        <input type="number" class="form-control percent" id="pesoPorUnidad" name="pesoPorUnidad" value="252" required>
       </div>
     </div>
     <div class="form-group row topingredient">
@@ -89,38 +76,38 @@
     <div class="form-group row ingredient">
       <label for="flour" class="col-sm-3 col-form-label">Harina</label>
       <div class="col-sm-3">
-        <input type="number" class="form-control weights" id="flour" name="flour" readonly>
+        <input type="number" class="form-control weight" id="flour" name="flour" readonly>
       </div>
       <div class="col-sm-2">
-        <input type="text" class="form-control result" id="flourResult" value="100" readonly>
+        <input type="text" class="form-control percent" id="flourPercent" value="100" readonly>
       </div>
     </div>
     <div id="ingredientFields">
       <div class="form-group row ingredient">
         <label for="water" class="col-sm-3 col-form-label">Agua</label>
         <div class="col-sm-3">
-          <input type="number" class="form-control weights" id="water" name="water" readonly>
+          <input type="number" class="form-control weight" id="water" name="water" readonly>
         </div>
         <div class="col-sm-2">
-          <input type="text" class="form-control result" value="55" required>
+          <input type="text" class="form-control percent" value="55" required>
         </div>
       </div>
       <div class="form-group row ingredient">
         <label for="yeast" class="col-sm-3 col-form-label">Levadura</label>
         <div class="col-sm-3">
-          <input type="number" class="form-control weights" id="yeast" name="yeast" readonly>
+          <input type="number" class="form-control weight" id="yeast" name="yeast" readonly>
         </div>
         <div class="col-sm-2">
-          <input type="text" class="form-control result" value="1" required>
+          <input type="text" class="form-control percent" value="1" required>
         </div>
       </div>
       <div class="form-group row ingredient">
         <label for="salt" class="col-sm-3 col-form-label">Sal</label>
         <div class="col-sm-3">
-          <input type="number" class="form-control weights" id="salt" name="salt" readonly>
+          <input type="number" class="form-control weight" id="salt" name="salt" readonly>
         </div>
         <div class="col-sm-2">
-          <input type="text" class="form-control result" value="2">
+          <input type="text" class="form-control percent" value="2">
         </div>
       </div>
       <div class="form-group row ingredient">
@@ -128,10 +115,10 @@
           <input type="text" class="ingredients form-control" value="Azúcar">
         </div>
         <div class="col-sm-3">
-          <input type="number" class="form-control weights" readonly>
+          <input type="number" class="form-control weight" readonly>
         </div>
         <div class="col-sm-2">
-          <input type="text" class="form-control result" value="5">
+          <input type="text" class="form-control percent" value="5">
         </div>
       </div>
       <div class="form-group row ingredient">
@@ -139,20 +126,20 @@
           <input type="text" class="ingredients form-control" value="Mantequilla">
         </div>
         <div class="col-sm-3">
-          <input type="number" class="form-control weights" readonly>
+          <input type="number" class="form-control weight" readonly>
         </div>
         <div class="col-sm-2">
-          <input type="text" class="form-control result" value="5">
+          <input type="text" class="form-control percent" value="5">
         </div>
       </div>
     </div>
     <div class="form-group row topingredient">
       <label for="total" class="col-sm-3 col-form-label">Total</label>
       <div class="col-sm-3">
-        <input type="number" class="form-control weights" id="total" name="total" readonly>
+        <input type="number" class="form-control weight" id="total" name="total" readonly>
       </div>
       <div class="col-sm-2">
-        <input type="text" class="form-control result" id="totalResult" readonly>
+        <input type="text" class="form-control percent" id="totalPercent" readonly>
       </div>
     </div>
     <button type="button" class="btn btn-primary non-printable" id="addIngredientButton">Agregar otro
@@ -160,24 +147,16 @@
   </form>
 </div>
 
-<!-- Add Bootstrap and your own JavaScript scripts -->
-<!-- Make sure to include jQuery for Bootstrap functionality -->
-<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.5.0/dist/js/bootstrap.min.js"></script>
 <script>
   // Function to calculate the baker's formula
-  function getValue(ingredient) {
-    if (document.getElementById(ingredient).value === '') return parseFloat(0);
-    else return parseFloat(document.getElementById(ingredient).value);
-  }
 
-  function getValue2(value) {
+  function getValue(value) {
     if (value === '') return parseFloat(0);
     else return parseFloat(value);
   }
 
   function calculateBreadFormula() {
-    const masaTotal = getValue('unidades') * getValue('pesoPorUnidad');
+    const masaTotal = getValue(document.getElementById('unidades').value) * getValue(document.getElementById('pesoPorUnidad').value);
 
     // Obtener los campos de entrada para cada ingrediente
     const ingredientInputs = document.querySelectorAll('.ingredient');
@@ -186,18 +165,18 @@
 
     // Iterar sobre cada ingrediente
     ingredientInputs.forEach(input => {
-      const percent = getValue2(input.querySelector('.result').value);
+      const percent = getValue(input.querySelector('.percent').value);
       formula += percent;
     });
 
     const factor = masaTotal / formula;
     document.getElementById('total').value = `${masaTotal.toFixed(2)}`;
-    document.getElementById('totalResult').value = `${formula.toFixed(2)}`;
+    document.getElementById('totalPercent').value = `${formula.toFixed(2)}`;
 
     ingredientInputs.forEach(input => {
-      const percent = getValue2(input.querySelector('.result').value);
+      const percent = getValue(input.querySelector('.percent').value);
       const weight = factor * percent;
-      input.querySelector('.weights').value = `${weight.toFixed(1)}`;
+      input.querySelector('.weight').value = `${weight.toFixed(1)}`;
     });
   }
 
@@ -212,10 +191,10 @@
             <input type="text" class="form-control ingredients" value="">
           </div>
           <div class="col-sm-3">
-            <input type="number" class="form-control weights" readonly>
+            <input type="number" class="form-control weight" readonly>
           </div>
           <div class="col-sm-2">
-            <input type="text" class="form-control result" value="0">
+            <input type="text" class="form-control percent" value="0">
           </div>
         `;
 
