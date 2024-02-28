@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-gallego/
 pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/gallego/gallego_7.jpeg'
+formula_name: "gallego"
 ---
 
 Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
