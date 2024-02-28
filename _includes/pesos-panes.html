@@ -1,0 +1,218 @@
+
+<style>
+  body {
+    font-family: Arial, sans-serif;
+  }
+
+  .container {
+    margin: 20px auto;
+    border: 1px;
+    font-size: 17px;
+    font-weight: 300;
+  }
+
+  h1 {
+    text-align: center;
+    margin-bottom: 30px;
+  }
+
+  .percent {
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+  }
+
+  .weight {
+    border: none;
+    background-color: transparent;
+    width: 100%;
+    text-align: right;
+    padding-right: 10px;
+    pointer-events: none;
+  }
+
+  .topingredient {
+    margin-bottom: 10px;
+  }
+
+  .ingredient {
+    margin-bottom: 10px;
+  }
+
+  .ingredients {
+    width: 100%;
+    text-align: left;
+    padding-left: 5;
+    margin-right: 50px;
+  }
+
+  .no-pl {
+    padding-left: 0px !important;
+    margin-left: 0px !important;
+  }
+
+  @media print {
+    .non-printable {
+      display: none;
+    }
+  }
+</style>
+
+<div class="container">
+  <p class="non-printable no-pl">Escribe la cantidad de unidades y el peso por unidad que deseas preparar.</p>
+  <form id="breadCalculator">
+    <div class="form-group row topingredient">
+      <label for="flour" class="col-sm-3 col-form-label">Unidades</label>
+      <div class="col-sm-2">
+        <input type="number" class="form-control percent" id="unidades" name="unidades" value="2" required>
+      </div>
+    </div>
+    <div class="form-group row topingredient">
+      <label for="flour" class="col-sm-3 col-form-label">Peso por unidad (g)</label>
+      <div class="col-sm-2">
+        <input type="number" class="form-control percent" id="pesoPorUnidad" name="pesoPorUnidad" value="252" required>
+      </div>
+    </div>
+    <div class="form-group row topingredient">
+      <label for="total" class="col-sm-3 col-form-label">Ingredientes</label>
+      <label for="total" class="col-sm-2 col-form-label">Fórmula (%)</label>
+      <label for="total" class="col-sm-2 col-form-label">Pesos (g)</label>
+    </div>
+    <div class="form-group row ingredient">
+      <label for="flour" class="col-sm-3 col-form-label">Harina Panadera (12%)</label>
+      <div class="col-sm-2">
+        <input type="text" class="form-control percent" id="flourPercent" value="100" readonly>
+      </div>
+      <div class="col-sm-2">
+        <input type="number" class="form-control weight" id="flour" name="flour" readonly>
+      </div>
+    </div>
+    <div id="ingredientFields">
+      <div class="form-group row ingredient">
+        <label for="water" class="col-sm-3 col-form-label">Agua</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="55" required>
+          </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" id="water" name="water" readonly>
+        </div>
+      </div>
+      <div class="form-group row ingredient">
+        <label for="yeast" class="col-sm-3 col-form-label">Levadura instantánea</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="1" required>
+          </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" id="yeast" name="yeast" readonly>
+        </div>
+      </div>
+      <div class="form-group row ingredient">
+        <label for="salt" class="col-sm-3 col-form-label">Sal</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="2">
+          </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" id="salt" name="salt" readonly>
+        </div>
+      </div>
+      <div class="form-group row ingredient">
+        <label for="salt" class="col-sm-3 col-form-label">Azúcar</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="5">
+          </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" readonly>
+        </div>
+      </div>
+      <div class="form-group row ingredient">
+        <label for="salt" class="col-sm-3 col-form-label">Mantequilla</label>
+        <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="5">
+          </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" readonly>
+        </div>
+      </div>
+    </div>
+    <div class="form-group row topingredient">
+      <label for="total" class="col-sm-3 col-form-label">Total</label>
+      <div class="col-sm-2">
+        <input type="text" class="form-control percent" id="totalPercent" readonly>
+      </div>
+      <div class="col-sm-2">
+        <input type="number" class="form-control weight" id="total" name="total" readonly>
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary non-printable" id="addIngredientButton">Agregar otro
+      ingrediente</button>
+  </form>
+</div>
+
+<script>
+  // Function to calculate the baker's formula
+
+  function getValue(value) {
+    if (value === '') return parseFloat(0);
+    else return parseFloat(value);
+  }
+
+  function calculateBreadFormula() {
+    const masaTotal = getValue(document.getElementById('unidades').value) * getValue(document.getElementById('pesoPorUnidad').value);
+
+    // Obtener los campos de entrada para cada ingrediente
+    const ingredientInputs = document.querySelectorAll('.ingredient');
+
+    let formula = 0;
+
+    // Iterar sobre cada ingrediente
+    ingredientInputs.forEach(input => {
+      const percent = getValue(input.querySelector('.percent').value);
+      formula += percent;
+    });
+
+    const factor = masaTotal / formula;
+    document.getElementById('total').value = `${masaTotal.toFixed(2)}`;
+    document.getElementById('totalPercent').value = `${formula.toFixed(2)}`;
+
+    ingredientInputs.forEach(input => {
+      const percent = getValue(input.querySelector('.percent').value);
+      const weight = factor * percent;
+      input.querySelector('.weight').value = `${weight.toFixed(1)}`;
+    });
+  }
+
+  function addIngredientField() {
+    const ingredientFields = document.getElementById('ingredientFields');
+
+    const ingredientField = document.createElement('div');
+    ingredientField.classList.add('form-group', 'row', 'ingredient');
+
+    ingredientField.innerHTML = `
+          <div class="col-sm-3">
+            <input type="text" class="form-control ingredients" value="">
+          </div>
+          <div class="col-sm-2">
+            <input type="text" class="form-control percent" value="0">
+          </div>
+          <div class="col-sm-2">
+            <input type="number" class="form-control weight" readonly>
+          </div>
+        `;
+
+    ingredientFields.appendChild(ingredientField);
+    const inputs = document.querySelectorAll('.form-control');
+    inputs.forEach(input => {
+      input.addEventListener('input', calculateBreadFormula);
+    });
+  }
+
+  calculateBreadFormula();
+  // Event listener para agregar un nuevo campo de ingrediente
+  document.getElementById('addIngredientButton').addEventListener('click', addIngredientField);
+
+  // Event listener to calculate the formula when the user inputs or changes a quantity
+  const inputs = document.querySelectorAll('.form-control');
+  inputs.forEach(input => {
+    input.addEventListener('input', calculateBreadFormula);
+  });
+</script>

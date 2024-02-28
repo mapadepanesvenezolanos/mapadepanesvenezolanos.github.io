@@ -73,6 +73,10 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **168%**     |  **504g** |
 
+### Calculadora
+
+{% include pesos-panes.html %}
+
 ### Rangos referenciales
 
 | Ingrediente                                                  |    Fórmula    |
