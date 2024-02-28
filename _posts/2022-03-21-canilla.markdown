@@ -8,6 +8,8 @@ pdf: Pan-Canilla.pdf
 categories: pan semirustico capital
 featured_image: '/images/panes/canilla/canilla_11.jpeg'
 formula_name: "canilla"
+second_formula_name: "canilla"
+third_formula_name: "canilla"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -78,6 +80,14 @@ formula_name: "canilla"
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
+
+### Calculadora 2
+
+{% include calculadora-de-panes2.html %}
+
+### Calculadora 3
+
+{% include calculadora-de-panes3.html %}
 
 ### Rangos referenciales
 

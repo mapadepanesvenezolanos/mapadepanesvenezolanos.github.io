@@ -1,0 +1,148 @@
+<div class="container">
+  <p class="non-printable no-pl">Escribe la cantidad de unidades y el peso por unidad que deseas preparar.</p>
+  <form id="breadCalculator2">
+    <div class="form-group row topingredient">
+      <label class="col-sm-3 col-form-label">Unidades</label>
+      <div class="col-sm-2">
+        <input type="number" class="form-control percent" id="unidades2" required>
+      </div>
+    </div>
+    <div class="form-group row topingredient">
+      <label class="col-sm-3 col-form-label">Peso por unidad (g)</label>
+      <div class="col-sm-2">
+        <input type="number" class="form-control percent" id="pesoPorUnidad2" required>
+      </div>
+    </div>
+    <div class="form-group row topingredient">
+      <label class="col-sm-3 col-form-label">Ingredientes</label>
+      <label class="col-sm-2 col-form-label">Fórmula (%)</label>
+      <label class="col-sm-2 col-form-label">Pesos (g)</label>
+    </div>
+    <div id="ingredientFields2"></div>
+    <div class="form-group row topingredient">
+      <label class="col-sm-3 col-form-label">Total</label>
+      <div class="col-sm-2">
+        <input type="text" class="form-control percent" id="totalPercent2" readonly>
+      </div>
+      <div class="col-sm-2">
+        <input type="number" class="form-control weight" id="total2" readonly>
+      </div>
+    </div>
+    <button type="button" class="btn btn-primary non-printable mb-20" id="addIngredientButton2">Agregar otro
+      ingrediente</button>
+  </form>
+</div>
+
+<script>
+  function calculateBreadFormula2() {
+    const masaTotal = getValue(document.getElementById('unidades2').value) * getValue(document.getElementById('pesoPorUnidad2').value);
+
+    // Obtener los campos de entrada para cada ingrediente
+    const ingredientFields = document.getElementById('ingredientFields2');
+    const ingredientInputs = ingredientFields.querySelectorAll('.ingredient');
+
+    let formula = 0;
+
+    // Iterar sobre cada ingrediente
+    ingredientInputs.forEach(input => {
+      const percent = getValue(input.querySelector('.percent').value);
+      formula += percent;
+    });
+
+    const factor = masaTotal / formula;
+    document.getElementById('total2').value = `${masaTotal.toFixed(2)}`;
+    document.getElementById('totalPercent2').value = `${formula.toFixed(2)}`;
+
+    ingredientInputs.forEach(input => {
+      const percent = getValue(input.querySelector('.percent').value);
+      const weight = factor * percent;
+      input.querySelector('.weight').value = `${weight.toFixed(1)}`;
+    });
+  }
+
+  function generateCalc2(formula) {
+    const masaTotal = getValue(formula.units) * getValue(formula.weight_per_unit);
+    document.getElementById('unidades2').value = formula.units;
+    document.getElementById('pesoPorUnidad2').value = formula.weight_per_unit;
+
+    let formulaTotal = 0;
+
+    formula.ingredients.forEach(ingredient => {
+      formulaTotal += ingredient.percent;
+    });
+
+    const factor = masaTotal / formulaTotal;
+
+    // Create ingredients from formula
+    const ingredientFields = document.getElementById('ingredientFields2');
+
+    formula.ingredients.forEach(ingredient => {
+      const weight = factor * ingredient.percent;
+      const ingredientField = document.createElement('div');
+      ingredientField.classList.add('form-group', 'row', 'ingredient');
+
+      if (ingredient.main === true) {
+        ingredientField.innerHTML = `
+            <label class="col-sm-3 col-form-label">`+ ingredient.name + `</label>
+            <div class="col-sm-2">
+              <input type="text" class="form-control percent" value="`+ ingredient.percent + `" readonly>
+            </div>
+            <div class="col-sm-2">
+              <input type="number" class="form-control weight" value="`+ ingredient.weight + `" readonly>
+            </div>
+           `;
+      } else {
+        ingredientField.innerHTML = `
+            <label class="col-sm-3 col-form-label">`+ ingredient.name + `</label>
+            <div class="col-sm-2">
+              <input type="text" class="form-control percent" value="`+ ingredient.percent + `">
+            </div>
+            <div class="col-sm-2">
+              <input type="number" class="form-control weight" value="`+ ingredient.weight + `" readonly>
+            </div>
+           `;
+      }
+
+      ingredientFields.appendChild(ingredientField);
+    });
+  }
+
+  function addIngredientField2() {
+    const ingredientFields = document.getElementById('ingredientFields2');
+
+    const ingredientField = document.createElement('div');
+    ingredientField.classList.add('form-group', 'row', 'ingredient');
+
+    ingredientField.innerHTML = `
+        <div class="col-sm-3">
+          <input type="text" class="form-control ingredients" value="">
+        </div>
+        <div class="col-sm-2">
+          <input type="text" class="form-control percent" value="0">
+        </div>
+        <div class="col-sm-2">
+          <input type="number" class="form-control weight" readonly>
+        </div>
+      `;
+
+    ingredientFields.appendChild(ingredientField);
+    const ingredientFields2 = document.getElementById('breadCalculator2');
+    const inputs = ingredientFields2.querySelectorAll('.form-control');
+    inputs.forEach(input => {
+      input.addEventListener('input', calculateBreadFormula2);
+    });
+  }
+
+
+  generateCalc2(formula2);
+  calculateBreadFormula2();
+  // Event listener para agregar un nuevo campo de ingrediente
+  document.getElementById('addIngredientButton2').addEventListener('click', addIngredientField2);
+
+  // Event listener to calculate the formula when the user inputs or changes a quantity
+  const ingredientFields2 = document.getElementById('breadCalculator2');
+  const inputs2 = ingredientFields2.querySelectorAll('.form-control');
+  inputs2.forEach(input => {
+    input.addEventListener('input', calculateBreadFormula2);
+  });
+</script>

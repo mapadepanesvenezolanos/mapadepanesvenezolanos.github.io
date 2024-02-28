@@ -95,6 +95,11 @@
 
 <script>
   // Function to calculate the baker's formula
+  const ingredientFieldsDivId = 'ingredientFields';
+  const unitsId = 'unidades';
+  const weightPerUnitId = 'pesoPorUnidad';
+  const totalId = 'total';
+  const totalPercentId = 'totalPercent';
 
   function getValue(value) {
     if (value === '') return parseFloat(0);
@@ -102,10 +107,11 @@
   }
 
   function calculateBreadFormula() {
-    const masaTotal = getValue(document.getElementById('unidades').value) * getValue(document.getElementById('pesoPorUnidad').value);
+    const masaTotal = getValue(document.getElementById(unitsId).value) * getValue(document.getElementById(weightPerUnitId).value);
 
     // Obtener los campos de entrada para cada ingrediente
-    const ingredientInputs = document.querySelectorAll('.ingredient');
+    const ingredientFields = document.getElementById(ingredientFieldsDivId);
+    const ingredientInputs = ingredientFields.querySelectorAll('.ingredient');
 
     let formula = 0;
 
@@ -116,8 +122,8 @@
     });
 
     const factor = masaTotal / formula;
-    document.getElementById('total').value = `${masaTotal.toFixed(2)}`;
-    document.getElementById('totalPercent').value = `${formula.toFixed(2)}`;
+    document.getElementById(totalId).value = `${masaTotal.toFixed(2)}`;
+    document.getElementById(totalPercentId).value = `${formula.toFixed(2)}`;
 
     ingredientInputs.forEach(input => {
       const percent = getValue(input.querySelector('.percent').value);
@@ -128,8 +134,8 @@
 
   function generateCalc(formula) {
     const masaTotal = getValue(formula.units) * getValue(formula.weight_per_unit);
-    document.getElementById('unidades').value = formula.units;
-    document.getElementById('pesoPorUnidad').value = formula.weight_per_unit;
+    document.getElementById(unitsId).value = formula.units;
+    document.getElementById(weightPerUnitId).value = formula.weight_per_unit;
 
     let formulaTotal = 0;
 
@@ -140,13 +146,10 @@
     const factor = masaTotal / formulaTotal;
 
     // Create ingredients from formula
-    const ingredientFields = document.getElementById('ingredientFields');
+    const ingredientFields = document.getElementById(ingredientFieldsDivId);
 
     formula.ingredients.forEach(ingredient => {
       const weight = factor * ingredient.percent;
-      console.log(ingredient.name+" "+ingredient.percent+" "+weight);
-
-
       const ingredientField = document.createElement('div');
       ingredientField.classList.add('form-group', 'row', 'ingredient');
 
@@ -177,7 +180,7 @@
   }
 
   function addIngredientField() {
-    const ingredientFields = document.getElementById('ingredientFields');
+    const ingredientFields = document.getElementById(ingredientFieldsDivId);
 
     const ingredientField = document.createElement('div');
     ingredientField.classList.add('form-group', 'row', 'ingredient');
@@ -201,6 +204,7 @@
     });
   }
   
+
   generateCalc(formula);
   calculateBreadFormula();
   // Event listener para agregar un nuevo campo de ingrediente
