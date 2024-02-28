@@ -155,9 +155,9 @@ formula_name: "canilla"
 - Realiza los cortes en la dirección del pastón, el corte siguiente se solapa un poco con el anterior.
 - Evita los cortes de forma transversal.
 
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_10.jpeg" alt="{{page.title}}">
-
 ### Horneado
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_10.jpeg" alt="{{page.title}}">
 
 - Reduce la temperatura del horno a 200ºC/390ºF.
 - Introduce la bandeja en el horno.

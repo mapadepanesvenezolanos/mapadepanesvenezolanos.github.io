@@ -68,13 +68,13 @@
   <p class="non-printable no-pl">Escribe la cantidad de unidades y el peso por unidad que deseas preparar.</p>
   <form id="breadCalculator">
     <div class="form-group row topingredient">
-      <label for="flour" class="col-sm-3 col-form-label">Unidades</label>
+      <label class="col-sm-3 col-form-label">Unidades</label>
       <div class="col-sm-2">
         <input type="number" class="form-control percent" id="unidades" name="unidades" required>
       </div>
     </div>
     <div class="form-group row topingredient">
-      <label for="flour" class="col-sm-3 col-form-label">Peso por unidad (g)</label>
+      <label class="col-sm-3 col-form-label">Peso por unidad (g)</label>
       <div class="col-sm-2">
         <input type="number" class="form-control percent" id="pesoPorUnidad" name="pesoPorUnidad" required>
       </div>
@@ -123,6 +123,7 @@
 
     // Iterar sobre cada ingrediente
     ingredientInputs.forEach(input => {
+      console.log(input.querySelector('.percent').value);
       const percent = getValue(input.querySelector('.percent').value);
       formula += percent;
     });
