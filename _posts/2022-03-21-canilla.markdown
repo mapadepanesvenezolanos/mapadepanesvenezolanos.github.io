@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-canilla/
 pdf: Pan-Canilla.pdf
 categories: pan semirustico capital
 featured_image: '/images/panes/canilla/canilla_11.jpeg'
+formula_name: "canilla"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -75,7 +76,7 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### Calculadora
 
-{% include formulas/canilla.html %}
+{% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
 ### Rangos referenciales
