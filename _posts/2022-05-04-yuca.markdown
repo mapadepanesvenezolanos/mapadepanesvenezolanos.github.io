@@ -213,7 +213,10 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 | **Total**                                                    |  **262.4%**   |  **540g** |
 
 ### Calculadora
-alert(page.formula_name);
+<script> 
+page.formula_name: "yuca_prefermentobiga"
+</script>
+
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
