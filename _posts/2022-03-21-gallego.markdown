@@ -70,6 +70,11 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **300%**   |   **69g** |
 
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
 ## Paso a paso del panadero
 
 <div id="preparacion"></div>
