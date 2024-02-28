@@ -138,10 +138,10 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### Precalentar el horno
 
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
+
 - Precalienta el horno a 220ºC/430ºF 
 - Introduce un caldero en el piso del horno para precalentarlo y luego generar vapor.
-
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
 
 ### Maduración
 

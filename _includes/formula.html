@@ -1,12 +1,14 @@
 
 <style>
   .container {
-    max-width: 800px;
     margin: 20px auto;
+    border: 1px;
+    font-size: 17px;
+    font-weight: 300;
   }
 
   h1 {
-    text-align: center;
+    text-align: left;
     margin-bottom: 30px;
   }
 
@@ -54,12 +56,12 @@
   <form id="breadCalculator">
     <div class="form-group row topingredient">
       <label for="total" class="col-sm-3 col-form-label">Ingredientes</label>
-      <label for="total" class="col-sm-3 col-form-label">Pesos (g)</label>
-      <label for="total" class="col-sm-2 col-form-label">%</label>
+      <label for="total" class="col-sm-2 col-form-label">Pesos (g)</label>
+      <label for="total" class="col-sm-2 col-form-label">Fórmula (%)</label>
     </div>
     <div class="form-group row topingredient">
       <label for="flour" class="col-sm-3 col-form-label">Harina (g)</label>
-      <div class="col-sm-3">
+      <div class="col-sm-2">
         <input type="number" class="form-control weight" id="flour" name="flour" value="600" required>
       </div>
       <div class="col-sm-2">
@@ -69,7 +71,7 @@
     <div id="ingredientFields">
       <div class="form-group row ingredient">
         <label for="water" class="col-sm-3 col-form-label">Agua (g)</label>
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <input type="number" class="form-control weight" id="water" name="water" value="330" required>
         </div>
         <div class="col-sm-2">
@@ -78,7 +80,7 @@
       </div>
       <div class="form-group row ingredient">
         <label for="yeast" class="col-sm-3 col-form-label">Levadura (g)</label>
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <input type="number" class="form-control weight" id="yeast" name="yeast" value="6" required>
         </div>
         <div class="col-sm-2">
@@ -87,7 +89,7 @@
       </div>
       <div class="form-group row ingredient">
         <label for="salt" class="col-sm-3 col-form-label">Sal (g)</label>
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <input type="number" class="form-control weight" id="salt" name="salt" value="12" required>
         </div>
         <div class="col-sm-2">
@@ -98,7 +100,7 @@
         <div class="col-sm-3">
           <input type="text" class="ingredients form-control" value="Azúcar">
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <input type="number" class="form-control weight" value="30">
         </div>
         <div class="col-sm-2">
@@ -109,7 +111,7 @@
         <div class="col-sm-3">
           <input type="text" class="ingredients form-control" value="Mantequilla">
         </div>
-        <div class="col-sm-3">
+        <div class="col-sm-2">
           <input type="number" class="form-control weight" value="30">
         </div>
         <div class="col-sm-2">
@@ -119,7 +121,7 @@
     </div>
     <div class="form-group row topingredient">
       <label for="total" class="col-sm-3 col-form-label">Total</label>
-      <div class="col-sm-3">
+      <div class="col-sm-2">
         <input type="number" class="form-control weight" id="total" name="total" readonly>
       </div>
       <div class="col-sm-2">
@@ -173,7 +175,7 @@
           <div class="col-sm-3">
             <input type="text" class="form-control ingredients" value="">
           </div>
-          <div class="col-sm-3">
+          <div class="col-sm-2">
             <input type="number" class="form-control weight" value="0">
           </div>
           <div class="col-sm-2">
