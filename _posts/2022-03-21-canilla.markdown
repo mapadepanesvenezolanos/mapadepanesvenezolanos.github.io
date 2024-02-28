@@ -75,7 +75,8 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 
 ### Calculadora
 
-{% include pesos-panes.html %}
+{% include formulas/canilla.html %}
+{% include calculadora-de-panes.html %}
 
 ### Rangos referenciales
 
