@@ -195,6 +195,70 @@
      percent: 2
     }
    ]
+  },
+  "poolish": {
+   name: "Poolish",
+   units: 1,
+   weight_per_unit: 120,
+   ingredients: [
+    {
+     name: "Harina Panadera",
+     percent: 100,
+     main: true,
+    },
+    {
+     name: "Agua",
+     percent: 100
+    },
+    {
+     name: "Levadura instantánea",
+     percent: 0.1
+    }
+   ]
+  },
+  "biga": {
+   name: "Biga",
+   units: 1,
+   weight_per_unit: 120,
+   ingredients: [
+    {
+     name: "Harina Panadera",
+     percent: 100,
+     main: true,
+    },
+    {
+     name: "Agua",
+     percent: 45
+    },
+    {
+     name: "Levadura instantánea",
+     percent: 0.33
+    }
+   ]
+  },
+  "masa-vieja": {
+   name: "Masa vieja",
+   units: 1,
+   weight_per_unit: 168,
+   ingredients: [
+    {
+     name: "Harina Panadera",
+     percent: 100,
+     main: true,
+    },
+    {
+     name: "Agua",
+     percent: 65
+    },
+    {
+     name: "Levadura instantánea",
+     percent: 0.33
+    },
+    {
+     name: "Sal",
+     percent: 2
+    }
+   ]
   }
  };
  const formula = formulas['{{ page.formula_name }}'];
