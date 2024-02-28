@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-chino/
 pdf: Pan-chino.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/chino/chino_2.jpeg'
+formula_name: "chinos"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -47,12 +48,17 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 | Agua tibia                                                   |      40%      |      118g |
 | Levadura instantánea                                         |      1%       |        3g |
 | Sal                                                          |    0.5%       |        1g |
-| Aceite de canola/maíz                                        |      10%      |       29g |
+| Aceite vegetal/canola                                        |      10%      |       29g |
 | Azúcar                                                       |      20%      |       59g |
-| Huevos batidos                                               |      10%      |       29g |
+| Huevos ligeramente batidos                                   |      10%      |       29g |
 | Leche en polvo                                               |      2%       |       6g  |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **183.5%**   | **540g**  |
+
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
