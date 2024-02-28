@@ -60,6 +60,10 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **192%**    |  **576g** |
 
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ### Ingredientes para la masa madre 1:1:1 (1 unidad)
 
@@ -70,11 +74,6 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | Masa madre líquida                                           |      100%     |       23g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **300%**   |   **69g** |
-
-### Calculadora
-
-{% include formulas.html %}
-{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
