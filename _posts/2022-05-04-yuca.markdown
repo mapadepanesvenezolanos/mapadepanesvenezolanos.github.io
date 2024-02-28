@@ -8,7 +8,6 @@ pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/yuca/yuca_3.jpeg'
 formula_name: "yuca"
-formula_name: "yuca_prefermentobiga"
 
 ---
 
@@ -171,6 +170,8 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
 
 ---
+formula_name: "yuca_prefermentobiga"
+
 # Pan de Yuca
 
 <div id="biga"></div>
