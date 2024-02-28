@@ -7,7 +7,7 @@ permalink: /panes-venezolanos/pan-de-yuca/
 pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/yuca/yuca_3.jpeg'
-formula_name: "yuca"
+formula_name: "yuca2"
 
 ---
 
@@ -213,9 +213,6 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 | **Total**                                                    |  **262.4%**   |  **540g** |
 
 ### Calculadora
-<script> 
-page.formula_name: "yuca_prefermentobiga"
-</script>
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
