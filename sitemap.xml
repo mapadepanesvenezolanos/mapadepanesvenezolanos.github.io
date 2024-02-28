@@ -76,4 +76,16 @@ layout: null
 <changefreq>weekly</changefreq>
 <priority>1.0</priority>
 </url>
+<url>
+<loc>https://panesvenezolanos.com/talvina/</loc>
+<lastmod>2024-02-21T20:52:22-04:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>https://panesvenezolanos.com/masa-madre/</loc>
+<lastmod>2024-02-21T20:52:22-04:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>1.0</priority>
+</url>
 </urlset>

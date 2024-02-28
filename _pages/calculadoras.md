@@ -12,4 +12,6 @@ En la panadería se usa la fórmula panadera para conocer la proporción de los 
 - [Poolish](/poolish)
 - [Biga](/biga)
 - [Masa vieja](/masa-vieja)
+- [Masa Madre](/masa-madre)
+- [Talvina](/talvina)
 
