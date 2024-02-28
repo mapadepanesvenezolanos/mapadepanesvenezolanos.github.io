@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/pan-de-yuca/
 pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/yuca/yuca_3.jpeg'
+formula_name: {"yuca", "yuca_prefermentobiga"}
+
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -67,6 +69,11 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | Leche en polvo                                               |        2%     |        5g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **215.5%**   |  **540g** |
+
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ### Ingredientes para Barnices y coberturas
 - Un (1) huevo fresco/cincuenta y cuatro (54) gramos
@@ -204,6 +211,11 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 | Prefermento biga                                             |     39,4%     |       81g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **262.4%**   |  **540g** |
+
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
