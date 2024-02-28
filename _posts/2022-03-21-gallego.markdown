@@ -7,7 +7,6 @@ permalink: /panes-venezolanos/pan-gallego/
 pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/gallego/gallego_7.jpeg'
-formula_name: "gallego"
 ---
 
 Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
@@ -59,11 +58,6 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | Masa Madre                                                   |       20%     |       60g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **192%**    |  **576g** |
-
-### Calculadora
-
-{% include formulas.html %}
-{% include calculadora-de-panes.html %}
 
 ### Ingredientes para la masa madre 1:1:1 (1 unidad)
 
