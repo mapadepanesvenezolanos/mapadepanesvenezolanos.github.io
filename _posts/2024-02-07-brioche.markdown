@@ -1,7 +1,7 @@
 ---
-title: "Pan Brioche"
+title: "Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
-description: "El Pan de Brioche es un pan de masa enriquecida, de miga esponjada, sabor delicioso que lo disfrutas con el relleno de tu preferencia."
+description: "El Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
 date: 2024-02-07 10:55:00 -0400
 permalink: /panes-venezolanos/pan-brioche/
 pdf: Pan-brioche.pdf
@@ -10,17 +10,17 @@ featured_image: '/images/panes/brioche/brioche_1.jpeg'
 formula_name: "brioche"
 ---
 
-El Pan brioche es muy conocido en todo el mundo, tiene muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas. 
+Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
 ## Resultado esperado
 
-Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
+Es una masa enriquecida, de miga esponjada y sabor delicioso.
 
 ## Origen
 
-"Este singular pan tiene un origen francés y algunos dicen que su genealogía llega hasta la antigua Roma. Lo cierto es que en 1404, en la región de Normandía (Francia), aparece por primera vez escrito el nombre brioche, garabateado en las páginas de un viejo recetario. El brioche nació originalmente como un pan dulce  enriquecido con azúcar, huevos y mantequilla, ingredientes que le dan un gusto más sofisticado y una consistencia más suave y esponjosa con respecto al pan normal. La mayoría de las recetas procuran, también, la adición de leche, crema de leche, agua o algún licor."[^1]
+"Este singular pan tiene un origen francés y algunos dicen que su genealogía llega hasta la antigua Roma. Lo cierto es que en 1404, en la región de Normandía (Francia), aparece por primera vez escrito el nombre Brioche, garabateado en las páginas de un viejo recetario. El Brioche se utilizó originalmente en panes dulces enriquecido con azúcar, huevos y mantequilla, ingredientes que le dan un gusto más sofisticado y una consistencia más suave y esponjosa con respecto al pan normal. La mayoría de las recetas procuran, también, la adición de leche, crema de leche, agua o algún licor."[^1]
 
 [^1]:Brioche: una dulce historia, https://www.cyrano.com.ec/blog/brioche
 
