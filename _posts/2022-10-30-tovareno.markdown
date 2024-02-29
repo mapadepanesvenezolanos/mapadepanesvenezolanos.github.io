@@ -6,6 +6,9 @@ date: 2022-10-30 07:13:00 -0400
 permalink: /panes-venezolanos/pan-tovareno/
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/tovareno/tovareno_2.jpeg'
+formula_name: "tovareno"
+second_formula_name: "talvina"
+third_formula_name: "tovarenoalino"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -64,6 +67,15 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 |---------------------------|-------------|-------|
 | **Total**                 |    **235%** |**756g**|
 
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
+### Calculadora para la Talvina
+
+{% include calculadora-de-panes2.html %}
+
 ### Ingredientes del aliño/guiso o arenado
 
 Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arenado, representan el 12.5% de la Harina de trigo (todo uso) que se indica en tabla con los [ingredientes de la masa](#masatalvina).
@@ -84,6 +96,8 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 | **Total**                     |    **305%** |**123g**|
 
 [^2]: El alimento para niños en polvo es un ingrediente opcional y que se utiliza para recordarnos nuestra niñez, por lo cual te recomendamos utilizar Nestum, Cerelac o Crema de arróz Poly.
+
+{% include calculadora-de-panes3.html %}
 
 ## Paso a paso del panadero
 

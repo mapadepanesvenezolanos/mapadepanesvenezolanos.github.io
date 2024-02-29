@@ -55,7 +55,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **183.5%**   | **540g**  |
 
-### Calculadora
+### Calculadora para la masa
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
