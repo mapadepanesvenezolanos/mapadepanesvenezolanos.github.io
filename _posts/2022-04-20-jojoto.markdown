@@ -17,8 +17,6 @@ Este es un pan de miga esponjosa, suave, bastante similar a la textura de un pon
 
 ## Origen 
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 “Original del estado Táchira, el pan de maíz, mezcla de harinas del trigo y el maíz, pareciera tener por patria chica a la bella Pamplona, desde donde salió en un sueño por primera vez nuestra ciudad, y que según cuenta la crónica, en la palabra del cabildante Francisco Sánchez, fue propuesta como Villa para poblar en nombre de España, el 'Valle de las Auyamas', mediante la fundación de nuestra hoy ciudad de San Cristóbal”. [^2]
 
 
@@ -35,6 +33,8 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 <div id="directo"></div>
 
 # Pan de Jojoto
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 * Una Hogaza de pan de 1.110kg
 * Temperatura ambiente 21.5ºC - 25ºC

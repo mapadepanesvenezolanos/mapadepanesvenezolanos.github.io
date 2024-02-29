@@ -152,8 +152,11 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @import "_includes/_contact-form";
 
 .post_image {
-	width: 30%;
-	margin: 20px;
+	width: 30% !important;
+  margin-top: 20px !important;
+  margin-right: auto !important;
+  margin-bottom: 20px !important;
+  margin-left: 5px !important;
 }
 
 .post_image_right {
@@ -191,4 +194,13 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
   text-decoration: none;
   color: inherit;
   outline: 0;
+}
+
+.image-wrap-fix {
+  position: relative;
+  max-width: 65%;
+  margin-top: 0px;
+  margin-right: auto;
+  margin-bottom: 20px;
+  margin-left: 20px;
 }

@@ -23,8 +23,6 @@ Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
 
 [^1]:Brioche: una dulce historia, https://www.cyrano.com.ec/blog/brioche
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips
 
 - Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
@@ -36,6 +34,8 @@ Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
 <div id="brioche"></div>
 
 # Pan Brioche
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Masa leudada con levadura instantánea
 

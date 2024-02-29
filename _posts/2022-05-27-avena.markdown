@@ -17,13 +17,13 @@ Queremos que puedas crear un pan de molde, de miga cerrada y esponjosa, debido a
 
 ## Origen
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasado”... “Para llamar las cosas por su nombre y hacerle honor a aquello de que al pan pan y al vino vino, hay más de veinte diferentes panes típicos de los Andes, muchos de los cuales parten de la misma masa que luego se aliña de manera especial cada uno de ellos, así como varían los agregados que servirán para identificarlos” … “Con la llegada de los alemanes que comercializaban el café, surgieron panes integrales llamados Negro, de Avena y Afrecho, segun el componente incorporados a la masa”[^1].
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
 ## Tips
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
 - Recomiendo que la harina que utilices contenga al menos doce (12%) por ciento de proteínas.

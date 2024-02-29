@@ -23,9 +23,9 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 Es un Pan semi rústico de miga suave, esponjada, con corteza marrón y crujiente.
 Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Origen
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 El Pan Campesino, country bread, pan de campo, hogaza, barra rústica, pan rústico, entre otros nombres, es un Pan de tradición y origen europeo y refleja la tradición panadera de origen casero. El Pan Campesino es la expresión de esa panadería artesanal, el sabor suele ser neutro, lo cual lo hace versátil y acompañante de diversas preparaciones. Se acompaña con jamón, embutidos en general, cremas, caldos, platos, ensaladas, quesos, entre tantos otros usos. Es típicamente rústico, con corteza crujiente, gruesa y miga jugosa y se pueden conseguir en un formato redondo o en barra. En su versión original debe durar varios días. 
 

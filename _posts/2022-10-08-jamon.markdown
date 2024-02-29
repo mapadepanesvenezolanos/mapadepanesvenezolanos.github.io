@@ -30,7 +30,6 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 * La masa, por razones de producción en las panaderías, se prepara con el método directo, sin embargo, en casa se pueden trabajar masas con prefermentos o masa madre para mejorar las características nutricionales y para hacerla más digerible. No tanto por el sabor de la masa, ya que el pan tiene mucho relleno con sabores fuertes que provienen del jamón, la tocineta y las aceitunas.
 * Después de extender la masa y antes de colocar el relleno algunos panaderos suelen extender mostaza o salsa barbeque, melaza o melao de papelón, este detalle puede hacer diferencia al agregar tonos ácidos o dulces.
 * Utiliza los ingredientes del relleno a temperatura ambiente para que no afecte el desarrollo de la masa.
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_01.jpeg" alt="{{page.title}}">
 * Es muy importante dejar reposar la masa suficientemente para que esté relajada antes de entrar al horno. * Para evitar que se rompa el rollo, amasa hasta que la textura sea lisa y uniforme, si sientes muy seca la masa agrega agua de acuerdo al tipo de harina que utilices, extiende con un grosor uniforme y en forma de rectángulo, coloca la cantidad de relleno indicada y al cerrar el rollo no lo aprietes demasiado.
 * Realizar las perforaciones a la masa después de armar el rollo para que los gases tengan forma de escapar.
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
@@ -39,14 +38,14 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 # Pan de Jamón
 
+<img class="post_image post_image_right" src="/images/panes/jamon/jamon_01.jpeg" alt="{{page.title}}">
+
 ## Masa leudada con levadura instantánea
 
 * Es un rollo relleno con aceitunas, jamón, tocineta y pasas.
 * Son 560g de masa y 672g de relleno.
 * Temperatura ambiente 22ºC - 26ºC
 * 58% de hidratación (Baja hidratación) y 10% de grasa.
-
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_03.jpeg" alt="{{page.title}}">
 
 ### Ingredientes para la masa
 
@@ -77,6 +76,8 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 ## Paso a paso del panadero
 
+<img class="post_image post_image_right" src="/images/panes/jamon/jamon_03.jpeg" alt="{{page.title}}">
+
 <div id="preparacion"></div>
 
 ### Preparación de la masa
@@ -87,8 +88,6 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 ### Mezcla y amasado
 
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_04.jpeg" alt="{{page.title}}">
-
 #### Ciclo de amasado
 
 - En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
@@ -98,19 +97,21 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 <div id="sobado"></div>
 
+<img class="post_image post_image_right" src="/images/panes/jamon/jamon_04.jpeg" alt="{{page.title}}">
+
 #### Ciclo de sobado 
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo, formando un cuadrado y haz un pliegue de la masa sobre sí misma al menos 5 a 7 veces.
 - Déjala reposar tapada por 5 minutos.
 - De nuevo extiende la masa con ayuda de un rodillo en la mesa de trabajo, formando un cuadrado y haz un pliegue de la masa sobre sí misma al menos 5 a 7 veces.
 
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_05.jpeg" alt="{{page.title}}">
-
 ### Preformado
 
 - Realiza un preformado redondo y deja reposar la masa tapada por diez (10) minutos.
 
 ### Formado
+
+<img class="post_image post_image_right" src="/images/panes/jamon/jamon_05.jpeg" alt="{{page.title}}">
 
 - Con la ayuda de un rodillo, extiende la masa en un rectángulo de 30cm x 40cm.
 - Coloca el barniz de mostaza u otra salsa de tu preferencia.

@@ -20,11 +20,10 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 
 Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips
 
 - Lo primero que debemos tener antes de empezar a hacer un Pan como este es Masa Madre. Un cultivo de levaduras estable y activo, alimentado con regularidad. 
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 - El primer aspecto que les quiero dejar es que la Masa Madre le hereda características a la mezcla, si la Masa Madre es ácida, el Pan será ácido, si la Masa Madre tiene cuerpo, le heredará estructura a la masa, si la Masa Madre está activa, la fermentación iniciará con buen pie. La Masa Madre hereda características al futuro Pan. Es por ello que el cuidado de la
 misma contribuye a la calidad del resultado. Es un ingrediente fundamental en esta preparación.
 - Los panes rústicos de Masa Madre suelen ser de alta hidratación (más de 65%) y de larga fermentación. Para las largas fermentaciones es importante contar con harinas de fuerza, recomiendo al menos 13% con buena calidad, para que no se degrade la red de gluten durante la fermentación.

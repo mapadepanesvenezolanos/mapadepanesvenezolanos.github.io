@@ -23,8 +23,6 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips
 
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 
@@ -33,6 +31,8 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 {% include whatsapp.html %}
 
 # Pan Chino
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Masa leudada con levadura instantánea
 

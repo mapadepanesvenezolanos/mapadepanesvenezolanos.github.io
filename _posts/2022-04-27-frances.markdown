@@ -21,9 +21,9 @@ Para preparar Pan Francés en las Panaderías, es usual, que se utilice la misma
 
 ## Origen
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Es un Pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa de las [Canillas](https://mapadepanesvenezolanos.github.io/canilla/) que contiene grasa y azúcar para darle más duración y color. Un formato similar [en México se conoce como Bolillo, Pan Francés, Birote o Pan Blanco](https://www.milenio.com/politica/comunidad/bolillo-pan-frances-costumbre-europea-mexico-historia), este puede o no tener grasa y no suele tener azúcar, te dejo [una reseña sobre el origen del Bolillo](https://www.mexicodesconocido.com.mx/origen-del-bolillo.html). 
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 En Vietnam un formato similar se conoce como [Bahn Mi](https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC) derivada de la Baguette que también puede hacerse con una mezcla de harina de trigo y de arroz. A nivel de los ingredientes no suelen tener grasa y se consiguen recetas con azúcar.
 

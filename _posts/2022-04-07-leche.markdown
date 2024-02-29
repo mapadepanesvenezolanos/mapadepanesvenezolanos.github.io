@@ -20,13 +20,13 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Resultado esperado
 
 Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa los aman recién salidos del horno, calentados 8 segundos en el microondas. Jesús [@1painalafois] se los come untados con diablitos underwood. A Alexander [@hazpanencasa] le encanta comerlos con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
 
 ## Origen 
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 “Original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina” (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.” [^1]
 

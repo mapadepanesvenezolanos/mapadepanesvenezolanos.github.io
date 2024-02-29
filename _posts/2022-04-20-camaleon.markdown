@@ -19,9 +19,9 @@ Este es un pan emblema de la panadería Venezolana de miga suave y esponjosa deb
 
 Original del estado Táchira, este pan dulce parte de un [fermento denominado “guarapo” o “talvina”](/panes-venezolanos/talvina/) (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón, la cual se dibuja sobre el pan o se decora mientras está en el proceso de fermentación. De miga suave y esponjosa, costra delgada y ligeramente crujiente, rociado con azúcar.
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ”Cuando no lleva azúcar sino sal, se le llama pan aliñado con sal. Cuando se amasa con algo más de leche, pasa a llamarse pan de leche. Y pan de queso cuando la masa se rellena con queso blanco. La misma masa horneada dos veces se llama bizcocho o pan tostado y se acostumbra darlo a los ancianos y parturientas”, escribe Miro Popic (2017) en El señor de los aliños.[^1]
 
