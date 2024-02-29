@@ -27,18 +27,18 @@
 }
 
 .single {
-	padding-bottom: 40px;
+	padding-bottom: 10px;
 
 	@include mq(tabletp) {
-		padding-bottom: 50px;
+		padding-bottom: 10px;
 	}
 
 	@include mq(tabletl) {
-		padding-bottom: 60px;
+		padding-bottom: 15px;
 	}
 
 	@include mq(laptop) {
-		padding-bottom: 80px;
+		padding-bottom: 20px;
 	}
 
 	h1, h2, h3, h4, h5, h6, p, ul, ol {

@@ -357,18 +357,18 @@ body.loading {
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Page sections
 
 section {
-	margin-top: 30px;
+	margin-top: 20px;
 
 	@include mq(tabletp) {
-		margin-top: 40px;
+		margin-top: 20px;
 	}
 
 	@include mq(tabletl) {
-		margin-top: 40px;
+		margin-top: 20px;
 	}
 
 	@include mq(laptop) {
-		margin-top: 50px;
+		margin-top: 20px;
 	}
 }
 
