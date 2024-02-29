@@ -71,6 +71,9 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
+
+### Calculadora para la Talvina
+
 {% include calculadora-de-panes2.html %}
 
 ### Ingredientes del aliño/guiso o arenado
