@@ -6,8 +6,8 @@ date: 2022-10-08 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-jamon/
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/jamon/jamon_02.jpeg'
-formula_name:"jamon"
-second_formula_name:"jamonrellenos"
+formula_name: "jamon"
+second_formula_name: "jamonrellenos"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
