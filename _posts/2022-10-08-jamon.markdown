@@ -6,6 +6,8 @@ date: 2022-10-08 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-jamon/
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/jamon/jamon_02.jpeg'
+formula_name:"jamon"
+second_formula_name:"jamonrellenos"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -55,12 +57,17 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 | Agua                                          |      45%      |      134g |
 | Levadura instantánea                          |      1%       |        3g |
 | Sal                                           |      2%       |        6g |
-| Huevos batidos                                |      15%      |       45g |
+| Huevos ligeramente batidos                    |      15%      |       45g |
 | Mantequilla sin sal o Aceite de canola/maíz   |      10%      |       30g |
 | Azúcar                                        |      10%      |       30g |
 | Leche en polvo                                |      5%       |       15g |
 | ----------------------------------------------|---------------|-----------|
 | **Total**                                     |   **188%**    | **560g**  |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ### Relleno
 
@@ -69,10 +76,14 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 | Jamón ahumado                             |      100%     |      467g |
 | Tocineta                                  |      15%      |       70g |
 | Aceitunas verdes rellenas                 |      15%      |       70g |
-| Pasas                                     |      10%      |       47g |
+| Pasas negras                              |      10%      |       47g |
 | Papelón rallado                           |       4%      |       19g |
 | ------------------------------------------|---------------|-----------|
 | **Total**                                 |   **144%**    | **672g**  |
+
+### Calculadora para el Relleno
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
