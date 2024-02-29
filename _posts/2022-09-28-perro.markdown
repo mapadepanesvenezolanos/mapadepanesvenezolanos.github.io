@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-de-perro/
 pdf: Pan-de-perro.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/perro/perro_alba.jpeg'
+formula_name: "perros"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -56,12 +57,17 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 | Agua                                                         |      40%      |      185g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      1.6%     |        7g |
-| Huevos batidos                                               |      10%      |       46g |
-| Mantequilla/Aceite de canola/maíz                            |      10%      |       46g |
+| Huevos ligeramente batidos                                   |      10%      |       46g |
+| Mantequilla sin sal/Aceite de canola/maíz                    |      10%      |       46g |
 | Azúcar                                                       |      5%       |       23g |
 | Leche en polvo                                               |      5%       |       23g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    | **172.6%**    | **800g**  |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
