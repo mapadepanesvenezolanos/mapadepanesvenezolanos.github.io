@@ -6,6 +6,8 @@ date: 2023-06-20 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-coco/
 categories: pan enriquecido
 featured_image: '/images/panes/coco/coco_1.jpeg'
+formula_name: "coco"
+second_formula_name: "cococoberturasrellenos"
 ---
 
 Es un Pan dulce típico con sabor a coco. Lo hemos preparado con tropezones de coco en la miga y también en la corteza. En las panaderías se suele hacer con la masa de Pan dulce y se le coloca coco rallado en la superficie.
@@ -52,6 +54,11 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 |---------------------------|-------------|--------|
 | **Total**                 |    **197%** |**720g**|
 
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
 #### Cobertura y relleno
 
 | Ingrediente               | Fórmula     | Peso   |
@@ -61,6 +68,10 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 | Azúcar                    |         50% |   36g  |
 |---------------------------|-------------|--------|
 | **Total**                 |    **200%** |**144g**|
+
+### Calculadora para la Cobertura y relleno
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 

@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-brioche/
 pdf: Pan-brioche.pdf
 categories: pan semi salado enriquecido capital
 featured_image: '/images/panes/brioche/brioche_1.jpeg'
+formula_name: "brioche"
 ---
 
 El Pan brioche es muy conocido en todo el mundo, tiene muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas. 
@@ -53,12 +54,17 @@ Este es un Pan de masa enriquecida, de miga esponjada y sabor delicioso.
 | Agua                                                         |      25%      |       99g |
 | Levadura instantánea                                         |      1%       |        4g |
 | Sal                                                          |      1.8%     |        7g |
-| Huevos batidos                                               |      30%      |      119g |
-| Mantequilla                                                  |      30%      |      119g |
+| Huevos ligeramente batidos                                   |      30%      |      119g |
+| Mantequilla sin sal                                          |      30%      |      119g |
 | Azúcar                                                       |      10%      |       40g |
 | Leche en polvo                                               |      5%       |       20g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **202.8%**   |  **800g** |
+
+### Calculadora
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
