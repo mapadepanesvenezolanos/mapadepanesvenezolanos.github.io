@@ -121,7 +121,9 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Académico Panadero y Pastelero de Venezuela], [@taosbaker] y [@saporidellacucina]
+Te dejo un artículo reciente sobre [el origen del Pan Chino](https://elestimulo.com/bienmesabe/venezolanidad/2024-02-27/pan-chino-venezolano-historia-elaboracion/).
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta del [Grupo Académico Panadero y Pastelero de Venezuela], [@taosbaker] y [@saporidellacucina].
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
 
