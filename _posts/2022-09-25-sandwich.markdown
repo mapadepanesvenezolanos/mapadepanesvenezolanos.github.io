@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/pan-de-sandwich/
 pdf: Pan-de-sandwich.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
+formula_name: "sandwichmigaaireada"
+second_formula_name: "sandwichmigatupida"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -51,18 +53,23 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 #### Masa
 
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo todo uso                                     |      100%     |      479g |
-| Agua tibia                                                   |      25%      |      120g |
-| Levadura instantánea                                         |      1%       |        5g |
-| Sal                                                          |      2%       |       10g |
-| Aceite de canola/maíz                                        |      10%      |       48g |
-| Azúcar                                                       |      7%       |       34g |
-| Huevos batidos                                               |      20%      |       96g |
-| Leche en polvo                                               |      2%       |       10g |
-| -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **167%**    | **800g**  |
+| Ingrediente                                                  |    Fórmula     |      Peso |
+|:-------------------------------------------------------------|:--------------:|----------:|
+| Harina de trigo (todo uso)                                   |      100%      |      479g |
+| Agua tibia                                                   |      25%       |      120g |
+| Levadura instantánea                                         |       1%       |        5g |
+| Sal                                                          |       2%       |       10g |
+| Aceite de canola/maíz                                        |      10%       |       48g |
+| Azúcar                                                       |       7%       |       34g |
+| Huevos ligeramente batidos                                   |      20%       |       96g |
+| Leche en polvo                                               |       2%       |       10g |
+| -------------------------------------------------------------|----------------|-----------|
+| **Total**                                                    |   **167%**     | **800g**  |
+
+### Calculadora para la masa (Miga aireada tipo brioche)
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 <div id="migatupidacerrada"></div>
 
@@ -72,15 +79,19 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo todo uso                                     |      100%     |      487g |
-| Agua tibia                                                   |      25%      |      122g |
-| Levadura instantánea                                         |      1%       |        5g |
-| Sal                                                          |      2%       |       10g |
-| Aceite de canola/maíz                                        |      10%      |       44g |
-| Azúcar                                                       |      7%       |       35g |
-| Huevos batidos                                               |      20%      |       97g |
+| Harina de trigo (todo uso)                                   |      100%     |      487g |
+| Agua tibia                                                   |       25%     |      122g |
+| Levadura instantánea                                         |        1%     |        5g |
+| Sal                                                          |        2%     |       10g |
+| Aceite de canola/maíz                                        |       10%     |       44g |
+| Azúcar                                                       |        7%     |       35g |
+| Huevos ligeramente batidos                                   |       20%     |       97g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **164.2%**  | **800g**  |
+| **Total**                                                    |     **164%**  | **800g**  |
+
+### Calculadora para la masa (Miga tupida y cerrada)
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
@@ -159,7 +170,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1.0__
+__Versión 2.2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
