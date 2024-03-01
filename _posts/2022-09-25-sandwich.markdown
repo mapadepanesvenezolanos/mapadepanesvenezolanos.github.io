@@ -45,7 +45,7 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 # Pan de Sandwich
 
-* Un Pan de molde de 800g
+* Un Pan de molde de 900g
 * Temperatura ambiente 22ºC - 26ºC
 * 55% de hidratación (Baja hidratación)
 
@@ -55,16 +55,16 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 | Ingrediente                                                  |    Fórmula     |      Peso |
 |:-------------------------------------------------------------|:--------------:|----------:|
-| Harina de trigo (todo uso)                                   |      100%      |      479g |
-| Agua tibia                                                   |      25%       |      120g |
-| Levadura instantánea                                         |       1%       |        5g |
-| Sal                                                          |       2%       |       10g |
-| Aceite de canola/maíz                                        |      10%       |       48g |
-| Azúcar                                                       |       7%       |       34g |
-| Huevos ligeramente batidos                                   |      20%       |       96g |
-| Leche en polvo                                               |       2%       |       10g |
+| Harina de trigo (todo uso)                                   |      100%      |      536g |
+| Agua tibia                                                   |      25%       |      134g |
+| Levadura instantánea                                         |       2%       |       11g |
+| Sal                                                          |       2%       |       11g |
+| Aceite de canola/maíz                                        |      10%       |       54g |
+| Azúcar                                                       |       7%       |       38g |
+| Huevos ligeramente batidos                                   |      20%       |      107g |
+| Leche en polvo                                               |       2%       |       11g |
 | -------------------------------------------------------------|----------------|-----------|
-| **Total**                                                    |   **167%**     | **800g**  |
+| **Total**                                                    |   **167%**     |  **900g** |
 
 ### Calculadora para la masa (Miga aireada tipo brioche)
 
@@ -79,15 +79,15 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo (todo uso)                                   |      100%     |      487g |
-| Agua tibia                                                   |       25%     |      122g |
+| Harina de trigo (todo uso)                                   |      100%     |      548g |
+| Agua tibia                                                   |       25%     |      137g |
 | Levadura instantánea                                         |        1%     |        5g |
-| Sal                                                          |        2%     |       10g |
-| Aceite de canola/maíz                                        |       10%     |       44g |
-| Azúcar                                                       |        7%     |       35g |
-| Huevos ligeramente batidos                                   |       20%     |       97g |
+| Sal                                                          |        2%     |       11g |
+| Aceite de canola/maíz                                        |        9%     |       49g |
+| Azúcar                                                       |        7%     |       39g |
+| Huevos ligeramente batidos                                   |       20%     |      110g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |     **164%**  | **800g**  |
+| **Total**                                                    |     **164%**  | **900g**  |
 
 ### Calculadora para la masa (Miga tupida y cerrada)
 
