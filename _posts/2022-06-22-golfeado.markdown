@@ -71,8 +71,8 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Harina todo uso           |        100% |  316g  |
-| Agua                      |         25% |   80g  |
+| Harina todo uso           |        100% |  314g  |
+| Agua                      |         25% |   79g  |
 | Levadura instantánea      |          1% |    3g  |
 | Sal                       |          1% |    3g  |
 | Huevos ligeramente batidos|         20% |   63g  |
