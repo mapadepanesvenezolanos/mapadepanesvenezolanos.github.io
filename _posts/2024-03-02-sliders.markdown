@@ -60,14 +60,14 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      449g |
-| Agua                                                         |       40%     |      180g |
-| Levadura instantánea                                         |        1%     |        4g |
-| Sal                                                          |        2%     |        9g |
-| Huevos ligeramente batidos   t                                |        5%     |       22g |
-| Mantequilla sin sal/Aceite de canola/maíz                    |       10%     |       45g |
-| Azúcar                                                       |        5%     |       22g |
-| Leche en polvo                                               |        5%     |       22g |
+| Harina panadera                                              |      100%     |      476g |
+| Agua                                                         |       40%     |      191g |
+| Levadura instantánea                                         |        1%     |        5g |
+| Sal                                                          |        2%     |       10g |
+| Huevos ligeramente batidos                                   |       5%      |       24g |
+| Mantequilla sin sal/Aceite de canola/maíz                    |       10%     |       48g |
+| Azúcar                                                       |        5%     |       24g |
+| Leche en polvo                                               |        5%     |       24g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **168%**   |  **480g** |
 
