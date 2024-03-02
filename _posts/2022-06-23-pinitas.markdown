@@ -231,7 +231,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |---------------------------|-------------|--------|
 | **Total**                 |    **201%** |**103g**|
 
-### Calculadora para el prefermento Poolisj
+### Calculadora para el prefermento Poolish
 
 {% include calculadora-de-panes2.html %}
 
