@@ -11,7 +11,7 @@ formula_name: "hamburguesa"
 
 ---
 
-Esta versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. 
+Nuestra versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. 
 
 Cuando le agregamos almidones a la preparación le estamos agregando hidratación y suavidad. Puedes utilizar Papa, Batata, Auyama e inclusive te puedes aventurar con puré de granos como caraotas o lentejas. 
 
