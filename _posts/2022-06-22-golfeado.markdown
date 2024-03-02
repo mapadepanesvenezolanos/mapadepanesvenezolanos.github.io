@@ -7,6 +7,9 @@ permalink: /panes-venezolanos/golfeado/
 pdf: Golfeado.pdf
 categories: golfeado capital
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
+formula_name: "golfeado"
+second_formula_name: "golfeadorelleno"
+third_formula_name: "golfeadomelao"
 ---
 
 El Golfeado es uno de mis panes favoritos, de hecho lo considero una merienda.
@@ -82,17 +85,26 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **190%**  |**600g**|
 
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
 ### Relleno
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Queso                     |        100% |   80g  |
+| Queso Blanco              |        100% |   80g  |
 | Papelón                   |        100% |   80g  |
 | Azúcar                    |        100% |   80g  | 
 | Anís en grano (molido)    |          1% |    1g  |
-| Canela                    |          1% |    1g  |
+| Canela en Polvo           |          1% |    1g  |
 |---------------------------|-------------|--------|
 | **Total**                 |   **302%**  |**242g**|
+
+### Calculadora para el relleno
+
+{% include calculadora-de-panes2.html %}
 
 ### Melao
 
@@ -103,6 +115,10 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 | Especias                  |          5% |   10g  |
 |---------------------------|-------------|--------|
 | **Total**                 |   **155%**  |**310g**|
+
+### Calculadora para el melao
+
+{% include calculadora-de-panes3.html %}
 
 ## Paso a paso del panadero
 
@@ -310,7 +326,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 1.2 (28/06/2022)_
+_Versión 2.0
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
