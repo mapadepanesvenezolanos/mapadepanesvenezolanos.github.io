@@ -1,0 +1,180 @@
+---
+title: "Pan de Papa"
+subtitle: "El consentido de las tardes"
+description: "El Pan de papas es de miga cerrada, suave y húmeda de sabor delicioso."
+date: 2024-02-14 10:55:00 -0400
+permalink: /panes-venezolanos/pan-papa/
+pdf: Pan-papa.pdf
+categories: pan semi salado enriquecido capital
+featured_image: '/images/panes/papa/papa_1.jpeg'
+formula_name: "papa"
+---
+
+Esta versión del pan de papa, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+
+Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
+
+* [Pan Brioche](/panes-venezolanos/pan-brioche/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
+* [Pan de Hamburguesa](/panes-venezolanos/pan-hamburguesa/)
+
+#### RECETA, FÓRMULA y TÉCNICAS
+
+## Resultado esperado
+
+Es una masa enriquecida, de miga esponjada y sabor delicioso.
+
+## Origen
+
+"El pan de papa o pan de patata es un tipo de pan en el que la papa reemplaza parte o toda la harina de trigo. Se cuece con diversos métodos, incluyendo el horneado en una sartén o parrilla, o en un horno. Puede llevar levadura o no, y puede incluir varios otros ingredientes. El porcentaje de papa cambia de una receta a otra, teniendo alguna mayoría de papa mientras otras llevan más harina de trigo. Algunas recetas emplean papa machacada mientras otras emplean copos de papa deshidratada. Está disponible como producto comercial en varios países, con parecidas variaciones en los ingredientes, métodos de preparación y otras características."[^1]
+
+[^1]:Pan de Papa, https://es.wikipedia.org/wiki/Pan_de_papa
+
+## Tips
+
+- Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
+- En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
+- Si estás trabajando en un ambiente con mucho calor, utiliza el agua de la nevera.
+
+{% include whatsapp.html %}
+
+<div id="papa"></div>
+
+# Pan de Papa (Método directo)
+
+## Masa leudada con levadura instantánea
+
+- Prepararemos ocho(8) unidades de cien(100)g para un total de ocho(800)g de masa
+- Temperatura ambiente 22ºC - 27ºC
+- 49% de hidratación (Baja hidratación)
+
+## Resultado esperado
+
+Este es un Pan más suave debido a la presencia de la papa, es de miga cerrada, suave y húmeda.
+
+## Masa (Método directo)
+
+### Ingredientes para la masa
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      449g |
+| Agua                                                         |       30%     |      135g |
+| Levadura instantánea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        9g |
+| Huevos ligeramente batidos                                   |       10%     |       45g |
+| Mantequilla sin sal/Aceite de canola/maíz                    |        5%     |       22g |
+| Azúcar                                                       |        5%     |       22g |
+| Leche en polvo                                               |        5%     |       22g |
+| Papa cocida                                                  |       20%     |       90g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |    **178%**   | **800g**  |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
+### Paso a paso del panadero
+
+<div id="preparacion"></div>
+
+### Preparación
+
+- Prepara la papa cocida el día anterior y resérvala en la nevera. Una hora antes de preparar la masa, sácala de la nevera.
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+#### Ciclo de amasado 
+
+- En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
+- Crea un volcán con boca ancha.
+- En un segundo envase, mezcla el agua, los huevos y el azúcar.
+- Coloca los líquidos en el centro del volcán, coloca la sal en el borde, la mantequilla pomada o el aceite y la papa cocida en el centro.
+- Integra los ingredientes mezclando hasta obtener una papilla.
+- Incorpora el resto de la harina hasta obtener una masa homogénea.
+- Forma una bola y déjala reposar por diez (10) minutos.
+
+<div id="sobado"></div>
+
+#### Ciclo de sobado (manual)
+
+- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo entre cinco (5) a siete (7) veces.
+- Dale un reposo de cinco (5) minutos.
+- Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
+- Forma una bola y déjala reposar por diez (10) minutos.
+
+### Ciclo de sobado (máquina)
+
+- Lleva la bolita de masa al asistente mezclador.
+- Con el utensilio gancho del asistente mezclador, soba la masa a velocidad tres (3) entre ocho (8) y diez (10) minutos.
+- Debes obtener un masa más suave y uniforme.
+
+### División
+
+- Divide en porciones de cien (100)g, bolea cada porción y déjalas reposar por diez (10) minutos.
+
+### Formado
+
+- Bolea de nuevo creando una superficie uniforme.
+- Extiende aceite con las manos o con una brocha sobre cada pastón y colócalos uno a uno en una bandeja previamente aceitada. 
+- Deja cada pastón separado unos cinco (5)cm de cada lado.
+
+### Fermentación final (maduración)
+
+- Tapa la bandeja con plástico.
+- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC entre dos (2) a tres (3) horas.
+- El pastón, al menos, debe haber duplicado su volumen inicial.
+
+### Barnices, coberturas y cortes
+
+- Mezcla un huevo batido con una pizca de sal y azúcar, pásalo por un colador para que el barniz quede fino.
+- Con ayuda de una brocha de cocina, coloca el barniz a cada pastón con mucha atención de manera queden bien cubiertos sin derramar. Cuando se derrama queda en la base del Pan y en el horno se endurece.
+
+### Horneado
+- Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinticinco (25) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+
+### Enfriamiento
+
+- Coloca los panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
+- Si deseas puedes colocar un barniz de mantequilla clarificada para darles brillo al acabado.
+- Déjalos reposar, por lo menos, treinta (30) minutos.
+
+### Consumo del pan
+
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a ciento ochenta (180)ºC - trescientos cincuenta (350)ºF de cinco (5) a diez (10) minutos para que recuperen su frescura.
+- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
+- Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao] y Erika Soto [@oreganobaguette]. ¡Muchas gracias!
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 2.0__ 
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[@pandemelao]: https://www.instagram.com/pandemelao
+[@oreganobaguette]: https://www.instagram.com/oreganobaguette
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
