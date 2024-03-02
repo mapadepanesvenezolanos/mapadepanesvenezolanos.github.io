@@ -7,18 +7,19 @@ permalink: /panes-venezolanos/pan-de-hamburguesa/
 pdf: Pan-de-hamburguesa.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
+formula_name: "hamburguesa"
+
 ---
 
-Te presentamos varias versiones de Pan de Hamburguesa, desde el más básico a los más comerciales. 
+Esta versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. 
 
 Cuando le agregamos almidones a la preparación le estamos agregando hidratación y suavidad. Puedes utilizar Papa, Batata, Auyama e inclusive te puedes aventurar con puré de granos como caraotas o lentejas. 
 
-Te dejamos los enlaces de cada preparación para que te lleven a la preparación que desees:
+Te dejamos los enlaces de las tres (3) variantes de panes a base de masa brioche disponibles en el mapa de panes venezolanos:
 
-* [Pan de hamburguesa](#directo)
-* [Pan de Papa](#papa)
-* [Mini pan de hamburguesa (Sliders)](#sliders)
-* [Pan Brioche](#brioche)
+* [Pan Brioche](/panes-venezolanos/pan-brioche/)
+* [Pan de Papa](/panes-venezolanos/pan-papa/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -50,7 +51,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 ## Masa leudada con levadura instantánea
 
-- Prepararemos 8 unidades de 100g para un total de 800g de masa
+- Prepararemos ocho(8) unidades de cien(100)g para un total de ochocientos(800)g de masa
 - Temperatura ambiente 22ºC - 27ºC
 - 50% de hidratación (Baja hidratación)
 
@@ -60,14 +61,19 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera                                              |      100%     |      462g |
 | Agua                                                         |      30%      |      139g |
-| Levadura instantánea                                         |      1%       |        5g |
-| Sal                                                          |      2%       |        9g |
-| Huevos batidos                                               |      20%      |       92g |
-| Mantequilla/Aceite de canola/maíz                            |      10%      |       46g |
-| Azúcar                                                       |      5%       |       23g |
-| Leche en polvo                                               |      5%       |       23g |
+| Levadura instantánea                                         |       1%      |        5g |
+| Sal                                                          |       2%      |        9g |
+| Huevos ligeramente batidos                                   |      20%      |       92g |
+| Mantequilla sin sal/Aceite de canola/maíz                    |      10%      |       46g |
+| Azúcar                                                       |       5%      |       23g |
+| Leche en polvo                                               |       5%      |       23g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **173%**   |  **800g** |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -115,7 +121,6 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Extiende aceite con las manos o con una brocha sobre cada pastón y colócalos uno a uno en una bandeja previamente aceitada. 
 - Deja cada pastón separado unos cinco (5)cm de cada lado.
 
-
 ### Fermentación final (maduración)
 
 - Tapa la bandeja con plástico.
@@ -145,198 +150,6 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 ---
 
-<div id="papa"></div>
-
-# Pan de Papa (Método directo)
-
-## Masa leudada con levadura instantánea
-
-- Prepararemos 8 unidades de 100g para un total de 800g de masa
-- Temperatura ambiente 22ºC - 27ºC
-- 49% de hidratación (Baja hidratación)
-
-## Resultado esperado
-
-Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es de miga cerrada, suave y húmeda.
-
-## Masa (Método directo)
-
-### Ingredientes para la masa
-
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      449g |
-| Agua                                                         |      30%      |      135g |
-| Levadura instantánea                                         |      1%       |        4g |
-| Sal                                                          |      2%       |        9g |
-| Huevos batidos                                               |      10%      |       45g |
-| Mantequilla/Aceite de canola/maíz                            |      5%       |       22g |
-| Azúcar                                                       |      5%       |       22g |
-| Leche en polvo                                               |      5%       |       22g |
-| Papa cocida                                                  |      20%      |       90g |
-| -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **178%**   | **800g**  |
-
-### Paso a paso del panadero
-
-- Prepara la papa cocida el día anterior y resérvala en la nevera. Una hora antes sácala de la nevera.
-- Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
-- Cuando formes el volcán coloca la papa cocida en el centro del mismo.
-- Debes obtener un masa más suave y uniforme.
-
----
-
-<div id="sliders"></div>
-
-# Mini pan de hamburguesa (Sliders)
-
-## Masa leudada con levadura instantánea
-
-- Prepararemos 8 unidades de 60g para un total de 480g de masa
-- Temperatura ambiente 22ºC - 27ºC
-- 50% de hidratación (Baja hidratación)
-
-## Resultado esperado
-
-Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húmeda.
-
-## Masa (Método directo)
-
-### Ingredientes para la masa
-
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      449g |
-| Agua                                                         |      40%      |      180g |
-| Levadura instantánea                                         |      1%       |        4g |
-| Sal                                                          |      2%       |        9g |
-| Huevos batidos                                               |      5%       |       22g |
-| Mantequilla/Aceite de canola/maíz                            |      10%      |       45g |
-| Azúcar                                                       |      5%       |       22g |
-| Leche en polvo                                               |      5%       |       22g |
-| -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **168%**   |  **480g** |
-
-### Paso a paso del panadero
-
-- Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
-- Al colocar los pastones en la bandeja déjalos separados 2cm por cada lado. 
-- Después de madurar y antes de entrar al horno deben estar pegados, esto le va a dar la humedad característica de los sliders.
-
----
-
-<div id="brioche"></div>
-
-# Pan Brioche
-
-## Masa leudada con levadura instantánea
-
-- Prepararemos 8 unidades de 100g para un total de 800g de masa
-- Temperatura ambiente 22ºC - 27ºC
-- 53% de hidratación (Baja hidratación) y 29% de grasa.
-
-## Resultado esperado
-
-Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor delicioso.
-
-## Tips
-
-- Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
-- En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
-- Si estás trabajando en un ambiente con mucho calor, utiliza el agua de la nevera.
-
-## Masa (Con retardo en nevera)
-
-### Ingredientes para la masa
-
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina media fuerza (12%)                                    |      100%     |      395g |
-| Agua                                                         |      25%      |       99g |
-| Levadura instantánea                                         |      1%       |        4g |
-| Sal                                                          |      1.8%     |        7g |
-| Huevos batidos                                               |      30%      |      119g |
-| Mantequilla                                                  |      30%      |      119g |
-| Azúcar                                                       |      10%      |       40g |
-| Leche en polvo                                               |      5%       |       20g |
-| -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **202.8%**   |  **800g** |
-
-## Paso a paso del panadero
-
-### Preparación
-
-- Pesa todos los ingredientes y colócalos en envases separados.
-- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
-
-### Mezcla y amasado
-
-#### Ciclo de amasado
-
-- En un primer envase, mezcla la harina con la levadura instantánea, la leche en polvo y crea un volcán de boca ancha con la mezcla.
-- En un segundo envase, mezcla el agua, los huevos y el azúcar.
-- Coloca los líquidos en el centro del volcán, coloca la sal en el borde y 40g de mantequilla pomada en el centro.
-- Mezcla los ingredientes del centro del volcán con la harina poco a poco hasta obtener una papilla.
-- Incorpora el resto de la harina hasta obtener una masa homogénea.
-- Forma una bola y déjala reposar por diez (10) minutos.
-
-<div id="sobado"></div>
-
-#### Ciclo de sobado 
-
-- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo unas 5 a 7 veces.
-- Dale un reposo de cinco (5) minutos.
-- Sigue realizando pliegues, unos 5 a 7 y de nuevo dale un reposo de cinco (5) minutos.
-- Agrega el resto de la mantequilla poco a poco, la masa se va a separar, sigue amasando hasta que se integre y obtengas de nuevo una masa homogénea.
-- De nuevo realiza pliegues, unos 5 a 7 y dale un reposo de diez (10) minutos.
-- Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
-
-### Retardo
-
-- Forma una bola y colócala en un envase tapado.
-- Mete el envase en el congelador por veinte (20) minutos y luego en la nevera a 4ºC por entre 3 a 12 horas.
-
-### División
-
-- Saca el envase de la nevera y divide en porciones de 100g, bolea cada porción y déjalas reposar por diez (10) minutos.
-
-### Formado
-
-- Bolea de nuevo dejando una superficie uniforme.
-- Extiende aceite con las manos o con una brocha a cada pastón y lo colocas en la bandeja.
-- Deja cada pastón separado unos 5cm de cada lado.
-
-### Fermentación final (maduración)
-
-- Tapa la bandeja con plástico.
-- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC durante noventa (90) a 120 minutos minutos.
-- El pastón, al menos, debe haber duplicado su volumen inicial.
-
-### Barnices, coberturas y cortes
-
-- Mezcla un huevo batido con una pizca de sal y azúcar, pásalo por un colador para que el barniz quede fino.
-- Con ayuda de una brocha de cocina, coloca el barniz a cada pastón con mucha atención de manera queden bien cubiertos sin derramar. Cuando se derrama queda en la base del Pan y en el horno se endurece.
-
-### Horneado
-
-- Enciende el horno una media antes de hornear a una temperatura de 160ºC - 320ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinte (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
-
-### Enfriamiento
-
-- Coloca los bollos sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
-- Si deseas puedes colocar un barniz de mantequilla clarificada para darles brillo al acabado.
-- Déjalos reposar, por lo menos, treinta (30) minutos.
-
-### Consumo del pan
-
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
-- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
-
----
-
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha] y la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao] y Erika Soto [@oreganobaguette]. ¡Muchas gracias!
@@ -349,7 +162,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__ 
+__Versión 3.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 

@@ -1,7 +1,7 @@
 ---
 title: "Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
-description: "El Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
+description: "La masa Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
 date: 2024-02-07 10:55:00 -0400
 permalink: /panes-venezolanos/pan-brioche/
 pdf: Pan-brioche.pdf
@@ -10,7 +10,13 @@ featured_image: '/images/panes/brioche/brioche_1.jpeg'
 formula_name: "brioche"
 ---
 
-Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+Esta versión del pan brioche, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+
+Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
+
+* [Pan de Papa](/panes-venezolanos/pan-papa/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
+* [Pan Hamburguesa](/panes-venezolanos/pan-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -61,7 +67,7 @@ Es una masa enriquecida, de miga esponjada y sabor delicioso.
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **202.8%**   |  **800g** |
 
-### Calculadora
+### Calculadora para la masa
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
@@ -153,7 +159,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1__ 
+__Versión 3.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
