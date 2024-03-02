@@ -6,7 +6,7 @@ date: 2024-02-14 10:55:00 -0400
 permalink: /panes-venezolanos/pan-papa/
 pdf: Pan-papa.pdf
 categories: pan semi salado enriquecido capital
-featured_image: '/images/panes/papa/papa_1.jpeg'
+featured_image: '/images/panes/papa/papas_1.jpeg'
 formula_name: "papa"
 ---
 

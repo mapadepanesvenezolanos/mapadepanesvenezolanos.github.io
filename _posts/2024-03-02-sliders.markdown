@@ -64,7 +64,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 | Agua                                                         |       40%     |      180g |
 | Levadura instantánea                                         |        1%     |        4g |
 | Sal                                                          |        2%     |        9g |
-| Huevos ligeramente batidos                                   |        5%     |       22g |
+| Huevos ligeramente batidos   t                                |        5%     |       22g |
 | Mantequilla sin sal/Aceite de canola/maíz                    |       10%     |       45g |
 | Azúcar                                                       |        5%     |       22g |
 | Leche en polvo                                               |        5%     |       22g |
