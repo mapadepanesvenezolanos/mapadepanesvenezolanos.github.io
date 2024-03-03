@@ -53,11 +53,11 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina todo uso                                              |       80%     |      400g |
+| Harina de trigo(todo uso)                                    |       80%     |      400g |
 | Afrecho                                                      |       20%     |      100g |
 | Agua                                                         |       52%     |      260g |
-| Levadura instantánea                                         |      1.5%     |        8g |
-| Sal                                                          |      1.5%     |        8g |
+| Levadura instantánea                                         |        2%     |        8g |
+| Sal                                                          |        2%     |        8g |
 | Huevos ligeramente batidos                                   |       12%     |       60g |
 | Mantequilla sin sal                                          |        6%     |       30g |
 | Azúcar                                                       |        5%     |       25g |
@@ -186,16 +186,16 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
-| Harina panadera           |         80% |  318g |
+| Harina panadera(todo uso) |         80% |  318g |
 | Afrecho                   |         20% |  100g |
 | Agua                      |         50% |  209g |
-| Levadura instantánea      |        1,6% |    7g |
-| Sal                       |        1,4% |    6g |
-| Huevos ligeramente batidos|       14,4% |   60g |
-| Mantequilla sin sal       |        7,2% |   30g |
+| Levadura instantánea      |          2% |    7g |
+| Sal                       |          1% |    6g |
+| Huevos ligeramente batidos|         14% |   60g |
+| Mantequilla sin sal       |          7% |   30g |
 | Azúcar                    |          6% |   25g |
-| Leche en polvo            |        2,4% |   10g |
-| Prefermento Pie Francés   |       32,3% |  135g |
+| Leche en polvo            |          2% |   10g |
+| Prefermento Pie Francés   |         32% |  135g |
 |---------------------------|-------------|-------|
 | **Total**                 |   **215,3%**|**900g**|
 
@@ -252,7 +252,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1.0__
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
