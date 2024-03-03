@@ -10,13 +10,13 @@ featured_image: '/images/panes/sliders/sliders_1.jpeg'
 formula_name: "sliders"
 ---
 
-Nuestra versión de Mini pan de hamburguesa o sliders , forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+Nuestra versión de Mini pan de hamburguesa o sliders, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. 
 
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche:
 
-* [Pan Brioche](/panes-venezolanos/pan-brioche/)
-* [Pan de Papa](/panes-venezolanos/pan-papa/)
 * [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
+* [Pan de Papa](/panes-venezolanos/pan-papa/)
+* [Pan Brioche](/panes-venezolanos/pan-brioche/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -64,7 +64,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 | Agua                                                         |       40%     |      191g |
 | Levadura instantánea                                         |        1%     |        5g |
 | Sal                                                          |        2%     |       10g |
-| Huevos ligeramente batidos                                   |       5%      |       24g |
+| Huevos ligeramente batidos                                   |        5%     |       24g |
 | Mantequilla sin sal/Aceite de canola/maíz                    |       10%     |       48g |
 | Azúcar                                                       |        5%     |       24g |
 | Leche en polvo                                               |        5%     |       24g |
