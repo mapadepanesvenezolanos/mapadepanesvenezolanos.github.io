@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/cachito/
 pdf: Cachitos.pdf
 categories: Cachitos capital
 featured_image: '/images/panes/cachito/cachito_4.jpeg'
+formula_name: "cachitos"
+second_formula_name: "cachitosrelleno"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -63,13 +65,18 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 | Agua                                          |      25%      |       86g |
 | Levadura instantánea                          |       1%      |        3g |
 | Sal                                           |       2%      |        7g |
-| Huevos batidos                                |       5%      |       17g |
-| Mantequilla sin sal o Aceite de canola/maíz   |      10%      |       34g |
+| Huevos ligeramente batidos                    |       5%      |       17g |
+| Mantequilla sin sal/Aceite de canola/maíz     |      10%      |       34g |
 | Azúcar                                        |      10%      |       34g |
-| Leche en completa líquida                     |      20%      |       70g |
+| Leche completa líquida                        |      20%      |       70g |
 | Vainilla                                      |       1%      |        3g |
 | ----------------------------------------------|---------------|-----------|
-| **Total**                                     |   **174%**    | **599g**  |
+| **Total**                                     |   **174%**    | **600g**  |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ### Relleno
 
@@ -79,6 +86,10 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 | Tocineta                                  |      15%      |       54g |
 | ------------------------------------------|---------------|-----------|
 | **Total**                                 |   **115%**    | **414g**  |
+
+### Calculadora para el relleno
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
