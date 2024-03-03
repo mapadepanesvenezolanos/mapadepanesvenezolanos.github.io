@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/arepas/
 pdf: Arepas.pdf
 categories: Arepas los_llanos
 featured_image: '/images/panes/arepa/arepa_1.jpeg'
+formula_name: "arepa"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -49,9 +50,15 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina de maiz precocida (P.A.N)                             |      100%     |      295g |
 | Agua tibia                                                   |      155%     |      155g |
-| Sal                                                          |      1.3%     |        4g |
+| Sal                                                          |        1%     |        4g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **256%**    |  **750g** |
+
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso 
 
@@ -135,7 +142,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.3.0__
+__Versión 3.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
