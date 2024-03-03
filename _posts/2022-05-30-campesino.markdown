@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/pan-campesino/
 pdf: Pan-Campesino.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/campesino/campesino_1.jpeg'
+formula_name: "campesino"
+second_formula_name: "campesinopiefrances"
 ---
 
 Ahora vamos a hacer Pan Campesino por método directo o por método indirecto con prefermento Pie Francés.
@@ -64,12 +66,17 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera (12%)                                        |      100%     |      283g |
 | Agua                                                         |      55%      |      155g |
-| Levadura instantánea                                         |      0.66%    |        2g |
-| Sal                                                          |      2%       |        6g |
-| Azúcar                                                       |      5%       |       14g |
-| Grasa                                                        |      5%       |       14g |
+| Levadura instantánea                                         |       1%      |        2g |
+| Sal                                                          |       2%      |        6g |
+| Azúcar                                                       |       5%      |       14g |
+| Grasa                                                        |       5%      |       14g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **167.66%**  |  **474g** |
+| **Total**                                                    |   **168%**    |  **474g** |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -181,10 +188,13 @@ Planifica dos días para la preparación de tu pan.
 | Sal                                                          |        4%     |        5g |
 | Grasa (Mantequilla sin sal)                                  |       11%     |       13g |
 | Azúcar                                                       |       11%     |       13g |
-| Pie Francés                                                  |      191%     |      237g |
+| Preferemento Pie Francés                                     |      191%     |      237g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **383%**   |  **474g** |
 
+### Calculadora para la masa mejorada con Pie francés
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
@@ -280,7 +290,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1__ (30/05/2022)
+__Versión 2.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 

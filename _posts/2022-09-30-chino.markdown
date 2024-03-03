@@ -47,13 +47,13 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 | Harina todo uso                                              |      100%     |      295g |
 | Agua tibia                                                   |      40%      |      118g |
 | Levadura instantánea                                         |      1%       |        3g |
-| Sal                                                          |    0.5%       |        1g |
+| Sal                                                          |      1%       |        1g |
 | Huevos ligeramente batidos                                   |      10%      |       29g |
 | Aceite vegetal/canola                                        |      10%      |       29g |
 | Azúcar                                                       |      20%      |       59g |
 | Leche en polvo                                               |      2%       |       6g  |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **183.5%**   | **540g**  |
+| **Total**                                                    |    **184%**   | **540g**  |
 
 ### Calculadora para la masa
 
