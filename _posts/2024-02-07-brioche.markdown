@@ -6,7 +6,7 @@ date: 2024-02-07 10:55:00 -0400
 permalink: /panes-venezolanos/pan-brioche/
 pdf: Pan-brioche.pdf
 categories: pan semi salado enriquecido capital
-featured_image: '/images/panes/brioche/brioche_1.jpeg'
+featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
 formula_name: "brioche"
 ---
 
