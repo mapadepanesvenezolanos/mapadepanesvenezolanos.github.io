@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/pan-de-afrecho/
 pdf: Pan-de-afrecho.pdf
 categories: pan enriquecido andes
 featured_image: '/images/panes/afrecho/afrecho_3.jpeg'
+formula_name: "afrecho"
+second_formula_name: "afrechopiefrances"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -62,6 +64,11 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | Leche en polvo                                               |        2%     |       10g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **180%**   |  **900g** |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -191,6 +198,10 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 | Prefermento Pie Francés   |       32,3% |  135g |
 |---------------------------|-------------|-------|
 | **Total**                 |   **215,3%**|**900g**|
+
+### Calculadora para la masa mejorada con Pie Francés
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
