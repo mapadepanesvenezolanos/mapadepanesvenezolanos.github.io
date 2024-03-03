@@ -2,7 +2,7 @@
 title: "Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
 description: "La masa Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
-date: 2024-02-07 10:55:00 -0400
+date: 2022-09-27 10:55:00 -0400
 permalink: /panes-venezolanos/pan-brioche/
 pdf: Pan-brioche.pdf
 categories: pan semi salado enriquecido capital

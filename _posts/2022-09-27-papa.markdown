@@ -1,58 +1,56 @@
 ---
-title: "Mini Panes de Hamburguesa (Sliders)"
-subtitle: "El resuelve de las noches y los fines de semana."
-description: "El mini Pan de Hamburguesa es un pan básico, de miga cerrada y suave, de corteza uniforme y lo disfrutas con el relleno de tu preferencia."
-date: 2024-03-02 12:00:00 -0400
-permalink: /panes-venezolanos/sliders/
-pdf: Pan-sliders.pdf
+title: "Pan de Papa"
+subtitle: "Muchas hamburguesas espectaculares se hacen con un Pan de Papa."
+description: "El Pan de papas es de miga cerrada, suave y húmeda de sabor delicioso."
+date: 2022-09-27 10:55:00 -0400
+permalink: /panes-venezolanos/pan-papa/
+pdf: Pan-papa.pdf
 categories: pan semi salado enriquecido capital
-featured_image: '/images/panes/sliders/sliders_1.jpeg'
-formula_name: "sliders"
+featured_image: '/images/panes/papa/papas_1.jpeg'
+formula_name: "papa"
 ---
 
-Nuestra versión de Mini pan de hamburguesa o sliders, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. 
+Nuestra versión del pan de papa, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. Los panes hechos con pures de tubérculos, verduras o granos destacan por su suavidad y humedad.
 
-Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche:
+Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
 * [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
-* [Pan de Papa](/panes-venezolanos/pan-papa/)
 * [Pan Brioche](/panes-venezolanos/pan-brioche/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
 ## Resultado esperado
 
-Es un mini pan de hamburguesa de miga esponjada y sabor delicioso.
+Es un pan de de miga cerrada, suave y húmeda de sabor delicioso
 
 ## Origen
 
-"Rastreando su origen más remoto, ya en la época romana, en tiempos del emperador Tiberio, aparecen referencias a la “Isicia omentata”, un plato fácilmente transportable para las legiones, compuesto por una mezcla de carne picada, vino blanco, pan, granos de pimienta y piñones. En la Edad Media, el emperador mongol Gengis Kan extendió las fronteras “hamburgueseras” hasta Rusia y Ucrania. Pero claro, no se trataba ni mucho menos del plato que conocemos hoy en día: sino de unas tiras y pedazos de carne aderezados que se colocaban debajo de las monturas para que se cocinaran con su propio calor un invento que adoptado por los tártaros daría al parecer origen al famoso steak tartar. Los intercambios comerciales condujeron a estas “prehamburguesas” hasta Hamburgo, el mayor puerto del Viejo Continente, donde refinaron la receta introduciendo huevo a la mezcla original de carne picada. Punto de partida a las Américas, desde allí viajó hasta los locales del puerto de Nueva York, donde comenzaron a servirse “filetes al estilo de Hamburgo” y a popularizarse entre los inmigrantes asentados en el Valle del río Ohio. ¿a quién se le ocurrió colocar la carne entre dos rebanadas de pan? La verdad es que no está claro. Son varias las comarcas de EEUU que se apropian del invento. Entre otras, la ciudad de Hamburg, en Nueva York, que alega ser la que inventó este “sándwich de carne molida”, y que fue precisamente éste el que dio nombre a la ciudad. Lo que sí está claro es que la hamburguesa empezó a popularizarse a finales del siglo XIX y principios del XX, unida al ritmo de vida más acelerado que impone la industrialización. Una carta del Restaurante Delmonico´s del año 1834 es el documento más antiguo donde se ofrece una hamburguesa."[^1]
+"El pan de papa o pan de patata es un tipo de pan en el que la papa reemplaza parte o toda la harina de trigo. Se cuece con diversos métodos, incluyendo el horneado en una sartén o parrilla, o en un horno. Puede llevar levadura o no, y puede incluir varios otros ingredientes. El porcentaje de papa cambia de una receta a otra, teniendo alguna mayoría de papa mientras otras llevan más harina de trigo. Algunas recetas emplean papa machacada mientras otras emplean copos de papa deshidratada. Está disponible como producto comercial en varios países, con parecidas variaciones en los ingredientes, métodos de preparación y otras características."[^1]
 
-[^1]:Breve historia de la hamburguesa, https://www.facebook.com/VenezuelaFusion/posts/breve-historia-de-la-hamburguesadesde-las-tiras-de-carne-cocinadas-bajo-las-mont/1894447347366313/ 
+[^1]:Pan de Papa, https://es.wikipedia.org/wiki/Pan_de_papa
 
 ## Tips
 
-- La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
-- En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia cien (100)g de mantequilla equivale a ochenta y cinco (85)g de aceite o manteca vegetal y quince (15)g de agua. En este caso formulamos utilizando cuarenta y seis (46)g de mantequilla, si vas a utilizar aceite entonces son treinta y nueve (39)g de aceite y siete (7)g de agua adicionales.
-- Pasa los huevos batidos del barniz por un colador para quitarle las partes gruesas del huevo.
-- Al momento de colocar el barniz hazlo con mucha atención para que todo el pastón tenga barniz y el color quede con un acabado uniforme.
-- Cuando vayas a preparar tus hamburguesas, te recomendamos grillar las tapas del Pan antes de utilizar, para sellarlas y evitar que el Pan absorba humedad de los ingredientes.
+- Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
+- En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
+- Si estás trabajando en un ambiente con mucho calor, utiliza el agua de la nevera.
 
 {% include whatsapp.html %}
 
-<div id="sliders"></div>
+<div id="papa"></div>
 
-# Mini pan de hamburguesa (Sliders)
+# Pan de Papa (Método directo)
 
 ## Masa leudada con levadura instantánea
 
-- Prepararemos ocho (8) unidades de sesenta (60)g para un total de cuatrocientos ochenta (480)g de masa
+- Prepararemos ocho(8) unidades de cien(100)g para un total de ocho(800)g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 50% de hidratación (Baja hidratación)
+- 49% de hidratación (Baja hidratación)
 
 ## Resultado esperado
 
-Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húmeda.
+Este es un Pan más suave debido a la presencia de la papa, es de miga cerrada, suave y húmeda.
 
 ## Masa (Método directo)
 
@@ -60,28 +58,30 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      476g |
-| Agua                                                         |       40%     |      191g |
-| Levadura instantánea                                         |        1%     |        5g |
-| Sal                                                          |        2%     |       10g |
-| Huevos ligeramente batidos                                   |        5%     |       24g |
-| Mantequilla sin sal/Aceite de canola/maíz                    |       10%     |       48g |
-| Azúcar                                                       |        5%     |       24g |
-| Leche en polvo                                               |        5%     |       24g |
+| Harina panadera                                              |      100%     |      449g |
+| Agua                                                         |       30%     |      135g |
+| Levadura instantánea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        9g |
+| Huevos ligeramente batidos                                   |       10%     |       45g |
+| Mantequilla sin sal/Aceite de canola/maíz                    |        5%     |       22g |
+| Azúcar                                                       |        5%     |       22g |
+| Leche en polvo                                               |        5%     |       22g |
+| Papa cocida                                                  |       20%     |       90g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **168%**   |  **480g** |
+| **Total**                                                    |    **178%**   | **800g**  |
 
 ### Calculadora para la masa
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+### Paso a paso del panadero
 
 <div id="preparacion"></div>
 
 ### Preparación
 
+- Prepara la papa cocida el día anterior y resérvala en la nevera. Una hora antes de preparar la masa, sácala de la nevera.
 - Pesa todos los ingredientes y colócalos en envases separados.
 - Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
@@ -93,7 +93,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - Crea un volcán con boca ancha.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
-- Coloca los líquidos en el centro del volcán, coloca la sal en el borde y la mantequilla pomada o el aceite en el centro.
+- Coloca los líquidos en el centro del volcán, coloca la sal en el borde, la mantequilla pomada o el aceite y la papa cocida en el centro.
 - Integra los ingredientes mezclando hasta obtener una papilla.
 - Incorpora el resto de la harina hasta obtener una masa homogénea.
 - Forma una bola y déjala reposar por diez (10) minutos.
@@ -111,6 +111,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 - Lleva la bolita de masa al asistente mezclador.
 - Con el utensilio gancho del asistente mezclador, soba la masa a velocidad tres (3) entre ocho (8) y diez (10) minutos.
+- Debes obtener un masa más suave y uniforme.
 
 ### División
 
@@ -120,13 +121,13 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 - Bolea de nuevo creando una superficie uniforme.
 - Extiende aceite con las manos o con una brocha sobre cada pastón y colócalos uno a uno en una bandeja previamente aceitada. 
-- Deja los pastones separados 2cm por cada lado. 
+- Deja cada pastón separado unos cinco (5)cm de cada lado.
 
 ### Fermentación final (maduración)
 
 - Tapa la bandeja con plástico.
 - Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 22ºC y 27ºC entre dos (2) a tres (3) horas.
-- Los pastones, deben haber duplicado su volumen inicial y deben estar pegados. Esto le va a dar la humedad característica de los sliders.
+- El pastón, al menos, debe haber duplicado su volumen inicial.
 
 ### Barnices, coberturas y cortes
 

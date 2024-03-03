@@ -2,7 +2,7 @@
 title: "Pan de Hamburguesa"
 subtitle: "El resuelve de las noches y los fines de semana."
 description: "El Pan de Hamburguesa no necesita presentación, es un pan básico, de miga cerrada y suave, de corteza uniforme y lo disfrutas con el relleno de tu preferencia."
-date: 2022-09-28 10:32:39 -0400
+date: 2022-09-26 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-hamburguesa/
 pdf: Pan-de-hamburguesa.pdf
 categories: pan salado enriquecido capital
