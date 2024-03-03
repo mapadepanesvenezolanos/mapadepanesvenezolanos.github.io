@@ -54,7 +54,6 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **256%**    |  **750g** |
 
-
 ### Calculadora para la masa
 
 {% include formulas.html %}
