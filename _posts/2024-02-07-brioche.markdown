@@ -10,13 +10,13 @@ featured_image: '/images/panes/brioche/brioche_1.jpeg'
 formula_name: "brioche"
 ---
 
-Nuestra versión del pan brioche, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+Nuestra versión del pan de hamburguesa con masa brioche, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
 
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
+* [Pan Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
 * [Pan de Papa](/panes-venezolanos/pan-papa/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
-* [Pan Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 

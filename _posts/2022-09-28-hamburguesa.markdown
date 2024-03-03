@@ -8,17 +8,16 @@ pdf: Pan-de-hamburguesa.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
 formula_name: "hamburguesa"
-
 ---
 
-Nuestra versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. 
+Nuestra versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. 
 
 Cuando le agregamos almidones a la preparación le estamos agregando hidratación y suavidad. Puedes utilizar Papa, Batata, Auyama e inclusive te puedes aventurar con puré de granos como caraotas o lentejas. 
 
 Te dejamos los enlaces de las tres (3) variantes de panes a base de masa brioche disponibles en el mapa de panes venezolanos:
 
-* [Pan Brioche](/panes-venezolanos/pan-brioche/)
 * [Pan de Papa](/panes-venezolanos/pan-papa/)
+* [Pan Brioche](/panes-venezolanos/pan-brioche/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
 
 #### RECETA, FÓRMULA y TÉCNICAS

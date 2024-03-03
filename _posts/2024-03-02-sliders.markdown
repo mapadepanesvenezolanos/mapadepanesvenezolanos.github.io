@@ -1,5 +1,5 @@
 ---
-title: " (Sliders) Mini Panes de Hamburguesa"
+title: "Mini Panes de Hamburguesa (Sliders)"
 subtitle: "El resuelve de las noches y los fines de semana."
 description: "El mini Pan de Hamburguesa es un pan básico, de miga cerrada y suave, de corteza uniforme y lo disfrutas con el relleno de tu preferencia."
 date: 2024-03-02 12:00:00 -0400

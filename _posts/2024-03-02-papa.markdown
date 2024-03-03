@@ -1,6 +1,6 @@
 ---
 title: "Pan de Papa"
-subtitle: "El consentido de las tardes"
+subtitle: "Muchas hamburguesas espectaculares se hacen con un Pan de Papa."
 description: "El Pan de papas es de miga cerrada, suave y húmeda de sabor delicioso."
 date: 2024-02-14 10:55:00 -0400
 permalink: /panes-venezolanos/pan-papa/
@@ -10,13 +10,13 @@ featured_image: '/images/panes/papa/papas_1.jpeg'
 formula_name: "papa"
 ---
 
-Nuestra versión del pan de papa, forma parte de las cuatro (4) variantes de panes preparados con masa Brioche del mapa de panes venezolanos. Los panes hechos con masa Brioche son muy conocidos en todo el mundo, hay muchas variaciones y diferentes usos en la cocina: puede usarse para tostadas francesas y ser combinado junto con una taza de café o té. También suele usarse como aperitivo en diferentes comidas y para panes festivos como la Rosca de Reyes. 
+Nuestra versión del pan de papa, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. Los panes hechos con pures de tubérculos, verduras o granos destacan por su suavidad y humedad.
 
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
+* [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
 * [Pan Brioche](/panes-venezolanos/pan-brioche/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
-* [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
