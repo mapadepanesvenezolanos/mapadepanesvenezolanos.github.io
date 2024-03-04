@@ -59,13 +59,13 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera                                              |      100%     |      462g |
-| Agua                                                         |      30%      |      139g |
-| Levadura instantánea                                         |       1%      |        5g |
-| Sal                                                          |       2%      |        9g |
-| Huevos ligeramente batidos                                   |      20%      |       92g |
-| Mantequilla sin sal/Aceite de canola/maíz                    |      10%      |       46g |
-| Azúcar                                                       |       5%      |       23g |
-| Leche en polvo                                               |       5%      |       23g |
+| Agua                                                         |       30%     |      139g |
+| Levadura instantánea                                         |        1%     |        5g |
+| Sal                                                          |        2%     |        9g |
+| Huevos ligeramente batidos                                   |       20%     |       93g |
+| Mantequilla sin sal o Aceite de canola/maíz                  |       10%     |       46g |
+| Azúcar                                                       |        5%     |       23g |
+| Leche en polvo                                               |        5%     |       23g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **173%**   |  **800g** |
 
