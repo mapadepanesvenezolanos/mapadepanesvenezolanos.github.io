@@ -54,16 +54,16 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina de trigo(todo uso)                                    |       80%     |      400g |
-| Afrecho                                                      |       20%     |      100g |
-| Agua                                                         |       52%     |      260g |
-| Levadura instantánea                                         |        2%     |        8g |
-| Sal                                                          |        2%     |        8g |
+| Afrecho                                                      |       20%     |       99g |
+| Agua                                                         |       52%     |      259g |
+| Levadura instantánea                                         |        2%     |       10g |
+| Sal                                                          |        2%     |       10g |
 | Huevos ligeramente batidos                                   |       12%     |       60g |
 | Mantequilla sin sal                                          |        6%     |       30g |
 | Azúcar                                                       |        5%     |       25g |
 | Leche en polvo                                               |        2%     |       10g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **180%**   |  **900g** |
+| **Total**                                                    |    **181%**   |  **900g** |
 
 ### Calculadora para la masa
 
@@ -186,18 +186,18 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
-| Harina panadera(todo uso) |         80% |  318g |
-| Afrecho                   |         20% |  100g |
-| Agua                      |         50% |  209g |
-| Levadura instantánea      |          2% |    7g |
-| Sal                       |          1% |    6g |
-| Huevos ligeramente batidos|         14% |   60g |
-| Mantequilla sin sal       |          7% |   30g |
+| Harina panadera(todo uso) |         80% |  336g |
+| Afrecho                   |         20% |   84g |
+| Agua                      |         50% |  210g |
+| Levadura instantánea      |          2% |    8g |
+| Sal                       |          1% |    4g |
+| Huevos ligeramente batidos|         14% |   59g |
+| Mantequilla sin sal       |          7% |   29g |
 | Azúcar                    |          6% |   25g |
-| Leche en polvo            |          2% |   10g |
+| Leche en polvo            |          2% |    8g |
 | Prefermento Pie Francés   |         32% |  135g |
 |---------------------------|-------------|-------|
-| **Total**                 |   **215,3%**|**900g**|
+| **Total**                 |     **214%**|**900g**|
 
 ### Calculadora para la masa mejorada con Pie Francés
 
