@@ -60,12 +60,12 @@ Este es un Pan más suave debido a la presencia de la papa, es de miga cerrada, 
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera                                              |      100%     |      449g |
 | Agua                                                         |       30%     |      135g |
-| Levadura instantánea                                         |        1%     |        4g |
+| Levadura instantánea                                         |        1%     |        5g |
 | Sal                                                          |        2%     |        9g |
 | Huevos ligeramente batidos                                   |       10%     |       45g |
-| Mantequilla sin sal/Aceite de canola/maíz                    |        5%     |       22g |
-| Azúcar                                                       |        5%     |       22g |
-| Leche en polvo                                               |        5%     |       22g |
+| Mantequilla sin sal o Aceite de canola/maíz                  |        5%     |       23g |
+| Azúcar                                                       |        5%     |       23g |
+| Leche en polvo                                               |        5%     |       23g |
 | Papa cocida                                                  |       20%     |       90g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **178%**   | **800g**  |
