@@ -79,12 +79,12 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo (todo uso)                                   |      100%     |      548g |
-| Agua tibia                                                   |       25%     |      137g |
-| Levadura instantánea                                         |        1%     |        5g |
+| Harina de trigo (todo uso)                                   |      100%     |      549g |
+| Agua                                                         |       25%     |      137g |
+| Levadura instantánea                                         |        1%     |        6g |
 | Sal                                                          |        2%     |       11g |
 | Aceite de canola/maíz                                        |        9%     |       49g |
-| Azúcar                                                       |        7%     |       39g |
+| Azúcar                                                       |        7%     |       38g |
 | Huevos ligeramente batidos                                   |       20%     |      110g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |     **164%**  | **900g**  |
