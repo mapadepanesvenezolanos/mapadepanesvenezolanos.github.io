@@ -1,20 +1,18 @@
 ---
-title:  "Mollete Gallego"
+title:  "Tipo Gallego"
 subtitle: "Es el pan que nos gusta cuando vamos a la Candelaria a comer paella."
 description: "El pan gallego tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
 date:   2022-03-20 18:00:39 -0400
 permalink: /panes-venezolanos/pan-gallego/
-pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf
+pdf: Pan-Tipo-Gallego.pdf
 categories: pan rustico capital
-featured_image: '/images/panes/gallego/gallego_7.jpeg'
-formula_name: "gallegommliquida"
-second_formula_name: "gallegopiefrances"
+featured_image: '/images/panes/gallego/gallego_4.jpeg'
+formula_name: "gallego"
 ---
 
-Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
+Te dejamos el enlaces de otra variante del pan tipo gallego que tenemos en el mapa de panes venezolanos:
 
-* [Tipo Gallego](#tipogallego)
-* [Tipo Mollete Gallego con prefermento pie](#tipomollete)
+* [Tipo Mollete Gallego con prefermento pie](/panesvenezolanos/molletegallego/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -136,126 +134,6 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ---
 
-<div id="tipomollete"></div>
-
-#  Pan Tipo Mollete Gallego
-
-## Masa mejorada con preferemento Pie Francés
-
-- 1 Hogaza de pan de 1108 gramos.
-- Temperatura ambiente 24ºC - 25ºC.
-- 79% de hidratación.
-
-<img class="post_image post_image_right" src="/images/panes/gallego/gallego_8.jpeg" alt="{{page.title}}">
-
-## Tips
-
-Planifica dos días para la preparación de esta hogaza de pan.
-- Día 1: Preparación del prefermento Pie Francés
-- Día 2: Preparación de la masa de hogaza del pan
-
-Esta hogaza de pan se conserva bien a temperatura ambiente, en bolsa de papel/plástico, durante al menos 5 días.
-
-Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan en el horno a 350ºF durante cinco (5) minutos.
-
-### Prefermento Pie Francés
-
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |     100%      |      119g |
-| Agua                                                         |    78,5%      |       94g |
-| Levadura instantánea seca                                    |     4,28%     |        5g |
-| Sal                                                          |     2,85%     |        3g |
-|--------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **185.63%**  |  **221g** |
-
-### Ingredientes para la masa (1 unidad)
-
-| Ingrediente                                                  |    Fórmula    |      Peso |
-|:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (13%)                                        |       100%    |      429g |
-| Agua                                                         |        77%    |      343g |
-| Sal                                                          |         2%    |       10g |
-| Pie Francés                                                  |        52%    |      221g |
-| -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **231%**   |  **1103g** |
-
-### Calculadora para la masa mejorada con Prefermento Pie Francés
-
-{% include calculadora-de-panes2.html %}
-
-## Paso a paso del panadero
-
-### Preparación del prefermento Pie francés (Dia 1)
-
-- En un envase redondo de boca grande, agrega el agua de acuerdo a la fórmula.
-- Agrega ahora la levadura y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
-- Agrega poco a poco la harina disolviendo en la mezcla del paso anterior hasta formar una bolita de masa.
-- Deja reposar la masa 3 minutos.
-- Incorpora la sal hasta que se mezcle totalmente con tu bolita de masa.
-- Coloca la bolita de masa en un envase transparente y haz una marca en el envase, indicando la altura inicial de tu bolita de masa.
-- Cubre el envase y déjalo reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante 3 horas o hasta que la masa triplique su altura.
-- Lleva el envase a la nevera y deja reposar durante 18 horas.
-
-### Preparación de la masa (Dia 2)
-
-- Pesa todos los ingredientes y colócalos en envases separados. 
-- Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
-- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que va a utilizar durante el proceso al alcance de la mano. 
-
-### Mezcla y amasado manual
-
-- En un primer envase, coloca la harina y la sal. Ahora mezcla ambos ingredientes.
-- En un segundo envase, coloca 300 gramos del total del agua indicada en la fórmula.
-- Agrega poco a poco, la harina y la sal en el segundo envase con agua. 
-- Mezcla los ingredientes hasta que se forme una bolita de masa.
- Nota: Si su harina soporta mayor cantidad de agua, entonces agregue poco a poco los 130 gramos de agua restantes de la fórmula.
-- Continúa mezclando los ingredientes hasta que la bolita de masa haya recogido toda la harina del fondo del envase.
-- Integra el prefermento pie (masa madre) con la masa hasta que quede bien mezclada.
-- Cubre el envase con una bolsa de plástico, o paño de tela y luego deja reposar en mesa a temperatura ambiente (25 grados centígrados) durante 20 minutos.
-
-### Fermentación en bloque y retardo
-
-En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
-
-- Estira y pliega la masa como un cuaderno. 
-- Deja reposar tapada en su envase por sesenta (60) minutos. Repita este paso dos (2) veces más.
-
-### Fermentación final (Maduración)
-
-- Coloca el recipiente tapado en la mesa de trabajo durante sesenta (60) minutos.
-- 40 minutos antes de finalizar la fermentación, enciende el horno a 500ºF con la olla holandesa tapada dentro del horno a media altura.
-
-### Formado 
-
-- Verifica que la masa está esponjada y llena de aire. Elimina las burbujas grandes de aire, esto contribuye a una miga más uniforme.
-- Enharina bien la mesa de trabajo.
-- Lleva cada extremo hacia el centro de la masa hasta formar una bolita redonda, siempre generando tensión en la masa para darle estructura al pastón.
-- Voltea la bolita y déjala reposar tapada en la mesa durante 20 o 30 minutos.
-- Vuelve a enharinar la mesa de trabajo y coloca allí la pieza de masa; con firmeza, toma la parte superior de la masa para crear el moño. 
-- Tira hacia arriba dejando que caiga la pieza ligeramente y con la otra mano, gira suavemente la parte inferior del pastón, estrangulando el moño. 
-- Sobre la mesa, termina de fijar el moño haciendo presión con las puntas de los dedos hasta que el moño quede firme.
-
-### Barnices, coberturas y cortes
-
-- Coloca la masa sobre papel para hornear y realiza cuatro cortes con una hojilla sobre la masa, partiendo desde el moño hacia el extremo de la masa.
-- Saca la olla holandesa del horno y con cuidado introduce la pieza en la olla, colocando agua suficiente con un atomizador sobre la superficie de la pieza, tapa la olla.
-
-### Horneado
-
-- Introduce la olla en el horno y déjala por quince (15) minutos a 430ºF.
-- Disminuye la temperatura del horno a 400ºF y con mucho cuidado remueve la tapa de la olla. 
-- Continua horneando el pan durante cuarenta y cinco (45) minutos más.
-- Apaga el horno y saca la olla .
-
-### Enfriamiento
-
-- Saca la olla del horno y pasa el Pan a una rejilla. Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por diez (10) minutos para que recupere la crocancia.
-
----
-
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [Plaza’s Escuela de Cocina] y la receta de pan Mollete Gallego del libro 100 recetas de pan de pueblo: Ideas y trucos para hacer en casa panes de toda España de Iban Yarza [100 Recetas Pan de Pueblo].
@@ -268,7 +146,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0.0__ 
+__Versión 4.0.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
