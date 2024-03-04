@@ -7,6 +7,10 @@ permalink: /panes-venezolanos/pan-de-leche/
 pdf: Pan-de-Leche.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'
+formula_name: "leche"
+second_formula_name: "lechebiga"
+third_formula_name: "lechetalvina"
+
 ---
 
 Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
@@ -67,6 +71,11 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 | Leche en polvo            |          5% |   14g  |
 |---------------------------|-------------|--------|
 | **Total**                 |    **197%** |**540g**|
+
+### Calculadora para la masa 
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -184,14 +193,14 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
 | Harina panadera           |        100% |  210g |
-| Agua                      |       25,8% |   54g |
+| Agua                      |         26% |   54g |
 | Levadura instantánea      |          1% |  2,1g |
-| Sal                       |        0,7% |    1g |
-| Huevos ligeramente batidos|       26,1% |   55g |
-| Mantequilla sin sal       |       19,6% |   41g |
-| Azúcar                    |       26,1% |   55g |
-| Leche en polvo            |        6,5% |   14g |
-| Prefermento Pie Francés   |       51,5% |  108g |
+| Sal                       |          1% |    1g |
+| Huevos ligeramente batidos|         26% |   55g |
+| Mantequilla sin sal       |         17% |   41g |
+| Azúcar                    |         26% |   55g |
+| Leche en polvo            |          7% |   14g |
+| Prefermento Pie Francés   |         52% |  108g |
 |---------------------------|-------------|-------|
 | **Total**                 |   **257,4%**|**550g**|
 
@@ -258,15 +267,19 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |:--------------------------|:-----------:|------:|
 | Harina panadera           |        100% |  202g |
 | Agua                      |          3% |    6g |
-| Levadura instantánea      |        1,2% |    3g |
-| Sal                       |        1,4% |    3g |
-| Huevos ligeramente batidos|       27,1% |   55g |
-| Mantequilla sin sal       |       20,3% |   41g |
-| Azúcar                    |       27,1% |   55g |
-| Leche en polvo            |        6,8% |   14g |
-| Prefermento Biga 125%     |       80,1% |  162g |
+| Levadura instantánea      |          1% |    3g |
+| Sal                       |          1% |    3g |
+| Huevos ligeramente batidos|         27% |   55g |
+| Mantequilla sin sal       |         20% |   41g |
+| Azúcar                    |         27% |   55g |
+| Leche en polvo            |          7% |   14g |
+| Prefermento Biga 125%     |         80% |  162g |
 |---------------------------|-------------|-------|
 |**Total**                  |    **267%** |**540g**|
+
+### Calculadora para la masa mejorada con Prefermento Biga 125%
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
@@ -317,6 +330,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 | [**Talvina**](/panes-venezolanos/talvina/)  |         45% |  108g |
 |---------------------------|-------------|-------|
 |**Total**                  |    **229%** |**550g**|
+
+### Calculadora para la masa mejorada con Talvina
+
+{% include calculadora-de-panes3.html %}
 
 ## Paso a paso del panadero
 
