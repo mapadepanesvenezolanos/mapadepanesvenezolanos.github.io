@@ -183,7 +183,7 @@ Planifica dos días para la preparación de tu pan.
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera (12%)                                        |      100%     |      124g |
-| Agua tibia                                                   |       65%     |       80g |
+| Agua                                                         |       65%     |       80g |
 | Levadura instantánea                                         |        1%     |        1g |
 | Sal                                                          |        4%     |        5g |
 | Grasa (Mantequilla sin sal)                                  |       11%     |       14g |
