@@ -9,7 +9,7 @@ categories: masa_madre los_andes
 featured_image: '/images/panes/talvina/talvina_3.jpeg'
 formula_name: "talvina"
 second_formula_name: "talvina-refresco"
-third_formula_name: "talvinaexpress"
+third_formula_name: "talvina-express"
 
 ---
 
