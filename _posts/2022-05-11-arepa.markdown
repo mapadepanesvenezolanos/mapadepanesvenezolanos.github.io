@@ -14,7 +14,7 @@ formula_name: "arepa"
 
 ### Masa con harina de maíz blanco precocido
 
-- 10 Arepas de 75 g de masa
+- 6 Arepas de 160 g de masa
 - Temperatura ambiente 21.5ºC - 27ºC
 - 150% de hidratación (Alta hidratación)
 - Tiempo de preparación aproximado: entre 35 y 45 minutos
@@ -48,11 +48,11 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de maiz precocida (P.A.N)                             |      100%     |      295g |
-| Agua tibia                                                   |      155%     |      155g |
+| Harina de maiz precocida (P.A.N)                             |      100%     |      375g |
+| Agua tibia                                                   |      155%     |      581g |
 | Sal                                                          |        1%     |        4g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **256%**    |  **750g** |
+| **Total**                                                    |   **256%**    |  **960g** |
 
 ### Calculadora para la masa
 
@@ -141,7 +141,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__
+__Versión 3.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
