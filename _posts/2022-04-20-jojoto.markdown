@@ -65,13 +65,13 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      68%      |      391g |
-| Harina de maiz/mecla de cachapas P.A.N                       |      32%      |      184g |
+| Harina panadera                                              |      68%      |      390g |
+| Harina de maiz/mecla de cachapas P.A.N                       |      32%      |      183g |
 | Agua tibia para remojar la harina de maiz/mezcla de cachapas |      27%      |      155g |
-| Agua tibia para hidratar la masa                             |      40%      |      230g |
+| Agua tibia para hidratar la masa                             |      40%      |      229g |
 | Levadura instantánea                                         |      1%       |        6g |
-| Sal                                                          |      2%       |        9g |
-| Mantequilla sin sal                                          |      5%       |       26g |
+| Sal                                                          |      2%       |       11g |
+| Mantequilla sin sal                                          |      5%       |       29g |
 | Azúcar                                                       |      15%      |       86g |
 | Leche en polvo                                               |      4%       |       23g |
 | ---------------------------                                  | ------------- |   ------- |
@@ -201,16 +201,16 @@ Planifica tres días para la preparación de esta versión del Pan.
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      59%      |      269g |
-| Harina de maiz/mecla de cachapas P.A.N                       |      41%      |      184g |
-| Agua tibia para remojar la harina de maiz/mezcla de cachapas |      34%      |      155g |
-| Agua tibia para hidratar la masa                             |      24%      |      108g |
-| Levadura instantánea                                         |      1%       |        6g |
+| Harina panadera                                              |      59%      |      267g |
+| Harina de maiz/mecla de cachapas P.A.N                       |      41%      |      186g |
+| Agua tibia para remojar la harina de maiz/mezcla de cachapas |      34%      |      154g |
+| Agua tibia para hidratar la masa                             |      24%      |      109g |
+| Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |        9g |
-| Mantequilla sin sal                                          |      6%       |       26g |
+| Mantequilla sin sal                                          |      6%       |       27g |
 | Azúcar                                                       |      19%      |       86g |
 | Leche en polvo                                               |      5%       |       23g |
-| Prefermento Poolish                                          |     54%       |    244.2g |
+| Prefermento Poolish                                          |     54%       |      245g |
 |--------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **245%**    | **1110g** |
 
