@@ -64,9 +64,9 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (12%)                                        |      100%     |      283g |
+| Harina panadera (12%)                                        |      100%     |      282g |
 | Agua                                                         |      55%      |      155g |
-| Levadura instantánea                                         |       1%      |        2g |
+| Levadura instantánea                                         |       1%      |        3g |
 | Sal                                                          |       2%      |        6g |
 | Azúcar                                                       |       5%      |       14g |
 | Grasa                                                        |       5%      |       14g |
@@ -183,12 +183,12 @@ Planifica dos días para la preparación de tu pan.
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera (12%)                                        |      100%     |      124g |
-| Agua tibia                                                   |       65%     |       81g |
-| Levadura instantánea                                         |        1%     |      0.8g |
+| Agua tibia                                                   |       65%     |       80g |
+| Levadura instantánea                                         |        1%     |        1g |
 | Sal                                                          |        4%     |        5g |
-| Grasa (Mantequilla sin sal)                                  |       11%     |       13g |
-| Azúcar                                                       |       11%     |       13g |
-| Preferemento Pie Francés                                     |      191%     |      237g |
+| Grasa (Mantequilla sin sal)                                  |       11%     |       14g |
+| Azúcar                                                       |       11%     |       14g |
+| Preferemento Pie Francés                                     |      191%     |      236g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **383%**   |  **474g** |
 
