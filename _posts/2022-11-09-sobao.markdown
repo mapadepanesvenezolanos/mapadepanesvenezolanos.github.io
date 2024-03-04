@@ -8,6 +8,7 @@ permalink: /panes-venezolanos/pan-sobao/
 pdf: Pan-sobao.pdf
 categories: pan salado capital
 featured_image: '/images/panes/sobao/sobao_1.png'
+formula_name: "sobao"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -48,13 +49,18 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 | Harina todo uso                                              |      100%     |      372g |
 | Agua tibia                                                   |       40%     |      149g |
 | Levadura instantánea                                         |        1%     |        4g |
-| Sal                                                          |      1.8%     |        7g |
+| Sal                                                          |        2%     |        7g |
 | Mantequilla sin sal                                          |        9%     |       33g |
 | Azúcar                                                       |        3%     |       11g |
 | Extracto de malta                                            |        2%     |        6g |
 | Leche en polvo                                               |        5%     |       19g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **161.3%**   |  **600g** |
+| **Total**                                                    |    **162%**   |  **600g** |
+
+### Calculadora de la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %
 
 ## Paso a paso del panadero
 
