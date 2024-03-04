@@ -7,6 +7,10 @@ permalink: /panes-venezolanos/talvina/
 pdf: Talvina.pdf
 categories: masa_madre los_andes
 featured_image: '/images/panes/talvina/talvina_3.jpeg'
+formula_name: "talvina"
+second_formula_name: "talvina-refresco"
+third_formula_name: "talvinaexpress"
+
 ---
 
 Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición, te dejamos el procedimiento para prepararla desde cero y también para prepararla a partir de una masa madre líquida. 
@@ -71,6 +75,11 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 |---------------------------|-------------|--------|------------|
 |**Total**                  |    **310%** |**120g**|  **138g**  |
 
+### Calculadora para la Talvina
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
 ## Paso a paso de la preparación
 
 | Día     | Procedimiento                                            | Reposo   |
@@ -98,6 +107,10 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 |---------------------------|-------------|--------|--------|
 |**Total**                  |    **620%** |**120g**|**138g**|
 
+### Calculadora para la Talvina Refresco
+
+{% include calculadora-de-panes2.html %}
+
 ## Paso a paso del refresco
 
 - En un recipiente agrega la Talvina, el agua y mezcla.
@@ -122,6 +135,10 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 | Masa Madre natural líquida|         30% |   11g  |   13g  |
 |---------------------------|-------------|--------|--------|
 |**Total**                  |    **340%** |**124g**|**138g**|
+
+### Calculadora para la Talvina Express
+
+{% include calculadora-de-panes3.html %}
 
 ## Paso a paso de la preparación
 
