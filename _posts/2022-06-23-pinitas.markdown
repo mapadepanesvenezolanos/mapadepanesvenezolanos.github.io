@@ -8,9 +8,7 @@ pdf: Pinitas.pdf
 categories: Piñitas Lara
 featured_image: '/images/panes/pinitas/pinitas_1.jpeg'
 formula_name: "pinitas"
-second_formula_name: "poolish"
-third_formula_name: "pinitaspoolish"
-
+second_formula_name: "pinitaspoolish"
 ---
 
 Hemos preparado las Piñitas de dos (2) formas distintas, por método directo y mejorando la técnica de preparación mediante el uso de prefermentos.
@@ -231,30 +229,26 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |---------------------------|-------------|--------|
 | **Total**                 |    **201%** |**103g**|
 
-### Calculadora para el prefermento Poolish
-
-{% include calculadora-de-panes2.html %}
-
 ### Ingredientes para la masa (Método indirecto)
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Harina panadera           |        100% |  269g  |
-| Agua                      |         40% |   97g  |
+| Harina panadera           |        100% |  266g  |
+| Agua                      |         40% |  106g  |
 | Levadura instantánea      |          1% |    3g  |
 | Sal                       |          1% |    3g  |
-| Huevos ligeramente batidos|         12% |   31g  |
-| Mantequilla sin sal       |         12% |   31g  |
-| Azúcar                    |         23% |   63g  |
-| Leche en polvo            |          2% |    6g  |
-| Anís en grano (molido)    |          2% |    6g  |
-| Prefermento Poolish       |         33% |   90g  |
+| Huevos ligeramente batidos|         12% |   32g  |
+| Mantequilla sin sal       |         12% |   32g  |
+| Azúcar                    |         23% |   61g  |
+| Leche en polvo            |          2% |    5g  |
+| Anís en grano (molido)    |          2% |    5g  |
+| Prefermento Poolish       |         33% |   88g  |
 |---------------------------|-------------|--------|
 | **Total**                 |     **226%**|**600g**|
 
-### Calculadora para la masa
+### Calculadora para la masa mejorada con Prefermento Poolish
 
-{% include calculadora-de-panes3.html %}
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
