@@ -63,8 +63,8 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 |:--------------------------|:-----------:|-------:|
 | Harina panadera           |        100% |  274g  |
 | Agua                      |         35% |   96g  |
-| Levadura instantánea      |          1% |  2,7g  |
-| Sal                       |          1% |  2,7g  |
+| Levadura instantánea      |          1% |  2.7g  |
+| Sal                       |          1% |  2.7g  |
 | Huevos ligeramente batidos|         20% |   55g  |
 | Mantequilla sin sal       |         15% |   41g  |
 | Azúcar                    |         20% |   55g  |
@@ -183,8 +183,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |:--------------------------|:-----------:|------:|
 | Harina panadera           |        100% |   74g |
 | Agua                      |         65% |   48g |
-| Levadura instantánea      |          1% |  0,7g |
-| Sal                       |          2% |  1,5g |
+| Levadura instantánea      |          1% |  0.7g |
+| Sal                       |          2% |  1.5g |
 |---------------------------|-------------|-------|
 | **Total**                 |    **168%** |**124g**|
 
@@ -194,7 +194,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |:--------------------------|:-----------:|------:|
 | Harina panadera           |        100% |  210g |
 | Agua                      |         26% |   54g |
-| Levadura instantánea      |          1% |  2,1g |
+| Levadura instantánea      |          1% |  2.1g |
 | Sal                       |          1% |    1g |
 | Huevos ligeramente batidos|         26% |   55g |
 | Mantequilla sin sal       |         17% |   41g |
@@ -202,7 +202,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 | Leche en polvo            |          7% |   14g |
 | Prefermento Pie Francés   |         52% |  108g |
 |---------------------------|-------------|-------|
-| **Total**                 |   **257,4%**|**550g**|
+| **Total**                 |   **257.4%**|**540g**|
 
 ## Paso a paso del panadero
 
@@ -257,25 +257,25 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |:--------------------------|:-----------:|------:|
 | Harina panadera           |        100% |   83g |
 | Agua                      |        125% |  103g |
-| Levadura instantánea      |       0,33% |  0,3g |
+| Levadura instantánea      |       0.33% |  0.3g |
 |---------------------------|-------------|-------|
-|**Total**                  | **225,33%** |**186,3g**|
+|**Total**                  | **225.33%** |**186.3g**|
 
 ### Ingredientes para la masa (Método indirecto)
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
-| Harina panadera           |        100% |  202g |
+| Harina panadera           |        100% |  203g |
 | Agua                      |          3% |    6g |
-| Levadura instantánea      |          1% |    3g |
-| Sal                       |          1% |    3g |
+| Levadura instantánea      |          1% |    2g |
+| Sal                       |          1% |    2g |
 | Huevos ligeramente batidos|         27% |   55g |
 | Mantequilla sin sal       |         20% |   41g |
 | Azúcar                    |         27% |   55g |
 | Leche en polvo            |          7% |   14g |
 | Prefermento Biga 125%     |         80% |  162g |
 |---------------------------|-------------|-------|
-|**Total**                  |    **267%** |**540g**|
+|**Total**                  |    **266%** |**540g**|
 
 ### Calculadora para la masa mejorada con Prefermento Biga 125%
 
@@ -319,17 +319,17 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
-| Harina panadera           |        100% |  241g |
-| Agua                      |         18% |   44g |
-| Levadura instantánea      |        0,2% |  0,6g |
+| Harina panadera           |        100% |  236g |
+| Agua                      |         18% |   43g |
+| Levadura instantánea      |        0.2% |  0.5g |
 | Sal                       |          1% |  2,4g |
-| Huevos ligeramente batidos|         23% |   55g |
-| Mantequilla sin sal       |         17% |   41g |
+| Huevos ligeramente batidos|         23% |   54g |
+| Mantequilla sin sal       |         17% |   40g |
 | Azúcar                    |         19% |   45g |
 | Leche en polvo            |          6% |   14g |
-| [**Talvina**](/panes-venezolanos/talvina/)  |         45% |  108g |
+| [**Talvina**](/panes-venezolanos/talvina/)  |         45% |  106g |
 |---------------------------|-------------|-------|
-|**Total**                  |    **229%** |**550g**|
+|**Total**                  |    **229.2%** |**540g**|
 
 ### Calculadora para la masa mejorada con Talvina
 
