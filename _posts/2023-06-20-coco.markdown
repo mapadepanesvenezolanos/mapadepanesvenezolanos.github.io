@@ -43,7 +43,7 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Harina panadera           |        100% |  365g  |
+| Harina panadera           |        100% |  366g  |
 | Leche de coco             |         35% |  128g  |
 | Levadura instantánea      |          1% |    4g  |
 | Sal                       |          1% |    4g  |
