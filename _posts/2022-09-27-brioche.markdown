@@ -56,16 +56,16 @@ Es un pan de miga esponjada y sabor delicioso.
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina media fuerza (12%)                                    |      100%     |      395g |
-| Agua                                                         |      25%      |       99g |
-| Levadura instantánea                                         |      1%       |        4g |
-| Sal                                                          |      1.8%     |        7g |
-| Huevos ligeramente batidos                                   |      30%      |      119g |
-| Mantequilla sin sal                                          |      30%      |      119g |
-| Azúcar                                                       |      10%      |       40g |
-| Leche en polvo                                               |      5%       |       20g |
+| Harina media fuerza (12%)                                    |      100%     |      394g |
+| Agua                                                         |       25%     |       99g |
+| Levadura instantánea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        8g |
+| Huevos ligeramente batidos                                   |       30%     |      118g |
+| Mantequilla sin sal                                          |       30%     |      118g |
+| Azúcar                                                       |       10%     |       39g |
+| Leche en polvo                                               |        5%     |       20g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **202.8%**   |  **800g** |
+| **Total**                                                    |    **203%**   |  **800g** |
 
 ### Calculadora para la masa
 
