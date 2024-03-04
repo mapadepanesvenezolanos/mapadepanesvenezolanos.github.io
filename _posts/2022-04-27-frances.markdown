@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-frances/
 pdf: Pan-Frances.pdf
 categories: pan semirustico capital
 featured_image: '/images/panes/frances/frances_2.jpeg'
+formula_name: "frances"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -71,14 +72,19 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina todo uso                                              |      100%     |      380g |
-| Agua                                                         |      50%      |      190g |
-| Levadura instantánea                                         |      1%       |        4g |
-| Sal                                                          |      2%       |        8g |
-| Azúcar                                                       |      5%       |       19g |
-| Grasa                                                        |      5%       |       19g |
+| Harina de trigo (todo uso)                                   |      100%     |      380g |
+| Agua                                                         |       50%     |      190g |
+| Levadura instantánea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        8g |
+| Azúcar                                                       |        5%     |       19g |
+| Grasa                                                        |        5%     |       19g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **163%**     |  **620g** |
+
+### Calculadora para la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ### Rangos referenciales
 
@@ -174,7 +180,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.3__ (30/05/2022)
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
