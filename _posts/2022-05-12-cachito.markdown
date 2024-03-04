@@ -67,9 +67,9 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 | Levadura instantánea                          |       1%      |        3g |
 | Sal                                           |       2%      |        7g |
 | Huevos ligeramente batidos                    |       5%      |       17g |
-| Mantequilla sin sal/Aceite de canola/maíz     |      10%      |       34g |
-| Azúcar                                        |      10%      |       34g |
-| Leche completa líquida                        |      20%      |       70g |
+| Mantequilla sin sal/Aceite de canola/maíz     |      10%      |       35g |
+| Azúcar                                        |      10%      |       35g |
+| Leche completa líquida                        |      20%      |       69g |
 | Vainilla                                      |       1%      |        3g |
 | ----------------------------------------------|---------------|-----------|
 | **Total**                                     |   **174%**    | **600g**  |
