@@ -53,16 +53,16 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      463g |
-| Agua                                                         |      40%      |      185g |
-| Levadura instantánea                                         |      1%       |        5g |
-| Sal                                                          |      1.6%     |        7g |
-| Huevos ligeramente batidos                                   |      10%      |       46g |
-| Mantequilla sin sal/Aceite de canola/maíz                    |      10%      |       46g |
-| Azúcar                                                       |      5%       |       23g |
-| Leche en polvo                                               |      5%       |       23g |
+| Harina panadera                                              |      100%     |      464g |
+| Agua                                                         |       40%     |      185g |
+| Levadura instantánea                                         |        1%     |        5g |
+| Sal                                                          |        2%     |        7g |
+| Huevos ligeramente batidos                                   |       10%     |       46g |
+| Mantequilla sin sal o Aceite de canola/maíz                  |       10%     |       46g |
+| Azúcar                                                       |        5%     |       23g |
+| Leche en polvo                                               |        5%     |       23g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    | **172.6%**    | **800g**  |
+| **Total**                                                    |   **173%**    | **800g**  |
 
 ### Calculadora para la masa
 
@@ -162,7 +162,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.3__
+__Versión 2.4__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
