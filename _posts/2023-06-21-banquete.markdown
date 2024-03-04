@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-de-banquete/
 published: false
 categories: pan enriquecido 
 featured_image: '/images/panes/banquete/banquete_1.jpeg'
+formula_name: "banquete"
 ---
 
 Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la comida. Es un Pan básico, enriquecido, semi dulce, de miga cerrada.
@@ -49,13 +50,18 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 | Harina panadera           |        100% |  300g  |
 | Agua                      |         50% |  150g  |
 | Levadura instantánea      |          1% |    3g  |
-| Sal                       |        1,7% |    5g  |
+| Sal                       |          2% |    5g  |
 | Huevos ligeramente batidos|          5% |   15g  |
 | Grasa                     |          5% |   15g  |
 | Azúcar                    |          5% |   15g  |
 | Leche en polvo            |          1% |    3g  |
 |---------------------------|-------------|--------|
-| **Total**                 |  **168,7%** |**506g**|
+| **Total**                 |    **169%** |**506g**|
+
+### Calculadora de la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -145,7 +151,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 1.0 (21/06/2023)_
+__Versión 1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 

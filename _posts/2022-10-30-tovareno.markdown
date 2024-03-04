@@ -55,7 +55,7 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
 | Harina de trigo(todo uso) |        100% |  322g |
-| Agua tibia                |         38% |  122g |
+| Agua                      |         38% |  122g |
 | Levadura instantánea      |          1% |    3g |
 | Sal                       |          1% |    3g |
 | Huevos ligeramente batidos|         10% |   32g |
