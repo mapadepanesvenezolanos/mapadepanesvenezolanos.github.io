@@ -2,8 +2,8 @@
 title:  "Tipo Mollete Gallego"
 subtitle: "Una variante de lujo de nuesto pan tipo gallego"
 description: "El pan Mollete gallego tiene una corteza rústica, dura y crujiente con una miga esponjosa y abierta, con alvéolos medianos a grandes. Es perfecto acompañar una comida salada, hacer un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
-date:   2024-03-20 18:00:39 -0400
-permalink: /panes-venezolanos/pan-gallego/
+date:   2024-03-20 17:00:39 -0400
+permalink: /panes-venezolanos/molletegallego/
 pdf: Pan-Tipo-Mollete-Gallego.pdf
 categories: pan rustico 
 featured_image: '/images/panes/molletegallego/gallego_7.jpeg'
