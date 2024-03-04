@@ -7,6 +7,8 @@ permalink: /panes-venezolanos/pan-gallego/
 pdf: Pan-Tipo-Gallego-Mollete-Gallego.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/gallego/gallego_7.jpeg'
+formula_name: "gallegommliquida"
+second_formula_name: "gallegopiefrances"
 ---
 
 Te dejamos los enlaces de cada preparación para que te lleven directamente al proceso que desees seguir:
@@ -54,7 +56,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | Harina panadera (13%)                                        |      100%     |      300g |
 | Agua                                                         |       70%     |      210g |
 | Sal                                                          |        2%     |        6g |
-| Masa Madre                                                   |       20%     |       60g |
+| Masa Madre líquida                                           |       20%     |       60g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **192%**    |  **576g** |
 
@@ -67,6 +69,11 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | Masa madre líquida                                           |      100%     |       23g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **300%**   |   **69g** |
+
+### Calculadora para la masa mejorada con masa madre líquida
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
@@ -167,12 +174,15 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera (13%)                                        |       100%    |      429g |
-| Agua tibia                                                   |      79,6%    |      343g |
-| Sal                                                          |       2,4%    |       10g |
+| Agua                                                         |        77%    |      343g |
+| Sal                                                          |         2%    |       10g |
 | Pie Francés                                                  |        52%    |      221g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **234%**   |  **1103g** |
+| **Total**                                                    |    **231%**   |  **1103g** |
 
+### Calculadora para la masa mejorada con Prefermento Pie Francés
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso del panadero
 
@@ -258,7 +268,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0.0__ (20/02/2023)
+__Versión 3.0.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
