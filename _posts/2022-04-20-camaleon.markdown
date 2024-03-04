@@ -7,6 +7,7 @@ permalink: /panes-venezolanos/pan-camaleon/
 pdf: Camaleon.pdf
 categories: pan_dulce los_andes
 featured_image: '/images/panes/camaleon/camaleon_0.jpeg'
+formula_name: "camaleon"
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -63,6 +64,11 @@ Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero
 | Talvina                   |         25% |   60g  |
 |---------------------------|-------------|--------|
 | **Total**                 |    **216%** |**515g**|
+
+### Calculadora de la masa
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso del panadero
 
