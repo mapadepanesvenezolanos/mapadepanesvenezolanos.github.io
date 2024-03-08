@@ -91,7 +91,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 | 4       | Mezcla el contenido del frasco.                          |     24h  |
 | 5       | Mezcla el contenido del frasco.                          |     24h  |
 | 6       | Descarta la mitad de la mezcla y agrega la cantidad indicada en “Talvina refresco” en la columna “A preparar”.                                                |     12h  |
-| 7       | Descarta la mitad de la mezcla y agrega la cantidad indicada en “Talvina refresco” en la columna “A preparar”.                                                |      ?   |
+| 7       | Descarta la mitad de la mezcla y agrega la cantidad indicada en “Talvina refresco” en la columna “A preparar”.                                                |    4h ~  |
 | 7       | Cuando esté activa, aproximadamente 4h después ya la puedes utilizar en tu preparación. Deja levar la masa de tu Pan a temperatura ambiente.                      | 18h - 24h|
 |---------|----------------------------------------------------------|----------|
 
@@ -167,7 +167,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 1.4 (27/05/2022)_
+__Versión 1.5.0 __
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
