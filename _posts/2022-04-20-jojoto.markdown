@@ -243,12 +243,11 @@ Planifica tres días para la preparación de esta versión del Pan.
 #### Primer ciclo de amasado
 
 - En un primer envase, mezcla la harina de maíz/mezcla de cachapas con la proporción de agua tibia indicada en la receta para remojar este ingrediente. Deja reposar en la mesa, cubriendo el envase con un paño o bolsa plástica.
-- Reserva el prefermento poolish, la sal y la mantequilla a parte.
-- En un segundo envase, mezcla los ingredientes sólidos de la masa: harina panadera,  la leche en polvo, y el azúcar hasta formar una bolita. 
-- En un tercer envase, mezcla el agua con la levadura instantánea hasta disolver. 
+- Reserva la sal y la mantequilla a parte.
+- En un segundo envase, mezcla los ingredientes sólidos de la masa: harina panadera,  la leche en polvo, el azúcar y la harina de maiz previamente remojada. 
+- En un tercer envase, mezcla el agua con la levadura instantánea hasta disolver. Agrega el prefermento poolish y mezcla nuevamente.
 - Integra el contenido del segundo y tercer envase hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
 - Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa. - Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
-- Amasa la mezcla durante un (1) minuto y agrega el prefermento Poolish hasta integrar completamente en la masa. Amasa no más de dos (2) minutos. Forma una bola y deposítala dentro de un envase cubierto durante diez (10) minutos.
 - De aquí en adelante, sigue los pasos que se indican en la receta de pan de jojoto con el método directo, a partir del [segundo ciclo de amasado](#segundo-ciclo-de-amasado).
 
 **Nota**: Las etapas de Barnices, coberturas y cortes, el horneado y enfriado se realizan el día 3, después del inicio de la producción del pan.
@@ -267,7 +266,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.1__ 
+__Versión 3.2.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
