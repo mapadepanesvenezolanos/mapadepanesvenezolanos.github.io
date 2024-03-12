@@ -53,7 +53,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo(todo uso)                                    |       80%     |      400g |
+| Harina de trigo(todo uso)                                    |       80%     |      398g |
 | Afrecho                                                      |       20%     |       99g |
 | Agua                                                         |       52%     |      259g |
 | Levadura instantánea                                         |        2%     |       10g |
