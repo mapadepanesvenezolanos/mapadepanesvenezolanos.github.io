@@ -72,14 +72,14 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo (todo uso)                                   |      100%     |      380g |
-| Agua                                                         |       50%     |      190g |
+| Harina de trigo (todo uso)                                   |      100%     |      405g |
+| Agua                                                         |       50%     |      203g |
 | Levadura instantánea                                         |        1%     |        4g |
 | Sal                                                          |        2%     |        8g |
-| Azúcar                                                       |        5%     |       19g |
-| Grasa                                                        |        5%     |       19g |
+| Azúcar                                                       |        5%     |       20g |
+| Grasa                                                        |        5%     |       20g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |  **163%**     |  **620g** |
+| **Total**                                                    |  **163%**     |  **660g** |
 
 ### Calculadora para la masa
 
