@@ -1,5 +1,5 @@
 ---
-title:  "Pan de Avena"
+title:  "Pan de Avena/Muesli"
 subtitle: "Un pan de tradición andina pero de origen europeo."
 description: "Con el Pan de Avena queremos que puedas crear un pan de molde, de miga cerrada y esponjosa, debido a la combinación de huevo, leche y mantequilla. La intención es obtener una pieza de pan con aroma y sabor pronunciado a avena. La combinación de ingredientes, ha sido pensada con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región andina del mapa de panes venezolanos, con el toque maravilloso y único que le da la avena tanto en la miga como en la costra."
 date:   2022-05-25 20:54:39 -0400
@@ -29,13 +29,14 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
 - Recomiendo que la harina que utilices contenga al menos doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan par elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
+- La consistencia de la mezcla que obtendrás al finalizar el paso número 2 (ver foto número 2) es pastosa, con la que difícilmente podrás hacer la prueba de la malla de gluten. No te preocupes por este detalle, porque diseñamos la fórmula con esa intención. Si deseas obtener una mezcla de masa más consistente, agrega a la mezcla entre diez (10) y veinte (20) gramos de hojuelas de avena y amasa de nuevo hasta alcanzar mayor consistencia en la masa.
 - El extracto de malta se utiliza generalmente para producir panes con una miga y corteza de color oscuro con aromas a cereales. Este ingrediente podrías obtenerlo reduciendo el líquido de una lata de malta a fuego lento hasta que el líquido esté espeso. Otra opción sería utilizar melao de papelón, miel de papelón o miel de abeja para reemplazar el extracto de malta en la masa, en la misma proporción.
 
 {% include whatsapp.html %}
 
 <div id="directo"></div>
 
-# Pan de Avena
+# Pan de Avena/Muesli
 
 * Una (1) barra de pan de 900g 
 * Temperatura ambiente 22ºC - 27ºC
@@ -47,20 +48,20 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina de trigo (todo uso)                                   |       80%     |      381g |
-| Afrecho                                                      |        5%     |       24g |
-| Avena en polvo                                               |       15%     |       71g |
-| Agua/Leche líquida                                           |       48%     |      229g |
+| Harina de trigo (todo uso)                                   |       80%     |      375g |
+| Afrecho                                                      |        5%     |       23g |
+| Avena en polvo/Muesli                                        |       15%     |       70g |
+| Agua/Leche líquida                                           |       48%     |      225g |
 | Levadura instantánea                                         |        1%     |        5g |
 | Sal                                                          |        1%     |        5g |
-| Huevos ligeramente batidos                                   |       20%     |       95g |
+| Huevos ligeramente batidos                                   |       20%     |       94g |
 | Mantequilla sin sal                                          |        8%     |       38g |
-| Azúcar                                                       |        5%     |       24g |
-| Extracto de malta                                            |        2%     |       10g |
-| Leche en polvo                                               |        2%     |       10g |
-| Avena en hojuelas                                            |        2%     |       10g |
+| Azúcar                                                       |        5%     |       23g |
+| Extracto de malta                                            |        2%     |        9g |
+| Leche en polvo                                               |        2%     |        9g |
+| Avena en hojuelas/Muesli (decorado)                          |        2%     |        9g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **189%**   |  **900g** |
+| **Total**                                                    |    **192%**   |  **900g** |
 
 ### Calculadora para la masa
 
@@ -172,7 +173,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 3.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
