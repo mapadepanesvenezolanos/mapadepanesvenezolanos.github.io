@@ -2,7 +2,7 @@
 layout: calcs
 title: Biga - Calculadora
 description: Calcula la cantidad que necesites de Biga para tus preparaciones.
-permalink: /biga/
+permalink: /prefermentos/biga/
 formula_name: "biga"
 ---
 

@@ -29,6 +29,11 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+  -
+    scope:
+      path: "assets/**/*.pdf"
+    values:
+      sitemap: false
 
 markdown: kramdown
 
@@ -41,6 +46,7 @@ sass:
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 paginate: 40
 paginate_path: "/panes/page:num/"

@@ -2,7 +2,7 @@
 layout: calcs
 title: Talvina - Calculadora
 description: Calcula la cantidad que necesites de Talvina para tus preparaciones.
-permalink: /talvina/
+permalink: /masa-madre/talvina/
 formula_name: "talvina"
 second_formula_name: "talvina-refresco"
 ---

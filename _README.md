@@ -1,3 +1,10 @@
+# SEO
+
+- En las recetas utiliza el nombre que aparece en el libro
+- En el permalink utiliza el nombre que aparece en el libro separado por "-", p.e. Pan de leche, sería /pan-de-leche
+- En el atributo 'seo' agrega las palabras claves o frases que son similares
+
+
 # Board by JekyllThemes.io – Instructions
 
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers.
