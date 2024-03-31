@@ -1,24 +1,27 @@
 ---
 title:  "Tipo Mollete Gallego"
 subtitle: "Una variante de lujo de nuesto pan tipo gallego"
-description: "El pan Mollete gallego tiene una corteza rústica, dura y crujiente con una miga esponjosa y abierta, con alvéolos medianos a grandes. Es perfecto acompañar una comida salada, hacer un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
+description: "El Mollete gallego tiene una corteza rústica, dura y crujiente con una miga esponjosa y abierta, con alvéolos medianos a grandes. Es perfecto acompañar una comida salada, hacer un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
 date:   2022-03-21 01:00:39 -0400
 permalink: /panes-venezolanos/mollete-gallego/
 categories: pan rustico 
 featured_image: '/images/panes/molletegallego/gallego_7.jpeg'
 formula_name: "molletegallego"
 ---
+
+El Mollete Gallego es un Pan típico de Galicia y tenemos una receta con levadura y pie francés.
+
 Te dejamos el enlace del pan tipo gallego que tenemos en el mapa de panes venezolanos:
 
 * [Tipo Gallego con masa madre líquida](/panes-venezolanos/pan-gallego/)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Mollete Gallego
 
 ## Resultado esperado
 
 Este pan tiene una corteza rústica, dura y crujiente con una miga esponjosa y abierta, con alvéolos medianos a grandes. Es perfecto para acompañar una comida salada, hacer un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
 
-## Tips
+## Tips para preparar el Mollete Gallego
 
 - Lo primero que debemos tener antes de empezar a hacer un Pan como este es Masa Madre. Un cultivo de levaduras estable y activo, alimentado con regularidad. 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -45,7 +48,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 
 <img class="post_image post_image_right" src="/images/panes/gallego/gallego_8.jpeg" alt="{{page.title}}">
 
-## Tips
+## Tips para preparar el Mollete Gallego
 
 Planifica dos días para la preparación de esta hogaza de pan.
 - Día 1: Preparación del prefermento Pie Francés
@@ -66,7 +69,7 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 |--------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **185.63%**  |  **221g** |
 
-### Ingredientes para la masa (1 unidad)
+### Ingredientes para preparar el Mollete Gallego (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -77,12 +80,12 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **231%**   |  **1108g** |
 
-### Calculadora para la masa mejorada con Prefermento Pie Francés
+### Calculadora para la masa del Mollete Gallego
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Mollete Gallego
 
 ### Preparación del prefermento Pie francés (Dia 1)
 

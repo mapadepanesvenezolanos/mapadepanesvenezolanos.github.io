@@ -9,7 +9,7 @@ featured_image: '/images/panes/arepa/arepa_1.jpeg'
 formula_name: "arepa"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS de la Arepa
 
 ### Masa con harina de maíz blanco precocido
 

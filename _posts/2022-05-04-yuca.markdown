@@ -11,7 +11,7 @@ second_formula_name: "yucabiga"
 third_formula_name: "yucatalvina"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Yuca
 
 - 12 Panes de 45 g de masa/6 panes de 90g.
 - Temperatura ambiente 21.5ºC - 27ºC
@@ -21,7 +21,7 @@ third_formula_name: "yucatalvina"
 
 Este es un pan de miga esponjosa debido a la combinación del puré de yuca, huevo y mantequilla. Su sabor es dulce y salado, un excelente acompañante para tu almuerzo, ideal para una merienda combinandolo con un buen queso blanco fresco y una mermelada de fresa.
 
-## Origen
+## Origen del Pan de Yuca
 
 **Miro Popic** dice: “Los amasijos andinos se diferencian por el horno y el amasado”... “Para llamar las cosas por su nombre y hacerle honor a aquello de que al pan pan y al vino vino, hay más de veinte diferentes panes típicos de los Andes, muchos de los cuales parten de la misma masa que luego se aliña de manera especial cada uno de ellos, así como varían los agregados que servirán para identificarlos” … “De Colombia llegó para quedarse el Pan de Yuca, hecho con almidón de yuca dulce.”[^1]
 
@@ -38,7 +38,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Pan de Yuca, masa mejorada con prefermento Biga](#biga)
 * [Pan de Yuca, masa mejorada con Talvina](#talvina)
 
-## Tips
+## Tips para preparar el Pan de Yuca
 
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - Una (1) hora antes de iniciar la preparación de la masa del pan, prepara el puré de yuca blanca, iniciando por cortarla en trozos. En una olla agrega una taza de agua y los trozos de yuca blanca previamente cortados. Cocina a fuego medio hasta que la yuca esté blanda y masticable. Luego retira la olla de la hornilla de cocina, elimina toda el agua de la olla y coloca la yuca blanca blanda en un recipiente seco. Haz un puré con los trozos de yuca blanda, asegurandote de retirar la raíz. Déja enfriar el puré en la mesa de trabajo.
@@ -53,7 +53,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ## Masa leudada con levadura instantánea
 
-### Ingredientes para la masa
+### Ingredientes para para preparar el Pan de Yuca
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -70,7 +70,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **216%**   |  **540g** |
 
-### Calculadora de la masa
+### Calculadora para preparar el Pan de Yuca
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
@@ -79,7 +79,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 - Un (1) huevo fresco/cincuenta y cuatro (54) gramos
 - Quince (15) gramos de leche líquida                                                
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Yuca
 
 <div id="preparaciondelamasa"></div>
 

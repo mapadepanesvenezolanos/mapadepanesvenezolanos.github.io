@@ -1,7 +1,7 @@
 ---
 title:  "Talvina"
 subtitle: "Nuestra masa madre. La base de los panes que se hacen en los andes venezolanos, la base del pan andino."
-description: "La Talvina es una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con el sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el  aroma a papelón."
+description: "La Talvina Tachirense es una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con el sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el  aroma a papelón. También se conoce como: Talvina Tachirense, Talvina Andina, Guarapo o Pipa."
 date:   2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/talvina/
 categories: masa_madre los_andes
@@ -9,19 +9,20 @@ featured_image: '/images/panes/talvina/talvina_3.jpeg'
 formula_name: "talvina"
 second_formula_name: "talvina-refresco"
 third_formula_name: "talvina-express"
-
 ---
 
-Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición, te dejamos el procedimiento para prepararla desde cero y también para prepararla a partir de una masa madre líquida. 
+Nuestra masa madre Talvina es la base de nuestros panes andinos de tradición y ahora con denominación de origen, nuestro Pan Tachirense, te dejamos el procedimiento para prepararla desde cero y también para prepararla a partir de una masa madre líquida. La primera opción nos gusta más porque genera sabores más desarrollados.
 
-La primera opción nos gusta más porque genera sabores más desarrollados.
+Hablar de Panes Venezolanos es hablar de Panes dulces y de una larga tradición para preparar panes suaves en toda Venezuela.
+
+La Talvina también la llaman Guarapo o Pipa.
 
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
 
 * [Talvina](#talvina)
 * [Talvina Express](#express)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS de la Talvina
 
 La Talvina es la masa madre de origen Venezolano que se ha utilizado en la preparación de Panes en la región de Los Andes.
 
@@ -29,7 +30,7 @@ La Talvina es la masa madre de origen Venezolano que se ha utilizado en la prepa
 
 Una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con un sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el aroma a papelón.
 
-## Origen
+## Origen de a Talvina
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -45,7 +46,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 [^2]: “Pocho” Suarez Baker Chef.
 [^3]: Palabras del Dr. Ramón J. Velasquez y el panadero Sebastian Alviárez. de panadería "Las Cumbres"
 
-## Tips
+## Tips para preparar la Talvina
 
 - Esta Masa Madre originalmente se fermenta a temperatura ambiente entre  12ºC y 22ºC  en los Andes Venezolanos.
 - La proporción de agua es mayor que la proporción de harina y esto mejora la actividad en la Masa Madre.
@@ -63,7 +64,7 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 <div id="talvina"></div>
 
-### Talvina
+### Ingredientes para preparar la Talvina
 
 | Ingrediente               | Fórmula     | Peso   | A preparar |
 |:--------------------------|:-----------:|-------:|-----------:|
@@ -74,12 +75,12 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 |---------------------------|-------------|--------|------------|
 |**Total**                  |    **310%** |**120g**|  **138g**  |
 
-### Calculadora para la Talvina
+### Calculadora para preparar Talvina
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso de la preparación
+## Paso a paso para preparar la Talvina
 
 | Día     | Procedimiento                                            | Reposo   |
 |:--------|:---------------------------------------------------------|---------:|
@@ -166,7 +167,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.5.0 __
+__Versión 1.5.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

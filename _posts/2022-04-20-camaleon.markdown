@@ -1,7 +1,7 @@
 ---
 title:  "Pan Camaleón"
 subtitle: "El pan tradicional de los andes."
-description: "El pan camaleón es original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina”, confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente."
+description: "El pan camaleón es original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina”, confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente. También conocido como: Pan Andino, Pan Tachirense, "
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-camaleon/
 categories: pan_dulce los_andes
@@ -9,15 +9,17 @@ featured_image: '/images/panes/camaleon/camaleon_0.jpeg'
 formula_name: "camaleon"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+Esta es la receta original de los Panes Andinos, ahora Pan Tachirense, hecho con el método tradicional con Talvina o Talvina Tachirense.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan Camaleón
 
 ## Resultado esperado
 
 Este es un pan emblema de la panadería Venezolana de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es delgada y crocante por el azúcar. Esta masa se suele utilizar para hacer otros panes con distintos sabores o formas.
 
-## Origen 
+## Origen del Pan Camaleón
 
-Original del estado Táchira, este pan dulce parte de un [fermento denominado “guarapo” o “talvina”](/panes-venezolanos/talvina/) (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.
+Original del estado Táchira, este pan dulce parte de un [fermento denominado “guarapo” o “talvina”](/masa-madre/talvina/) (masa madre osmotolerante), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.
 
 Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón, la cual se dibuja sobre el pan o se decora mientras está en el proceso de fermentación. De miga suave y esponjosa, costra delgada y ligeramente crujiente, rociado con azúcar.
 
@@ -27,7 +29,7 @@ Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón,
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-## Tips
+## Tips para preparar el Pan Camaleón
 
 - Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Te recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas de calidad. 
@@ -47,7 +49,7 @@ Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero
 * Una barra de aproximadamente 515 g de masa.
 * Lleva bastante azúcar para ser un Pan levado con Masa Madre.
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan Camaleón
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -64,12 +66,12 @@ Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero
 |---------------------------|-------------|--------|
 | **Total**                 |    **216%** |**515g**|
 
-### Calculadora de la masa
+### Calculadora de la masa del Pan Camaleón
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Camaleón
 
 <div id="preparacion"></div>
 

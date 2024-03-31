@@ -1,7 +1,7 @@
 ---
 title:  "Pan Canilla"
 subtitle: "El pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque."
-description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque. También se conoce como: pan canilla venezolano, pan canilla o simplemente canillas."
+description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque. También se conoce como: Pan blanco, Pan salado, Pan canilla venezolano, Pan canilla o simplemente Canillas."
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
@@ -11,7 +11,9 @@ formula_name: "canilla"
 
 Esta es la receta del Pan Canilla Venezolano, es un pan típico venezolano y es nuestro pan comercial por excelencia. Es el acompañante de muchas comidas y el que pellizcamos antes de llegar a casa, en general lo consumimos recién hecho y tibio.
 
-#### RECETA, FÓRMULA y TÉCNICAS del Pan Canilla
+También se conoce como: Pan blanco, Pan salado, Pan canilla venezolano, Pan canilla o simplemente Canillas.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan Canilla
 
 ## Resultado esperado
 
@@ -27,7 +29,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-## Tips para preparar Pan Canilla
+## Tips para preparar el Pan Canilla
 
 - Es un Pan que se realiza por método directo en un proceso de entre 2 a 3 horas.
 - Se hornea a media temperatura (200ºC/395ºF) por aproximadamente 20 a 25 minutos de los cuales los primeros 5 minutos se hornea con vapor.

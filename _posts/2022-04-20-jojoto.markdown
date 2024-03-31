@@ -10,16 +10,17 @@ formula_name: "jojoto"
 second_formula_name: "jojotopoolish"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+Esta es la receta del Pan de Jojoto. Es como comer una Cachapa en Pan de sabor dulzón y presencia importante del maíz.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Jojoto
 
 ## Resultado esperado
 
 Este es un pan de miga esponjosa, suave, bastante similar a la textura de un ponqué, debido a la combinación de leche, huevo, mantequilla y harina de cachapa que combinados con la azúcar blanca, producen un pan salado y dulce en boca, con aroma y sabor a maíz. La corteza de esta versión es un poquito crocante, y como diría el profesor Carlos Arias [^1] “Es como comer cachapas en pan”. Es perfecto para compartir en familia. Para Jesús  ([@1painalafois]) este pan se ha convertido en un clásico de las reuniones familiares y Alexander ([@hazpanencasa]) lo está descubriendo apenas.
 
-## Origen 
+## Origen del Pan de Jojoto
 
 “Original del estado Táchira, el pan de maíz, mezcla de harinas del trigo y el maíz, pareciera tener por patria chica a la bella Pamplona, desde donde salió en un sueño por primera vez nuestra ciudad, y que según cuenta la crónica, en la palabra del cabildante Francisco Sánchez, fue propuesta como Villa para poblar en nombre de España, el 'Valle de las Auyamas', mediante la fundación de nuestra hoy ciudad de San Cristóbal”. [^2]
-
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 [^2]: La Cocina Tachirense 2da edición, Leonor Peña
@@ -43,13 +44,11 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ## Masa leudada con levadura instantánea
 
-## Tips
-
 * Planifica dos días para la preparación de esta versión del Pan.
  * Día 1: Preparación de la masa del pan y fermentación en nevera
  * Día 2: Decoración, horneado y enfriado
 
-## Otros Tips
+## Otros Tips para preparar el Pan de Jojoto
 
 De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 * Aroma y sabor fuerte a cachapa:
@@ -60,7 +59,7 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
     * Combina 30% de harina de cachapas, con 70% de harina de maíz
 * En ausencia de mezcla de cachapas, puedes utilizar harina de maíz en la misma proporción.
 
-### Ingredientes para la masa
+### Ingredientes del Pan de Jojoto
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -76,12 +75,12 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 | ---------------------------                                  | ------------- |   ------- |
 | **Total**                                                    |   **194%**    | **1110g** |
 
-### Calculadora para la masa 
+### Calculadora para preparar el Pan de Jojoto 
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Jojoto
 
 <div id="preparacion"></div>
 

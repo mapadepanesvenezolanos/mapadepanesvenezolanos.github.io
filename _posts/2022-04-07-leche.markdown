@@ -1,7 +1,7 @@
 ---
 title: "Pan de Leche"
 subtitle: "Nuestro pancito dulce tradicional azucarado."
-description: "El pan de leche es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche."
+description: "El pan de leche es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. También se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino."
 date: 2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-leche/
 categories: pan enriquecido los_andes
@@ -9,10 +9,11 @@ featured_image: '/images/panes/leche/leche_4.jpeg'
 formula_name: "leche"
 second_formula_name: "lechebiga"
 third_formula_name: "lechetalvina"
-
 ---
 
-Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
+Esta es la receta del Pan de Leche. Este Pan es típico de las panaderías en Venezuela y lo hemos preparado de cuatro (4) formas distintas mejorando la técnica de preparación, desde el método directo, uso de prefermentos y finalmente nuestra masa madre la Talvina.
+
+Este pan también se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
 Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
 
@@ -21,7 +22,7 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 * [Método indirecto - Biga 125%](#biga125)
 * [Método indirecto - Masa Madre Talvina](#talvina)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Leche
 
 ## Resultado esperado
 

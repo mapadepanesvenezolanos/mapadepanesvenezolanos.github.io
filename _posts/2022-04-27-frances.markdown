@@ -1,7 +1,7 @@
 ---
 title:  "Pan Francés"
 subtitle: "El que recuerdas de niño, el  pan de a locha."
-description: "El pan francés es un pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa de las Canillas que contiene grasa y azúcar para darle más duración y color."
+description: "El pan francés es un pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa de las Canillas que contiene grasa y azúcar para darle más duración y color. También conocido como: Pan de a locha, Pan de locha, Pan salado, Pan salado francés o Pan de piquito."
 date:   2022-04-27 18:00:39 -0400
 permalink: /panes-venezolanos/pan-frances/
 categories: pan semirustico capital
@@ -9,7 +9,11 @@ featured_image: '/images/panes/frances/frances_2.jpeg'
 formula_name: "frances"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+Esta es la receta del Pan Francés Venezolano que es un bollo de pan que se preparaba en Venezuela durante el siglo XX.
+
+También conocido como: Pan de a locha, Pan de locha, Pan salado, Pan salado francés, Pan blanco o Pan de piquito.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan Francés Venezolano
 
 ## Resultado esperado
 
@@ -17,11 +21,11 @@ Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marró
 
 Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 
-Para preparar Pan Francés en las Panaderías, es usual, que se utilice la misma masa de las [Canillas](https://mapadepanesvenezolanos.github.io/canilla/).
+Para preparar Pan Francés en las Panaderías, es usual, que se utilice la misma masa del [Pan Canilla](https://panesvenezolanos.com/pan-canilla/).
 
-## Origen
+## Origen del Pan Francés Venezolano
 
-Es un Pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa de las [Canillas](https://mapadepanesvenezolanos.github.io/canilla/) que contiene grasa y azúcar para darle más duración y color. Un formato similar [en México se conoce como Bolillo, Pan Francés, Birote o Pan Blanco](https://www.milenio.com/politica/comunidad/bolillo-pan-frances-costumbre-europea-mexico-historia), este puede o no tener grasa y no suele tener azúcar, te dejo [una reseña sobre el origen del Bolillo](https://www.mexicodesconocido.com.mx/origen-del-bolillo.html). 
+Es un Pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa del [Pan Canilla](https://panesvenezolanos.com/pan-canilla/) que contiene grasa y azúcar para darle más duración y color. Un formato similar [en México se conoce como Bolillo, Pan Francés, Birote o Pan Blanco](https://www.milenio.com/politica/comunidad/bolillo-pan-frances-costumbre-europea-mexico-historia), este puede o no tener grasa y no suele tener azúcar, te dejo [una reseña sobre el origen del Bolillo](https://www.mexicodesconocido.com.mx/origen-del-bolillo.html). 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -29,7 +33,7 @@ En Vietnam un formato similar se conoce como [Bahn Mi](https://en.wikipedia.org/
 
 En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también conocido como pan francés. Salado, de costra suave y alargado, pero en formato pequeño (aproximadamente 15 centímetros). Muy útil para preparar sándwiches o bocadillos. Su denominación obedece al precio original por unidad, la antigua “locha” (12,5 céntimos de bolívar)”. [^1]
 
-## Tips
+## Tips para preparar el Pan Francés Venezolano
 
 - Es un Pan que se realiza por método directo en un proceso de entre 2 a 3 horas.
 - Se hornea a media temperatura (200ºC/395ºF) por aproximadamente 20 a 25 minutos de los cuales los primeros 5 minutos se hornea con vapor.
@@ -67,7 +71,7 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 - Entre 50% y 60% de hidratación.
 - Contiene azúcar y grasa.
 
-### Ingredientes para la masa (6 unidades)
+### Ingredientes para preparar el Pan Francés Venezolano (6 unidades)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -80,7 +84,7 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **163%**     |  **660g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan Francés Venezolano
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
@@ -99,7 +103,7 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 | -------------------------------------------------------------|----------------|
 
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Francés Venezolano
 
 ### Preparación 
 

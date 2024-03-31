@@ -1,7 +1,7 @@
 ---
 title:  "Pan Gallego"
 subtitle: "Es el pan que nos gusta cuando vamos a la Candelaria a comer paella."
-description: "El pan gallego tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
+description: "El pan gallego tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite. También se conoce como: Pan Gallego Venezolano, Pan Tipo Gallego o Pan de la Candelaria."
 date:   2022-03-20 18:00:39 -0400
 permalink: /panes-venezolanos/pan-gallego/
 categories: pan rustico capital
@@ -9,19 +9,19 @@ featured_image: '/images/panes/gallego/gallego_4.jpeg'
 formula_name: "gallego"
 ---
 
-Típico de los restaurantes de La Candelaria que acompañan una buena paella. Hemos preparado dos versiones. Esta versión con masa madre natural líquida y la del mollete gallego.
+Esta es la receta del Pan Gallego que se come en Venezuela. Típico de los restaurantes de La Candelaria que acompañan una buena paella. Hemos preparado dos versiones. Esta versión con masa madre natural líquida y la del mollete gallego.
 
 Te dejamos el enlaces de la otra variante del pan tipo gallego que tenemos en el mapa de panes venezolanos:
 
 * [Tipo Mollete Gallego con prefermento pie](/panes-venezolanos/mollete-gallego/)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan Gallego
 
 ## Resultado esperado
 
-Este pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
+El Pan Gallego que se prepara en Venezuela es un pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite.
 
-## Tips
+## Tips para preparar el Pan Gallego
 
 - Lo primero que debemos tener antes de empezar a hacer un Pan como este es Masa Madre. Un cultivo de levaduras estable y activo, alimentado con regularidad. 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -48,7 +48,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 - Temperatura ambiente 23ºC - 25ºC
 - 73% de hidratación
 
-### Ingredientes para la masa (1 unidad)
+### Ingredientes para preparar el Pan Gallego (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -69,12 +69,12 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **300%**   |   **69g** |
 
-### Calculadora para la masa mejorada con masa madre líquida
+### Calculadora para la masa del Pan Gallego
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Gallego
 
 <div id="preparacion"></div>
 
