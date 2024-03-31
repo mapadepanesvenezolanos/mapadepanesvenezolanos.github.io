@@ -1,7 +1,7 @@
 ---
 title:  "Pan Canilla"
 subtitle: "El pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque."
-description: "El pan canilla es el pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque."
+description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque. También se conoce como: pan canilla venezolano, pan canilla o simplemente canillas."
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
@@ -9,7 +9,9 @@ featured_image: '/images/panes/canilla/canilla_11.jpeg'
 formula_name: "canilla"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+Esta es la receta del Pan Canilla Venezolano, es un pan típico venezolano y es nuestro pan comercial por excelencia. Es el acompañante de muchas comidas y el que pellizcamos antes de llegar a casa, en general lo consumimos recién hecho y tibio.
+
+#### RECETA, FÓRMULA y TÉCNICAS del Pan Canilla
 
 ## Resultado esperado
 
@@ -17,13 +19,15 @@ formula_name: "canilla"
 - Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 - La Canilla es un pan para acompañarlo con rellenos, por ello se ha hecho poco énfasis en desarrollar sabores y en darle una corteza suave.
 
-## Origen
+## Origen del Pan Canilla
 
 “Se le conoce como la versión tropicalizada de la baguette francesa, pero a diferencia de ésta, tiene una costra menos crujiente y una miga más suave. Es un pan salado, delgado y largo, muy popular. Su historia data de la década de los años ochenta del siglo pasado. Empezó a elaborarse en las panaderías venezolanas en la búsqueda de un pan de rápida cocción y a gusto del venezolano. Una de las diferencias entre la baguette y la canilla es su tiempo de hechura, el de la baguette es más largo. Otra diferencia tiene que ver con las características físicas: color, costra y textura de la miga. La canilla es de costra quebradiza y de tonalidades entre beige y marrón. La de la baguette es dorada y crujiente. La textura de la miga también es distinta: la de canilla es más densa y con alvéolos uniformes, mientras los de la baguette son irregulares. El nombre deriva del parecido con las “canillas”, como llamamos en Venezuela a las piernas largas y delgadas de algunas personas.” [^1]
 
+Realmente la Canilla es una barra sobada de baja hidratación, es más parecido a un Pan Candeal que a una Baguette, solamente comparten la forma.
+
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-## Tips
+## Tips para preparar Pan Canilla
 
 - Es un Pan que se realiza por método directo en un proceso de entre 2 a 3 horas.
 - Se hornea a media temperatura (200ºC/395ºF) por aproximadamente 20 a 25 minutos de los cuales los primeros 5 minutos se hornea con vapor.
@@ -60,7 +64,7 @@ formula_name: "canilla"
 - Una masa sobada entre 50% y 60% de hidratación.
 - Contiene azúcar y grasa.
 
-### Ingredientes para la masa (2 unidades)
+### Ingredientes del Pan Canilla Venezolano (2 unidades)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -73,12 +77,12 @@ formula_name: "canilla"
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **168%**     |  **500g** |
 
-### Calculadora de la masa
+### Calculadora de la masa del Pan Canilla
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Rangos referenciales
+### Rangos referenciales de los ingredientes del Pan Canilla
 
 | Ingrediente                                                  |    Fórmula    |
 |:-------------------------------------------------------------|:-------------:|
@@ -91,7 +95,7 @@ formula_name: "canilla"
 | -------------------------------------------------------------|---------------|
 
 
-## Paso a paso del panadero
+## Pasos para preparar el Pan Canilla
 
 <div id="preparacion"></div>
 
@@ -172,7 +176,7 @@ formula_name: "canilla"
 
 ---
 
-### Referencias y enlaces
+### Referencias y enlaces del Pan Canill
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal], [Plaza’s Escuela de Cocina], [William Tse], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance].
 
