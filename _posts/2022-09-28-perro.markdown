@@ -9,17 +9,19 @@ featured_image: '/images/panes/perro/perro_alba.jpeg'
 formula_name: "perros"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+Esta es la receta del Pan de Perro Caliente Venezolano.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Perro Caliente
 
 ## Resultado esperado
 
 Este es un Pan de miga cerrada y suave, de corteza uniforme y acabado brillante.
 
-## Origen
+## Origen del Pan de Perro Caliente
 
 “Según Michael Quinn, un nativo de Brooklyn e historiador de Coney Island, fue un inmigrante alemán llamado Charles L. Feltman quien sirvió hot dogs en este lugar. Feltman llegó a Estados Unidos en 1856 y como muchos inmigrantes alemanes de la época trajo consigo una afición por las salchichas estilo Frankfurt, comunes en su tierra natal. Al ser un experimentado panadero, Feltman abrió una panadería en Brooklyn en 1865 y se ganó la vida entregando tortas a los negocios de Coney Island, con ayuda de un carrito en el que también vendía almejas. A fines de la década de 1860, cuando el recién inaugurado tren de Coney Island y Brooklyn trajo a muchas más personas a la costa desde Manhattan, los clientes le dijeron a Feltman que querían comida caliente, no almejas frías, según cuenta Richard F. Snow, ex-editor de la revista American Heritage. Así que en 1867, Feltman pidió que le adaptaron un brasero a la medida para cocinar salchichas y una caja de metal para calentar el pan en su carrito.[^1]
 
-### Perro caliente venezolano
+### Perro Caliente Venezolano
 
 Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las personas lo preparan igual. Lo que generalmente se le agrega adentro del pan luego de abrirse es:  Salchicha, cebolla picadita, repollo rallado, zanahoria rallada, papitas fritas (patatas chips), mayonesa, mostaza, salsa de tomate (ketchup).[^2]
 
@@ -28,7 +30,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 <img class="post_image post_image_right" src="/images/panes/perro/perro_alba_acabado.jpeg" alt="{{page.title}}">
 
-## Tips
+## Tips para preparar el Pan de Perro Caliente
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
 - En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia cien (100) g de mantequilla equivale a ochenta y cinco (85)g de aceite o manteca vegetal y quince (15)g de agua. En este caso formulamos utilizando cuarenta y seis (46)g de mantequilla, si vas a utilizar aceite entonces son treinta y nueva (39)g de aceite y siete (7)g de agua adicionales.
@@ -48,7 +50,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 - Temperatura ambiente 22ºC - 27ºC
 - 50% de hidratación (Baja hidratación) y 10% de grasa.
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Perro Caliente
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -63,12 +65,11 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **173%**    | **800g**  |
 
-### Calculadora para la masa
-
+### Calculadora  para preparar el Pan de Perro Caliente
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso  para preparar el Pan de Perro Caliente
 
 <div id="preparacion"></div>
 

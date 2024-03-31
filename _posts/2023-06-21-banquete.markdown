@@ -12,13 +12,13 @@ formula_name: "banquete"
 
 Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la comida. Es un Pan básico, enriquecido, semi dulce, de miga cerrada.
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Banquete
 
 ## Resultado esperado
 
 Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa enriquecida y económica, con poca grasa y huevo batido. Se suele vender en bolsas plásticas transparentes por docena.
 
-## Origen 
+## Origen del Pan de Banquete
 
 "Es un panecillo popular también conocido como pirulín, cuyo uso se asocia a las celebraciones debido a su tamaño y versatilidad. Tiene forma de aceituna y suele ser muy suave. Se disfrutan solos, como acompañantes o como emparedados con distintos rellenos.” [^1]
 
@@ -26,7 +26,7 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-## Tips
+## Tips para preparar el Pan de Banquete
 
 - Este Pan utiliza el quince (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
 - Este Pan se puede hacer con harina todo uso y se suele hacer por método directo y sin fermentación inicial o en bloque.
@@ -43,7 +43,7 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 55% de hidratación (Baja hidratación).
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Banquete
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -58,12 +58,12 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 |---------------------------|-------------|--------|
 | **Total**                 |    **169%** |**506g**|
 
-### Calculadora de la masa
+### Calculadora para preparar el Pan de Banquete
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Banquete
 
 <div id="preparacion"></div>
 

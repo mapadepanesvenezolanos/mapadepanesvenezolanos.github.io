@@ -10,14 +10,13 @@ featured_image: '/images/panes/sobao/sobao_1.png'
 formula_name: "sobao"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
-
+## RECETA, FÓRMULA y TÉCNICAS del Pan Sobao
 
 ## Resultado esperado
 
 Este es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agreamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos (sandwich típico de la comida callejera que se consume en la ciudad de Caracas, Venezuela, relleno de carne/pollo/cordero/de res).
 
-## Origen
+## Origen del Pan Sobao
 
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
 "Es un pan suave, de ligero dulzor y color caramelo. Se presenta en barra, su miga es densa y es de suave corteza. Tiene entre sus ingredientes harina, grasa, azúcar y sal; puede llevar huevos y leche. Su proceso de amasado es más largo e intenso (de allí su nombre). Este pan se expende en la mayoría de las panaderías venezolanas."[^1] 
@@ -41,7 +40,7 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 ## Masa leudada con levadura instantánea
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan Sobao
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -56,12 +55,12 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **162%**   |  **600g** |
 
-### Calculadora de la masa
+### Calculadora para preparar el Pan Sobao
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Sobao
 
 <div id="preparacion"></div>
 

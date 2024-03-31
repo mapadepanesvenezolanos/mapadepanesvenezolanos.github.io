@@ -22,13 +22,13 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Acema Carachera](#carachera)
 * [Acema Margariteña](#margarita)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS de la Acema Tocuyana
 
 ## Resultado esperado
 
-Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza uniforme. 
+xxxxxx
 
-## Tips
+## Tips para preparar la Acema Tocuyana
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
 - En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia 100g de mantequilla equivale a 85g de aceite o manteca vegetal y 15g de agua. En este caso formulamos utilizando 46g de mantequilla, si vas a utilizar aceite entonces son 39g de aceite y 7g de agua adicionales.
@@ -48,7 +48,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Temperatura ambiente 22ºC - 27ºC
 - 49% de hidratación (Baja hidratación)
 
-### Ingredientes para la masa
+### Ingredientes para preparar la Acema Tocuyana
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -63,7 +63,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **173%**   |  **800g** |
 
-## Paso a paso del panadero
+## Paso a paso para preparar la Acema Tocuyana
 
 <div id="preparacion"></div>
 
@@ -151,7 +151,7 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 
 ## Masa (Método directo)
 
-### Ingredientes para la masa
+### Ingredientes para preparar la Acema Andina
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -167,7 +167,7 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **178%**   | **800g**  |
 
-### Paso a paso del panadero
+### Paso a paso para preparar la Acema Andina
 
 - Prepara la papa cocida el día anterior y resérvala en la nevera. Una hora antes sácala de la nevera.
 - Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
@@ -178,7 +178,7 @@ Este es un Pan de Hamburguesa de más suave debido a la presencia de la papa, es
 
 <div id="carachera"></div>
 
-# Mini pan de hamburguesa (Sliders)
+# Acema Carachera
 
 ## Masa leudada con levadura instantánea
 
@@ -192,7 +192,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 ## Masa (Método directo)
 
-### Ingredientes para la masa
+### Ingredientes para preparar la Acema Carachera
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -207,7 +207,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **168%**   |  **480g** |
 
-### Paso a paso del panadero
+### Paso a paso para preparar la Acema Carachera
 
 - Sigue el mismo procedimiento del método directo desde la [preparación de la masa](#preparación).
 - Al colocar los pastones en la bandeja déjalos separados 2cm por cada lado. 
@@ -229,7 +229,7 @@ Este es un Pan de Hamburguesa de formato pequeño de miga cerrada, suave y húme
 
 Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor delicioso.
 
-## Tips
+## Tips para preparar la Acema Margariteña
 
 - Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
 - En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
@@ -237,7 +237,7 @@ Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor del
 
 ## Masa (Con retardo en nevera)
 
-### Ingredientes para la masa
+### Ingredientes para preparar la Acema Margariteña
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -252,7 +252,7 @@ Este es un Pan de Hamburguesa de masa enriquecida, de miga esponjada y sabor del
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **202.8%**   |  **800g** |
 
-## Paso a paso del panadero
+## Paso a paso para preparar la Acema Margariteña
 
 ### Preparación
 

@@ -9,20 +9,20 @@ featured_image: '/images/panes/chino/chino_2.jpeg'
 formula_name: "chino"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan Chino
 
 ## Resultado esperado
 
 Este es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, especialmente arroz chino especial y delicioso con un toque de mantequilla recién salido del horno.
 
-## Origen
+## Origen del Pan Chino
 
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, 
 "Es muy diferente al pan cocido al vapor, un bollo blanco típico de China. Su origen se remonta a finales de los años cuarenta del siglo XX, poco después de haber finalizado la Segunda Guerra Mundial, con la llegada al país de los inmigrantes, europeos en su mayoría y, en menor medida, asiáticos. Estos últimos se dedicaron al comercio y a la restauración y fueron introduciendo sus costumbres, al tiempo de ir comprendiendo las nuestras. Y fue precisamente un hábito venezolano, el de acompañar las comidas con arepa o pan, el que motivó a los restauradores oriundos de la provincia de Cantón a crear el singular pancito, el cual fue acogido de inmediato por el comensal venezolano."[^1]
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-## Tips
+## Tips para preparar el Pan Chino
 
 * Para hornear este pan, te sugerimos utilizar un molde de pan rectangular, preferiblemente de 12.7  centímetros de diámetro, 23.5 centimetros de ancho x 8 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
@@ -39,7 +39,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 * Temperatura ambiente 22ºC - 26ºC
 * 60% de hidratación (media hidratación)
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan Chino
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -54,12 +54,12 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **184%**   | **540g**  |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan Chino
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Chino
 
 <div id="preparacion"></div>
 

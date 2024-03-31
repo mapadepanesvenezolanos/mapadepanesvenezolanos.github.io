@@ -1,9 +1,9 @@
 ---
-title: "Brioche"
+title: "Pan de hamburguesa con masa Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
 description: "La masa Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
 date: 2022-09-27 10:55:00 -0400
-permalink: /panes-venezolanos/masa-brioche/
+permalink: /panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/
 categories: pan semi salado enriquecido capital
 featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
 formula_name: "brioche"
@@ -17,19 +17,19 @@ Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, 
 * [Pan de Papa](/panes-venezolanos/pan-de-papa/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Hamburguesa con Masa Brioche
 
 ## Resultado esperado
 
 Es un pan de miga esponjada y sabor delicioso.
 
-## Origen
+## Origen del Pan de Hamburguesa con Masa Brioche
 
 "Este singular pan tiene un origen francés y algunos dicen que su genealogía llega hasta la antigua Roma. Lo cierto es que en 1404, en la región de Normandía (Francia), aparece por primera vez escrito el nombre Brioche, garabateado en las páginas de un viejo recetario. El Brioche se utilizó originalmente en panes dulces enriquecido con azúcar, huevos y mantequilla, ingredientes que le dan un gusto más sofisticado y una consistencia más suave y esponjosa con respecto al pan normal. La mayoría de las recetas procuran, también, la adición de leche, crema de leche, agua o algún licor."[^1]
 
 [^1]:Brioche: una dulce historia, https://www.cyrano.com.ec/blog/brioche
 
-## Tips
+## Tips para preparar el Pan de Hamburguesa con Masa Brioche
 
 - Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
 - En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
@@ -49,9 +49,7 @@ Es un pan de miga esponjada y sabor delicioso.
 - Temperatura ambiente 22ºC - 27ºC
 - 53% de hidratación (Baja hidratación) y 29% de grasa.
 
-## Masa (Con retardo en nevera)
-
-### Ingredientes para la masa
+## Ingredientes para preparar el Pan de Hamburguesa con Masa Brioche
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -66,12 +64,12 @@ Es un pan de miga esponjada y sabor delicioso.
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **203%**   |  **800g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Hamburguesa con Masa Brioche
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Hamburguesa con Masa Brioche
 
 ### Preparación
 

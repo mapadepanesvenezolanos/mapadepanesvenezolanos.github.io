@@ -12,13 +12,13 @@ second_formula_name: "cococoberturasrellenos"
 
 Es un Pan dulce típico con sabor a coco. Lo hemos preparado con tropezones de coco en la miga y también en la corteza. En las panaderías se suele hacer con la masa de Pan dulce y se le coloca coco rallado en la superficie.
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Coco
 
 ## Resultado esperado
 
 Este es un pan de miga suave, dulce y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene tropezones de coco en la miga y en la corteza. Es una versión distinta a la versión usual de las panaderías que utilizan la misma masa de Pan dulce y le colocan coco rallado en la corteza. Utilizamos una mezcla de coco rallado con leche de coco y azúcar. Esta mezcla se coloca en la masa y en la corteza. Es una versión deliciosa sólo posible en casa.
 
-## Tips
+## Tips para preparar el Pan de Coco
 
 - Vamos a utilizar leche de coco y crema de coco para hidratar la harina.
 - Se hidrata el coco rallado con la leche de coco para darle sabor.
@@ -39,7 +39,7 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 57% de hidratación (Baja hidratación).
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Coco
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -54,12 +54,12 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 |---------------------------|-------------|--------|
 | **Total**                 |    **197%** |**720g**|
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Coco
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-#### Cobertura y relleno
+#### Cobertura y relleno del Pan de Coco
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -69,11 +69,11 @@ Este es un pan de miga suave, dulce y esponjosa debido a la combinación de lech
 |---------------------------|-------------|--------|
 | **Total**                 |    **200%** |**144g**|
 
-### Calculadora para la Cobertura y relleno
+### Calculadora para preparar el Pan de Coco
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Coco
 
 <div id="preparacion"></div>
 

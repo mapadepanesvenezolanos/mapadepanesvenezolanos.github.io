@@ -17,7 +17,7 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 * [Método directo](#directo)
 * [Método indirecto - Poolish](#poolish)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS de Pan Piñita
 
 ## Resultado esperado
 
@@ -25,16 +25,15 @@ La fórmula panadera de nuestra receta de panes piñitas, ha sido creada con la 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-## Origen 
+## Origen del Pan Piñita
 
-En el libro Soy Panadero, se indica: ”Tunja: Este pan, también conocido como “Tumba gobierno”, como apuntó Mariano Picón Salas, debió venir a Venezuela desde la población colombiana de Tunja con los héroes de Ayacucho quienes iban camino a librar la histórica batalla que marcó el fin del dominio español en América del Sur. ”... A este pan también se le conoce como “piñita”, debido a la forma en picos que se le hace en la parte superior luego de agregarle azúcar.” [^1]
+En el libro Soy Panadero, se indica: ”Tunja: Este pan, también conocido como 'Tumba gobierno', como apuntó Mariano Picón Salas, debió venir a Venezuela desde la población colombiana de Tunja con los héroes de Ayacucho quienes iban camino a librar la histórica batalla que marcó el fin del dominio español en América del Sur... A este pan también se le conoce como 'piñita', debido a la forma en picos que se le hace en la parte superior luego de agregarle azúcar.” [^1]
 
-Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo región histórica” indican sobre el pan de Tunja lo siguiente: “En lo económico, se debe señalar que desde el comienzo del período de la colonia, El Tocuyo fue pionera en la producción de caña y ganadería, y el municipio Morán se convertiría en uno de los principales productores de café en Venezuela, desde mediados del siglo XIX. 
-… La ciudad de El Tocuyo se convierte también en epicentro del comercio hacia otras regiones del país y hacia otras naciones… La ciudad de Tunja del Nuevo Reino de Granada, fundada en 1539 por el capitán y conquistador español Gonzalo Suárez Rendón, está ubicada a 2.820 metros sobre el nivel del mar. Antiguamente fue capital de los Muiscas, nación poderosa de indígenas que ocupaban la zona en el siglo XV. Esta y otras ciudades del virreinato quedaron, pues, incorporadas al comercio con nuestra provincia” Venezuela. Por otra parte, ”...por la tenacidad y el interés de los tocuyanos, quienes no cejaron hasta lograr esa nueva vía de penetración. Podemos presumir que el renombrado amasijo tocuyano tuvo su origen en alguna fórmula culinaria traída de Tunja, ya que tradicionalmente a este tipo de pan dulce fabricado hasta hoy en El Tocuyo, se le llama Pan de Tunja.” 
+Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo región histórica” indican sobre el pan de Tunja lo siguiente: “En lo económico, se debe señalar que desde el comienzo del período de la colonia, El Tocuyo fue pionera en la producción de caña y ganadería, y el municipio Morán se convertiría en uno de los principales productores de café en Venezuela, desde mediados del siglo XIX... La ciudad de El Tocuyo se convierte también en epicentro del comercio hacia otras regiones del país y hacia otras naciones… La ciudad de Tunja del Nuevo Reino de Granada, fundada en 1539 por el capitán y conquistador español Gonzalo Suárez Rendón, está ubicada a 2.820 metros sobre el nivel del mar. Antiguamente fue capital de los Muiscas, nación poderosa de indígenas que ocupaban la zona en el siglo XV. Esta y otras ciudades del virreinato quedaron, pues, incorporadas al comercio con nuestra provincia” Venezuela. Por otra parte, ”...por la tenacidad y el interés de los tocuyanos, quienes no cejaron hasta lograr esa nueva vía de penetración. Podemos presumir que el renombrado amasijo tocuyano tuvo su origen en alguna fórmula culinaria traída de Tunja, ya que tradicionalmente a este tipo de pan dulce fabricado hasta hoy en El Tocuyo, se le llama Pan de Tunja.” 
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-## Tips
+## Tips para preparar el Pan Piñita
 
 - Recomiendo que la harina todo uso que utilices para preparar estos panes, contenga al menos doce (12%) por ciento de proteínas. 
 - Te sugiero moler los granos de anís antes de mezclarlos con la harina de la masa, de esa manera, se mejora la experiencia al momento de degustar la miga del pan y el aroma en miga a anís será bastante pronunciado.
@@ -52,7 +51,7 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 - Temperatura ambiente 21.5ºC - 27ºC
 - 55% de hidratación (Hidratación baja)
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan Piñita
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -68,12 +67,12 @@ Janette García Yépez, Pedro Rodríguez Rojas en su trabajo “El Tocuyo regió
 |---------------------------|-------------|--------|
 | **Total**                 |   **191%**  |**598g**|
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan Piñita
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Piñita
 
 <div id="preparacion"></div>
 
@@ -202,11 +201,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="poolish"></div>
 
-# Piñitas
+# Pan Piñita con Poolish
 
 ## Masa mejorada con Prefermento Poolish
 
-### Tips
+### Tips para preparar el Pan Piñita con Poolish
 
 - El objetivo del prefermento es potenciar las cualidades organolépticas del pan: sabor, aroma, textura y conservación. 
 - Para que el pan desarrolle sus sabores y aromas, es imprescindible dejar que actúen las levaduras y bacterias presentes en la harina  y para eso necesitamos darle tiempo a la fermentación.
@@ -228,7 +227,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |---------------------------|-------------|--------|
 | **Total**                 |    **201%** |**103g**|
 
-### Ingredientes para la masa (Método indirecto)
+### Ingredientes para preparar el Pan Piñita con Poolish (Método indirecto)
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -245,11 +244,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |---------------------------|-------------|--------|
 | **Total**                 |     **226%**|**600g**|
 
-### Calculadora para la masa mejorada con Prefermento Poolish
+### Calculadora para preparar el Pan Piñita con Poolish
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Piñita con Poolish
 
 ### Preparación del prefermento Poolish (Día 1)
 

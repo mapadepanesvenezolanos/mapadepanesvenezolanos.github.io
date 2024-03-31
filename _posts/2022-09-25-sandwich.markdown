@@ -10,15 +10,16 @@ formula_name: "sandwichmigaaireada"
 second_formula_name: "sandwichmigatupida"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Sandwich
 
 ## Resultado esperado
 
 Este es un pan de miga cerrada y suave, de corteza color marrón claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella.
 
-## Origen
+## Origen del Pan de Sandwich
 
 Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan en Venezuela, "Este práctico pan industrial cuadrado, elaborado en molde, goza de popularidad en el país, Su presentación inicial es el de una barra de corteza resistente y miga tierna que luego se prestará al proceso del rebanado."[^1]
+
 Con respecto a la historia del pan de Sandwich, "se refieren dos momentos: uno de carácter legendario y otro técnico. El primero data del siglo XVIII y tiene como protagonista al aristócrata inglés John Montagu, IV conde de Sándwich, quien dada su afición al juego de cartas solicitaba emparedados que le permitieran alimentarse sin perder la partida. El segundo es del siglo XX y presenta al ingeniero estadounidense Otto Rohwedder, quien en 1927 ideó una máquina automática para cortar el pan en rebanadas, con lo cual revolucionó su producción y la forma de comercializarlo.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -29,10 +30,10 @@ Este pan rebanado transversalmente da lugar a dos festivas preparaciones: el san
 
 De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que se realizan siguiendo el mismo paso a paso panadero, y que difieren en un ingrediente: la leche en polvo.
 
-* [Pan de Sandwich, miga aireada tipo brioche](#migatipobrioche)
+* [Pan de Sandwich, miga aireada](#migatipobrioche)
 * [Pan de Sandwich, miga tupida y cerrada](#migatupidacerrada)
 
-## Tips
+## Tips para preparar el Pan de Sandwich
 
 * Para hornear este pan, te sugerimos utilizar un molde tipo pulman, de 21.59 centímetros de capacidad con las siguientes medidas: 12.1 centímetros de diámetro, 21.6 centímetros de ancho x 11.1 centímetros de alto. 
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 10g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
@@ -48,9 +49,7 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 * Temperatura ambiente 22ºC - 26ºC
 * 55% de hidratación (Baja hidratación)
 
-### Miga aireada tipo brioche
-
-#### Masa
+## Ingredientes para preparar el Pan de Sandwich
 
 | Ingrediente                                                  |    Fórmula     |      Peso |
 |:-------------------------------------------------------------|:--------------:|----------:|
@@ -65,16 +64,14 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 | -------------------------------------------------------------|----------------|-----------|
 | **Total**                                                    |   **168%**     |  **900g** |
 
-### Calculadora para la masa (Miga aireada tipo brioche)
+## Calculadora para preparar el Pan de Sandwich
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
 <div id="migatupidacerrada"></div>
 
-### Miga tupida y cerrada
-
-#### Masa 
+## Ingredientes para preparar el Pan de Sandwich de miga cerrada
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -88,11 +85,11 @@ De acuerdo a la miga de tu preferencia, te proponemos dos formulas panaderas que
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |     **164%**  | **900g**  |
 
-### Calculadora para la masa (Miga tupida y cerrada)
+### Calculadora para preparar el Pan de Sandwich de miga cerrada
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Sandwich de miga cerrada
 
 <div id="preparacion"></div>
 

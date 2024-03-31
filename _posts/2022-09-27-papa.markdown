@@ -14,22 +14,22 @@ Nuestra versión del pan de papa, forma parte de las cuatro (4) variantes de pan
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
 * [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
-* [Masa Brioche](/panes-venezolanos/masa-brioche/)
+* [Pan de Hamburguesa con Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Papa
 
 ## Resultado esperado
 
 Es un pan de de miga cerrada, suave y húmeda de sabor delicioso
 
-## Origen
+## Origen del Pan de Papa
 
 "El pan de papa o pan de patata es un tipo de pan en el que la papa reemplaza parte o toda la harina de trigo. Se cuece con diversos métodos, incluyendo el horneado en una sartén o parrilla, o en un horno. Puede llevar levadura o no, y puede incluir varios otros ingredientes. El porcentaje de papa cambia de una receta a otra, teniendo alguna mayoría de papa mientras otras llevan más harina de trigo. Algunas recetas emplean papa machacada mientras otras emplean copos de papa deshidratada. Está disponible como producto comercial en varios países, con parecidas variaciones en los ingredientes, métodos de preparación y otras características."[^1]
 
 [^1]:Pan de Papa, https://es.wikipedia.org/wiki/Pan_de_papa
 
-## Tips
+## Tips para preparar el Pan de Papa
 
 - Debido a la alta cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
 - En el amasado hay que tener paciencia e ir incorporando la mantequilla pomada poco a poco.
@@ -51,9 +51,7 @@ Es un pan de de miga cerrada, suave y húmeda de sabor delicioso
 
 Este es un Pan más suave debido a la presencia de la papa, es de miga cerrada, suave y húmeda.
 
-## Masa (Método directo)
-
-### Ingredientes para la masa
+## Ingredientes para preparar el Pan de Papa
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -69,12 +67,12 @@ Este es un Pan más suave debido a la presencia de la papa, es de miga cerrada, 
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **178%**   | **800g**  |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Papa
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Paso a paso del panadero
+### Paso a paso para preparar el Pan de Papa
 
 <div id="preparacion"></div>
 

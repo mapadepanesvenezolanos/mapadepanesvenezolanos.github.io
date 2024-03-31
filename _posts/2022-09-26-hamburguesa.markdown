@@ -16,16 +16,16 @@ Cuando le agregamos almidones a la preparación le estamos agregando hidratació
 Te dejamos los enlaces de las tres (3) variantes de panes a base de masa brioche disponibles en el mapa de panes venezolanos:
 
 * [Pan de Papa](/panes-venezolanos/pan-de-papa/)
-* [Masa Brioche](/panes-venezolanos/masa-brioche/)
+* [Pan de Hamburguesa con Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/)
 * [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de hamburguesa
 
 ## Resultado esperado
 
 Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza uniforme. 
 
-## Origen
+## Origen del Pan de Hamburguesa
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -33,7 +33,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 [^1]:Breve historia de la hamburguesa, https://www.facebook.com/VenezuelaFusion/posts/breve-historia-de-la-hamburguesadesde-las-tiras-de-carne-cocinadas-bajo-las-mont/1894447347366313/ 
 
-## Tips
+## Tips para preparar el Pan de Hamburguesa
 
 - La masa no tiene fermentación inicial y se desea retardar lo más posible el inicio de la fermentación para que no desarrolle burbujas en la superficie.
 - En relación a la grasa, preferimos hacerlo con mantequilla, sin embargo la puedes hacer con aceite o manteca vegetal. Como referencia cien (100)g de mantequilla equivale a ochenta y cinco (85)g de aceite o manteca vegetal y quince (15)g de agua. En este caso formulamos utilizando cuarenta y seis (46)g de mantequilla, si vas a utilizar aceite entonces son treinta y nueve (39)g de aceite y siete (7)g de agua adicionales.
@@ -53,7 +53,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Temperatura ambiente 22ºC - 27ºC
 - 50% de hidratación (Baja hidratación)
 
-### Ingredientes para la masa
+## Ingredientes para preparar el Pan de Hamburguesa
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -68,12 +68,12 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **173%**   |  **800g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Hamburguesa
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Hamburguesa
 
 <div id="preparacion"></div>
 
@@ -131,6 +131,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Con ayuda de una brocha de cocina, coloca el barniz a cada pastón con mucha atención de manera queden bien cubiertos sin derramar. Cuando se derrama queda en la base del Pan y en el horno se endurece.
 
 ### Horneado
+
 - Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinticinco (25) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
