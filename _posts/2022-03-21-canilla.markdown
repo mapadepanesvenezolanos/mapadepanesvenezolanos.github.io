@@ -4,7 +4,6 @@ subtitle: "El pan más popular en Venezuela. Diseñado para acompañar y rellena
 description: "El pan canilla es el pan más popular en Venezuela. Diseñado para acompañar y rellenarlo con lo que te provoque."
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
-pdf: Pan-Canilla.pdf
 categories: pan semirustico capital
 featured_image: '/images/panes/canilla/canilla_11.jpeg'
 formula_name: "canilla"
@@ -187,7 +186,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 __Versión 1.7__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

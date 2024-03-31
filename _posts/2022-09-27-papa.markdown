@@ -3,8 +3,7 @@ title: "Pan de Papa"
 subtitle: "Muchas hamburguesas espectaculares se hacen con un Pan de Papa."
 description: "El Pan de papas es de miga cerrada, suave y húmeda de sabor delicioso."
 date: 2022-09-27 10:55:00 -0400
-permalink: /panes-venezolanos/pan-papa/
-pdf: Pan-papa.pdf
+permalink: /panes-venezolanos/pan-de-papa/
 categories: pan semi salado enriquecido capital
 featured_image: '/images/panes/papa/papas_1.jpeg'
 formula_name: "papa"
@@ -15,8 +14,8 @@ Nuestra versión del pan de papa, forma parte de las cuatro (4) variantes de pan
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
 * [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
-* [Pan Brioche](/panes-venezolanos/pan-brioche/)
-* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
+* [Masa Brioche](/panes-venezolanos/masa-brioche/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -166,7 +165,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 2.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

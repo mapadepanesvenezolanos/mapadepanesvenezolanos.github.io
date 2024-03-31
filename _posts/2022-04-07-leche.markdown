@@ -4,7 +4,6 @@ subtitle: "Nuestro pancito dulce tradicional azucarado."
 description: "El pan de leche es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche."
 date: 2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-leche/
-pdf: Pan-de-Leche.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/leche/leche_4.jpeg'
 formula_name: "leche"
@@ -370,7 +369,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 _Versión 4.1 (30/10/2022)_
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

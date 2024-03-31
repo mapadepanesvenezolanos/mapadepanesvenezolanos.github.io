@@ -4,7 +4,6 @@ subtitle: "El resuelve de las noches y los fines de semana."
 description: "El Pan de Hamburguesa no necesita presentación, es un pan básico, de miga cerrada y suave, de corteza uniforme y lo disfrutas con el relleno de tu preferencia."
 date: 2022-09-26 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-hamburguesa/
-pdf: Pan-de-hamburguesa.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
 formula_name: "hamburguesa"
@@ -16,9 +15,9 @@ Cuando le agregamos almidones a la preparación le estamos agregando hidratació
 
 Te dejamos los enlaces de las tres (3) variantes de panes a base de masa brioche disponibles en el mapa de panes venezolanos:
 
-* [Pan de Papa](/panes-venezolanos/pan-papa/)
-* [Pan Brioche](/panes-venezolanos/pan-brioche/)
-* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
+* [Pan de Papa](/panes-venezolanos/pan-de-papa/)
+* [Masa Brioche](/panes-venezolanos/masa-brioche/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -163,7 +162,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 3.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

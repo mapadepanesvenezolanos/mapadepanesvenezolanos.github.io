@@ -4,7 +4,6 @@ subtitle: "El pan que acompaña nuestras comidas y bueno para un sandwich bien r
 description: "El Pan Campesino, country bread, pan de campo, hogaza, barra rústica, pan rústico, entre otros nombres, es un Pan de tradición y origen europeo y refleja la tradición panadera de origen casero. El Pan Campesino es la expresión de esa panadería artesanal, el sabor suele ser neutro, lo cual lo hace versátil y acompañante de diversas preparaciones. Se acompaña con jamón, embutidos en general, cremas, caldos, platos, ensaladas, quesos, entre tantos otros usos. Es típicamente rústico, con corteza crujiente, gruesa y miga jugosa y se pueden conseguir en un formato redondo o en barra. En su versión original debe durar varios días."
 date:   2022-05-30 18:00:39 -0400
 permalink: /panes-venezolanos/pan-campesino/
-pdf: Pan-Campesino.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/campesino/campesino_1.jpeg'
 formula_name: "campesino"
@@ -292,7 +291,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 __Versión 2.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

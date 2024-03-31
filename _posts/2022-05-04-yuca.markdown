@@ -4,13 +4,11 @@ subtitle: "Con origen en nuestras tradiciones, disfruta de una Pan de Yuca espec
 description: "El pan de yuca es un pan de miga esponjosa debido a la combinación del puré de yuca, huevo y mantequilla. Su sabor es dulce y salado, un excelente acompañante para tu almuerzo, ideal para una merienda combinandolo con un buen queso blanco fresco y una mermelada de fresa."
 date:   2022-05-04 21:59:00 -0400
 permalink: /panes-venezolanos/pan-de-yuca/
-pdf: Pan-de-yuca.pdf
 categories: pan enriquecido los_andes
 featured_image: '/images/panes/yuca/yuca_3.jpeg'
 formula_name: "yuca"
 second_formula_name: "yucabiga"
 third_formula_name: "yucatalvina"
-
 ---
 
 #### RECETA, FÓRMULA y TÉCNICAS
@@ -316,7 +314,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 4.3.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

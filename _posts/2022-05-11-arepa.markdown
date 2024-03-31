@@ -1,11 +1,10 @@
 ---
-title:  "Arepas"
+title:  "Arepa"
 subtitle: "El pan de cada día de los venezolanos, para rellenarla a tu gusto."
 description: "La Arepa es sin duda alguna “El Pan de los venezolanos”. Hecha con harina de maíz precocida y rellena a tu gusto. Cuando no hay mucho tiempo haz una arepa para resolver."
 date:   2022-05-11 14:28:00 -0400
-permalink: /panes-venezolanos/arepas/
-pdf: Arepas.pdf
-categories: Arepas los_llanos
+permalink: /panes-venezolanos/arepa/
+categories: arepas los_llanos
 featured_image: '/images/panes/arepa/arepa_1.jpeg'
 formula_name: "arepa"
 ---
@@ -143,7 +142,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 3.1__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

@@ -4,7 +4,6 @@ subtitle: "Pan de Sandwich en dos presentaciones, miga aireada tipo brioche y mi
 description: "Este es un pan de miga cerrada y suave, de corteza color marrón claro de textura delicada en boca. Este pan es el perfecto compañero en cualquier paseo, delicioso con un toque de mantequilla y un poquito de nutella."
 date: 2022-09-25 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-sandwich/
-pdf: Pan-de-sandwich.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 formula_name: "sandwichmigaaireada"
@@ -172,7 +171,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 2.2.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

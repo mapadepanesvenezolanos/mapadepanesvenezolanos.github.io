@@ -4,7 +4,6 @@ subtitle: "Pan de Jojoto en dos presentaciones, con levadura instantánea y con 
 description: "El pan de jojoto es un pan de miga esponjosa, suave, bastante similar a la textura de un ponqué, debido a la combinación de leche, huevo, mantequilla y harina de cachapa que combinados con la azúcar blanca, producen un pan salado y dulce en boca, con aroma y sabor a maíz."
 date:   2022-09-06 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-jojoto/
-pdf: Pan-de-Jojoto.pdf
 categories: pan semidulce los_andes
 featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 formula_name: "jojoto"
@@ -268,7 +267,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 3.2.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

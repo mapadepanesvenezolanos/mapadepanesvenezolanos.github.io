@@ -4,7 +4,6 @@ subtitle: "El que te sirven cuando pides arroz chino."
 description: "El Pan Chino es un pan de miga muy suave, pequeño, esponjoso y dulzón, de corteza color marrón claro de textura extremadamente delicada en boca. Este pan es el perfecto compañero en cualquier almuerzo, especialmente arroz chino especial y delicioso con un toque de mantequilla recién salido del horno."
 date: 2022-09-30 07:30:39 -0400
 permalink: /panes-venezolanos/pan-chino/
-pdf: Pan-chino.pdf
 categories: pan salado enriquecido capital
 featured_image: '/images/panes/chino/chino_2.jpeg'
 formula_name: "chino"
@@ -136,7 +135,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 1.1__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

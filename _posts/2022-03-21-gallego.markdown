@@ -1,18 +1,19 @@
 ---
-title:  "Tipo Gallego"
+title:  "Pan Gallego"
 subtitle: "Es el pan que nos gusta cuando vamos a la Candelaria a comer paella."
 description: "El pan gallego tiene una corteza rústica, semi dura y crocante con una miga esponjosa y abierta, con alvéolos medianos a grandes. El Pan puede tener un tono de acidez, usual de un Pan de Masa Madre, pero hemos incluido algunas técnicas para disminuirla. Es perfecto para un fondue o para acompañar una comida o un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
 date:   2022-03-20 18:00:39 -0400
 permalink: /panes-venezolanos/pan-gallego/
-pdf: Pan-Tipo-Gallego.pdf
 categories: pan rustico capital
 featured_image: '/images/panes/gallego/gallego_4.jpeg'
 formula_name: "gallego"
 ---
 
-Te dejamos el enlaces de otra variante del pan tipo gallego que tenemos en el mapa de panes venezolanos:
+Típico de los restaurantes de La Candelaria que acompañan una buena paella. Hemos preparado dos versiones. Esta versión con masa madre natural líquida y la del mollete gallego.
 
-* [Tipo Mollete Gallego con prefermento pie](/panes-venezolanos/molletegallego/)
+Te dejamos el enlaces de la otra variante del pan tipo gallego que tenemos en el mapa de panes venezolanos:
+
+* [Tipo Mollete Gallego con prefermento pie](/panes-venezolanos/mollete-gallego/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -148,7 +149,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 __Versión 4.0.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

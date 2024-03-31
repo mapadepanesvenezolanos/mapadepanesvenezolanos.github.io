@@ -3,8 +3,7 @@ title: "Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
 description: "La masa Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
 date: 2022-09-27 10:55:00 -0400
-permalink: /panes-venezolanos/pan-brioche/
-pdf: Pan-brioche.pdf
+permalink: /panes-venezolanos/masa-brioche/
 categories: pan semi salado enriquecido capital
 featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
 formula_name: "brioche"
@@ -15,8 +14,8 @@ Nuestra versión del pan de hamburguesa con masa brioche, forma parte de las cua
 Te dejamos los enlaces de las tres (3) variantes de pan a base de masa brioche, disponibles en el mapa de panes venezolanos:
 
 * [Pan Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/)
-* [Pan de Papa](/panes-venezolanos/pan-papa/)
-* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/sliders/)
+* [Pan de Papa](/panes-venezolanos/pan-de-papa/)
+* [Mini pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
 
 #### RECETA, FÓRMULA y TÉCNICAS
 
@@ -161,7 +160,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 3.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

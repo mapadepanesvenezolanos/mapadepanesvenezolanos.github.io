@@ -5,7 +5,6 @@ description: "El Pan Sobao es un pan de miga cerrada, suave, de corteza suave, e
 date: 2023-02-07 07:30:39 -0400
 published: false
 permalink: /panes-venezolanos/pan-sobao/
-pdf: Pan-sobao.pdf
 categories: pan salado capital
 featured_image: '/images/panes/sobao/sobao_1.png'
 formula_name: "sobao"
@@ -153,7 +152,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 0.1.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

@@ -4,8 +4,7 @@ subtitle: "Tradición del Estado Lara para todo el mundo."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana o de Cubiro. En los Andes también la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
 date: 2022-09-28 10:32:39 -0400
 published: false
-permalink: /panes-venezolanos/pan-de-acema/
-pdf: acema.pdf
+permalink: /panes-venezolanos/acema/
 categories: pan dulce enriquecido los_andes occidente
 featured_image: '/images/panes/acema/acema_1.jpeg'
 ---
@@ -342,7 +341,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 1.0__ (04/11/2022)
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

@@ -4,7 +4,6 @@ subtitle: "Nuestro rollo tradicional con melao de papelón y queso."
 description: "El Golfeado se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche, con anís en grano y formada en rollo relleno y a veces con cobertura. El relleno y cobertura es una combinación de queso, papelón, azúcar, canela, anís y se barniza con un melao de papelón. Hemos notado que en Caracas se preparan sin cobertura y barnizados con un melao de papelón que puede ser especiado. En el Junquito hemos notado que el rollo tiene menos relleno y cobertura con los mismos ingredientes del relleno."
 date:   2022-06-22 14:28:00 -0400
 permalink: /panes-venezolanos/golfeado/
-pdf: Golfeado.pdf
 categories: golfeado capital
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
 formula_name: "golfeado"
@@ -328,7 +327,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 _Versión 2.0
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

@@ -4,7 +4,6 @@ subtitle: "Pan de Afrecho en dos presentaciones, con levadura instantánea y con
 description: "Con el Pan de Afrecho queremos que puedas producir una masa que te servirá para formar un hermoso pan de molde, un pan tipo deli o también panecillos de hamburguesa. La miga que estamos buscando, es cerrada, esponjosa y muy suave debido a la combinación de huevo, leche en polvo, mantequilla, y el adecuado nivel de hidratación. Los ingredientes han sido combinados con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región andina del mapa de panes venezolanos, con el toque especial que le da el afrecho a la miga."
 date:   2022-05-25 20:54:39 -0400
 permalink: /panes-venezolanos/pan-de-afrecho/
-pdf: Pan-de-afrecho.pdf
 categories: pan enriquecido andes
 featured_image: '/images/panes/afrecho/afrecho_3.jpeg'
 formula_name: "afrecho"
@@ -254,7 +253,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 __Versión 2.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
