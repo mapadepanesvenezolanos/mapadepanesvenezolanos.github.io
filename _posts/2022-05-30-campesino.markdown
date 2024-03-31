@@ -17,14 +17,14 @@ Te dejamos los enlaces de cada preparación para que te lleven directamente al p
 * [Método directo](#directo)
 * [Método indirecto - Pie Francés](#pie)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan Campesino Venezolano
 
 ## Resultado esperado
 
 Es un Pan semi rústico de miga suave, esponjada, con corteza marrón y crujiente.
 Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 
-## Origen
+## Origen del Pan Campesino Venezolano
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -34,7 +34,7 @@ En Venezuela, en general, la corteza es más delgada y le damos suavidad a la co
 
 Haremos dos versiones, una siguiendo la práctica usual de los panaderos que utilizan la misma masa de la Canilla y una segunda versión mejorada con el prefermento pie francés y un proceso ligeramente distinto para generar un Pan más duradero.
 
-## Tips
+## Tips para preparar el Pan Campesino Venezolano
 
 - Es un Pan que generalmente se realiza por método directo en un proceso de entre 4 a 5 horas. Haremos una segunda versión con método indirecto.
 - Se hornea a media temperatura (220ºC/430ºF) por aproximadamente 25 a 35 minutos de los cuales los primeros 10 minutos se hornea con vapor.
@@ -59,7 +59,7 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 - Una masa semi rústica entre 55% y 65% de hidratación.
 - Contiene azúcar y grasa.
 
-### Ingredientes para la masa (1 unidad)
+### Ingredientes para preparar el Pan Campesino Venezolano (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -72,12 +72,12 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **168%**    |  **474g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan Campesino Venezolano
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Campesino Venezolano
 
 <div id="preparacion"></div>
 
@@ -156,11 +156,9 @@ Haremos dos versiones, una siguiendo la práctica usual de los panaderos que uti
 
 <div id="pie"></div>
 
-#  Pan Campesino
+#  Pan Campesino Venezolano con Pie Francés
 
 ## Masa mejorada con preferemento Pie Francés
-
-## Tips
 
 Planifica dos días para la preparación de tu pan.
 * Día 1: Preparación del prefermento pie francés.
@@ -177,7 +175,7 @@ Planifica dos días para la preparación de tu pan.
 |--------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |  **167.66%**  |  **260g** |
 
-### Ingredientes para la masa (1 unidad)
+### Ingredientes para preparar el Pan Campesino Venezolano con Pie Francés (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -191,11 +189,11 @@ Planifica dos días para la preparación de tu pan.
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **383%**   |  **474g** |
 
-### Calculadora para la masa mejorada con Pie francés
+### Calculadora para preparar el Pan Campesino Venezolano con Pie Francés 
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan Campesino Venezolano con Pie Francés 
 
 ### Preparación
 

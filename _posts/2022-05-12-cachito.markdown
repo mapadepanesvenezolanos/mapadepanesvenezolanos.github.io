@@ -8,16 +8,15 @@ categories: cachito capital
 featured_image: '/images/panes/cachito/cachito_4.jpeg'
 formula_name: "cachitos"
 second_formula_name: "cachitosrelleno"
-
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Cachito
 
 ## Resultado esperado
 
 Este es un pan relleno con jamón y a veces tocineta, de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
 
-## Origen 
+## Origen del Cachito
 
 En [Wikipedia](https://es.wikipedia.org/wiki/Cachito_de_jam%C3%B3n) se resume lo que hemos podido encontrar en línea.
 
@@ -33,7 +32,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-## Tips
+## Tips para preparar el Cachito
 
 - Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (10%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - Esta preparación se puede hacer con harina todo uso ya que es de hidratación baja. Sin embargo, la calidad mejora con harina panadera.
@@ -57,7 +56,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 
 * 6 Cachitos de 100g de masa y 70g de relleno entre jamón y tocineta.
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Cachito
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
@@ -73,12 +72,12 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 | ----------------------------------------------|---------------|-----------|
 | **Total**                                     |   **174%**    | **600g**  |
 
-### Calculadora para la masa
+### Calculadora para preparar el Cachito
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno
+### Relleno del Cachito
 
 | Ingrediente                               |    Fórmula    |      Peso |
 |:------------------------------------------|:-------------:|----------:|
@@ -87,11 +86,11 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 | ------------------------------------------|---------------|-----------|
 | **Total**                                 |   **115%**    | **414g**  |
 
-### Calculadora para el relleno
+### Calculadora para preparar el Cachito
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Cachito
 
 <div id="preparacion"></div>
 

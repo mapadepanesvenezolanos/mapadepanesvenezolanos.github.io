@@ -9,7 +9,7 @@ featured_image: '/images/panes/avena/avena_4.jpeg'
 formula_name: "avena"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+#### RECETA, FÓRMULA y TÉCNICAS del Pan de Avena
 
 ## Resultado esperado
 
@@ -21,7 +21,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-## Tips
+## Tips para preparar el Pan de Avena
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -43,7 +43,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 ## Masa leudada con levadura instantánea
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Avena
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -62,12 +62,12 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **192%**   |  **900g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Avena
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Avena
 
 <div id="preparacion"></div>
 
@@ -100,11 +100,13 @@ polvo, levadura instantánea seca y la avena en polvo.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos
 
 ### Prueba de la membrana de gluten
+
 - Realiza la prueba de la membrana de gluten para verificar que ya se ha formado la red de gluten. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla
 de gluten.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 
 ### Primera fermentación  
+
 La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa
 aproximadamente.
 
@@ -112,6 +114,7 @@ aproximadamente.
 - Después de la primera hora se realiza la manipulación
 
 ### Manipulación
+
 La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
 - Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper. 
 - Realiza pliegues desde los extremos de la masa al centro.
@@ -119,43 +122,52 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Cubre la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
 
 ### Preformado 
+
 - Aplica un preformado redondo a la masa. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar tensión. Cubrir la bolita con una bolsa
 plástica
 
 ### Reposo en mesa (relajación de la masa)
+
 - Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos. 
 
 ### Fermentación en bloque y retardo (opcional)
+
 Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
 - Una vez terminado el período de fermentación, daca el molde rectangular de la nevera y llévalo a la mesa de trabajo.
 - Deja reposar el pastón en la mesa de trabajo durante treinta minutos (30) para que la masa recupere la temperatura ambiente y sea manipulable.
 
 ### Formado
+
 - Bolea la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar (se rompen los alvéolos) cuando crece en el horno.
 - Estira la bola con el rodillo y forma un rectángulo del ancho del molde rectangular donde vas a hornear tu pastón.
 - Enrolla la masa formando un cilindro, siempre respetando el largo del molde rectangular donde lo vamos a hornear posteriormente.
 - Deja reposar el pastón durante cinco (5) minutos, cubierto con una bolsa plástica.
 
 ### Barnices, coberturas y cortes
+
 - En una bandeja plana seca y un poco más grande que el tamaño del pastón, coloca las hojuelas de avena distribuidas a lo largo y ancho de la bandeja.
 - Con ayuda de un aspersor, humedece la superficie del pastón con agua.
 - Deja rodar el pastón sobre la avena, cubriendo la parte superior lisa del pastón.
 - Coloca el pastón en el molde rectangular previamente engrasado con mantequilla sin sal.
 
 ### Maduración
+
 - Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que ** supere la prueba de maduración con el dedo.**
 
 ### Horneado
+
 * Media hora antes de hornear, enciende el horno a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 * Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan en el medio del horno.
 * Hornea tu paston entre treinta (30)  y treinta cinco (35) minutos.
 * Apaga el horno y saca la bandeja de pan.
 
 ### Enfriamiento
+
 * Desmolda el pan y pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe, evitar que se condense el agua y que se genere humedad en la miga, lo que definitivamente podría afectar/dañar tu pan.
 - Dejalo reposar, por lo menos veinte (20) minutos. ¡Mucha paciencia! Ya está casi listo. Disfruta tu Pan!!!
 
 ### Consumo del pan
+
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
 
 ---

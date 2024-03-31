@@ -170,13 +170,12 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 * Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
 
 ---
-# Pan de Yuca
+
+# Pan de Yuca preparado con Biga
 
 <div id="biga"></div>
 
 ## Masa mejorada con prefermento biga
-
-## Tips
 
 Planifica dos días para la preparación de esta versión del Pan de Yuca.
 * Día 1: Preparación del prefermento Biga 80%
@@ -194,7 +193,7 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 | **Total**                                                    |   **181%**    |  **93g**  |
 
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Yuca con Biga
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -212,11 +211,11 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **262%**   |  **540g** |
 
-## Calculadora de la masa con Prefermento Biga
+## Calculadora para preparar el Pan de Yuca con Biga
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Yuca con Biga
 
 ### Preparación del prefermento biga (Dia 1)
 - En un envase redondo de boca grande, agrega el agua de acuerdo a la fórmula.
@@ -244,19 +243,18 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 - De aquí en adelante, sigue los mismos pasos que se indican en la receta de pan de yuca con el método directo, a partir del paso [**ciclo de sobado**](#ciclosobado).
 
 ---
-# Pan de Yuca
+
+# Pan de Yuca con Talvina
 
 <div id="talvina"></div>
 
 ## Masa mejorada con Talvina
 
-## Tips
-
 Planifica dos días para la preparación de esta versión del Pan de Yuca. 
 - Día 1: Preparación de la Masa Madre [Talvina]
 - Día 2: Preparación de la masa del pan
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Yuca con Talvina
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -274,13 +272,14 @@ Planifica dos días para la preparación de esta versión del Pan de Yuca.
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **255%**   |  **540g** |
 
-## Calculadora de la masa (Talvina)
+## Calculadora para preparar el Pan de Yuca con Talvina
 
 {% include calculadora-de-panes3.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Yuca con Talvina
 
 ### Preparación de la talvina
+
 - Ir a la sección preparación de la [Talvina]
 
 ### Preparación de la masa

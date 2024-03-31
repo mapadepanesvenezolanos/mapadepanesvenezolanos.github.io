@@ -28,13 +28,13 @@ Les dejamos los enlaces para cada proceso:
 * [Al estilo Caraqueño](#caraqueno)
 * [Al estilo del Junquito](#junquito)
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Golfeado Caraqueño
 
 ## Resultado esperado
 
 Es una masa dulce enriquecida, con mantequilla, huevo y leche, con anís en grano y formada en rollo relleno y a veces con cobertura. El relleno y cobertura es una combinación de queso, papelón, azúcar, canela, anís y se barniza con un melao de papelón. Hemos notado que en Caracas se preparan sin cobertura y barnizados con un melao de papelón que puede ser especiado. En el Junquito hemos notado que el rollo tiene menos relleno y cobertura con los mismos ingredientes del relleno. Vamos a describir nuestra versión de ambas preparaciones. El golfeado debe ser de miga cerrada, suave y húmedo tanto en su superficie como en su base. Acampáñalos con queso de mano o queso telita fresco para una mejor experiencia.
 
-## Origen 
+## Origen del Golfeado
 
 “Es una pieza de bollería con masa esponjosa y suave, humedecida con melao de papelón, aromatizada con anís y complementada con queso blanco rayado. “No hay consenso para identificar al inventor de los golfeados (...). Se trata de una producto regional surgido originalmente en el estado Miranda a orillas del río Guaire”, escribe Miro Popic (2017). Detalla este autor que el verdadero nombre del golfiao se origina en un tipo de semilla de café que tiene forma de caracol a la que los campesinos denominan así, golfiao: “Hasta mediados del siglo pasado en muchas zonas de Caracas todavía se cultivaba café y posiblemente unos de los trabajadores de la hacienda El Hoyo de Las Tapias, que quedaba cerca de Petare, cuando vio los dulces en una venta pidió ‘dame unos de esos que parecen golfeados’. 
 
@@ -46,7 +46,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-## Tips
+## Tips para preparar el Golfeado Caraqueño
 
 - Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
 - Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
@@ -66,7 +66,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 ## Masa leudada con levadura instantánea (6 unidades de 100g)
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Golfeado Caraqueño
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -84,12 +84,12 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **191%**  |**600g**|
 
-### Calculadora para la masa
+### Calculadora para preparar el Golfeado Caraqueño
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno
+### Relleno del Golfeado Caraqueño
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -101,11 +101,11 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **302%**  |**242g**|
 
-### Calculadora para el relleno
+### Calculadora para preparar el Golfeado Caraqueño
 
 {% include calculadora-de-panes2.html %}
 
-### Melao
+### Melao del Golfeado
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -115,11 +115,11 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **155%**  |**310g**|
 
-### Calculadora para el melao
+### Calculadora para el melao del Golfeado Caraqueño
 
 {% include calculadora-de-panes3.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Golfeado Caraqueño
 
 <div id="preparacion"></div>
 
@@ -185,11 +185,11 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 <div id="junquito"></div>
 <img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_1.jpeg" alt="{{page.title}}">
 
-# Golfeado al estilo del Junquito (nuestra interpretación)
+# Golfeado del Junquito (nuestra interpretación)
 
 ## Método directo
 
-### Tips
+### Tips para preparar el Golfeado del Junquito
 
 - Los golfeados del Junquito suelen ser más pequeños y el rollo debe ser de al menos tres vueltas.
 - Esta versión tiene relleno y cobertura de manera que se siente una textura grumosa, dulce y melosa en la superficie.
@@ -203,7 +203,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
-### Ingredientes para la masa (6 unidades de 80g)
+### Ingredientes para preparar el Golfeado del Junquito (6 unidades de 80g)
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -221,7 +221,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **180%**  |**482g**|
 
-### Relleno y cobertura
+### Relleno y cobertura del Golfeado del Junquito
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -235,7 +235,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 | Relleno                   |         60% |  101g  |
 | Cobertura                 |         40% |   68g  |
 
-### Melao
+### Melao del Golfeado del Junquito
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
@@ -245,7 +245,7 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 |---------------------------|-------------|--------|
 | **Total**                 |   **155%**  |**310g**|
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Golfeado del Junquito
 
 <div id="preparacion"></div>
 

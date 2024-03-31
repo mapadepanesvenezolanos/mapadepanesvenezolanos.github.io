@@ -10,13 +10,13 @@ formula_name: "afrecho"
 second_formula_name: "afrechopiefrances"
 ---
 
-#### RECETA, FÓRMULA y TÉCNICAS
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Afrecho
 
 ## Resultado esperado
 
 Queremos que puedas producir una masa que te servirá para formar un hermoso pan de molde, un pan tipo deli o también panecillos de hamburguesa. La miga que estamos buscando, es cerrada, esponjosa y muy suave debido a la combinación de huevo, leche en polvo, mantequilla, y el adecuado nivel de hidratación. Los ingredientes han sido combinados con la intención de recordar un poquito el sabor de los panes que hemos ubicado en la región andina del mapa de panes venezolanos, con el toque especial que le da el afrecho a la miga.
 
-## Origen
+## Origen del Pan de Afrecho
 
 Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasado”... “Para llamar las cosas por su nombre y hacerle honor a aquello de que al pan pan y al vino vino, hay más de veinte diferentes panes típicos de los Andes, muchos de los cuales parten de la misma masa que luego se aliña de manera especial cada uno de ellos, así como varían los
 agregados que servirán para identificarlos” … “Con la llegada de los alemanes que comercializaban el café, surgieron panes integrales llamados … y Afrecho, según el componente incorporados a la masa”(1)[^1].
@@ -28,7 +28,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 * [Masa leudada con levadura instantánea](#directo)
 * [Masa mejorada con prefermento Pie Francés](#piefrances)
 
-## Tips
+## Tips para preparar el Pan de Afrecho
 
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene.
 - Recomiendo que la harina que utilices contenga al menos doce (12%) por ciento de proteínas.
@@ -48,7 +48,7 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 
 ## Masa leudada con levadura instantánea
 
-### Ingredientes para la masa
+### Ingredientes para preparar el Pan de Afrecho
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -64,12 +64,12 @@ Te dejamos los enlaces de cada preparación para que te lleven a la preparación
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **181%**   |  **900g** |
 
-### Calculadora para la masa
+### Calculadora para preparar el Pan de Afrecho
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Afrecho
 
 <div id="preparacion"></div>
 
@@ -158,9 +158,9 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 <div id="piefrances"></div>
 
-## Masa mejorada con Prefermento Pie Francés
+## Pan de Afrecho con Prefermento Pie Francés
 
-### Tips
+### Tips para preparar el Pan de Afrecho con Prefermento Pie Francés
 
 - El objetivo del prefermento es potenciar las cualidades organolépticas del pan: sabor, aroma, textura y conservación. Para que el pan desarrolle sus sabores y aromas, es imprescindible dejar que actúen las levaduras y bacterias presentes en la harina y para eso necesitamos darle tiempo a la fermentación.
 - Al utilizar prefermentos le otorgamos a la masa, todos los beneficios de la fermentación, incluido el gas, el alcohol y la acidez. Sin dejar a un lado el sabor, aromas y vida útil del pan.
@@ -181,7 +181,7 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 |---------------------------|-------------|--------|
 | **Total**                 |  **164,8%** |**154g**|
 
-### Ingredientes para la masa (Método indirecto)
+### Ingredientes para preparar el Pan de Afrecho con Prefermento Pie Francés (Método indirecto)
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
@@ -198,11 +198,11 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 |---------------------------|-------------|-------|
 | **Total**                 |     **214%**|**900g**|
 
-### Calculadora para la masa mejorada con Pie Francés
+### Calculadora para preparar el Pan de Afrecho con Prefermento Pie Francés
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Afrecho con Prefermento Pie Francés
 
 ### Preparación del prefermento Pie (Día 1)
 
