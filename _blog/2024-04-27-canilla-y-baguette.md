@@ -108,7 +108,7 @@ Realmente hemos conseguido que la Canilla en su proceso se parece más a un Pan 
 
 | Característica          | Canilla       | Candeal      | 
 |-------------------------|---------------|---------------|
-| Tipo de harina          | Floja         | Panadera      |
+| Tipo de harina          | Floja         | Floja      |
 | Presencia de grasa      | Sí            | No      |
 | Presencia de azúcar     | Sí            | No      |
 | Desarrollo de la masa   | Sobadora      | Sobadora     |
@@ -159,7 +159,7 @@ Manteniendo su esencia, podemos elaborarla en Casa con un proceso más conciente
 
 Algunas de estas mejoras se pueden combinar o sencillamente son caminos distintos. 
 
-**Insistimos, *un buen Pan inicia su elaboración al menos el día antes*.**
+**Insistimos, *un buen Pan inicia su elaboración al menos un día antes*.**
 
 [IEPAN]: https://escuelaiepan.com/miscelaneas/baguette-vs-canilla/
 [Rafael Cartay]: https://www.instagram.com/cartaycocinasregionales
