@@ -10,6 +10,9 @@ collections:
   posts:
     output: true
     permalink: /panes-venezolanos/:slug
+  blog:
+    output: true
+    permalink: /blog/:slug
 
 defaults:
   -
@@ -27,6 +30,12 @@ defaults:
     scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "blog"
     values:
       layout: "post"
   -

@@ -21,6 +21,8 @@ menu_settings:
       url: '/mapa/'
     - title: 'Calculadoras'
       url: '/calculadoras'
+    - title: 'Blog'
+      url: '/blog/'
     - title: 'Acerca'
       url: '/acerca'
 
