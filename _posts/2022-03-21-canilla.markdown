@@ -5,7 +5,7 @@ description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más p
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
-featured_image: '/images/panes/canilla/canilla_11.jpg'
+featured_image: /images/panes/canilla/canilla_11.jpg
 formula_name: "canilla"
 ---
 
