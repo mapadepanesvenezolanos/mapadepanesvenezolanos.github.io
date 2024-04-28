@@ -28,7 +28,7 @@ Por su parte el Chef [Roberto Nunes señala]:
 
 Considerando lo anterior pordemos definir la Canilla como:
 
->La Canilla es una barra de Pan blanco, salado, semi-rústico de baja hidratación de corteza quebradiza, suave, de miga algodonada, con alvéolos regulares, pequeños y de sabor neutro.
+>La Canilla es una barra de Pan blanco, salado, semi-rústico, baja hidratación, corteza quebradiza, suave, miga algodonada, con alvéolos regulares, pequeños y sabor neutro.
 
 Hay varias características que se derivan del proceso de elaboración y los ingredientes que se usan. Veamos las características y el proceso de forma más detallada.
 
