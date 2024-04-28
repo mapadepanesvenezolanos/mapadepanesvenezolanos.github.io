@@ -135,11 +135,11 @@ En un [artículo sobre el Pan Candeal se señala]:
 
 El uso del [Breguil como instrumento de elaboración de panes] antecede a la aparición de los hornos con vapor.
 
-Por su parte [la Baguette es un Pan más reciente]:
+De hecho, [la Baguette es un Pan más reciente]:
 
 **La baguette sería un derivado del pan desarrollado en Viena (Austria) a mediados del siglo xix, cuando empezaron a funcionar los primeros hornos a vapor, ayudando a que la corteza estuviera crujiente y la miga blanca y agujereada, aspectos que la distinguen hoy día.**
 
-La Canilla no tiene a la Baguette en su ADN, es familia de los panes sobados que se producen en Europa desde hace mucho, mucho tiempo, unos cuantos siglos antes que la Baguette.
+Si seguimos investigando, se puede conseguir evidencia suficiente de que la Canilla no tiene a la Baguette en su ADN, es familia de los panes sobados que se producen en Europa desde hace mucho, mucho tiempo, unos cuantos siglos antes que la Baguette. Lo que la hace venezolana es el uso de grasa y azúcar como ingredientes adicionales.
 
 Finalmente, nos gustaría dejar una reflexión. 
 
