@@ -28,7 +28,7 @@ Por su parte el Chef [Roberto Nunes señala]:
 
 Considerando lo anterior pordemos definir la Canilla como:
 
->La Canilla es una barra de Pan blanco, salado, semi-rústico de baja hidratación de corteza quebradiza, suave, con alvéolos regulares, pequeños y de sabor neutro.
+>La Canilla es una barra de Pan blanco, salado, semi-rústico de baja hidratación de corteza quebradiza, suave, de miga algodonada, con alvéolos regulares, pequeños y de sabor neutro.
 
 Hay varias características que se derivan del proceso de elaboración y los ingredientes que se usan. Veamos las características y el proceso de forma más detallada.
 
@@ -85,7 +85,7 @@ En el ADN de la Canilla no se consiguen rastros de la Baguette, solamente compar
 
 Cuando escuchamos o leemos frases como: 
 
-- "La Canilla es la Baguette Venezolana", sólamente se puede entender desde el punto de vista de lo popular que es una Canilla en Venezuela como lo es una Baguette en Francia. Se puede entender también como que ambos son panes son panes del día.
+- "La Canilla es la Baguette Venezolana", sólamente se puede entender desde el punto de vista de lo popular que es una Canilla en Venezuela como lo es una Baguette en Francia. Se puede entender también como que ambos son panes del día.
 - "La Canilla se deriva de la Baguette", realmente no encontramos una relación entre una y otra, usan ingredientes distintos, en proporciones distintas y procesos distintos, solamente comparten la forma, no comparten el fondo.
 
 Se podría decir, sin embargo, que nuestra barra evolucionó en base a los ingredientes disponibles y a la necesidad de producirla de forma masiva; realmente las harinas que se consiguen en Venezuela son harinas flojas o media fuerza en general. En cambio en Francia, la Baguette se produce de forma masiva sin perder la esencia en el proceso. 
@@ -123,11 +123,25 @@ Realmente hemos conseguido que la Canilla en su proceso se parece más a un Pan 
 
 Como dato curioso, España comparte con Portugal una de las fronteras más largas y antiguas de Europa que se extiende por 1,214 Km. no nos extraña su relación y la similitud en preparaciones como el Pan hecho con masas sobadas.
 
-Desde nuestro punto de vista es un Pan que es familia de los Panes de baja hidratación y se desarrolla la masa con la ayuda de una sobadora.
+## Para cerrar la idea
+
+Desde nuestro punto de vista es un Pan que es familia de los Panes de baja hidratación y se desarrolla la masa con la ayuda de una sobadora. Ambos son panes de familias distintas y linaje distinto.
 
 Se consiguen diferentes artículos, escritos por Venezolanos, sobre la Baguette vs. la Canilla donde se describe a la Canilla como una deformación de la Baguette. Es evidente que la elaboración de panes evolucionó en Venezuela con la evolución de la migración europea, de ello hay mucha evidencia recogida en libros como "El Pan Nuestro de Cada Día", en particular el apartado con título "Los panaderos del siglo XIX". La Baguette y los panes sobados existen de hace mucho tiempo y son sencillamente panes distintos, compararlos es como comparar peras con manzanas, hay documentación suficiente de la existencia de panes con procesos similares en [España] y en [Portugal]. 
 
-Por último, nos gustaría dejar una reflexión. 
+En un [artículo sobre el Pan Candeal se señala]: 
+
+**El pan candeal nació por las zonas de Castilla y León y más concretamente en Valladolid. A partir del año 1563 comenzó a exportarse hacia el sur de España la técnica del pan blanco.**
+
+El uso del [Breguil como instrumento de elaboración de panes] antecede a la aparición de los hornos con vapor.
+
+Por su parte [la Baguette es un Pan más reciente]:
+
+**La baguette sería un derivado del pan desarrollado en Viena (Austria) a mediados del siglo xix, cuando empezaron a funcionar los primeros hornos a vapor, ayudando a que la corteza estuviera crujiente y la miga blanca y agujereada, aspectos que la distinguen hoy día.**
+
+La Canilla no tiene a la Baguette en su ADN, es familia de los panes sobados que se producen en Europa desde hace mucho, mucho tiempo, unos cuantos siglos antes que la Baguette.
+
+Finalmente, nos gustaría dejar una reflexión. 
 
 ## No es el Pan, es el Panadero
 
@@ -156,3 +170,6 @@ Algunas de estas mejoras se pueden combinar o sencillamente son caminos distinto
 [Juan Pablo Marquez]: https://www.tumblr.com/pan-comido/146971734256/diferencia-baguette-o-canilla
 [España]: https://es.wikipedia.org/wiki/Cultura_del_pan_en_Espa%C3%B1a
 [Portugal]: https://tradicional.dgadr.gov.pt/pt/cat/pao-e-produtos-de-panificacao/326-pao-sovado
+[artículo sobre el Pan Candeal se señala]: https://chapela.es/historia-del-pan-candeal/
+[la Baguette es un Pan más reciente]: https://es.wikipedia.org/wiki/Baguette
+[Breguil como instrumento de elaboración de panes]: https://es.wikipedia.org/wiki/Breguil
