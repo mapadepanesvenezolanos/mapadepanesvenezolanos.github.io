@@ -13,6 +13,9 @@ collections:
   blog:
     output: true
     permalink: /blog/:slug
+  comunidad:
+    output: true
+    permalink: /comunidad/:slug
 
 defaults:
   -
@@ -36,6 +39,12 @@ defaults:
     scope:
       path: ""
       type: "blog"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "comunidad"
     values:
       layout: "post"
   -
