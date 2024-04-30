@@ -51,13 +51,13 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 
 ## Proceso
 
-- Mezclar todos los ingredientes ingredientes menos la harina. Una vez estén bien mezclados añadir poco a poco la harina y amasar hasta desarrollar la red de gluten. 
-- 1era fermetación 120 minutos.
+- Mezclar todos los ingredientes menos la harina. Una vez estén bien mezclados añadir poco a poco la harina y amasar hasta desarrollar la red de gluten. 
+- 1era fermentación 120 minutos.
 - Se estira la masa con rodillo en forma de rectángulo y se barniza con margarina y se extiende la mezcla de coco y azúcar glas. 
 - Se enrolla muy apretado. Similar a los Golfeados. 
-- 2da fermetacion  entre 8 a 10 horas 
-- La leche de la cobertura se pone a calentar a fuego lento  con el azúcar.  Yo puse coco rallado a tostar para que resaltaran más.  
-- Antes de ir al horno  se barnizan con la cobertura  y con coco tostado.  
+- 2da fermentación  entre 8 a 10 horas 
+- La leche de la cobertura se pone a calentar a fuego lento con el azúcar.  Yo puse coco rallado a tostar para que resaltara más el sabor.  
+- Antes de ir al horno se barnizan con la cobertura y con coco tostado.  
 - Horno 180°C x 35 minutos. 
 
 Una delicia que vale la pena probarlos.
