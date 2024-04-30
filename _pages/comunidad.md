@@ -6,7 +6,7 @@ description: Aportes de la comunidad de panaderos venezolanos.
 featured_image: /images/social.jpg
 ---
 
-En esta página encontrarás todos los integrantes de la Comunidad de Panaderos que han querido contribuir con su contenido con fórmulas, recetas y procedimientos sobre Panes Venezolanos.
+En esta página encontrarás todos los integrantes de la Comunidad de Panaderos que han querido contribuir con contenido, fórmulas, recetas y procedimientos sobre Panes Venezolanos.
 
 Cada creador lo hace con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con el creador directamente.
 
@@ -32,4 +32,4 @@ Cada creador lo hace con la ilusión de aportar y compartir con la mejor intenci
 
 Los amigos panarras queremos permitir a la comunidad realizar sus aportes sin censura. Respetamos los aportes de cada creador y los mantenemos intactos.
 
-Los amigos panarras no somos responsables por faltas u omisiones o errores, apoyamos la comunidad y abrimos esta ventana para dar a conocer nuestros panes y preservar las fórmulas, recetas y procedimientos que reproducen nuestros sabores y nuestros panes. Si hay algo que mejorar, sabremos apreciar los aportes en positivo, todo el contenido es mejorable y está en revisión continua.
+Los amigos panarras no somos responsables por faltas u omisiones o errores, apoyamos la comunidad y abrimos esta ventana para dar a conocer nuestros panes y preservar las fórmulas, recetas y procedimientos que reproducen nuestros sabores y nuestros panes. Si hay algo que mejorar, sabremos apreciar los aportes en positivo, todo el contenido es mejorable y está en revisión continuamente.
