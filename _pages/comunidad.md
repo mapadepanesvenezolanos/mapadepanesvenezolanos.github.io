@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-pv
 title: Comunidad de Panaderos Venezolanos
 permalink: /comunidad/
 description: Aportes de la comunidad de panaderos venezolanos.

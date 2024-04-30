@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-pv
 title: Blog de Panes Venezolanos
 permalink: /blog/
 description: Reflexiones y curiosidades sobre los Panes Venezolanos

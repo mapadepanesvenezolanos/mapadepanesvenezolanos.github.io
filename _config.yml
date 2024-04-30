@@ -46,7 +46,7 @@ defaults:
       path: ""
       type: "comunidad"
     values:
-      layout: "post"
+      layout: "comunidad"
   -
     scope:
       path: "assets/**/*.pdf"
