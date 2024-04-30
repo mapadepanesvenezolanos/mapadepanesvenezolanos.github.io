@@ -61,3 +61,5 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 - Horno 180°C x 35 minutos. 
 
 Una delicia que vale la pena probarlos.
+
+[Joselin](https://instagram.com/joselinbread/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joselin](https://instagram.com/joselinbread/) directamente.
