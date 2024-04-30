@@ -21,6 +21,8 @@ En mi recorrido de Panes Venezolanos, me he encontrado maravillas como estas Ros
 
 Este que les traigo hoy se denomina Roscas de Coco Margariteño. Unos rollitos similar a los Golfeados pero el relleno es de coco y azúcar glas. La isla de Margarita fue la tierra que vio nacer a mis ancestros, de pequeña me llevaban a pasar el verano y disfrutaba de sus playas y de su maravillosa gastronomía. 
 
+<img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-roscas-01.jpg" alt="{{page.title}}">
+
 En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y comprábamos diferentes delicias entre los que estaba este rollito tan peculiar el cual degustábamos como merienda. Los invito hacerlos...
 
 ## Ingredientes
@@ -39,6 +41,8 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 - 40 g de azúcar glas
 - 40 g de coco rallado 
 - cn necesaria de margarina 
+
+<img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-roscas-04.jpg" alt="{{page.title}}">
 
 ## Cobertura 
 
