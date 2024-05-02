@@ -7,9 +7,11 @@ published: true
 featured_image: '/images/social.jpg'
 ---
 
-Queremos tener un listado de panes estado por estado, hemos consultado alguna de la bibliografía disponible y esta es la lista de Panes Venezolanos que hemos compilado hasta ahora.
+Según la bibliografía que hemos consultado hasta el momento, te presentamos nuestra lista de Panes Venezolanos agrupados por estado. 
 
-Queremos completarla, si consideras que falta alguno, no dudes en contactarnos para amplicar la lista y que no se quede nada por fuera.
+¿Piensas que debemos agregar alguno? 
+
+Cuéntanos más enviándonos un correo a [amigospanarras@gmail.com](mailto:amigospanarras@gmail.com)
 
 ## Amazonas
 
@@ -58,15 +60,17 @@ No tenemos registro de panes.
 
 ## Distrito Capital
 
-- Canilla
-- Francés
-- Chino
+- [Canilla](/panes-venezolanos/pan-canilla/)
+- [Francés](/panes-venezolanos/pan-frances/)
+- [Chino](/panes-venezolanos/pan-chino/)
 - Sobao
-- Pan de Jamón
+- [Pan de Jamón](/panes-venezolanos/pan-de-jamon/)
 - Pan dulce en rebanadas (Pan librillo)
 - Pan de banquete
 - Mini lunch
 - Pan de Lima
+- [Golfeado](/panes-venezolanos/golfeado/)
+- [Pan Campesino](/panes-venezolanos/pan-campesino/)
 
 ## Falcón
 
@@ -82,6 +86,7 @@ No tenemos registro de panes.
 
 - Acema Tocuyana
 - Pan de Tunja tocuyano
+- [Pan de Tunja / Piñita](/panes-venezolanos/pan-pinita/)
 - Acema Carachera
 - Cepelines
 - Pan de horno
@@ -91,19 +96,19 @@ No tenemos registro de panes.
 - Pan de azahar
 - Pan semi dulce larense
 - Pan de leche
-- Pan de nueza
+- Pan de nuez
 
 ## Mérida
 
-- Pan Aliñado
-- Pan Tovareño
+- [Pan Tovareño](/panes-venezolanos/pan-tovareno/)
+- Pan aliñado
 - Pan de Tunja
-- Pan de Avena
-- Pan de Maíz
-- Pan de Leche
-- Pan con Guayaba
-- Pan de Queso
-- Pan con Chicharrones
+- [Pan de avena](/panes-venezolanos/pan-de-avena/)
+- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
+- Pan de leche
+- Pan con guayaba
+- Pan de queso
+- Pan con chicharrones
 - Acema
 - Acemita
 - Adema de chicharrón
@@ -120,8 +125,8 @@ No tenemos registro de panes.
 
 ## Miranda
 
-- Golfeado
-- Cachito
+- [Golfeado](/panes-venezolanos/golfeado/)
+- [Cachito](/panes-venezolanos/cachito/)
 
 ## Monagas
 
@@ -148,21 +153,21 @@ No tenemos registro de panes.
 
 ## Táchira
 
+- [Pan Camaleón](/panes-venezolanos/pan-camaleon/)
 - Pan aliñado dulce
 - Pan aliñado de sal
 - Pan aliñado en rosca
-- Pan Camaleón
 - Pan azucarado
-- Pan de maíz
+- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
 - Pan negro
-- Pan de avena
-- Pan de afrecho
+- [Pan de avena](/panes-venezolanos/pan-de-avena/)
+- [Pan de afrecho](/panes-venezolanos/pan-de-afrecho/)
 - Pan mojicón
-- Pan de yuca
+- [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
 - Pan de queso
 - Pan integral o negro
 - Pan de mantequilla
-- Pan de leche
+- [Pan de leche](/panes-venezolanos/pan-de-leche/)
 - Pan de arequipe
 - Pan de arequipe y Coco
 - Pan de agua
@@ -198,13 +203,15 @@ No tenemos registro de panes.
 
 - Pan aliñado de Burbusay 
 - Pan dormido
-- Pan de plátano o de yuca o de papa; 
+- Pan de plátano
+- [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
+- Pan de papa
 - Acema 
 - Acemita 
 
 ## Vargas
 
-- Golfeado
+- [Golfeado](/panes-venezolanos/golfeado/)
 
 ## Yaracuy
 
@@ -222,12 +229,12 @@ No tenemos registro de panes.
 ## Otros panes
 
 - Pan integral
-- Pan de Sandwich / Molde
-- Pan de Perro Caliente
-- Pan de Hamburguesa
-- Pan de Banquete
-- Pan Gallego
+- [Pan de Sandwich / Molde](/panes-venezolanos/pan-de-sandwich/)
+- [Pan de Perro Caliente](/panes-venezolanos/pan-de-perro-caliente/)
+- [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/), [de Papa](/panes-venezolanos/pan-de-papa/), [Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/), [Mini Pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
+- [Pan Gallego](/panes-venezolanos/pan-gallego/)
 - Pan de Dios (Pan de Deus)
+- [Pan de coco](/panes-venezolanos/pan-de-coco/)
 
 ## Fuentes
 

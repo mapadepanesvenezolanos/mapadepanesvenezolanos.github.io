@@ -14,7 +14,7 @@ second_formula_name: "cachitosrelleno"
 
 ## Resultado esperado
 
-Este es un pan relleno con jamón y a veces tocineta, de miga suave, esponjosa y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
+Este es un pan relleno con jamón y a veces tocineta de masa sobada, suave y enriquecida debido a la combinación de leche, huevo y mantequilla y tiene un sabor ligeramente dulce.
 
 ## Origen del Cachito
 
