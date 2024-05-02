@@ -7,11 +7,10 @@ published: true
 featured_image: '/images/social.jpg'
 ---
 
+Queremos tener un listado de panes estado por estado, hemos consultado la bibli
 Esta es la lista de Panes Venezolanos que hemos compilado a partir de las bibliografías a las cuales hemos tenido acceso.
 
 Si consideras que falta alguno, no dudes en contactarnos para amplicar y completar.
-
-Identificaremos con un (f) aquellos sobre los cuales no tenemos información sobre su preparación. 
 
 ## Amazonas
 
@@ -28,7 +27,7 @@ No tenemos registro de panes.
 
 ## Aragua
 
-- Pan de horno (f)
+- Pan de horno
 - Pan Prote (Colonia Tovar)
 - Pan de pavo (pavito)
 
@@ -42,12 +41,21 @@ No tenemos registro de panes.
 
 ## Carabobo
 
+- Pan de leche
 - Pan Butaque (f)
 - Panelas de San Joaquín
 
 ## Cojedes
 
+- Pan de Tunja
+
 ## Delta Amacuro
+
+No tenemos registro de panes.
+
+## Dependencias Federales
+
+No tenemos registro de panes.
 
 ## Distrito Capital
 
@@ -59,15 +67,31 @@ No tenemos registro de panes.
 - Pan dulce en rebanadas (Pan librillo)
 - Pan de banquete
 - Mini lunch
+- Pan de Lima
 
 ## Falcón
 
+No tenemos registro de panes.
 
 ## Guárico
 
 - Pan Especial de la Pascua
 - Quesadilla de Corozopando
 - Pan de hornos 
+
+## Lara
+
+- Acema Tocuyana
+- Pan de Tunja tocuyano
+- Cepelines
+- Pan de horno
+- Acemas de Yay
+- Panezos de Sanare
+- Pan dulce de Aguada Grande
+- Pan de azahar
+- Pan semi dulce larense
+- Pan de leche
+- Pan de nueza
 
 ## Mérida
 
@@ -99,20 +123,22 @@ No tenemos registro de panes.
 - Golfeado
 - Cachito
 
+## Monagas
+
+No tenemos registro de panes.
+
 ## Nueva Esparta
 
 - Pan de Leche Asuntino
 - Bombón Margariteño
 - Acemas margariteñas
-- 
+- Pan aliñado
+- Rosquitas
+- Saboyano
 
-## Lara
+## Portuguesa
 
-- Acema Tocuyana
-- Pan de Tunja (Nalgas o nalguitas)
-- Pan de Aguada Grande
-- Pan semi dulce larense
-- Pan de leche
+- Pan de horno
 
 ## Sucre
 
@@ -121,22 +147,31 @@ No tenemos registro de panes.
 
 ## Táchira
 
-### Entre gustos y sabores - Rafael Cartay
-
-- Pan Aliñado dulce
-- Pan Azucarado
+- Pan aliñado dulce
+- Pan aliñado de sal
+- Pan aliñado en rosca
+- Pan Camaleón
+- Pan azucarado
 - Pan de maíz
+- Pan negro
 - Pan de avena
+- Pan de afrecho
+- Pan mojicón
+- Pan de yuca
+- Pan de queso
 - Pan integral o negro
 - Pan de mantequilla
 - Pan de leche
+- Pan de arequipe
+- Pan de arequipe y Coco
 - Pan de agua
 - Bizcocho
 - Bizcochuelo
 - Almojábana
 - Acema
+- Acemitas
 - Acema de chicharrón
-- Acema de bocadillo
+- Acema de bocadillo / conserva de guayaba
 - Sema
 - Quesadilla
 - Quesadillita
@@ -144,6 +179,7 @@ No tenemos registro de panes.
 - Mantecada
 - Meztiza
 - Afrechuda
+- Rosquitas
 - Rosqueta
 - Rosca
 - Rosquilla
@@ -153,39 +189,24 @@ No tenemos registro de panes.
 - Regañona
 - Cesta
 - Suspiro
-
-- Pan de Arequipe
-- Pan de Arequipe y Coco
-
-### Señor de los aliños - Miro Popic
-
-- Pan de maíz
-- Pan Camaleón
-- Pan Aliñado
-- Pan Azucarado
-- Pan Aliñado de sal
-- Pan de leche
-- Pan de queso
-- Bizcocho
-- Pan aliñado en rosca
-- Rosquitas
-- Polvorosas
-- Pan negro
-- Pan de avena
-- Pan de afrecho
-- Pan mojicón
-- Pan de yuca
-- Acemas
-- Acemitas
-- Almojábana
-- Acemita de chicharrón
-- Acemita de conserva de guayaba
-- Quesadillas
-- Mantecadas
 - Catalinas
 - Besito de coco
 
 ## Trujillo
+
+- Pan aliñado de Burbusay 
+- Pan dormido
+- Pan de plátano o de yuca o de papa; 
+- Acema 
+- Acemita 
+
+## Vargas
+
+- Golfeado
+
+## Yaracuy
+
+- Pavo
 
 ## Zulia
 
@@ -194,7 +215,7 @@ No tenemos registro de panes.
 - Galletas de maíz tostado
 - Mandocas
 - Catalina / Paledonia
-
+- Rollo maracucho
 
 ## Otros panes
 
@@ -211,4 +232,6 @@ No tenemos registro de panes.
 - Entre gustos y sabores, Costumbres gastronómicas de Venezuela, Rafael Cartay, Fundación Bigott.
 - El Senor de los aliños, Miro Popic.
 - El manual de la cocina venezolana, Panes y Pastelitos, Trina Arocha, Editorial Arte.
+- Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
+- El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
 
