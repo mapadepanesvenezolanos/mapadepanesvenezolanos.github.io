@@ -234,5 +234,5 @@ No tenemos registro de panes.
 - El manual de la cocina venezolana, Panes y Pastelitos, Trina Arocha, Editorial Arte.
 - Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
 - El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
-- Listos para llevar, productos alimenticios en Venezuela, Fundación Polar.
+- [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf), Fundación Polar.
 
