@@ -19,8 +19,9 @@ No tenemos registro de panes.
 
 ## Anzoátegui
 
+- Arepa
 - Casabe
-- Pan de horno (f)
+- Pan de horno
 
 ## Apure
 
