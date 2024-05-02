@@ -132,6 +132,7 @@ No tenemos registro de panes.
 - Pan de Leche Asuntino
 - Bombón Margariteño
 - Acemas margariteñas
+- Roscas de Coco Margariteñas
 - Pan aliñado
 - Rosquitas
 - Saboyano
@@ -165,6 +166,7 @@ No tenemos registro de panes.
 - Pan de arequipe
 - Pan de arequipe y Coco
 - Pan de agua
+- Pan del Peregrino
 - Bizcocho
 - Bizcochuelo
 - Almojábana
