@@ -19,7 +19,7 @@ No tenemos registro de panes.
 
 ## Anzoátegui
 
-- Arepa
+- [Arepa](/panes-venezolanos/arepa/)
 - Casabe
 - Pan de horno
 
