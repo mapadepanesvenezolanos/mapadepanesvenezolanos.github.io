@@ -61,10 +61,10 @@ No tenemos registro de panes.
 
 ## Distrito Capital
 
-- [Canilla](/panes-venezolanos/pan-canilla/)
-- [Francés](/panes-venezolanos/pan-frances/)
-- [Chino](/panes-venezolanos/pan-chino/)
-- Sobao
+- [Pan Canilla](/panes-venezolanos/pan-canilla/)
+- [Pan Francés](/panes-venezolanos/pan-frances/)
+- [Pan Chino](/panes-venezolanos/pan-chino/)
+- Pan Sobao
 - [Pan de Jamón](/panes-venezolanos/pan-de-jamon/)
 - Pan dulce en rebanadas (Pan librillo)
 - Pan de banquete
