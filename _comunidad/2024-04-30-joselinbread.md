@@ -12,14 +12,15 @@ Joselin es una panadera casera que vive en españa y comparte sus preparaciones 
 A continuación el contenido que comparte Joselin a la comunidad de panaderos.
 
 * [Roscas de Coco Margariteño](#rosca)
+* [Pan del Peregrino](#peregrino)
 
 <div id="rosca"></div>
 
-# Roscas de Coco Margariteño
+# Roscas de Coco Margariteñas
 
-En mi recorrido de Panes Venezolanos, me he encontrado maravillas como estas Roscas de Coco Margariteño. [@lamamideamy](https://instagram.com/lamamideamy/) me aclaró que el Bombón Margariteño no lleva coco y revisando la bibliografía de Panes Venezolanos, es asi. 
+En mi recorrido de Panes Venezolanos, me he encontrado maravillas como estas Roscas de Coco Margariteño. [@lamamideamy](https://instagram.com/lamamideamy/) me aclaró que el Bombón Margariteño no lleva coco y revisando la bibliografía de Panes Venezolanos, es así. 
 
-Este que les traigo hoy se denomina Roscas de Coco Margariteño. Unos rollitos similar a los Golfeados pero el relleno es de coco y azúcar glas. La isla de Margarita fue la tierra que vio nacer a mis ancestros, de pequeña me llevaban a pasar el verano y disfrutaba de sus playas y de su maravillosa gastronomía. 
+Este que les traigo hoy se denomina Roscas de Coco Margariteñas. Unos rollitos similar a los Golfeados pero el relleno es de coco y azúcar glas. La isla de Margarita fue la tierra que vio nacer a mis ancestros, de pequeña me llevaban a pasar el verano y disfrutaba de sus playas y de su maravillosa gastronomía. 
 
 <img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-roscas-01.jpg" alt="{{page.title}}">
 
@@ -61,5 +62,47 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 - Horno 180°C x 35 minutos. 
 
 Una delicia que vale la pena probarlos.
+
+<div id="peregrino"></div>
+
+# Pan del Peregrino - Venezuela
+
+Otro pan de mi querida  Venezuela que elaboran en La Grita pueblo del Estado Táchira en la zona occidental de Venezuela. 
+
+Es elaborado los días 5 y 6 de Agosto, cuando se celebran las fiestas del Cristo de La Grita. Es un pan que obsequian los panaderos de la zona a los peregrinos que llegan al pueblo a rendir homenaje a su patrono.
+
+Un pan amasado con leche de coco y ralladura de limón y la combinación de estos ingredientes crean un sabor delicado en boca.
+
+<img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-peregrino-01.jpg" alt="{{page.title}}">
+
+## Ingredientes
+
+- 500 g de harina panadera 
+- 250 g de leche de coco
+- 70 g de azúcar 
+- 5 g de levadura seca
+- 50 g de mantequilla 
+- 1 huevo 
+- Pizca de sal 
+- Ralladura de limón 
+
+## Proceso
+
+- En un bowl ponemos leche de coco y azúcar y mezclamos bien.
+- En otro cuenco ponemos harina, levadura y pizca de sal.
+- En un tercer bowl ponemos huevo y ralladura  de limón.
+- La mantequilla aparte.
+
+<img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-peregrino-03.jpg" alt="{{page.title}}">
+
+- Mezclar  los ingredientes de los 3 cuencos y amasar con amasados cortos y reposo largos.
+- Cuando esté formado el pastón, agregar la mantequilla. 
+- Se debe desarrollar la red de gluten.
+- Fermentación 60 minutos.
+- Dividir en 9 pociones de 80 g y dar reposo en mesa 15 minutos.
+- Formar y fermentar 45 a 60 minutos. 
+- Barnizar con huevo batido y azúcar.
+- Horno 180° hasta que estén dorados. 
+- Temperatura interna 92°.
 
 [Joselin](https://instagram.com/joselinbread/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joselin](https://instagram.com/joselinbread/) directamente.
