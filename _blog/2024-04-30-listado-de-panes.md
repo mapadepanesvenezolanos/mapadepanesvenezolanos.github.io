@@ -82,6 +82,7 @@ No tenemos registro de panes.
 
 - Acema Tocuyana
 - Pan de Tunja tocuyano
+- Acema Carachera
 - Cepelines
 - Pan de horno
 - Acemas de Yay
@@ -233,4 +234,5 @@ No tenemos registro de panes.
 - El manual de la cocina venezolana, Panes y Pastelitos, Trina Arocha, Editorial Arte.
 - Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
 - El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
+- Listos para llevar, productos alimenticios en Venezuela, Fundación Polar.
 
