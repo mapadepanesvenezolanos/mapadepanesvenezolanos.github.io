@@ -231,8 +231,12 @@ No tenemos registro de panes.
 
 - Entre gustos y sabores, Costumbres gastronómicas de Venezuela, Rafael Cartay, Fundación Bigott.
 - El Senor de los aliños, Miro Popic.
+- El nuevo libro del pan de jamón... y 26 panes más, Miro Popic.
+- La cocina tachirense, Leonor Peña, 2da edición.
+- La magia de la panadería, Máximo Colina.
 - El manual de la cocina venezolana, Panes y Pastelitos, Trina Arocha, Editorial Arte.
 - Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
 - El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
 - [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf), Fundación Polar.
+
 
