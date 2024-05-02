@@ -7,10 +7,9 @@ published: true
 featured_image: '/images/social.jpg'
 ---
 
-Queremos tener un listado de panes estado por estado, hemos consultado la bibli
-Esta es la lista de Panes Venezolanos que hemos compilado a partir de las bibliografías a las cuales hemos tenido acceso.
+Queremos tener un listado de panes estado por estado, hemos consultado alguna de la bibliografía disponible y esta es la lista de Panes Venezolanos que hemos compilado hasta ahora.
 
-Si consideras que falta alguno, no dudes en contactarnos para amplicar y completar.
+Queremos completarla, si consideras que falta alguno, no dudes en contactarnos para amplicar la lista y que no se quede nada por fuera.
 
 ## Amazonas
 
