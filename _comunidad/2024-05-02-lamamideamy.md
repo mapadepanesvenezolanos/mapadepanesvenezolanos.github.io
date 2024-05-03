@@ -29,13 +29,19 @@ A continuación el contenido que comparte Joanther a la comunidad de panaderos.
 
 <div id="asuntino"></div>
 
-# Pan de leche asuntino
-
-- [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion)
+# Pan de leche tradición asuntina
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-panes-asuncion.jpg" alt="{{page.title}}">
 
-- [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan)
+En tiempos antiguos, este Pan, se solía elaborar solo con leche fresca, después vino la sustitución por leche en polvo a la que le siguió en una parte la leche condensada, a veces hasta dulce de leche o malta en su constante adaptación y evolucionando para lograr un pan único y delicioso. Se horneaba en leña, en la actualidad se hace a gas, excepto en ocasiones especiales.
+
+Es un pan de miga prieta, suave, delicado y con gran valor de identidad asuntina que pone en alto la cultura culinaria y panadería margariteña.
+
+Gracias a nuestras panaderías de tradición como lo son [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion) y la [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan) que son identidad neoespartana con más de 100 años.
+
+Mi receta es un obsequio, que ha sido prueba tras prueba y esfuerzo para que otras personas puedan disfrutar del sabor y la tradición margariteña en su hogar, fue parte de mi presentación de panes margariteños para graduarme como chef panadero aprobada por chefs como Juan José Hassan,  Freddy Acosta, Francesca Spaziani entre otros en mi examen final en el 2022 en el instituto iberoamericano.
+
+Espero puedan disfrutarlo tanto como nosotros.
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
 
