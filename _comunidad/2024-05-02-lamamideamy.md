@@ -70,7 +70,7 @@ Espero puedan disfrutarlo tanto como nosotros.
 - Divide y bolea.
 - Cada bola, la estiras con un rodillo, formas un rectángulo y lo enrollas sin apretar mucho.
 - Deja el cierre abajo.
-- Pásalo a la bandeja hasta y lo dejas esponjarse por 2 horas o más dependiendo de la temperatura ambiente.
+- Pásalo a la bandeja y lo dejas esponjarse por 2 horas o más dependiendo de la temperatura ambiente.
 - No lleva barniz, solo un poco de la misma harina que le queda por encina cuando se arma el pan en la mesa
 - Hornea a 170°C por 25 minutos a 30 minutos.
 - 🤭 Ah, es importante dejar reposar el Pan para que se asiente y puedas sentir su sabor realmente, la nuez moscada es característica y se debe sentir.
