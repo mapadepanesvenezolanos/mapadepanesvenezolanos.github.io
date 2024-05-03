@@ -31,13 +31,13 @@ A continuación el contenido que comparte Joanther a la comunidad de panaderos.
 
 # Pan de leche asuntino
 
-[Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion)
-
-
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
+- [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion)
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-panes-asuncion.jpg" alt="{{page.title}}">
 
+- [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan)
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
 
 ## Ingredientes
 
