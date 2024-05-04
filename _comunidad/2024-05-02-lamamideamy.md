@@ -62,15 +62,16 @@ Espero puedan disfrutarlo tanto como nosotros.
 ## Proceso
 
 - Yo uso la levadura instantanea de empaque dorado que es osmotolerante y aguanta mejor la cantidad de azúcar.
-- El proceso es manual así que primero mezclo harina con la levadura, la nuez moscada y la resevo.
+- El proceso es manual así que primero mezclo harina con la levadura, la nuez moscada y la reservo.
 - Luego mezclo todos los líquidos y lo bato con el batidor de mano tratando de que el azúcar se disuelva bien.
 - La sal la coloco con los líquidos y la mantequilla la coloco de último cuando mezclo los líquidos y la mezcla de harina.
 - Amaso 10 minutos, reposo y amaso 10 minutos o hasta que este uniforme.
+- Déjala reposar por 2 horas aproximadamente hasta que duplique su volumen.
 - El peso de cada pastón es aproximadamente 680 g.
 - Divide y bolea.
 - Cada bola, la estiras con un rodillo, formas un rectángulo y lo enrollas sin apretar mucho.
 - Deja el cierre abajo.
-- Pásalo a la bandeja y lo dejas esponjarse por 2 horas o más dependiendo de la temperatura ambiente.
+- Pásalo a la bandeja y lo dejas esponjarse por 2 horas aproximadamente o más dependiendo de la temperatura ambiente.
 - No lleva barniz, solo un poco de la misma harina que le queda por encina cuando se arma el pan en la mesa
 - Hornea a 170°C por 25 minutos a 30 minutos.
 - 🤭 Ah, es importante dejar reposar el Pan para que se asiente y puedas sentir su sabor realmente, la nuez moscada es característica y se debe sentir.

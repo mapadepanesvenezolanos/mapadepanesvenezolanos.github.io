@@ -151,6 +151,7 @@ No tenemos registro de panes.
 
 - Pan de especias oriental
 - Casabe
+- Domplina
 
 ## Táchira
 
