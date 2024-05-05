@@ -20,11 +20,26 @@
 	width: 50%;
 
 	@include mq(tabletl) {
-		width: 33.33%;
+		width: 25%;
 	}
 
 	@include mq(desktop) {
 		width: 25%;
+	}
+}
+
+.listing-item-comunidad {
+	position: relative;
+	padding: calc($grid-spacing / 2);
+	float: left;
+	width: 50%;
+
+	@include mq(tabletl) {
+		width: 20%;
+	}
+
+	@include mq(desktop) {
+		width: 20%;
 	}
 }
 

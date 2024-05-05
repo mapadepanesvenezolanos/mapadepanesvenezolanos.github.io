@@ -4,7 +4,7 @@ date: 2024-04-29 00:00:00
 description: Estos son los panes que prepara Joanther Guacarán M.
 permalink: /comunidad/lamamideamy/
 published: true
-featured_image: '/images/comunidad/lamamideamy/lamamideamy.jpg'
+featured_image: '/images/comunidad/lamamideamy/lamamideamy.png'
 ---
 
 Soy artesana de nacimiento, técnico medio en informática y panadera de corazón por amor al buen pan.

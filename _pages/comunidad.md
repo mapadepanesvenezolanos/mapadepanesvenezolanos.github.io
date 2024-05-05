@@ -13,7 +13,7 @@ Cada creador lo hace con la ilusión de aportar y compartir con la mejor intenci
 <section class="listing" style="margin-bottom: 40px;">
 	<div class="content-wrap listing-wrap">
 		{% for post in site.comunidad %}
-		<div class="listing-item">
+		<div class="listing-item-comunidad">
 			<a class="listing-item__link" href="{{ post.url | relative_url }}">
 				<div class="listing-item__image">
 					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">

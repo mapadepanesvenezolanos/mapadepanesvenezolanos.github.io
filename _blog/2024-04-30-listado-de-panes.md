@@ -71,6 +71,7 @@ No tenemos registro de panes.
 - Mini lunch
 - Pan de Lima
 - [Golfeado](/panes-venezolanos/golfeado/)
+- [Cachito](/panes-venezolanos/cachito/)
 - [Pan Campesino](/panes-venezolanos/pan-campesino/)
 
 ## Falcón

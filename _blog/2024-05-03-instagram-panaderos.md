@@ -7,8 +7,6 @@ published: false
 featured_image: '/images/social2.jpg'
 ---
 
-
-
 [@taosbaker](https://www.instagram.com/taosbaker/) - Profesor de panadería en LAGA con mucho material y fórmulas, en especial las publicadas durante la pandemia.
 
 [@doctorapan](https://www.instagram.com/doctorapan/) - Tiene un video de formado de Cachito muy bueno.
