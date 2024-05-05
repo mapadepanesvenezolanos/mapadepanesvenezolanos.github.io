@@ -4,7 +4,7 @@ date: 2024-05-01 00:00:00
 description: Estos son los panes que prepara Arturo Abuchaibe.
 permalink: /comunidad/arturoa3971/
 published: true
-featured_image: '/images/comunidad/arturoa3971/arturoa3971.png'
+featured_image: '/images/comunidad/arturoa3971/arturoa3971.jpg'
 ---
 
 <div id="mango"></div>
