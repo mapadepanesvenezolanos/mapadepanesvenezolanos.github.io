@@ -17,6 +17,8 @@ Me encantan los números y las matemáticas, la panadería es una mezcla de núm
 
 Comencé mi proyecto de [@lamamideamy](https://instagram.com/lamamideamy/) cuando ella nació a finales de 2019 y esperaba ponerlo en marcha a principios  de 2020, justo nos sorprendió la pandemia ese año y nos descuadró todo, entonces comencé a dar talleres en línea para ayudar a amigos y familiares que me pedían les enseñara a hacer Pan Canilla, también fue una manera de lidiar con el estrés, la preocupaciones y el encierro.
 
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-01.jpg" alt="{{page.title}}">
+
 Gracias a eso muchos pudieron sustentarse y hoy en día tienen emprendimientos bien forjados que pudieron salir adelante en medio de las vicisitudes.
 
 Siempre estoy aprendiendo cosas nuevas, superando obstáculos y me encanta poder seguir ayudando a mi comunidad a crecer en sus emprendimientos.
@@ -49,7 +51,7 @@ Espero puedan disfrutarlo tanto como nosotros.
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
 
-## Ingredientes
+## Ingredientes del Pan de leche asuntino
 
 - 1000 g Harina panadera 
 - 400 g Agua 
@@ -63,7 +65,7 @@ Espero puedan disfrutarlo tanto como nosotros.
 - 10 g Sal 
 - 6 g Nuez moscada 
 
-## Proceso
+## Proceso del Pan de leche asuntino
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-03.jpg" alt="{{page.title}}">
 
@@ -95,7 +97,7 @@ Ahora les comparto una receta de Los portadores de tradición.
 
 Los portadores de tradición son personas o familias que trabajan las distintas areas de la gastronomía de nueva esparta. La tesis de nosotros se basa en el rescate de las recetas y por ello estamos haciendo un libro de recopilación.
 
-## Ingredientes
+## Ingredientes de las Roscas de coco margariteña 
 
 ### Para la masa
 
@@ -119,7 +121,7 @@ Los portadores de tradición son personas o familias que trabajan las distintas 
 - 1 taza de leche (240 mililitros)
 - 1/2 taza de azúcar (100 gramos)
 
-## Proceso
+## Proceso de preparación de las Roscas de coco margariteña 
 
 - En un recipiente combina todos los ingredientes para la masa salvo la harina. Remueve bien.
 - Agrega la harina poco a poco: ves añadiendo de media en media taza y removiendo a la vez constantemente hasta que la masa del pastel húngaro se empiece a despegar de las paredes del bol.
@@ -148,7 +150,7 @@ Te las comparto a continuación:
 
 # Acema margariteña
 
-## Ingredientes
+## Ingredientes de la Acema margariteña
 
 - 4 tazas (500 g) de harina de trigo todo uso
 - 2 cdas de levadura seca instantánea
@@ -169,7 +171,7 @@ Te las comparto a continuación:
 - 1/2 taza de azúcar
 - 1/4 taza de agua
 
-## Proceso
+## Proceso de preparación de la Acema margariteña
 
 ### Acemas
 
@@ -199,7 +201,7 @@ Te las comparto a continuación:
 # Bombón margariteño
 
 
-## Ingredientes
+## Ingredientes del Bombón margariteño
 
 Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semillas de anis.
 
@@ -212,7 +214,7 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 - 1 taza de azucar.
 - 1/2 taza de agua.
 
-## Proceso
+## Proceso de preparación del Bombón margariteño
 
 ### La masa
 
@@ -250,7 +252,7 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 
 # Saboyano
 
-## Ingredientes
+## Ingredientes del Saboyano
 
 - 5 huevos.
 - 1 1/2 taza (200 gramos de harina).
@@ -260,7 +262,7 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 - 1 cucharada rasa de vainilla.
 - 1 cucharadita de polvo de hornear.
 
-## Proceso
+## Proceso de preparación del Saboyano
 
 - Batir los huevos que estén bien espumosos, anadir el azúcar poco a poco hasta disolver.
 - Añadir la vainilla y la nuez moscada.
