@@ -5,7 +5,7 @@ description: "El Pan Campesino, country bread, pan de campo, hogaza, barra rúst
 date:   2022-05-30 18:00:39 -0400
 permalink: /panes-venezolanos/pan-campesino/
 categories: pan rustico capital
-featured_image: '/images/panes/campesino/campesino_1.jpeg'
+featured_image: '/images/panes/campesino/campesino.jpg'
 formula_name: "campesino"
 second_formula_name: "campesinopiefrances"
 ---
