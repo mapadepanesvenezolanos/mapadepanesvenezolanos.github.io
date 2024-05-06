@@ -136,13 +136,13 @@ No tenemos registro de panes.
 
 ## Nueva Esparta
 
-- [Pan de Leche Asuntino](https://panesvenezolanos.com/comunidad/lamamideamy/#asuntino)
-- Acemas margariteñas
-- Bombón Margariteño
-- [Roscas de Coco Margariteñas](https://panesvenezolanos.com/comunidad/joselinbread/#rosca)
+- [Pan de Leche Asuntino](/comunidad/lamamideamy/#asuntino)
+- [Acemas margariteñas](/comunidad/lamamideamy/#acema)
+- [Bombón Margariteño](/comunidad/lamamideamy/#bombon)
+- [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca), [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca)
 - Pan aliñado
 - Rosquitas
-- Saboyano
+- [Saboyano](/comunidad/lamamideamy/#saboyano)
 
 ## Portuguesa
 
