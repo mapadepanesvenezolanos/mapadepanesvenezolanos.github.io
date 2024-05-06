@@ -7,11 +7,23 @@ published: true
 featured_image: '/images/comunidad/arturoa3971/arturoa3971.jpg'
 ---
 
+Hijo de inmigrantes, donde la familia y el saber valerse lo es todo, tuve la fortuna de nacer en Venezuela, el país de las infinitas oportunidades. 
+
+El lograr combinar el saber académico con el emprendimiento, resultó en variadas y productivas aventuras a lo largo de mi ya larga vida. Siempre he sido mejor entrenador que jugador, asi que la docencia y el trabajo en equipo han sido mis principales herramientas, permitiéndome incursionar en muchos y diversos campos. El de la gastronomía, por varias causas, ha sido el que más he desarrollado en los últimos tiempos. 
+
+Comencé colaborando con un pan de jamón en la mesa familiar, con la receta de una revista dominical. Mi curiosidad por profundizar en ese campo se estrelló contra el muro infranqueable de panaderías, misteriosas amasanderas y alquimicas recetas de libros de cocina, por lo que decidi salir a respirar aires extranjeros, que se convirtieron en una tormenta reveladora. Eso, aunado al arribo de la internet y el despegue gastronómico, me permitieron participar amplia y exitosamente en esa explosión local de nuevas escuelas, talleres, formación, asesoria y negocios orientados hacia la panificación. Todo eso complementado con pastelería, dulcería, fermentaciones y derivados lácteos.
+
+Hoy en día, desde el exilio, y sin dejar de seguir haciendo historia, estamos a la orden para todo aquel interesado en incursionar, perfeccionar o simplemente intercanbiar ideas sobre tan satisfactorios y productivos temas.
+
+Me puedes contactar a través del Instagram [@arturoa3971](https://instagram.com/arturoa3971/), [@panitasvla](https://instagram.com/panitasvla/) o Facebook Arturo Abu.
+
+¡Un levado abrazo!
+
+Les comparto una receta de mi autoría llamada BOLLITOS DE MANGO.
+
 <div id="mango"></div>
 
 # Bollitos de mango
-
-Les comparto una receta de mi autoría llamada BOLLITOS DE MANGO.
 
 ### Origen
 
