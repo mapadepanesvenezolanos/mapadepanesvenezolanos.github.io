@@ -65,6 +65,8 @@ Espero puedan disfrutarlo tanto como nosotros.
 
 ## Proceso
 
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-03.jpg" alt="{{page.title}}">
+
 - Yo uso la levadura instantanea de empaque dorado que es osmotolerante y aguanta mejor la cantidad de azúcar.
 - El proceso es manual así que primero mezclo harina con la levadura, la nuez moscada y la reservo.
 - Luego mezclo todos los líquidos y lo bato con el batidor de mano tratando de que el azúcar se disuelva bien.
@@ -74,6 +76,9 @@ Espero puedan disfrutarlo tanto como nosotros.
 - El peso de cada pastón es aproximadamente 680 g.
 - Divide y bolea.
 - Cada bola, la estiras con un rodillo, formas un rectángulo y lo enrollas sin apretar mucho.
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-04.jpg" alt="{{page.title}}">
+
 - Deja el cierre abajo.
 - Pásalo a la bandeja y lo dejas esponjarse por 2 horas aproximadamente o más dependiendo de la temperatura ambiente.
 - No lleva barniz, solo un poco de la misma harina que le queda por encina cuando se arma el pan en la mesa
