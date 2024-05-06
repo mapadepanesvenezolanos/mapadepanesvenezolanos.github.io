@@ -252,7 +252,11 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 
 # Saboyano
 
+El Saboyano es tradicional en Margarita y la [Panadería San Juan Bosco](https://www.instagram.com/p/CFUqdvXljKZ/?igsh=MzJuNTFvcjF6NTQ1) lo ofrece. Les dejo la receta para que los puedan preparar.
+
 ## Ingredientes del Saboyano
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-saboyano.jpg" alt="{{page.title}}">
 
 - 5 huevos.
 - 1 1/2 taza (200 gramos de harina).

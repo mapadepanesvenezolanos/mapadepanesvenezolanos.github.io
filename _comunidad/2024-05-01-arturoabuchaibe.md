@@ -29,6 +29,8 @@ Les comparto una receta de mi autoría llamada BOLLITOS DE MANGO.
 
 Haciendo labor social de panadería hace muchos años, me dí cuenta que no había un pan de ese tipo a pesar de la popularidad de dicha fruta. Así que preparé un kit de elaboración con bandejas de hojalata, hornitos de leña, y algunos otros utensilios simples, de manera que los vendedores de mango a orilla de carretera pudieran ofrecer productos con mayor valor agregado.
 
+<img class="post_image post_image_right" src="/images/comunidad/arturoa3971/arturo3971-bollo-de-mango-01.png" alt="{{page.title}}">
+
 ### Receta
 
 Es muy sencilla, no requiere amasadora, los ingredientes son accesibles y los formatos llamativos. 
@@ -69,6 +71,8 @@ Es muy sencilla, no requiere amasadora, los ingredientes son accesibles y los fo
 | **Tiempo total hrs. / min.**                                 |    **3h**     |
 
 ## Proceso
+
+<img class="post_image post_image_right" src="/images/comunidad/arturoa3971/arturo3971-bollo-de-mango-02.png" alt="{{page.title}}">
 
 - Utilizar agua y harina bien frías (2 a 10° C). En un recipiente colocar harina y sal y mezclarlas. En otro recipiente colocar agua, levadura, azúcar, leche y huevo y mezclar hasta disolver. Agregar el líquido a la harina y mezclar hasta unir todo.
 - Volcar la mezcla a la mesa y amasarla por 5 min.
