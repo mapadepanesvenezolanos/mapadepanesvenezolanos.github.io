@@ -7,7 +7,7 @@ published: true
 featured_image: '/images/comunidad/originalyayahenriquez/originalyayahenriquez-02.jpg'
 ---
 
-Soy [Yaya Henriquez](https://www.instagram.com/originalyayahenriquez) Venezolana residiendo en USA desde hace 8 años, Panadera Artesanal Certificada por la Academia Online @Horadehornear de la mano de Rosibel Marín. Mi fuerte son las masas madres especialmente nuestra "Talvina" a la cual le he dedicado muchas horas de estudios y que ha sido un pilar fundamental en el desarrollo de mis fórmulas panaderas en su mayoría masas multiusos.
+Soy Yaya Henriquez de [@originalyayahenriquez](https://www.instagram.com/originalyayahenriquez), Venezolana residiendo en USA desde hace 8 años, Panadera Artesanal Certificada por la Academia Online @Horadehornear de la mano de Rosibel Marín. Mi fuerte son las masas madres especialmente nuestra "Talvina" a la cual le he dedicado muchas horas de estudios y que ha sido un pilar fundamental en el desarrollo de mis fórmulas panaderas en su mayoría masas multiusos.
 
 El conocimiento adquirido a través de mi certificación me ha permitido ir más allá e investigar sobre harinas alternativas y actualmente estoy desarrollando un proyecto de Panes para Diabéticos.
 
@@ -124,4 +124,4 @@ Your browser does not support the video tag.
 
 ---
 
-[Yaya](https://www.instagram.com/originalyayahenriquez) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Yaya](https://www.instagram.com/originalyayahenriquez) directamente.
+[@originalyayahenriquez](https://www.instagram.com/originalyayahenriquez) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [@originalyayahenriquez](https://www.instagram.com/originalyayahenriquez) directamente.
