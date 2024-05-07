@@ -108,6 +108,14 @@ Hacer pasta con la jalea de mango y pintarla de diversos colores con colorantes 
 
 # Domplina
 
+El artículo [Las domplinas hablan inglés, español y patuá](https://historiasdesobremesa.wordpress.com/2013/07/16/las-domplinas-hablan-ingles-espanol-y-patua/), indica, "El chef guayanés Jhonnys Pitter afirma que los esclavos residentes en Jamaica, aprendieron la receta de sus amos y las expandieron a otras islas como St.Vincent, Martinica y Trinidad y Tobago. Luego llegó a Venezuela por dos vías: por el Delta del Orinoco y viajó con los mineros que buscaban oro en el Callao, y el otro camino se trazó por la península de Paria, cuya proximidad geográfica está servida."
+
+La Domplina se consume en Oriente desde Sucre hasta el Delta, extendiendo a Ciudad Bolivar. Hay varias versiones, asada, frita, con leche de coco, con agua, con puré de auyama, etc. Dependiento del lugar y la forma de cocción cambia un poco su elaboración. La suelen llamar Domplinas, bekas, galetas, flotas, cholas o pan de minero.
+
+En otra referencia de la [Domplinas](https://www.venezuelatuya.com/cocina/domplinas.htm), se señala que "la gastronomía de paria es muy particular, alli la vida corre sin prisa y no podría ser vida sin la diaria creación de las domplinas…que cuando se asan las llaman así, si se hornean les dicen becas y si las fríen, flotas."
+
+Disfruta la preparación de las Domplinas de Arturo.
+
 ## Descripción del producto
 
 Origen caribeño, redondo aplanado, neutro, miga esponja, corteza suave y dorada, consumo como bollería, postre, etc.

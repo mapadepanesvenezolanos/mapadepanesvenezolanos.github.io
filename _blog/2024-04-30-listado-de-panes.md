@@ -39,7 +39,7 @@ No tenemos registro de panes.
 
 ## Bolivar
 
-No tenemos registro de panes.
+- Domplinas, bekas, galetas, flotas, cholas, pan de minero.
 
 ## Carabobo
 
@@ -53,7 +53,7 @@ No tenemos registro de panes.
 
 ## Delta Amacuro
 
-No tenemos registro de panes.
+- Domplinas, bekas, galetas, flotas, cholas, pan de minero.
 
 ## Dependencias Federales
 
@@ -152,7 +152,7 @@ No tenemos registro de panes.
 
 - Pan de especias oriental
 - Casabe
-- Domplina
+- Domplinas, bekas, galetas, flotas, cholas, pan de minero.
 
 ## Táchira
 
