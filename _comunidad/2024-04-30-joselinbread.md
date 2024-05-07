@@ -26,7 +26,7 @@ Este que les traigo hoy se denomina Roscas de Coco Margariteñas. Unos rollitos 
 
 En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y comprábamos diferentes delicias entre los que estaba este rollito tan peculiar el cual degustábamos como merienda. Los invito hacerlos...
 
-## Ingredientes
+## Ingredientes de las Roscas de Coco Margariteñas
 
 - 350 g de harina panadera 
 - 75 g de azúcar 
@@ -37,7 +37,7 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 - 25 g de huevo 
 - 6 g de sal 
 
-## Relleno
+## Relleno de las Roscas de Coco Margariteñas
 
 - 40 g de azúcar glas
 - 40 g de coco rallado 
@@ -45,12 +45,12 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 
 <img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-roscas-04.jpg" alt="{{page.title}}">
 
-## Cobertura 
+## Cobertura de las Roscas de Coco Margariteñas
 
 - 140 g de leche
 - 50 g de azúcar 
 
-## Proceso
+## Proceso de las Roscas de Coco Margariteñas
 
 - Mezclar todos los ingredientes menos la harina. Una vez estén bien mezclados añadir poco a poco la harina y amasar hasta desarrollar la red de gluten. 
 - 1era fermentación 120 minutos.
@@ -75,7 +75,7 @@ Un pan amasado con leche de coco y ralladura de limón y la combinación de esto
 
 <img class="post_image post_image_right" src="/images/comunidad/joselinbread/joselinbread-peregrino-01.jpg" alt="{{page.title}}">
 
-## Ingredientes
+## Ingredientes del Pan del Peregrino
 
 - 500 g de harina panadera 
 - 250 g de leche de coco
@@ -86,7 +86,7 @@ Un pan amasado con leche de coco y ralladura de limón y la combinación de esto
 - Pizca de sal 
 - Ralladura de limón 
 
-## Proceso
+## Proceso de preparación del Pan del Peregrino
 
 - En un bowl ponemos leche de coco y azúcar y mezclamos bien.
 - En otro cuenco ponemos harina, levadura y pizca de sal.
@@ -104,5 +104,7 @@ Un pan amasado con leche de coco y ralladura de limón y la combinación de esto
 - Barnizar con huevo batido y azúcar.
 - Horno 180° hasta que estén dorados. 
 - Temperatura interna 92°.
+
+---
 
 [Joselin](https://instagram.com/joselinbread/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joselin](https://instagram.com/joselinbread/) directamente.

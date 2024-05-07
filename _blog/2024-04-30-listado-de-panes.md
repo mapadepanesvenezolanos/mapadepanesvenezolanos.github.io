@@ -81,7 +81,7 @@ No tenemos registro de panes.
 ## Guárico
 
 - Pan Especial de la Pascua
-- Quesadilla de Corozopando
+- [Quesadilla de Corozopando](/comunidad/originalyayahenriquez/#quesadilla)
 - Pan de hornos 
 
 ## Lara
