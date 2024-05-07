@@ -1,6 +1,6 @@
 ---
 title: 'Listado de Panes Venezolanos'
-date: 2024-04-27 00:00:00
+date: 2024-04-30 00:00:00
 description: Esta es nuestra lista de Panes Venezolanos.
 permalink: /blog/lista-de-panes-venezolanos/
 published: true

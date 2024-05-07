@@ -1,10 +1,10 @@
 ---
-title: 'Bitácora de referencias sobre Panadería Venezolana 2021 y antes'
-date: 2024-05-03 00:00:00
-description: Este es el listado de referencias que hemos conseguido sobre Panadería Venezolana.
-permalink: /blog/referencias-2021-y-antes/
-published: false
-featured_image: '/images/social2.jpg'
+title: 'Bitácora de referencias sobre Panadería Venezolana 2021 o antes'
+date: 2024-04-25 00:00:00
+description: Este es el listado de referencias que hemos conseguido sobre Panadería Venezolana del año 2021 o antes.
+permalink: /blog/referencias/2021-o-antes/
+published: true
+featured_image: '/images/blog/2021-o-antes.jpg'
 ---
 
 ## 19-11-2021

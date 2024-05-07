@@ -1,6 +1,6 @@
 ---
 title: 'Ni la Baguette es Canilla, ni la Canilla es Baguette'
-date: 2024-04-27 00:00:00
+date: 2024-05-01 00:00:00
 description: Vamos a hablar sobre la Canilla y su relación o falta de relación con la Baguette.
 permalink: /blog/canilla-vs-baguette/
 featured_image: '/images/panes/canilla/canilla_11.jpg'
