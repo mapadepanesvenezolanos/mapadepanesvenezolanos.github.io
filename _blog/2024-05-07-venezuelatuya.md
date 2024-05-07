@@ -4,7 +4,7 @@ date: 2024-05-07 00:00:00
 description: Este es el listado de referencias sobre panes en Venezuela Tuya.
 permalink: /blog/referencias/venezuelatuya
 published: true
-featured_image: '/images/blog/venezuelatuya.png'
+featured_image: '/images/blog/venezuelatuya.jpg'
 ---
 
 Les dejo algunas referencias de Panes reseñados en [www.venezuelatuya.com](https://www.venezuelatuya.com/).
