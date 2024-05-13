@@ -40,6 +40,7 @@ No tenemos registro de panes.
 ## Bolivar
 
 - [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina).
+- Cagaleras
 
 ## Carabobo
 
@@ -82,7 +83,7 @@ No tenemos registro de panes.
 
 - Pan Especial de la Pascua
 - [Quesadilla de Corozopando](/comunidad/originalyayahenriquez/#quesadilla)
-- Pan de hornos 
+- Pan de horno 
 
 ## Lara
 
