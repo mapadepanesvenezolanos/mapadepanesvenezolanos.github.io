@@ -45,8 +45,10 @@ No tenemos registro de panes.
 ## Carabobo
 
 - Pan de leche
-- Pan Butaque (f)
+- Pan Butaque
 - Panelas de San Joaquín
+- Pan Cachicamo (fuente: Lic. Elena Alcalá)
+- Palitos de canela (fuente: Lic. Elena Alcalá)
 
 ## Cojedes
 
