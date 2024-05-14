@@ -6,6 +6,7 @@ date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
 featured_image: /images/panes/canilla/canilla_11.jpg
+keywords: canilla, canilla pan, canillas, panes canillas, canillas pan, pan canillas, canilla venezuela, pan canilla venezuela, pan canilla en venezuela, canillas venezolanas, pan de canilla, pan canilla, pan canilla venezolano, pan canilla de venezuela, la canilla es un pan venezolano, panes venezolanos, pan blanco venezolano, canilla receta, canilla ingredientes, pan canilla receta, pan canilla venezolano receta, receta pan canilla, receta de pan canilla, receta de pan canilla, receta de pan canilla venezolano, ingredientes pan canilla, pan canilla ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, como hacer pan canilla, como hacer pan canilla venezolano, cuanto pesa un pan canilla, historia del pan canilla, origen del pan canilla
 formula_name: "canilla"
 ---
 
@@ -25,7 +26,7 @@ También se conoce como: Pan blanco, Pan salado, Pan canilla venezolano, Pan can
 
 “Se le conoce como la versión tropicalizada de la baguette francesa, pero a diferencia de ésta, tiene una costra menos crujiente y una miga más suave. Es un pan salado, delgado y largo, muy popular. Su historia data de la década de los años ochenta del siglo pasado. Empezó a elaborarse en las panaderías venezolanas en la búsqueda de un pan de rápida cocción y a gusto del venezolano. Una de las diferencias entre la baguette y la canilla es su tiempo de hechura, el de la baguette es más largo. Otra diferencia tiene que ver con las características físicas: color, costra y textura de la miga. La canilla es de costra quebradiza y de tonalidades entre beige y marrón. La de la baguette es dorada y crujiente. La textura de la miga también es distinta: la de canilla es más densa y con alvéolos uniformes, mientras los de la baguette son irregulares. El nombre deriva del parecido con las “canillas”, como llamamos en Venezuela a las piernas largas y delgadas de algunas personas.” [^1]
 
-Realmente la Canilla es una barra sobada de baja hidratación, es más parecido a un Pan Candeal que a una Baguette, solamente comparten la forma.
+Realmente la Canilla es una barra sobada de baja hidratación, es más parecido a un Pan Candeal que a una Baguette, solamente comparten la forma. Revisa nuestra comparación en el Blog, [Ni la Canilla es Baguette, ni la Baguette es Canilla](/blog/canilla-vs-baguette/).
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 

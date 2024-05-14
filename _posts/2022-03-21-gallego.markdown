@@ -5,6 +5,7 @@ description: "El pan gallego tiene una corteza rústica, semi dura y crocante co
 date:   2022-03-20 18:00:39 -0400
 permalink: /panes-venezolanos/pan-gallego/
 categories: pan rustico capital
+keywords: gallego, pan gallego, pan gallego venezolano, panes venezolanos, pan gallego venezolano receta, pan gallego venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
 featured_image: '/images/panes/gallego/gallego_4.jpeg'
 formula_name: "gallego"
 ---
@@ -40,7 +41,7 @@ misma contribuye a la calidad del resultado. Es un ingrediente fundamental en es
 
 <div id="tipogallego"></div>
 
-# Pan Tipo Gallego
+# Pan Gallego Venezolano
 
 ## Masa leudada con masa madre líquida
 

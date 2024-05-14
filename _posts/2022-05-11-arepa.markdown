@@ -5,6 +5,7 @@ description: "La Arepa es sin duda alguna “El Pan de los venezolanos”. Hecha
 date:   2022-05-11 14:28:00 -0400
 permalink: /panes-venezolanos/arepa/
 categories: arepas los_llanos
+keywords: arepa, arepa venezolana, panes venezolanos, pan venezolano, arepa receta, arepa ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, arepas a la plancha
 featured_image: '/images/panes/arepa/arepa_1.jpeg'
 formula_name: "arepa"
 ---

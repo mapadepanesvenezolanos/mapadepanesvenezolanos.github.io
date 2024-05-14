@@ -5,6 +5,7 @@ description: "La Talvina Tachirense es una Masa Madre líquida dulce y especiada
 date:   2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/talvina/
 categories: masa_madre los_andes
+keywords: talvina, talbina, talvina venezolana, masa madre venezolana, pan camaleón, pan camaleon, camaleon, pipa, guarapo, panes venezolanos, pan dulce venezolano, talvina receta, talvina ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
 featured_image: '/images/panes/talvina/talvina_3.jpeg'
 formula_name: "talvina"
 second_formula_name: "talvina-refresco"

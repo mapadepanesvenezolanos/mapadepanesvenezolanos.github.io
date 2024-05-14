@@ -5,6 +5,7 @@ description: "El pan de yuca es un pan de miga esponjosa debido a la combinació
 date:   2022-05-04 21:59:00 -0400
 permalink: /panes-venezolanos/pan-de-yuca/
 categories: pan enriquecido los_andes
+keywords: pan de yuca, pan de yuca venezolano, panes venezolanos, pan venezolano, pan de yuca receta, pan de yuca ingredientes, pan venezolano receta, pan venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
 featured_image: '/images/panes/yuca/yuca_3.jpeg'
 formula_name: "yuca"
 second_formula_name: "yucabiga"

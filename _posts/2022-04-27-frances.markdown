@@ -5,6 +5,7 @@ description: "El pan francés es un pan con formato pequeño común en toda Lati
 date:   2022-04-27 18:00:39 -0400
 permalink: /panes-venezolanos/pan-frances/
 categories: pan semirustico capital
+keywords: pan francés, pan frances, pan frances venezolano, pan francés venezolano, panes venezolanos, pan blanco venezolano, pan frances receta, pan francés receta, pan frances ingredientes, pan francés ingredientes, pan frances venezolano receta, pan francés venezolano ingredientes, panadería, panadería venezolana, recetas de pan francés, recetas de pan venezolano, panes venezolanos, receta de pan francés venezolano
 featured_image: '/images/panes/frances/frances_2.jpeg'
 formula_name: "frances"
 ---
