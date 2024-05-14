@@ -5,7 +5,7 @@ description: "El pan de leche es un pan de miga suave y esponjosa debido a la co
 date: 2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-leche/
 categories: pan enriquecido los_andes
-keywords: pan de leche, pan de leche venezolano, panes venezolanos, pan dulce venezolano, pan de leche receta, pan de leche ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos 
+keywords: pan de leche, el pan de leche, pan de leche venezolano, pan de leche venezuela, receta de pan de leche, receta pan de leche, pan de leche receta, receta de pan de leche venezolano,  como hacer pan de leche venezolano, pan dulce de leche, pan dulce de leche venezolano, pan de leche dulce, pan de leche dulce venezolano, receta del pan de leche, receta pan de leche venezolano, panes venezolanos, pan dulce venezolano, pan de leche receta, ingredientes del pan de leche, ingredientes para el pan de leche, pan de leche ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del pan de leche, pan de leche historia, pan de leche origen, origen del pan de leche, pan andino de leche, pan de leche casero, receta pan de leche dulce, recetas de pan de leche, recetas pan de leche, pan de leche con talvina, pan de leche con masa madre, pan de leche con pie francés, pan de leche con biga, como hacer pan de leche, cómo hacer pan de leche, panes de leche, pan de leche andino venezolano, pan de leche andino, receta de panecillos de leche, panecillos de leche, como se hace el pan de leche, cómo se hace el pan de leche, como preparar pan de leche, cómo preparar pan de leche, pancitos de leche dulces, pan de leche panadería, pan leche, receta panes de leche
 featured_image: '/images/panes/leche/leche_4.jpeg'
 formula_name: "leche"
 second_formula_name: "lechebiga"
@@ -29,7 +29,7 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa los aman recién salidos del horno, calentados 8 segundos en el microondas. Jesús [@1painalafois] se los come untados con diablitos underwood. A Alexander [@hazpanencasa] le encanta comerlos con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
 
-## Origen 
+## Origen del Pan de Leche
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -37,7 +37,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-## Tips
+## Tips para preparar el Pan de Leche
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee; por ejemplo:
 	* Para preparar 12 panes de 45 gramos cada uno, obtendremos 540 gramos de masa total. Al sumar los porcentajes de cada uno de los ingredientes de nuestra fórmula panadera, obtendremos un porcentaje de 197%. De esos 540 gramos de masa total, el 100% serán de harina panadera, es decir, 274 gramos. De esos 274 gramos de harina panadera, requerimos 35% de agua, es decir, 96 gramos. Si continuamos utilizando la fórmula panadera, podremos calcular cuántos gramos se requiere de cada ingrediente para fabricar nuestros 12 panecillos de 45 gramos cada uno.
