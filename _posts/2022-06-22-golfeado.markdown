@@ -5,6 +5,7 @@ description: "El Golfeado se elabora partiendo de una masa dulce enriquecida, co
 date:   2022-06-22 14:28:00 -0400
 permalink: /panes-venezolanos/golfeado/
 categories: golfeado capital
+keywords: golfeados del junquito receta, golfeados húmedos, golfeado, receta de golfeado, receta de golfeados melosos, receta golfeados del junquito, recetas de golfeados paso a paso, pan golfeado, golfeado con queso de mano, receta de golfeados, golfeados, golfeado venezolano, de donde es el golfeado, golfeados con queso de mano, origen del golfeado, golfeado venezuela, golfeado con queso, el, golfeado, golfeados del junquito, golfeado receta, recetas de golfeado
 featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
 formula_name: "golfeado"
 second_formula_name: "golfeadorelleno"

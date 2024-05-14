@@ -5,6 +5,7 @@ description: "El mini Pan de Hamburguesa es un pan básico, de miga cerrada y su
 date: 2022-09-27 12:00:00 -0400
 permalink: /panes-venezolanos/mini-pan-de-hamburguesa/
 categories: pan semi salado enriquecido capital
+keywords: mini pan de hamburguesa
 featured_image: '/images/panes/sliders/sliders_1.jpeg'
 formula_name: "sliders"
 ---

@@ -5,6 +5,7 @@ description: "El Pan Campesino, country bread, pan de campo, hogaza, barra rúst
 date:   2022-05-30 18:00:39 -0400
 permalink: /panes-venezolanos/pan-campesino/
 categories: pan rustico capital
+keywords: pan campesino, pan campesino origen, pan campesino venezolano historia, historia del pan campesino, pan campesino venezolano, receta de pan campesino, pan campesino receta original, origen del pan campesino, pan campesino receta, receta pan campesino, receta de pan campesino venezolano, pan campesino de venezuela, cuanto pesa un pan campesino, receta pan campesino venezolano, pan campesino venezuela, pan campesino redondo, como hacer pan campesino, pan campesino grande, receta del pan campesino, panes campesinos, diferencia entre pan sobao y campesino, pan campesino historia, como hacer, pan campesino venezolano, campesino venezolano, pan campesino casero, como hacer pan campesino casero, pan campesino en venezuela, pan tipo campesino,  pan campesino relleno, campesino pan, pan campesino sobado, pan campesinos, pan de campesino
 featured_image: '/images/panes/campesino/campesino.jpg'
 formula_name: "campesino"
 second_formula_name: "campesinopiefrances"
@@ -33,6 +34,10 @@ El Pan Campesino, country bread, pan de campo, hogaza, barra rústica, pan rúst
 En Venezuela, en general, la corteza es más delgada y le damos suavidad a la corteza mediante el uso de grasa y un tono dulzón a la miga. Muchas panaderías utilizan la misma masa de la Canilla con un formato de barra más grande.[^1]
 
 Haremos dos versiones, una siguiendo la práctica usual de los panaderos que utilizan la misma masa de la Canilla y una segunda versión mejorada con el prefermento pie francés y un proceso ligeramente distinto para generar un Pan más duradero.
+
+A veces se confunde el Pan Sobao con el Campesino, la diferencia es que el Pan Sobao lleva más grasa y la corteza es lisa y suave, la corteza del campesino venezolano es semi rústica y no lleva tanta grasa.
+
+El Pan Campesino se puede rellenar y utilizar para fondues y sopas, como la sopa de cebolla.
 
 ## Tips para preparar el Pan Campesino Venezolano
 

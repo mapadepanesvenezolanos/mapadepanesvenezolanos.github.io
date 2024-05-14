@@ -5,6 +5,7 @@ description: "Este es un pan de miga cerrada y suave, de corteza color marrón c
 date: 2022-09-25 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-sandwich/
 categories: pan salado enriquecido capital
+keywords: pan de sandwich, cuanto pesa un pan de sandwich, pan de sandwich receta, masa para pan de sandwich, pan sandwich, pan para sandwich, receta de pan de sandwich, como hacer pan de sandwich, receta pan de sandwich, como se hace el pan de sandwich, panes de sandwich, sandwich venezolano, sandwich pan, sandwiches venezolanos, pan de sandwich largo, pan de sandwich de miga, tipos de pan para sandwich, molde de pan de sandwich, pan de sandwiches, pan para sandwich de miga, panes para sandwich, molde para hacer pan de sandwich
 featured_image: '/images/panes/sandwich/sandwich_1.jpeg'
 formula_name: "sandwichmigaaireada"
 second_formula_name: "sandwichmigatupida"

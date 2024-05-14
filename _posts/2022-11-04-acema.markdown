@@ -6,6 +6,7 @@ date: 2022-09-28 10:32:39 -0400
 published: false
 permalink: /panes-venezolanos/acema/
 categories: pan dulce enriquecido los_andes occidente
+keywords: acema, acema tocuyana, acema andina, acema carachera, acema margariteña
 featured_image: '/images/panes/acema/acema_1.jpeg'
 ---
 

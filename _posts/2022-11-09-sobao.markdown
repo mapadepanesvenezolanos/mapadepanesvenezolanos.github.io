@@ -6,6 +6,7 @@ date: 2023-02-07 07:30:39 -0400
 published: false
 permalink: /panes-venezolanos/pan-sobao/
 categories: pan salado capital
+keywords: pan sobao venezolano, pan sobao
 featured_image: '/images/panes/sobao/sobao_1.png'
 formula_name: "sobao"
 ---

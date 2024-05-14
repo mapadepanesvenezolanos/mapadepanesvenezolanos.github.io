@@ -5,6 +5,7 @@ description: "El Pan de papas es de miga cerrada, suave y húmeda de sabor delic
 date: 2022-09-27 10:55:00 -0400
 permalink: /panes-venezolanos/pan-de-papa/
 categories: pan semi salado enriquecido capital
+keywords: pan de hamburguesa, pan de hamburguesa de papa, pan de papa
 featured_image: '/images/panes/papa/papas_1.jpeg'
 formula_name: "papa"
 ---

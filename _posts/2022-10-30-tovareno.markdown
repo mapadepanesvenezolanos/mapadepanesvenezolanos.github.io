@@ -5,6 +5,7 @@ description: "El Pan Tovareño nace en la panadería Mi Favorita en el Sector El
 date: 2022-10-30 07:13:00 -0400
 permalink: /panes-venezolanos/pan-tovareno/
 categories: pan enriquecido los_andes
+keywords: pan tovareño, pan tovareño de mérida, pan tovareño receta original, receta de pan tovareño venezolano, pan tovareño ingredientes, como hacer pan tovareño, tovareño, receta pan tovareño, pan andino de tovar, pan andino tovareño, pan de tovar
 featured_image: '/images/panes/tovareno/tovareno_2.jpeg'
 formula_name: "tovareno"
 second_formula_name: "talvina"

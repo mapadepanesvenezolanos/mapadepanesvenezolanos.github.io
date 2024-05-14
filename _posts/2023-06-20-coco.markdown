@@ -5,6 +5,7 @@ description: "El pan de coco es un pan de miga suave y esponjosa debido a la com
 date: 2023-06-20 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-coco/
 categories: pan enriquecido
+keywords: pan de coco, pan de coco venezolano, pan con coco rallado, pan de coco receta venezolana, historia del pan de coco, pan de coco rallado, origen del pan de coco, pan de coco historia, pan relleno de coco, pan de coco receta, pan coco, receta de pan de coco, panecillos de coco, pan dulce con coco rallado, pan con coco arriba, como hacer pan de coco, panes de coco, pancito de coco, pan dulce de coco, pan con coco, pan de coco ingredientes
 featured_image: '/images/panes/coco/coco_1.jpeg'
 formula_name: "coco"
 second_formula_name: "cococoberturasrellenos"
