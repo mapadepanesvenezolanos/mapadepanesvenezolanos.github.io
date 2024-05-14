@@ -84,7 +84,7 @@ No tenemos registro de panes.
 ## Guárico
 
 - Pan Especial de la Pascua
-- [Quesadilla de Corozopando](/comunidad/originalyayahenriquez/#quesadilla)
+- [Quesadilla de Corozopando](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY)
 - Pan de horno 
 
 ## Lara
@@ -208,6 +208,7 @@ No tenemos registro de panes.
 ## Trujillo
 
 - Pan aliñado de Burbusay 
+- [Pan Criollo / Rutas Sabor y Tradición YouTube](https://www.youtube.com/watch?v=CtagzYzhCzw)
 - Pan dormido
 - Pan de plátano
 - [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
