@@ -83,8 +83,8 @@ No tenemos registro de panes.
 
 ## Guárico
 
-- Pan Especial de la Pascua
-- [Quesadilla de Corozopando](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY)
+- Pan Especial de la Pascua, [YouTube El PAN ICÓNICO de Valle de la Pascua / Soy Gustin Gomez](https://www.youtube.com/watch?v=Q-od27wBnAQ).
+- Quesadilla de Corozopando, [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY)
 - Pan de horno 
 
 ## Lara
