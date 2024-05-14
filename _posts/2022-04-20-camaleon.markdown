@@ -5,7 +5,7 @@ description: "El pan camaleón es original del estado Táchira, este pan dulce p
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-camaleon/
 categories: pan_dulce los_andes
-keywords: camaleón, camaleon, camaleon venezolano, camaleon con talvina, pan camaleón, pan camaleon, panes venezolanos, pan dulce venezolano, pan camaleon receta, pan camaleon ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos 
+keywords: camaleón, camaleon, camaleon venezolano, camaleon con talvina, pan camaleón, pan camaleon, pan camaleon venezuela, pan camaleon de venezuela, camaleon pan, panes venezolanos, pan dulce venezolano, pan camaleon receta, pan camaleon ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, pan andino con talvina, como hacer pan camaleon en casa
 featured_image: '/images/panes/camaleon/camaleon_0.jpeg'
 formula_name: "camaleon"
 ---

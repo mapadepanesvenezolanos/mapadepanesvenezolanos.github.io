@@ -5,7 +5,7 @@ description: "El pan de jojoto es un pan de miga esponjosa, suave, bastante simi
 date:   2022-09-06 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-jojoto/
 categories: pan semidulce los_andes
-keywords: pan de jojoto, pan de maiz, pan de jojoto venezolano, pan de maiz venezolano, panes venezolanos, pan dulce venezolano, pan de jojoto receta, pan de maiz receta, pan de jojoto ingredientes, pan de maiz ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
+keywords: pan de jojoto, pan de maiz, pan de jojoto venezolano, pan de maiz venezolano, panes venezolanos, pan dulce venezolano, pan de jojoto receta, pan de maiz receta, pan de jojoto ingredientes, pan de maiz ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, como hacer pan de jojoto en casa
 featured_image: '/images/panes/jojoto/jojoto_1.jpeg'
 formula_name: "jojoto"
 second_formula_name: "jojotopoolish"

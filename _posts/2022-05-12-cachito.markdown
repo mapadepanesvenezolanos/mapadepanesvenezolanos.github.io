@@ -5,6 +5,7 @@ description: "El cachito es un pan relleno con jamón y a veces tocineta, de mig
 date:   2022-05-12 14:28:00 -0400
 permalink: /panes-venezolanos/cachito/
 categories: cachito capital
+keywords: cachito, cachitos, cachito venezuela, cachito venezolano, cachitos pan, como hacer cachitos venezolanos, masa para cachitos, que es un cachito venezolano, pan cachitos, panes cachitos, masa para cachitos venezolanos, masa de cachitos, masa de cachito, el cachito, para un cachito, receta de cachito, ingredientes cachito, relleno cachito, relleno para cachitos, cachito ingredientes, cachito de pan, historia del cachito venezolano, que es un cachito, masa de cachitos venezolanos, cachito con malta, como hacer cachitos, cachitos pan dulce, receta de cachitos, cachitos venezuela, que es el cachito, pan cachito de mantequilla, cachito de jamón, cachitos de mantequilla, cachito pan venezolano, cachito en venezuela, pan cachito casero, cachitos venezolanos, cachito venezolanos, cachitos de panadería, cachitos de panaderia, pan de cachito venezolano
 featured_image: '/images/panes/cachito/cachito_4.jpeg'
 formula_name: "cachitos"
 second_formula_name: "cachitosrelleno"
