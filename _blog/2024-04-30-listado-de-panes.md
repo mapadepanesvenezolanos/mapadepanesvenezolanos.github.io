@@ -146,6 +146,7 @@ No tenemos registro de panes.
 - Pan aliñado
 - Rosquitas
 - [Saboyano](/comunidad/lamamideamy/#saboyano)
+- [Pan de la Vieja / Referencia de Joselin Bread](https://www.instagram.com/p/C66qX_ionH2/?igsh=eHlqYXp5MzRxNGFh)
 
 ## Portuguesa
 

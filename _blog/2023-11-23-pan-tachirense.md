@@ -11,7 +11,9 @@ Hoy les voy a compartir un artículo que me envió mi partner en este proyecto P
 
 Es muy interesante y nos conecta con la historia de la mano de expertos en el tema.
 
-El [proceso para preparar la Talvina](https://panesvenezolanos.com/panes-venezolanos/talvina/) (Talbina para otros panaderos) lo puedes conseguir en nuestra página [panesvenezolanos.com](https://panesvenezolanos.com/panes-venezolanos/talvina/).
+Hay un artículo publicado en el blog [Madrid tiene miga denominado Pan andino camaleón (Venezuela)](https://madridtienemiga.wordpress.com/2010/03/11/pan-andino-camaleon-venezuela/) donde hace referencia al escrito de Giovanni Petrella y su libro "El curioso mundo del pan".
+
+El [proceso para preparar la Talvina](https://panesvenezolanos.com/panes-venezolanos/talvina/) (Talbina para otros panaderos) lo puedes conseguir en nuestra página [panesvenezolanos.com](https://panesvenezolanos.com/panes-venezolanos/talvina/). Para preparar el [Pan Camaleón consulta nuestra receta](/panes-venezolanos/pan-camaleon/).
 
 El rescate de nuestra tradición panadera andina y hasta llanera pasa por trabajar con Talvina.
 
