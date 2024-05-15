@@ -8,8 +8,7 @@ categories: pan enriquecido los_andes
 keywords: pan tovareño, pan tovareño de mérida, pan tovareño receta original, receta de pan tovareño venezolano, pan tovareño ingredientes, como hacer pan tovareño, tovareño, receta pan tovareño, pan andino de tovar, pan andino tovareño, pan de tovar
 featured_image: '/images/panes/tovareno/tovareno_2.jpeg'
 formula_name: "tovareno"
-second_formula_name: "talvina"
-third_formula_name: "tovarenoalino"
+second_formula_name: "tovarenoalino"
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS del Pan Tovareño
@@ -66,14 +65,10 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 |---------------------------|-------------|-------|
 | **Total**                 |    **235%** |**756g**|
 
-### Calculadora para preparar el Pan Tovareño
+### Calculadora para preparar la masa del Pan Tovareño
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
-
-### Calculadora para preparar la Talvina
-
-{% include calculadora-de-panes2.html %}
 
 ### Ingredientes del aliño/guiso o arenado del Pan Tovareño
 
@@ -98,7 +93,7 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
  
  ## Calculadora para preparar el aliño/guiso o arenado
 
-{% include calculadora-de-panes3.html %}
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso para preparar el Pan Tovareño
 
