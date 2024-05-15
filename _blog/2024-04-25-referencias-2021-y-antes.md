@@ -7,13 +7,41 @@ published: true
 featured_image: '/images/blog/2021-o-antes.jpg'
 ---
 
+## 03-12-2021
+
+[La receta de pan de jamón de Juan Pablo Márquez](https://gastronomiaenvenezuela.com/la-receta-del-pan-de-jamon-de-juan-pablo-marquez-pan-comido/).
+
 ## 19-11-2021
 
 [12 secretos para elaborar un pan de jamón perfecto](https://elestimulo.com/gastronomia/2021-11-19/12-secretos-para-elaborar-un-pan-de-jamon-perfecto/). Yury Rodríguez, maestra panadera y chef docente de Yury's Cakes comparte todos los secretos para que se animen a preparar con éxito el pan de jamón en casa. Giuliana Chiappe.
 
+## 07-07-2021
+
+[Diferencia entre pan baguette y canilla por Pan Comido](https://gastronomiaenvenezuela.com/diferencia-entre-pan-baguette-y-canilla-por-pan-comido/).
+
+## 05-07-2021
+
+[Fórmula panadera: el secreto más público de la panadería](https://gastronomiaenvenezuela.com/formula-panadera-el-secreto-mas-publico-de-la-panaderia/).
+
+## 10-05-2021
+
+[La receta de los golfeados por Juan Pablo Márquez](https://gastronomiaenvenezuela.com/la-receta-de-los-golfeados-por-juan-pablo-marquez-pan-comido/).
+
+## 17-02-2021
+
+[Pan de ajo confitado de @Pan_Comido](https://gastronomiaenvenezuela.com/pan-de-ajo-confitado-de-pan-comido/).
+
 ## 20-11-2020
 
 [Cachito.Express: desayuno de panadería sin salir de casa](https://elestimulo.com/gastronomia/2020-11-20/cachito-express-desayuno-de-panaderia-sin-salir-de-casa/). Grecia Ríos es apasionada de la panadería desde que era adolescente. Un sábado de cuarentena, y por una particular petición de unos amigos, se dio cuenta que podía hacer sus cachitos de jamón para tener congelados en casa. Así surgió Cachito.express, que ya tiene tres meses y 12 sabores distintos. Giuliana Chiappe.
+
+## 09-10-2020
+
+[Pan de ricota por Juan Pablo Márquez](https://gastronomiaenvenezuela.com/pan-de-ricota/).
+
+## 22-07-2020
+
+[La Honestidad del Pan por Juan Pablo Márquez](https://gastronomiaenvenezuela.com/la-honestidad-del-pan/).
 
 ## 04-03-2020
 
@@ -22,6 +50,18 @@ featured_image: '/images/blog/2021-o-antes.jpg'
 ## 22-07-2019
 
 [Juan Andrés Banús: la voz 30 del libro “Soy panadero”](https://adrianagibbs.com/juan-andres-banus-la-voz-30-del-libro-soy-panadero/). Adriana Gibbs.
+
+## 28-05-2019
+
+[La receta del pan de cambur por Juan Pablo Márquez](https://gastronomiaenvenezuela.com/la-receta-del-pan-de-cambur-por-juan-pablo-marquez/).
+
+## 15-05-2019
+
+[Pan de papas: imposible no hacer esta mezcla por @pan_comido](https://gastronomiaenvenezuela.com/pan-de-papas-imposible-no-hacer-esta-mezcla-por-pan-comido/).
+
+## 06-03-2019
+
+[Cuándo sé que terminé de amasar por @pan_comido](https://gastronomiaenvenezuela.com/cuando-se-que-termine-de-amasar-por-pan-comido/).
 
 ## 25-11-2018
 
@@ -34,3 +74,5 @@ featured_image: '/images/blog/2021-o-antes.jpg'
 ## 07-12-2017
 
 [La pizza napolitana entra en la lista de Patrimonio Inmaterial de la UNESCO](https://elestimulo.com/bienmesabe/gastronomia/2017-12-07/la-pizza-napolitana-entra-en-la-lista-de-patrimonio-inmaterial-de-la-unesco/). El arte de los "pizzaioli" napolitanos que durante siglos han hecho revolear la masa de esta especialidad mundialmente conocida de la cocina italiana entró este jueves en la lista de Patrimonio Inmaterial de la Humanidad de la UNESCO. AFP.
+
+
