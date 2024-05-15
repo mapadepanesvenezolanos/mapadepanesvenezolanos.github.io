@@ -91,7 +91,7 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 
 [^2]: El alimento para niños en polvo es un ingrediente opcional y que se utiliza para recordarnos nuestra niñez, por lo cual te recomendamos utilizar Nestum, Cerelac o Crema de arróz Poly.
  
- ## Calculadora para preparar el aliño/guiso o arenado
+### Calculadora para preparar el aliño/guiso o arenado
 
 {% include calculadora-de-panes2.html %}
 
