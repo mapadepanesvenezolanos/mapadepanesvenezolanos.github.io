@@ -63,9 +63,17 @@ featured_image: '/images/blog/2021-o-antes.jpg'
 
 [Cuándo sé que terminé de amasar por @pan_comido](https://gastronomiaenvenezuela.com/cuando-se-que-termine-de-amasar-por-pan-comido/).
 
+## 26-11-2028
+
+[Receta de pan dulce de yuca por Juan Pablo Márquez @pan_comido](https://gastronomiaenvenezuela.com/receta-de-pan-de-yuca-dulce-por-juan-pablo-marquez-pan-comido/).
+
 ## 25-11-2018
 
 [El pan venezolano en 29 voces](https://adrianagibbs.com/el-pan-venezolano-en-29-voces/). Adriana Gibbs.
+
+## 07-02-2018
+
+[Receta de pan sin amasado por @pan-comido](https://gastronomiaenvenezuela.com/receta-de-pan-sin-amasado-por-pan-comido/).
 
 ## 23-12-2017
 
@@ -74,5 +82,46 @@ featured_image: '/images/blog/2021-o-antes.jpg'
 ## 07-12-2017
 
 [La pizza napolitana entra en la lista de Patrimonio Inmaterial de la UNESCO](https://elestimulo.com/bienmesabe/gastronomia/2017-12-07/la-pizza-napolitana-entra-en-la-lista-de-patrimonio-inmaterial-de-la-unesco/). El arte de los "pizzaioli" napolitanos que durante siglos han hecho revolear la masa de esta especialidad mundialmente conocida de la cocina italiana entró este jueves en la lista de Patrimonio Inmaterial de la Humanidad de la UNESCO. AFP.
+
+## 09-08-2017
+
+[Cuánta masa madre usar por Pan@comido](https://gastronomiaenvenezuela.com/cuanta-masa-madre-usar-por-pancomido/).
+
+## 27-07-2017
+
+[Masa para pizzas por @Pan_comido](https://gastronomiaenvenezuela.com/masa-para-pizzas-por-pan-comido/).
+
+## 10-05-2017
+
+[Pan enriquecido, suave por dentro y por fuera por @Pan _comido](https://gastronomiaenvenezuela.com/pan-enriquecido-suave-por-dentro-y-por-fuera-por-pan-comido/).
+
+## 02-11-2016
+
+[Pan con cereales por @Pan-comido](https://gastronomiaenvenezuela.com/pan-con-cereales-por-pan-comido/).
+
+## 08-09-2016
+
+[Pan de chocolate: la es culpa del profesor Cartay por @Pan-comido](https://gastronomiaenvenezuela.com/pan-de-chocolate-la-es-culpa-del-profesor-cartay-por-pan-comido/).
+
+## 29-06-2016
+
+[La receta de los buns por @Pan_comido](https://gastronomiaenvenezuela.com/la-receta-de-los-buns-por-pan-comido/).
+
+## 01-06-2016
+
+[Cómo hacer pan integral por @pan_comido](https://gastronomiaenvenezuela.com/como-hacer-pan-integral-por-pan-comido/).
+
+## 26-05-2016
+
+[Receta del pan blanco de @Pan_comido](https://gastronomiaenvenezuela.com/receta-del-pan-blanco-de-pancomido/).
+
+## 11-05-2016
+
+[Cómo cuidar a tu alegre masa madre por @pan_comido](https://gastronomiaenvenezuela.com/como-cuidar-a-tu-alegre-masa-madre-por-pan-comido/).
+
+## 27-04-2016
+
+[Cómo ser padre de una masa madre por @Pan_comido](https://gastronomiaenvenezuela.com/como-ser-padre-de-una-masa-madre-por-pan_comido/).
+
 
 
