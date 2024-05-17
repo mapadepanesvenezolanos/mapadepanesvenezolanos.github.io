@@ -3,7 +3,7 @@ title: "Pan Sobao"
 subtitle: "Para acompañar nuestras comidas de todos los días."
 description: "El Pan Sobao es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agreamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos (sandwich típico de la comida callejera que se consume en la ciudad de Caracas, Venezuela, relleno de carne/pollo/cordero/de res)."
 date: 2024-05-15 00:30:39 -0400
-published: true
+published: false
 permalink: /panes-venezolanos/pan-sobao/
 categories: pan salado capital
 keywords: pan sobao venezolano, pan sobao
