@@ -31,7 +31,6 @@ body, html {
     width: 150px;
     height: 150px;
     border-radius: 50%;
-    margin-bottom: 5px;
 }
 
 .link-img {
@@ -100,7 +99,6 @@ li a:hover {
 <body>
 <div class="container">
     <img src="/images/hazpanencasa-logo2.0.png" alt="Imagen de perfil Haz Pan en Casa" class="profile-img">
-    <h1 id="username">Haz Pan en Casa</h1>
 <ul id="link-list">
     <li>
         <a href="https://panesvenezolanos.com" target="_blank">
@@ -115,9 +113,21 @@ li a:hover {
         </a>
     </li>
     <li>
+        <a href="https://chat.whatsapp.com/GrnANlWQiTvJaRFvrbhvjo" target="_blank">
+            <img src="/images/HazPanesVenezolanos.jpeg" alt="Grupo en WhatsApp Haz Panes Venezolanos en Casa"  class="link-img">
+            <span>Grupo en WhatsApp Haz Panes Venezolanos en Casa</span>
+        </a>
+    </li>
+    <li>
         <a href="https://hazpanen.casa" target="_blank">
             <img src="/images/app.jpg" alt="Aplicación Web hazpanencasa"  class="link-img">
             <span>Aplicación Web hazpanen.casa</span>
+        </a>
+    </li>
+    <li>
+        <a href="https://chat.whatsapp.com/GrnANlWQiTvJaRFvrbhvjo" target="_blank">
+            <img src="/images/hazpanencasa.jpeg" alt="Grupo en Telegram Haz Pan en Casa"  class="link-img">
+            <span>Grupo en Telegram Haz Pan en Casa</span>
         </a>
     </li>
     <!-- Add more links as needed -->
