@@ -200,6 +200,7 @@ Te las comparto a continuación:
 
 # Bombón margariteño
 
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-bombon-02.jpg" alt="{{page.title}}">
 
 ## Ingredientes del Bombón margariteño
 
@@ -225,6 +226,8 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 - Cocinar el azúcar con el agua hasta fomar un almibar, que al dejar caer desde una cuchara forme un hilo grueso.
 
 ### Para amasar los bombones
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-bombon-03.jpg" alt="{{page.title}}">
 
 - Aceitar un platon de hornea de 46x35 centímetros.
 - Volcar la masa sobre la mesa enharinada. 

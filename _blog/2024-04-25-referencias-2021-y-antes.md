@@ -11,6 +11,12 @@ featured_image: '/images/blog/2021-o-antes.jpg'
 
 [La receta de pan de jamón de Juan Pablo Márquez](https://gastronomiaenvenezuela.com/la-receta-del-pan-de-jamon-de-juan-pablo-marquez-pan-comido/).
 
+[Cinco consejos a la hora de hacer el pan de jamón](https://gastronomiaenvenezuela.com/cinco-consejos-a-la-hora-de-hacer-el-pan-de-jamon/). Si bien se suele comprar, también habrá quienes decidan preparar el pan de jamón en casa por Rossana Di Turi González.
+
+## 21-11-2021
+
+[La receta de Pan de Jamón de Claudio Nazoa](https://gastronomiaenvenezuela.com/la-receta-de-pan-de-jamon-de-claudio-nazoa/). En el pan (de jamón) vive Dios por Claudio Nazoa.
+
 ## 19-11-2021
 
 [12 secretos para elaborar un pan de jamón perfecto](https://elestimulo.com/gastronomia/2021-11-19/12-secretos-para-elaborar-un-pan-de-jamon-perfecto/). Yury Rodríguez, maestra panadera y chef docente de Yury's Cakes comparte todos los secretos para que se animen a preparar con éxito el pan de jamón en casa. Giuliana Chiappe.

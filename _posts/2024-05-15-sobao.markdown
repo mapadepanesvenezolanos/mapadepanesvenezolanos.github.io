@@ -2,8 +2,8 @@
 title: "Pan Sobao"
 subtitle: "Para acompañar nuestras comidas de todos los días."
 description: "El Pan Sobao es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agreamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos (sandwich típico de la comida callejera que se consume en la ciudad de Caracas, Venezuela, relleno de carne/pollo/cordero/de res)."
-date: 2023-02-07 07:30:39 -0400
-published: false
+date: 2024-05-15 00:30:39 -0400
+published: true
 permalink: /panes-venezolanos/pan-sobao/
 categories: pan salado capital
 keywords: pan sobao venezolano, pan sobao
@@ -35,7 +35,7 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 # Pan Sobao
 
-* Una (1) barra de pan de 600g 
+* Dos (2) barras de pan de 330g 
 * Temperatura ambiente 22ºC - 27ºC
 * 41% de hidratación (baja hidratación)
 
@@ -45,21 +45,19 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina todo uso                                              |      100%     |      372g |
-| Agua tibia                                                   |       40%     |      149g |
+| Harina todo uso                                              |      100%     |      415g |
+| Agua tibia                                                   |       48%     |      199g |
 | Levadura instantánea                                         |        1%     |        4g |
-| Sal                                                          |        2%     |        7g |
-| Mantequilla sin sal                                          |        9%     |       33g |
-| Azúcar                                                       |        3%     |       11g |
-| Extracto de malta                                            |        2%     |        6g |
-| Leche en polvo                                               |        5%     |       19g |
+| Sal                                                          |        2%     |        8g |
+| Mantequilla sin sal                                          |        5%     |       21g |
+| Azúcar                                                       |        3%     |       13g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **162%**   |  **600g** |
+| **Total**                                                    |    **178%**   |  **660g** |
 
 ### Calculadora para preparar el Pan Sobao
 
 {% include formulas.html %}
-{% include calculadora-de-panes.html %
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso para preparar el Pan Sobao
 
@@ -150,7 +148,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 0.1.0__
+__Versión 1.0.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
