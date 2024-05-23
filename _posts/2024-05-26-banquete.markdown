@@ -2,7 +2,7 @@
 title: "Pan de banquete"
 subtitle: "Nuestro pancito para las fiestas tradicional."
 description: "El pan de banquete es un pan enriquecido típico para acompañar la ensalada de gallina en una fiesta. Es un Pan suave en formato de bollo pequeño."
-date: 2023-06-21 07:13:00 -0400
+date: 2024-05-26 00:13:00 -0400
 permalink: /panes-venezolanos/pan-de-banquete/
 published: false
 categories: pan enriquecido 

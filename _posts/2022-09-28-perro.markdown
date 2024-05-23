@@ -24,7 +24,7 @@ Este es un Pan de miga cerrada y suave, de corteza uniforme y acabado brillante.
 
 ### Perro Caliente Venezolano
 
-Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las personas lo preparan igual. Lo que generalmente se le agrega adentro del pan luego de abrirse es:  Salchicha, cebolla picadita, repollo rallado, zanahoria rallada, papitas fritas (patatas chips), mayonesa, mostaza, salsa de tomate (ketchup).[^2]
+Un perro caliente venezolano lleva de todo un poco, sin embargo no todas las personas lo preparan igual. Lo que generalmente se le agrega adentro del pan luego de abrirse es:  Salchicha, cebolla picadita, repollo rallado, zanahoria rallada, papitas fritas (patatas chips), mayonesa, mostaza, salsa de tomate (ketchup).[^2]
 
 [^1]:El verdadero origen de los hot dogs, la comida rápida más emblemática de los Estados Unidos, https://www.bbc.com/mundo/vert-tra-49067202 
 [^2]:El perro caliente venezolano, https://www.venelogia.com/archivos/10285/ 
@@ -133,7 +133,7 @@ Un perro caliente venezolana lleva de todo un poco, sin embargo no todas las per
 
 ### Horneado
 
-- Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno una media hora antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinte (20) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
 <img class="post_image post_image_right" src="/images/panes/perro/perro_alba_miga.jpeg" alt="{{page.title}}">

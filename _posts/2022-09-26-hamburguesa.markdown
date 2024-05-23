@@ -133,7 +133,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 
 ### Horneado
 
-- Enciende el horno una media antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno una media hora antes de hornear a una temperatura de ciento ochenta (180)ºC - trescientos cincuenta (350)ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente veinticinco (25) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
 ### Enfriamiento
