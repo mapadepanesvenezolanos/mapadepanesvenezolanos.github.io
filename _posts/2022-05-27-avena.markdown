@@ -38,7 +38,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 # Pan de Avena/Muesli
 
-* Una (1) barra de pan de 900g 
+* Una (1) barra de pan de 885g 
 * Temperatura ambiente 22ºC - 27ºC
 * 65% de hidratación (media hidratación)
 
@@ -61,7 +61,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 | Leche en polvo                                               |        2%     |        9g |
 | Avena en hojuelas/Muesli (decorado)                          |        2%     |        9g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **192%**   |  **900g** |
+| **Total**                                                    |    **192%**   |  **885g** |
 
 ### Calculadora para preparar el Pan de Avena
 
@@ -82,7 +82,7 @@ Miro Popic dice: “Los amasijos andinos se diferencian por el horno y el amasad
 
 #### Primer ciclo de amasado
 
-- Reserva la sal y la mantequilla sin sal a parte. Para decorar el pastón, reserva las hojuelas de avena.
+- Reserva la sal y la mantequilla sin sal aparte. Para decorar el pastón, reserva las hojuelas de avena.
 - En un envase mezcla los ingredientes sólidos de la masa: harina, afrecho, azúcar, leche en polvo, extracto de malta en
 polvo, levadura instantánea seca y la avena en polvo.
 - En un segundo envase, mezcla los ingredientes líquidos: el agua/leche líquida tibia con el huevo ligeramente batido.
@@ -120,7 +120,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper. 
 - Realiza pliegues desde los extremos de la masa al centro.
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
-- Cubre la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
+- Cubre la masa con una bolsa plástica y deje reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Preformado 
 
@@ -153,7 +153,7 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 ### Maduración
 
-- Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que ** supere la prueba de maduración con el dedo.**
+- Deje reposar el pastón tapado aproximadamente por una hora (1h) en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que ** supere la prueba de maduración con el dedo.**
 
 ### Horneado
 
@@ -169,7 +169,7 @@ Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te
 
 ### Consumo del pan
 
-* Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
+* Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por cinco (5) minutos para que se recupere.
 
 ---
 
@@ -185,7 +185,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__
+__Versión 3.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
