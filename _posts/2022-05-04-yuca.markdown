@@ -198,17 +198,17 @@ La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más,
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      206g |
-| Puré de yuca                                                 |       46%     |       95g |
+| Harina panadera                                              |      100%     |      207g |
+| Puré de yuca                                                 |       46%     |       95   g |
 | Agua                                                         |       34%     |       70g |
 | Levadura instantánea                                         |        1%     |        2g |
-| Sal                                                          |        2%     |        6g |
+| Sal                                                          |        2%     |        4g |
 | Huevos ligeramente batidos                                   |       10%     |       21g |
 | Mantequilla sin sal                                          |       10%     |       21g |
 | Azúcar                                                       |       10%     |       21g |
-| Aceite vegetal/canola                                        |        7%     |       14g |
+| Aceite vegetal/canola                                        |        7%     |       15g |
 | Leche en polvo                                               |        2%     |        4g |
-| Prefermento biga                                             |       39%     |       80g |
+| Prefermento biga                                             |       39%     |       81g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **261%**   |  **540g** |
 
@@ -259,14 +259,14 @@ Planifica dos días para la preparación de esta versión del Pan de Yuca.
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      212g |
-| Puré de yuca blanca                                          |       44%     |       93g |
+| Harina panadera                                              |      100%     |      213g |
+| Puré de yuca blanca                                          |       44%     |       94g |
 | Agua                                                         |       25%     |       53g |
 | Levadura instantánea                                         |        1%     |        2g |
-| Sal                                                          |        2%     |        6g |
+| Sal                                                          |        2%     |        4g |
 | Huevos ligeramente batidos                                   |        9%     |       19g |
 | Mantequilla sin sal                                          |        9%     |       19g |
-| Azúcar                                                       |        5%     |       19g |
+| Azúcar                                                       |        5%     |       11g |
 | Aceite vegetal/canola                                        |        7%     |       15g |
 | Leche en polvo                                               |        2%     |        4g |
 | Talvina                                                      |       50%     |      106g |
