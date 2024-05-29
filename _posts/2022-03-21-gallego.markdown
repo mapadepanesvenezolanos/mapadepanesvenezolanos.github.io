@@ -26,16 +26,15 @@ El Pan Gallego que se prepara en Venezuela es un pan tiene una corteza rústica,
 
 - Lo primero que debemos tener antes de empezar a hacer un Pan como este es Masa Madre. Un cultivo de levaduras estable y activo, alimentado con regularidad. 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-- El primer aspecto que les quiero dejar es que la Masa Madre le hereda características a la mezcla, si la Masa Madre es ácida, el Pan será ácido, si la Masa Madre tiene cuerpo, le heredará estructura a la masa, si la Masa Madre está activa, la fermentación iniciará con buen pie. La Masa Madre hereda características al futuro Pan. Es por ello que el cuidado de la
-misma contribuye a la calidad del resultado. Es un ingrediente fundamental en esta preparación.
-- Los panes rústicos de Masa Madre suelen ser de alta hidratación (más de 65%) y de larga fermentación. Para las largas fermentaciones es importante contar con harinas de fuerza, recomiendo al menos 13% con buena calidad, para que no se degrade la red de gluten durante la fermentación.
+- El primer aspecto que les queremos compartir es que la Masa Madre le hereda características a la mezcla, si la Masa Madre es ácida, el Pan será ácido, si la Masa Madre tiene cuerpo, le heredará estructura a la masa, si la Masa Madre está activa, la fermentación iniciará con buen pie. La Masa Madre hereda características al futuro Pan. Es por ello que el cuidado de la misma contribuye a la calidad del resultado. Es un ingrediente fundamental en esta preparación.
+- Los panes rústicos de Masa Madre suelen ser de alta hidratación (más de sesenta y cinco (65%)) y de larga fermentación. Para las largas fermentaciones es importante contar con harinas de fuerza, recomiendo al menos trece (13%) por ciento con buena calidad, para que no se degrade la red de gluten durante la fermentación.
 - A veces pensamos que la miga es el resultado del horno, realmente la alveolatura sólo se expande y se asienta dentro del horno, pero los alvéolos vienen de la fermentación. Antes de entrar a la nevera la masa se debe sentir esponjosa y llena de aire, dependiendo de tu Masa Madre, la harina y la temperatura, esto puede tomar más o menos tiempo. Hay que estar atento y agarrarle el pulso a la masa para saber cuándo está lista para ir a la nevera.
 
 <img class="post_image post_image_right" src="/images/panes/gallego/gallego_6.jpeg" alt="{{page.title}}">
 
-- En la nevera se duermen las levaduras, por el frío, y quedan realizando el proceso de fermentación las bacterias, las bacterias generan ácidos que le darán sabor al futuro Pan. Si deseas bajar la acidez entonces el pH de inicio debe ser mayor a 4.2. Para lograr esto recomiendo que los refrescos a la Masa Madre se realicen cuando está activa y no cuando ha bajado. Es decir, posiblemente antes de las 12h ya la Masa Madre va a requerir un refresco. Es frecuente que en 5h una Masa Madre alimentada 1:1:1 ya alcanza su pico, es en ese momento que se utiliza o se refresca. Si deseas hacer más lento ese proceso puedes aumentar la relación a 1:4:4 o 1:8:8. Este aumento de la relación hace más lento el proceso y permite planificar y adaptarla a un cronograma que nos convenga. Yo particularmente he subido la relación a 1:16:16 porque alcanza su pico entre 9-10 horas y como el proceso es lento tengo más tiempo para iniciar la preparación sin que se acidifique mucho la Masa Madre, además no tengo descarte con una relación alta y me permite ahorrar ingredientes. Para subirla a 1:16:16, hay que hacerlo poco a poco, de 1:1:1, a 1:2:2, cuando ya alcanza el pico en 8 horas, la puedes subir a 1:4:4 y así hasta llegar a la relación que deseas. Esto es aplicar larga fermentación inclusive a la Masa Madre.
-- Para lograr una greña espectacular deben ocurrir al menos tres cosas: Tener una masa con estructura, esto es que mantiene su forma, no dejar que sobre fermente la masa y una primera etapa de horneado con vapor. La estructura se logra con pliegues, estirar y plegar, extender y plegar durante la fermentación en bloque. Evitar la sobre fermentación cuidando el punto donde entra a la nevera y finaliza la fermentación el bloque y empieza el retardo. Hornear con vapor en la primera etapa en el horno para permitir que se expanda la pieza lo más posible antes que la corteza se forme.
-- A veces la Masa Madre es lenta o con poca fuerza, recomiendo que la fermentación en bloque y maduración se haga a temperatura ambiente para entender la fermentación y su efecto para luego realizar retardo en nevera. La temperatura idónea para el proceso de fermentación está alrededor de los 25ºC a 28ºC, procura dicha temperatura.
+- En la nevera se duermen las levaduras, por el frío, y quedan realizando el proceso de fermentación las bacterias, las bacterias generan ácidos que le darán sabor al futuro Pan. Si deseas bajar la acidez entonces el pH de inicio debe ser mayor a cuatro punto dos (4.2). Para lograr esto, recomendamos que los refrescos a la Masa Madre se realicen cuando está activa y no cuando ha bajado. Es decir, posiblemente antes de las doce (12) horas ya la Masa Madre va a requerir un refresco. Es frecuente que en cinco (5) horas una Masa Madre alimentada 1:1:1 ya alcanza su pico, es en ese momento que se utiliza o se refresca. Si deseas hacer más lento ese proceso puedes aumentar la relación a 1:4:4 o 1:8:8. Este aumento de la relación hace más lento el proceso y permite planificar y adaptarla a un cronograma que nos convenga. Nosotros hemos subido la relación a 1:16:16 porque alcanza su pico entre nueve (9) a diez (10) horas y como el proceso es lento tenemos más tiempo para iniciar la preparación sin que se acidifique mucho la Masa Madre, además no tenemos descarte con una relación alta y nos permite ahorrar ingredientes. Para subirla a 1:16:16, hay que hacerlo poco a poco, de 1:1:1, a 1:2:2, cuando ya alcanza el pico en 8 horas, la puedes subir a 1:4:4 y así hasta llegar a la relación que deseas. Esto es aplicar larga fermentación inclusive a la Masa Madre.
+- Para lograr una greña espectacular deben ocurrir al menos tres cosas: Tener una masa con estructura, esto es que mantiene su forma, no dejar que sobre fermente la masa y una primera etapa de horneado con vapor. La estructura se logra con pliegues, estirar y plegar, extender y plegar durante la fermentación en bloque. Evitar la sobrefermentación cuidando el punto donde entra a la nevera y finaliza la fermentación el bloque y empieza el retardo. Hornear con vapor en la primera etapa en el horno para permitir que se expanda la pieza lo más posible antes que la corteza se forme.
+- A veces la Masa Madre es lenta o con poca fuerza, te recomendamos que la fermentación en bloque y maduración se haga a temperatura ambiente para entender la fermentación y su efecto para luego realizar retardo en nevera. La temperatura idónea para el proceso de fermentación está alrededor de los 24ºC/75ºF a 27ºC/80ºF, procura dicha temperatura.
 
 {% include whatsapp.html %}
 
@@ -113,26 +112,31 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ### Fermentación final (maduración y retardo en nevera)
 
-- Coloca el recipiente tapado en la nevera entre 16h y 18h.
-- Una hora antes de sacar la pieza de la nevera, enciende el horno a 450ºF con la olla holandesa tapada dentro del horno a media altura.
+- Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h). 
+- Una (1) hora antes de sacar la pieza de la nevera, enciende el horno a 232ºC/450ºF colocando preferiblemente una olla de tipo holandesa tapada, dentro del horno a media altura. 
 
 ### Barnices, coberturas y cortes
 
-- Saca el recipiente de la nevera y coloca la masa sobre papel para hornear y realiza el corte con una hojilla.
-- Saca la olla holandesa del horno y con cuidado introduce la pieza en la olla, colocando uno (1) o dos (2) hielos en la olla y agua suficiente con un atomizador sobre la superficie de la pieza, tape la olla.
+- Saca el recipiente de la nevera y coloca la masa sobre papel para hornear (papel parchemin).
+- Con una hojilla, realiza un corte de un (1) cm de profundidad, que atraviese el pastón desde el extremo norte hasta el extremo sur. 
+- Saca la olla (holandesa) del horno con cuidado e introduce el paston en la olla.
+- Coloca dos (2) hielos en la base de la olla, debajo del papel para hornear (parchemin).
+- Con un atomizador, rocía agua generosamente sobre la superficie del pastón.
+- Tapa la olla.
 
 ### Horneado 
 
-- Introduce la olla en el horno y déjala por 20 min a 430ºF.
-- Saca la olla y pasa la pieza con cuidado a una bandeja e introdúcela en el horno por 20 min a 410ºF.
-- Reduce la temperatura a 355ºF y deja el Pan por 10 minutos más.
+- Introduce la olla en el horno y déjala por veinte (20) minutos a 200ºC/430ºF. 
+- Saca la olla del horno, pasa la pieza de Pan con cuidado a una bandeja e introdúcela en el horno por veinte (20) minutos a 210ºC/410ºF. 
+- Reduce la temperatura a 180ºC/355ºF y deja el Pan por diez (10) minutos más. 
 - Apaga el horno, dejando la puerta del horno entreabierta. 
-- Deja el Pan por 15 minutos
+- Deja el Pan en el horno durante quince (15) minutos.
 
 ### Enfriamiento
 
-- Saca la bandeja y mueve el Pan a una rejilla. Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
-- Al día siguiente antes de consumirlo, coloca el Pan en el horno a 355ºF por diez (10) minutos para que recupere la crocancia.
+- Saca la bandeja del horno y mueve el Pan a una rejilla. 
+- Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
+- Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
 ---
 
@@ -148,7 +152,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 4.0.0__ 
+__Versión 5.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
