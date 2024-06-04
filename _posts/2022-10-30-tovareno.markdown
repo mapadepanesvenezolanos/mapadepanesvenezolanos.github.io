@@ -131,10 +131,7 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 - Coloca el cuadrado de masa de un lado de la mesa de trabajo.
 - Con la mano limpia, toma un puñito del polvo formado en el [preparación del aliño/guiso o arenado](#prepaparación-del-aliñoguiso-o-arenado) y cubre la mesa de trabajo con este polvo.
 - Coloca el cuadrado de masa encima del aliño/guiso o arenado y procede a sobar la masa. La idea es incorporar los aliños/guiso o arenado a la masa.
-- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo hacia el extremo superior izquierdo del cuadrado de masa.
-- Repite el paso anterior, ahora llevando el rodillo al extremo superior derecho del cuadrado de masa.
-- Una vez hayas sobado los cuatros extremos del cuadrado, dobla la masa en forma de cuaderno, de derecha a izquierda. 
-- Repite los cinco (5) pasos anteriores al menos diez (10) veces hasta alcanzar una textura de masa lisa y hasta utilizar todo el aliño/guiso/arenado.
+- Forma una bolita de masa.
 - Deja reposar la masa durante 10 minutos en la mesa, cubierta con un paño de tela limpio o con una bolsa plástica.
 
 ### División
@@ -142,11 +139,11 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 - Procede a pesar la masa total.
 - Divide la masa en tres (3) porciones de igual peso.
 - Forma una bolita redonda con cada porción.
-- Deja reposar las bolitas en la mesa de trabajo durante cinco (5) minutos.
+- Deja reposar las bolitas en la mesa de trabajo durante diez (10) minutos.
 
 ### Formado
 - Estira cada bola con el rodillo y forma un rectángulo, de treinta (30) centimetros de largo por diez (10) centímetros de ancho.
-- Partiendo del extremo superior derecho del lado más largo del rectángulo, enrolla la masa hacia tu izquierda hasta formar una batta.
+- Partiendo del extremo superior derecho del lado más largo del rectángulo, enrolla la masa hacia tu izquierda hasta formar una barra.
 
 ### Fermentación en bloque
 
@@ -157,14 +154,18 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 ### Barnices, coberturas y cortes
 
 - Retira la bolsa plástica de la bandeja donde de encuentran tus barras de masa.
-- Toma un envase limpio y seco, rompe y bate un huevo ligeramente.
-- Con la ayuda de una brocha de cocina, barniza con una capa fina de huevo batido la corteza de cada una de las tres barras.
-- Toma una hojilla bien afilada y en cada una de las barras de masa, realiza tres (3) cortes diagonales de medio centímetro de profundidad, siempre partiendo desde la extremo superior de la barra hasta el extremo inferior. Recuerda dejar una separacion similar entre cada corte.
+- Con un aspersor de agua o una brocha de cocina, cubre tu barra o bola de masa con una capa de agua.
+#### Corte del formato tipo barra
+- Toma una hojilla bien afilada y en cada una de las barras de masa, realiza tres (3) cortes diagonales de medio (0.5 centímetro de profundidad, siempre partiendo desde la extremo superior de la barra hasta el extremo inferior. 
+- Recuerda dejar una separacion similar entre cada corte.
+#### Corte del formato tipo hogaza redonda
+- Toma una hojilla bien afilada y en cada una de tus hogazas, realiza al menos tres (3) cortes horizontales de medio (0.5 centímetro de profundidad,  partiendo desde la extremo derecho hasta llegar al extremo derecho de la hogaza. 
+- Recuerda dejar una separacion similar entre cada corte.
 
 ### Horneado
 
 - Enciende el horno media hora antes de hornear a una temperatura de 170ºC - 345ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Coloca la bandeja en el medio del horno durante aproximadamente treinta (30) a treinta y cinco (35) minutos.
+- Coloca la bandeja en el medio del horno durante aproximadamente treinta y cinco (35) y cuarenta (40) minutos.
 - Verifica el horno asegurándote que los panes se hornean de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
 - Saca los panes del horno cuando tengan un color dorado a tu gusto.
 
@@ -191,7 +192,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__ 
+__Versión 3.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
