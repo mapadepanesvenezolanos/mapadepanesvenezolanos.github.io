@@ -2,16 +2,16 @@
 title: "Pan de banquete"
 subtitle: "Nuestro pancito para las fiestas tradicional."
 description: "El pan de banquete es un pan enriquecido típico para acompañar la ensalada de gallina en una fiesta. Es un Pan suave en formato de bollo pequeño."
-date: 2024-05-26 00:13:00 -0400
+date: 2024-06-03 00:13:00 -0400
 permalink: /panes-venezolanos/pan-de-banquete/
-published: false
+published: true
 categories: pan enriquecido 
 keywords: pan de banquete, pan de banquete venezuela, pan de banquete venezolano
-featured_image: '/images/panes/banquete/banquete_1.jpeg'
+featured_image: '/images/panes/banquete/banquete.jpeg'
 formula_name: "banquete"
 ---
 
-Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la comida. Es un Pan básico, enriquecido, semi dulce, de miga cerrada.
+Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la ensalada de gallina. Es un Pan básico, enriquecido, semi dulce, de miga cerrada en formato pequeño.
 
 ## RECETA, FÓRMULA y TÉCNICAS del Pan de Banquete
 
@@ -25,8 +25,6 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips para preparar el Pan de Banquete
 
 - Este Pan utiliza el quince (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
@@ -38,9 +36,16 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 # Pan de Banquete
 
+<div class="post_image post_image_right">
+<video width="300" autoplay muted controls>
+  <source src="/images/panes/banquete/banquete.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+</div>
+
 ## Masa leudada con levadura instantánea
 
-* 12 Panes de 40g de masa.
+* 16 Panes de 31g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 55% de hidratación (Baja hidratación).
 
@@ -79,18 +84,20 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 #### Integración y amasado inicial
 
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
 - Para la mezcla inicial reserva la sal.
-- En un envase mezcla la harina y la levadura instantánea.
-- En otro envase mezcla el agua con la leche en polvo, el huevo y el azúcar hasta disolver.
+- En un envase mezcla la harina, la levadura instantánea y la leche en polvo.
+- En otro envase mezcla el agua, el huevo y el azúcar hasta disolver.
 - Crea un volcán con la mezcla de harina y levadura y coloca los líquidos y la grasa en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 #### Ciclo de sobado 
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
 - Coloca el rodillo en el centro del cuadrado, y lleva el rodillo del centro al extremo anterior y del centro al extremo posterior. Pliega la masa sobre si misma, voltea la masa 90º y repite el proceso de sobado.
-- Repite el paso anterior cinco (5) a siete (7) veces. 
+- Repite el paso anterior unas cuatro (4) a siete (7) veces. 
 - Cubre la masa con un plastico durante diez (10) minutos.
 - Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de sobado con reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
@@ -100,7 +107,7 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 - Saca la masa del recipiente tapado.
 - Procede a pesar la masa total.
-- Divide la masa en doce (12) porciones de igual peso según tu preferencia.
+- Divide la masa en dieciseis (16) porciones de igual peso según tu preferencia.
 
 ### Preformado
 
