@@ -13,6 +13,8 @@ formula_name: "banquete"
 
 Este Pan es típico de las panaderías en Venezuela que se utiliza en las fiestas para acompañar la ensalada de gallina. Es un Pan básico, enriquecido, semi dulce, de miga cerrada en formato pequeño.
 
+El pancito de la panadería suele ser más seco. Esta versión tiene más hidratación para que sea más suave esponjado y dure un poco más.
+
 ## RECETA, FÓRMULA y TÉCNICAS del Pan de Banquete
 
 ## Resultado esperado
@@ -56,7 +58,7 @@ Your browser does not support the video tag.
 | Harina panadera           |        100% |  300g  |
 | Agua                      |         50% |  150g  |
 | Levadura instantánea      |          1% |    3g  |
-| Sal                       |          2% |    5g  |
+| Sal                       |          2% |    6g  |
 | Huevos ligeramente batidos|          5% |   15g  |
 | Grasa                     |          5% |   15g  |
 | Azúcar                    |          5% |   15g  |
