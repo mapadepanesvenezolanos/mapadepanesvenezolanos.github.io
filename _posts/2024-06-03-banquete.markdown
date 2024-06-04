@@ -1,5 +1,5 @@
 ---
-title: "Pan de banquete"
+title: "Pan de Banquete"
 subtitle: "Nuestro pancito para las fiestas tradicional."
 description: "El pan de banquete es un pan enriquecido típico para acompañar la ensalada de gallina en una fiesta. Es un Pan suave en formato de bollo pequeño."
 date: 2024-06-03 00:13:00 -0400
@@ -155,6 +155,8 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
 
+Un agradecimiento especial a Javier Benitez de [@pancitos_bakery] por probar la fórmula y darnos feedback.
+
 **¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
@@ -164,6 +166,7 @@ __Versión 1.0.0__
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@pancitos_bakery]: https://www.instagram.com/pancitos_bakery
 [@1painalafois]: https://www.instagram.com/1painalafois
 [@dunitasbakery]: https://www.instagram.com/dunitasbakery
 [@farinaelievito]: https://www.instagram.com/farinaelievito
