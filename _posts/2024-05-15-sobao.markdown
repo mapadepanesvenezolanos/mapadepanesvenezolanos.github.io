@@ -85,7 +85,7 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 <div id="ciclodesobado"></div>
 
-#### Ciclo de sobado 
+#### Ciclo de sobado (manual)
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
 - Coloca el rodillo en el centro de la masa y extiende desde el centro al extremo anterior y luego del centro al extremo posterior, estira suficientemente, pliega la masa y la rotas 90º grados.
