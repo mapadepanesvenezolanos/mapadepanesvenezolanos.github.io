@@ -29,7 +29,7 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 ## Tips para preparar el Pan de Banquete
 
-- Este Pan utiliza el quince (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
+- Este Pan utiliza el cinco (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
 - Este Pan se puede hacer con harina todo uso y se suele hacer por método directo y sin fermentación inicial o en bloque.
 
 {% include whatsapp.html %}
