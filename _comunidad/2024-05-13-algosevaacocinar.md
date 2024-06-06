@@ -7,7 +7,7 @@ published: true
 featured_image: '/images/comunidad/algosevaacocinar/algosevaacocinar.jpg'
 ---
 
-Soy Claudia Raga Sanz de [@algosevaacocinar](https://www.instagram.com/algosevaacocinar), ingeniero de sistemas de profesión, panadera profesional casera que se enamoró de hacer pan en la pandemia. 
+Soy Claudia Raga Sanz de [@algosevaacocinar](https://www.instagram.com/algosevaacocinar){:target="blank"}, ingeniero de sistemas de profesión, panadera profesional casera que se enamoró de hacer pan en la pandemia. 
 
 Comencé con un curso gratuito que publicaron en twitter, lo dictaron por Telegram y por los resultados me enamoré de hacer pan. 
 

@@ -7,7 +7,7 @@ published: true
 featured_image: '/images/comunidad/joselinbread/joselinbread.jpg'
 ---
 
-Joselin es una panadera casera que vive en españa y comparte sus preparaciones sobre Panes Venezolanos a través de la cuenta [Instagram @joselinbread](https://instagram.com/joselinbread/)
+Joselin es una panadera casera que vive en españa y comparte sus preparaciones sobre Panes Venezolanos a través de la cuenta [Instagram @joselinbread](https://instagram.com/joselinbread/){:target="blank"}
 
 A continuación el contenido que comparte Joselin a la comunidad de panaderos.
 
@@ -18,7 +18,7 @@ A continuación el contenido que comparte Joselin a la comunidad de panaderos.
 
 # Roscas de Coco Margariteñas
 
-En mi recorrido de Panes Venezolanos, me he encontrado maravillas como estas Roscas de Coco Margariteño. [@lamamideamy](https://instagram.com/lamamideamy/) me aclaró que el Bombón Margariteño no lleva coco y revisando la bibliografía de Panes Venezolanos, es así. 
+En mi recorrido de Panes Venezolanos, me he encontrado maravillas como estas Roscas de Coco Margariteño. [@lamamideamy](https://instagram.com/lamamideamy/){:target="blank"} me aclaró que el Bombón Margariteño no lleva coco y revisando la bibliografía de Panes Venezolanos, es así. 
 
 Este que les traigo hoy se denomina Roscas de Coco Margariteñas. Unos rollitos similar a los Golfeados pero el relleno es de coco y azúcar glas. La isla de Margarita fue la tierra que vio nacer a mis ancestros, de pequeña me llevaban a pasar el verano y disfrutaba de sus playas y de su maravillosa gastronomía. 
 
@@ -32,7 +32,7 @@ En las tardes antes de ir a disfrutar del mar pasábamos por una panadería y co
 - 75 g de azúcar 
 - 50 g de aceite 
 - 25 g de margarina
-- 100 g de Masa Madre.  Yo use Talvina ([@originalyayahenriquez](https://instagram.com/originalyayahenriquez/)) o 4 g de levadura seca
+- 100 g de Masa Madre.  Yo use Talvina ([@originalyayahenriquez](https://instagram.com/originalyayahenriquez/){:target="blank"}) o 4 g de levadura seca
 - 125 g de leche
 - 25 g de huevo 
 - 6 g de sal 
@@ -107,4 +107,4 @@ Un pan amasado con leche de coco y ralladura de limón y la combinación de esto
 
 ---
 
-[Joselin](https://instagram.com/joselinbread/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joselin](https://instagram.com/joselinbread/) directamente.
+[Joselin](https://instagram.com/joselinbread/){:target="blank"} comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joselin](https://instagram.com/joselinbread/){:target="blank"} directamente.

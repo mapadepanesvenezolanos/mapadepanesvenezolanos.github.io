@@ -15,7 +15,7 @@ Comencé colaborando con un pan de jamón en la mesa familiar, con la receta de 
 
 Hoy en día, desde el exilio, y sin dejar de seguir haciendo historia, estamos a la orden para todo aquel interesado en incursionar, perfeccionar o simplemente intercanbiar ideas sobre tan satisfactorios y productivos temas.
 
-Me puedes contactar a través del Instagram [@arturoa3971](https://instagram.com/arturoa3971/), [@panitasvla](https://instagram.com/panitasvla/) o Facebook Arturo Abu.
+Me puedes contactar a través del Instagram [@arturoa3971](https://instagram.com/arturoa3971/){:target="blank"}, [@panitasvla](https://instagram.com/panitasvla/){:target="blank"} o Facebook Arturo Abu.
 
 ¡Un levado abrazo!
 
@@ -108,11 +108,11 @@ Hacer pasta con la jalea de mango y pintarla de diversos colores con colorantes 
 
 # Domplina
 
-El artículo [Las domplinas hablan inglés, español y patuá](https://historiasdesobremesa.wordpress.com/2013/07/16/las-domplinas-hablan-ingles-espanol-y-patua/), indica, "El chef guayanés Jhonnys Pitter afirma que los esclavos residentes en Jamaica, aprendieron la receta de sus amos y las expandieron a otras islas como St.Vincent, Martinica y Trinidad y Tobago. Luego llegó a Venezuela por dos vías: por el Delta del Orinoco y viajó con los mineros que buscaban oro en el Callao, y el otro camino se trazó por la península de Paria, cuya proximidad geográfica está servida."
+El artículo [Las domplinas hablan inglés, español y patuá](https://historiasdesobremesa.wordpress.com/2013/07/16/las-domplinas-hablan-ingles-espanol-y-patua/){:target="blank"}, indica, "El chef guayanés Jhonnys Pitter afirma que los esclavos residentes en Jamaica, aprendieron la receta de sus amos y las expandieron a otras islas como St.Vincent, Martinica y Trinidad y Tobago. Luego llegó a Venezuela por dos vías: por el Delta del Orinoco y viajó con los mineros que buscaban oro en el Callao, y el otro camino se trazó por la península de Paria, cuya proximidad geográfica está servida."
 
 La Domplina se consume en Oriente desde Sucre hasta el Delta, extendiendo a Ciudad Bolivar. Hay varias versiones, asada, frita, con leche de coco, con agua, con puré de auyama, etc. Dependiento del lugar y la forma de cocción cambia un poco su elaboración. La suelen llamar Domplinas, bekas, galetas, flotas, cholas o pan de minero.
 
-En otra referencia de la [Domplinas](https://www.venezuelatuya.com/cocina/domplinas.htm), se señala que "la gastronomía de paria es muy particular, alli la vida corre sin prisa y no podría ser vida sin la diaria creación de las domplinas…que cuando se asan las llaman así, si se hornean les dicen becas y si las fríen, flotas."
+En otra referencia de la [Domplinas](https://www.venezuelatuya.com/cocina/domplinas.htm){:target="blank"}, se señala que "la gastronomía de paria es muy particular, alli la vida corre sin prisa y no podría ser vida sin la diaria creación de las domplinas…que cuando se asan las llaman así, si se hornean les dicen becas y si las fríen, flotas."
 
 Disfruta la preparación de las Domplinas de Arturo.
 
@@ -208,4 +208,4 @@ Origen caribeño, redondo aplanado, neutro, miga esponja, corteza suave y dorada
 
 ---
 
-[Arturo](https://instagram.com/arturoa3971/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Arturo](https://instagram.com/arturoa3971/) directamente.
+[Arturo](https://instagram.com/arturoa3971/){:target="blank"} comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Arturo](https://instagram.com/arturoa3971/){:target="blank"} directamente.

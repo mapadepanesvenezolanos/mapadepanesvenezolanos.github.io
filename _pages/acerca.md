@@ -18,16 +18,16 @@ Queremos ayudarte a conocer y a preparar los Panes típicos de Venezuela en casa
 
 Rol: Investigar, producir, preparar, decidir la orientación, visión, formato, presentación y estilo del contenido del mapa de panes venezolanos.
 
-- Jesús Méndez <a href="https://www.instagram.com/1painalafois/">@1painalafois en Instagram</a>
-- Alexander Ramírez <a href="https://www.instagram.com/hazpanencasa/">@hazpanencasa en Instagram</a>
+- Jesús Méndez [@1painalafois en Instagram](https://www.instagram.com/1painalafois/){:target="blank"}
+- Alexander Ramírez [@hazpanencasa en Instagram](https://www.instagram.com/hazpanencasa/){:target="blank"}
 
 #### Aseguramiento de la calidad
 
 Rol: Probar y corregir el contenido de Panes Venezolanos.
 
-- Claudia Raga <a href="https://www.instagram.com/algosevacocinar/">@algosevaacocinar en Instagram</a>
-- Dunia Morales <a href="https://www.instagram.com/dunitasbakery/">@dunitasbakery en Instagram</a>
-- Alba Cennerazzo <a href="https://www.instagram.com/farinaelievito/">@farinaelievito en Instagram</a>
+- Claudia Raga [@algosevaacocinar en Instagram](https://www.instagram.com/algosevacocinar/"){:target="blank"}
+- Dunia Morales [@dunitasbakery en Instagram](https://www.instagram.com/dunitasbakery/){:target="blank"}
+- Alba Cennerazzo [@farinaelievito en Instagram](https://www.instagram.com/farinaelievito/){:target="blank"}
 
 ## Misión
 

@@ -15,7 +15,7 @@ Siempre trabajé más la repostería y la panadería solo para la época decembr
 
 Me encantan los números y las matemáticas, la panadería es una mezcla de números con arte y pasión además de paciencia, así fue como en el 2019 empecé a trabajar con masa madre por mi salud y mi estado pues esperaba a *Amy* y necesitaba panes mas saludables para ambas, terminé enamorándome mucho más del arte de la panaderías.
 
-Comencé mi proyecto de [@lamamideamy](https://instagram.com/lamamideamy/) cuando ella nació a finales de 2019 y esperaba ponerlo en marcha a principios  de 2020, justo nos sorprendió la pandemia ese año y nos descuadró todo, entonces comencé a dar talleres en línea para ayudar a amigos y familiares que me pedían les enseñara a hacer Pan Canilla, también fue una manera de lidiar con el estrés, la preocupaciones y el encierro.
+Comencé mi proyecto de [@lamamideamy](https://instagram.com/lamamideamy/){:target="blank"} cuando ella nació a finales de 2019 y esperaba ponerlo en marcha a principios  de 2020, justo nos sorprendió la pandemia ese año y nos descuadró todo, entonces comencé a dar talleres en línea para ayudar a amigos y familiares que me pedían les enseñara a hacer Pan Canilla, también fue una manera de lidiar con el estrés, la preocupaciones y el encierro.
 
 <img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-01.jpg" alt="{{page.title}}">
 
@@ -43,7 +43,7 @@ En tiempos antiguos, este Pan, se solía elaborar solo con leche fresca, despué
 
 Es un pan de miga prieta, suave, delicado y con gran valor de identidad asuntina que pone en alto la cultura culinaria y panadería margariteña.
 
-Gracias a nuestras panaderías de tradición como lo son [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion) y la [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan) que son identidad neoespartana con más de 100 años.
+Gracias a nuestras panaderías de tradición como lo son [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion){:target="blank"} y la [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan){:target="blank"} que son identidad neoespartana con más de 100 años.
 
 Mi receta es un obsequio, que ha sido prueba tras prueba y esfuerzo para que otras personas puedan disfrutar del sabor y la tradición margariteña en su hogar, fue parte de mi presentación de panes margariteños para graduarme como chef panadero aprobada por chefs como Juan José Hassan,  Freddy Acosta, Francesca Spaziani entre otros en mi examen final en el 2022 en el instituto iberoamericano.
 
@@ -255,7 +255,7 @@ Receta de masa para acemas margariteras de 500 gr de harina, sin coco y sin semi
 
 # Saboyano
 
-El Saboyano es tradicional en Margarita y la [Panadería San Juan Bosco](https://www.instagram.com/p/CFUqdvXljKZ/?igsh=MzJuNTFvcjF6NTQ1) lo ofrece. Les dejo la receta para que los puedan preparar.
+El Saboyano es tradicional en Margarita y la [Panadería San Juan Bosco](https://www.instagram.com/p/CFUqdvXljKZ/?igsh=MzJuNTFvcjF6NTQ1){:target="blank"} lo ofrece. Les dejo la receta para que los puedan preparar.
 
 ## Ingredientes del Saboyano
 
@@ -278,4 +278,4 @@ El Saboyano es tradicional en Margarita y la [Panadería San Juan Bosco](https:/
 
 ---
 
-[Joanther](https://instagram.com/lamamideamy/) comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joanther](https://instagram.com/lamamideamy/) directamente.
+[Joanther](https://instagram.com/lamamideamy/){:target="blank"} comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Joanther](https://instagram.com/lamamideamy/){:target="blank"} directamente.
