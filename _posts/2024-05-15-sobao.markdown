@@ -1,7 +1,7 @@
 ---
 title: "Pan Sobao"
 subtitle: "Una variante de la Canilla que pasa por la sobadora más tiempo para producir una corteza suave. El Pan Sobao es otro de los acompañantes típicos de nuestras comidas."
-description: "El Pan Sobao es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agreamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos que son un sandwich típico de la comida callejera que se consume en varias ciudades importantes de Venezuela como Barquisimeto y Caracas, relleno de carne de pollo o res."
+description: "El Pan Sobao es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agregamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos que son un sandwich típico de la comida callejera que se consume en varias ciudades importantes de Venezuela como Barquisimeto y Caracas, relleno de carne de pollo o res."
 date: 2024-05-15 00:30:39 -0400
 published: true
 permalink: /panes-venezolanos/pan-sobao/
@@ -15,7 +15,7 @@ formula_name: "sobao"
 
 ## Resultado esperado
 
-Este es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agreamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos que son un sandwich típico de la comida callejera que se consume en varias ciudades importantes de Venezuela como Barquisimeto y Caracas, relleno de carne de pollo o res.
+Este es un pan de miga cerrada, suave, de corteza suave, esponjosa y de color miel. Nosotros le agregamos un toquecito de leche en polvo para incrementar la suavidad y profundizar el sabor de la miga. Es un pan perfecto para hacer sandwiches tipo pepitos que son un sandwich típico de la comida callejera que se consume en varias ciudades importantes de Venezuela como Barquisimeto y Caracas, relleno de carne de pollo o res.
 
 ## Origen del Pan Sobao
 
@@ -25,7 +25,7 @@ Según lo indicado en el libro Soy Panadero, un homenaje a los artesanos del pan
 Según nuestras investigaciones, es altamente probable que el pan sobao haya venido a Venezuela con la inmigración española. Sus ingredientes, el procedimiento de preparación y sobre todo la textura de la miga y la costra son muy parecidos a ciertos panes llamados candeales, como los que se describen por ejemplo, en el libro de Iban Yarza 100 recetas de pan de pueblo[^2].
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
-[^2]: 100 recetas de pan de pueblo, ideas y trucos para hacer en casa panes de toda España. 
+[^2]: 100 recetas de pan de pueblo, ideas y trucos para hacer en casa panes de toda España, Ibán Yarza.
 
 {% include whatsapp.html %}
 
@@ -67,30 +67,31 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 ### Preparación de la masa
 
 - Pesa todos los ingredientes y colócalos en envases separados.
-- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. 
+- Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 
 ### Mezcla y amasado
 
-#### Ciclo de amasado
+#### Primer Ciclo de amasado (manual)
 
 - En un primer envase mezcla el agua, con el azúcar hasta disolver.
 - En otro envase, mezcla la levadura instantánea, con la harina y la leche en polvo hasta integrar completamente.
-- En la mesa de trabajo crea un volcán de boca ancha con el contenido de los solidos mezclados en el paso previo y luego vierte la mezcla líquida del primer envase en el centro del volcán, colocando la sal en el borde del volcán. 
+- En la mesa de trabajo crea un volcán de boca ancha con el contenido de los sólidos mezclados en el paso previo y luego vierte la mezcla líquida del primer envase en el centro del volcán, colocando la sal en el borde del volcán. 
 - Ve mezclando ambas partes hasta formar una bolita de masa homogénea.
 - Déjala reposar en una bolsa plástica por diez (10) minutos.
 - Incorpora la mantequilla pomada amasando, la masa se va a separar, sigue amasando hasta formar una bola homogenea.
-- Déjala reposar en la mesa a una temperatura idealmente entre veinticuatro (24ºC) y veintisiete (27ºC) grados centígrados, cubriéndola con una bolsa plástica durante diez (10) minutos.
+- Déjala reposar en la mesa a una temperatura entre 24ºC/75ºF y 27ºC/80ºF, cubriéndola con una bolsa plástica durante diez (10) minutos.
 
 <div id="ciclodesobado"></div>
 
-#### Ciclo de sobado 
+#### Ciclo de sobado (manual)
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
 - Coloca el rodillo en el centro de la masa y extiende desde el centro al extremo anterior y luego del centro al extremo posterior, estira suficientemente, pliega la masa y la rotas 90º grados.
 - Repite el paso anterior al menos diez (10) veces. Si notas la masa muy tensa, déjala reposar 10 minutos y luego continuas las tandas de sobado.
 
-### División
+### División y pesado
 
 - Divide la masa en dos porciones iguales.
 
@@ -104,26 +105,27 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 ### Formado
 
-- Con ayuda del rodillo, forma un rectangulo con la masa, de 1 centímetro de alto, treinta centímetros de largo y  veinte (20) centímetros de largo.
+- Con ayuda del rodillo, forma un rectángulo con la masa, de un (1) centímetro de alto, treinta (30) centímetros de largo y  veinte (20) centímetros de largo.
 - Enrolla la masa formando un cilindro haciendo poca presión. 
 - Cierra la masa en ambos extremos y colócala en la bandeja.
-- Asegúrate de colocar el paston con el cierre hacia abajo, para evitar que se abra durante el horneado.
+- Asegúrate de colocar el pastón con el cierre hacia abajo, para evitar que se abra durante el horneado.
 
 ### Fermentación final (maduración)
 
-- Tapa la bandeja con una bolsa plástica, y déjalo reposar a una temperatura entre 24ºC y 27ºC preferiblemente durante dos horas a dos horas y media.
+- Cubre la bandeja con una bolsa plástica, y deja reposar el pastón a una temperatura entre 24ºC/75ºF y 27ºC/80ºF preferiblemente durante dos (2) horas y treinta (30) minutos.
 - Al final de la fermentación, el pastón debe haber doblado su tamaño inicial.
 
 ### Barnices, coberturas y cortes
 
-- Rocía el pastón de masa con una capa fina de agua.
-- Con una hojilla de barbero afilada, procede a realizarle tres (3) cortes superficiales al pastón, siguiendo la dirección del pastón, no de un lado al otro.
+- Coloca agua sobre cada pastón con un aspersor.
+- Con una hojilla de barbero, realiza tres (3) cortes en la dirección del pastón, el corte siguiente se solapa un tercio con el anterior. 
+- Evita los cortes de forma transversal que atraviesan el pastón de un lado a otro.
 
 ### Horneado
 
-- Media hora antes de hornear, enciende el horno a una temperatura de 220ºC - 420ºF con un caldero con piedras de río o una bandeja en la parte inferior del horno. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan, coloca unos 3 a 4 hielos en el caldero o bandeja y deja hornear por diez minutos.
-- Transcurridos los diez minutos, baja la temperatura a 180ºC - 355ºF y dejálos hornear por diez a quince minutos hasta que alcancen la temperatura interna de 90ºC y alcancen un color marrón claro.
+- Treinta (30) minutos antes de hornear, enciende el horno a una temperatura de 220ºC/420ºF con un caldero con piedras de río o una bandeja en la parte inferior del horno. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Una vez que el horno haya alcanzado la temperatura indicada, introduce la bandeja de pan, coloca unos tres (3) a cuatro (4) hielos en el caldero o bandeja y deja hornear por diez minutos.
+- Transcurridos los diez minutos, baja la temperatura a 180ºC/355ºF y dejálos hornear por diez a quince minutos hasta que alcancen la temperatura interna de 93ºC/200ºF y alcancen un color marrón claro.
 - Apaga el horno y saca la bandeja.
 
 ### Enfriamiento
@@ -133,7 +135,7 @@ Según nuestras investigaciones, es altamente probable que el pan sobao haya ven
 
 ### Consumo del pan
 
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 350ºF por cinco (5) minutos para que se recupere.
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por cinco (5) minutos para que se recupere.
 
 ---
 
@@ -149,7 +151,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0.0__
+__Versión 1.2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

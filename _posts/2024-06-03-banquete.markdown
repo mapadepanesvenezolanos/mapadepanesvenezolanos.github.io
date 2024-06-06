@@ -84,7 +84,7 @@ Your browser does not support the video tag.
 
 ### Mezcla y amasado
 
-#### Integración y amasado inicial
+#### Primer ciclo de amasado (manual)
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -95,12 +95,13 @@ Your browser does not support the video tag.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
 - Amasa durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
-#### Ciclo de sobado 
+#### Ciclo de sobado (manual)
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo hasta formar un cuadrado. 
-- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo del centro al extremo anterior y del centro al extremo posterior. Pliega la masa sobre si misma, voltea la masa 90º y repite el proceso de sobado.
+- Coloca el rodillo en el centro del cuadrado, y lleva el rodillo del centro al extremo anterior y del centro al extremo posterior. 
+- Pliega la masa sobre si misma, voltea la masa 90º y repite el proceso de sobado.
 - Repite el paso anterior unas cuatro (4) a siete (7) veces. 
-- Cubre la masa con un plastico durante diez (10) minutos.
+- Cubre la masa con un plástico durante diez (10) minutos.
 - Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de sobado con reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 - Deja la masa reposar en un recipiente por diez (10) minutos.
@@ -113,7 +114,8 @@ Your browser does not support the video tag.
 
 ### Preformado
 
-- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
 
 ### Reposo en mesa (relajación de la masa)
 
@@ -128,11 +130,11 @@ Your browser does not support the video tag.
 
 ### Precalentar el horno
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 
 ### Fermentación final (maduración y retardo en nevera)
 
-- Deja reposar los pastones aproximadamente por una (1) hora en un bandeja, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar los pastones aproximadamente por una (1) hora en un bandeja, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Barnices, coberturas y cortes
 
@@ -140,14 +142,14 @@ Your browser does not support the video tag.
 
 ### Horneado
 
-- Coloca la bandeja en el medio del horno durante aproximadamente 15 a 20 minutos.
+- Coloca la bandeja en el medio del horno durante aproximadamente quince (15) a veinte (20) minutos.
 - Verifica el horno asegurándote que los panes se hornean de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
 - Saca los panes del horno cuando tengan un color dorado a tu gusto.
 
 ### Enfriamiento
 
 - Al sacar los panes del horno, pásalos a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listos. Disfruta tu Pan de Banquete!!!
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listos. Disfruta tu Pan de Banquete!
 
 ---
 
@@ -165,7 +167,7 @@ Un agradecimiento especial a Javier Benitez de [@pancitos_bakery] por probar la 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0.0__
+__Versión 1.1.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
