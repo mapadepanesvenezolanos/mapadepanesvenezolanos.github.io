@@ -39,7 +39,7 @@ El Pan dulce Andino “...parte un fermento denominado ‘guarapo’ o ‘talvin
 
 La Talvina se utiliza en la preparación artesanal y tradicional de los Panes Andinos que parten de una masa base para realizar distintas preparaciones en distintos formatos, en rollo, rellenas, en bollo o en barra. Entre ellos el Pan de Leche, de Guayaba, de Arequipe, Camaleón, entre los más representativos. 
 
-En una publicación reciente[^2], [@pochove] nos dice que su versión de la Talvina con la cual prepara sus Panes “... tiene cacao, tiene café de aquí de Yaracuy, tiene canela, tiene clavo, tiene guayabita, tiene Pan…, trigo de Mérida,...”.
+En una publicación reciente[^2], [@pochove]{:target="blank"} nos dice que su versión de la Talvina con la cual prepara sus Panes “... tiene cacao, tiene café de aquí de Yaracuy, tiene canela, tiene clavo, tiene guayabita, tiene Pan…, trigo de Mérida,...”.
 
 Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propietario de la Panadería “Las Cumbres” donde señala que en una pipa (barril) se le pone agua a la mitad, 18 o 24 panelas de papelón y tres potes de harina, se mezcla y luego se coloca harina encima. Al día siguiente ya debe tener burbujas.
 
@@ -154,23 +154,23 @@ Otra referencia interesante es el testimonio de Sebastián Alviárez[^3], propie
 
 ### Referencias y enlaces
 
-Como referencia hemos utilizado como fuente las fórmulas de [@saporidellacucina], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Chef Laszlo Gyomrey], [@pochove], [las recetas favorita de hilmar] y [la reseña de la Chef Panadera Edelmira D’Santiago de Baptista].
+Como referencia hemos utilizado como fuente las fórmulas de [@saporidellacucina]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Chef Laszlo Gyomrey]{:target="blank"}, [@pochove]{:target="blank"}, [las recetas favorita de hilmar]{:target="blank"} y [la reseña de la Chef Panadera Edelmira D’Santiago de Baptista]{:target="blank"}.
 
-Nos gusta particularmente la reseña de Frederick Jiménez Silva de nombre “[Lo Sabroso del Pan Andino se llama Talvina]”. Además de la [página de su autoría] donde deja varios artículos interesantes sobre el tema.
+Nos gusta particularmente la reseña de Frederick Jiménez Silva de nombre [Lo Sabroso del Pan Andino se llama Talvina]{:target="blank"}. Además de la [página de su autoría]{:target="blank"} donde deja varios artículos interesantes sobre el tema.
 
 Hay dos referencias muy importantes que nos dan luces sobre nuestra historia gastronómica: Leonor Peña con su libro La Cocina Tachirense y el Profesor Rafael Cartay. Ambos aparecen repetidamente en las bibliografías consultadas.
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 __Versión 1.5.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

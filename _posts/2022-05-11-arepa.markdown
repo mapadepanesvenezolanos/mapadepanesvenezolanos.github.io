@@ -21,7 +21,7 @@ formula_name: "arepa"
 
 ## Resultado esperado
 
-La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois] las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
+La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois]{:target="blank"} las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -133,17 +133,17 @@ Procede a cocinar el segundo lote de arepas, siguiendo los pasos que se indican 
 
 Para la concepción de esta receta, hemos utilizado como fuente de inspiración, las fórmulas del libro **Clásicos de la cocina venezolana de Armando Scannonne** y las instrucciones de fabricación que vienen en el reverso de la Harina de maíz precocida marca P.A.N
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 __Versión 3.1__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

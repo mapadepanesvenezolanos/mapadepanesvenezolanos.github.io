@@ -27,7 +27,7 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 ## Resultado esperado
 
-Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa los aman recién salidos del horno, calentados 8 segundos en el microondas. Jesús [@1painalafois] se los come untados con diablitos underwood. A Alexander [@hazpanencasa] le encanta comerlos con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
+Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa los aman recién salidos del horno, calentados 8 segundos en el microondas. Jesús [@1painalafois]{:target="blank"} se los come untados con diablitos underwood. A Alexander [@hazpanencasa]{:target="blank"} le encanta comerlos con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
 
 ## Origen del Pan de Leche
 
@@ -359,19 +359,19 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@panadero_artesanal], [@taosbaker], [Chef Laszlo Gyomrey], [Escuela de Cocina Plaza's], [@elgatogolosoblog], [@consentidoenboca] y [@steconstance]. 
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [@panadero_artesanal]{:target="blank"}, [@taosbaker]{:target="blank"}, [Chef Laszlo Gyomrey]{:target="blank"}, [Escuela de Cocina Plaza's]{:target="blank"}, [@elgatogolosoblog]{:target="blank"}, [@consentidoenboca]{:target="blank"} y [@steconstance]{:target="blank"}. 
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 4.1 (30/10/2022)_
+__Versión 4.1 (30/10/2022)__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

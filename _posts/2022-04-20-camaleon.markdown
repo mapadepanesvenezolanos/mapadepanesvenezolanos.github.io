@@ -35,7 +35,7 @@ Debe su nombre a la forma de un lagarto adornado con trenzas, como un camaleón,
 - Este pan utiliza el diez (10%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Te recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas de calidad.
 - Esta preparación sigue el método indirecto de la panadería, es decir, se hace una preparación previa, que en este caso es la [Talvina](/panes-venezolanos/talvina/) y se utiliza como ingrediente. 
-- Sigue el paso a paso visual que está publicado en la [historia destacada](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA2NDI2ODc1OTYwMTk1?story_media_id=2609036431089050126&igshid=YmMyMTA2M2Y=) de la cuenta [@hazpanencasa].
+- Sigue el paso a paso visual que está publicado en la [historia destacada](https://www.instagram.com/s/aGlnaGxpZ2h0OjE3OTA2NDI2ODc1OTYwMTk1?story_media_id=2609036431089050126&igshid=YmMyMTA2M2Y=){:target="blank"} de la cuenta [@hazpanencasa]{:target="blank"}.
 
 Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
 
@@ -159,19 +159,19 @@ Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero
 
 ### Referencias y enlaces
 
-Para la concepción de este documento, hemos utilizado como referencia y fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [@saporidellacucina] y [@taosbaker] en sus publicaciones [parte 1](https://www.instagram.com/p/B-LalcxnG1x/?utm_source=ig_web_copy_link) y [parte 2](https://www.instagram.com/p/B-Nyh3DHcF7/?utm_source=ig_web_copy_link).
+Para la concepción de este documento, hemos utilizado como referencia y fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [@saporidellacucina]{:target="blank"} y [@taosbaker]{:target="blank"} en sus publicaciones [parte 1](https://www.instagram.com/p/B-LalcxnG1x/?utm_source=ig_web_copy_link){:target="blank"} y [parte 2](https://www.instagram.com/p/B-Nyh3DHcF7/?utm_source=ig_web_copy_link){:target="blank"}.
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 3.1__
+__Versión 3.1__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

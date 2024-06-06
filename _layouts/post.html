@@ -28,16 +28,29 @@
 		integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe"
 		crossorigin="anonymous"></script>
 
-	{% if site.data.settings.advanced_settings.custom_styles %}
-	<!-- Custom Styles -->
-	<style>
-		{
-				{
-				site.data.settings.advanced_settings.custom_styles
+		{% if site.data.settings.advanced_settings.custom_styles %}
+		<!-- Custom Styles -->
+		<style>
+			{
+					{
+					site.data.settings.advanced_settings.custom_styles
+				}
 			}
-		}
-	</style>
-	{% endif %}
+			.circle-frame {
+		width: 100px; /* Adjust the size of the circular frame */
+		height: 100px;
+		border-radius: 50%;
+		overflow: hidden;
+		margin-right: 10px; /* Adjust spacing as needed */
+	}
+	
+	.circle-image {
+		width: 100%; /* Make the image fit inside the circular frame */
+		height: auto;
+	}
+	
+		</style>
+		{% endif %}
 
 	{% if jekyll.environment == 'production' and site.data.settings.advanced_settings.analytics_code %}
 	{%- include google-analytics.html -%}
@@ -73,16 +86,20 @@
 			<section class="intro">
 
 				<div class="wrap">
-					<table class="header_table">
-						<tr>
-							<td>
-								<h1>{{ page.title }}</h1>
-							</td>
-							<td><button class="button fright" onclick="window.print();">Imprimir</button></td>
-						</tr>
-					</table>
-				</div>
-
+                    <table class="header_table">
+                        <tr>
+                            <td style="width: 10%;">
+                                <div class="circle-frame">
+                                    <img src="{{ page.featured_image }}" alt="Image" class="circle-image">
+                                </div>
+                            </td>
+                            <td>
+                                <h1 style="text-align: left;">{{ page.title }}</h1>
+                            </td>
+                            <td><button class="button fright" onclick="window.print();">Imprimir</button></td>
+                        </tr>
+                    </table>
+                </div>
 			</section>
 
 			<section class="single">
