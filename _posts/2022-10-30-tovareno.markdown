@@ -17,7 +17,7 @@ second_formula_name: "tovarenoalino"
 
 "El Pan Tovareño es uno de los panes emblema en Venezuela, es aromático, dulce, de concha firme y dorada, compacto, pero suave, y con esa textura que se 'derrite' en la boca. 
 
-El pan tovareño, como detalla la investigación de la periodista Reina Carreño, es un pan dulce andino que tomó un nombre propio y una personalidad, gracias a lugar específico donde se prepara. Nació en la panadería Mi Favorita ([@panaderiamifavorita1960]), en el Sector El Corozo del municipio Tovar, en el estado Mérida. Se dice que este establecimiento es el más antiguo de la localidad y su receta permanece inalterable desde hace más de 100 años.”[^1]
+El pan tovareño, como detalla la investigación de la periodista Reina Carreño, es un pan dulce andino que tomó un nombre propio y una personalidad, gracias a lugar específico donde se prepara. Nació en la panadería Mi Favorita ([@panaderiamifavorita1960]{:target="blank"}), en el Sector El Corozo del municipio Tovar, en el estado Mérida. Se dice que este establecimiento es el más antiguo de la localidad y su receta permanece inalterable desde hace más de 100 años.”[^1]
 
 “En torno a la elaboración de este pan andino existen muchos secretos y rituales que nutren la masa y le dan su exclusivo sabor.  Recién salido del horno es todo un espectáculo y a la vez una promesa. El aroma está impregnado de notas frutales, canela, clavito y caña de azúcar. La miga es apretada, algo húmeda, fina y delicada; la corteza es suave y un poco crujiente. Es un pan para comer sin acompañamientos, solo o remojado con café con leche o agua miel”, escribe Carreño."[^1]
 
@@ -25,11 +25,11 @@ El pan tovareño, como detalla la investigación de la periodista Reina Carreño
 
 [^1]: Adriana Gibbs, https://adrianagibbs.com/el-pan-tovareno-viajo-a-espana/
 
-Juan Carlos Bruzual ([@pana_dero]) señala en su cuente Facebook lo siguiente: "El pan tovareño creado en la panadería 'Mi Favorita' ([@panaderiamifavorita1960]) hace más de 50 años, que registramos en el 3er viaje de PANaventura en Tovar, es un pan muy complejo, se hace con levadura natural de guarapo de papelón y además una vez que la masa está lista se agregan algunos ingredientes que ellos llaman "Aliños"... El famoso pan tovareño demuestra la devoción de una familia por el pan y por su padre!!!". Además en un comentario por Twitter responde, "el pan tovareño es complejo en su elaboración ya q usa masa madre de guarapo de papelón, ellos la llaman 'Talvina'."
+Juan Carlos Bruzual ([@pana_dero]{:target="blank"}) señala en su cuente Facebook lo siguiente: "El pan tovareño creado en la panadería 'Mi Favorita' ([@panaderiamifavorita1960]{:target="blank"}) hace más de 50 años, que registramos en el 3er viaje de PANaventura en Tovar, es un pan muy complejo, se hace con levadura natural de guarapo de papelón y además una vez que la masa está lista se agregan algunos ingredientes que ellos llaman "Aliños"... El famoso pan tovareño demuestra la devoción de una familia por el pan y por su padre!!!". Además en un comentario por Twitter responde, "el pan tovareño es complejo en su elaboración ya q usa masa madre de guarapo de papelón, ellos la llaman 'Talvina'."
 
-Una reseña más reciente hecha en el [Catálogo del Patrimonio Cultura 2004-2006 sobre Tovar](https://albaciudad.org/wp-content/uploads/2017/01/Merida-Tovar.pdf) indica "En Venezuela hay dos regiones que marcan pauta en la hechura del pan: los Andes y Lara. En el caso de la región andina, el pan tovareño es muy apreciado por la comunidad y los turistas por su peculiar y agradable sabor y textura. Sus ingredientes son: harina de trigo, azúcar, sal, mantequilla, micovan, agua, huevos, leche, levadura, canela y vainilla al gusto. El modo de preparación consiste en unir todos los ingredientes en el agua, y agregarle la harina poco a poco en la máquina de amasar hasta que tome consistencia. Una vez en su punto, se corta en trozos que luego son moldeados y llevados al horno."
+Una reseña más reciente hecha en el [Catálogo del Patrimonio Cultura 2004-2006 sobre Tovar](https://albaciudad.org/wp-content/uploads/2017/01/Merida-Tovar.pdf){:target="blank"} indica "En Venezuela hay dos regiones que marcan pauta en la hechura del pan: los Andes y Lara. En el caso de la región andina, el pan tovareño es muy apreciado por la comunidad y los turistas por su peculiar y agradable sabor y textura. Sus ingredientes son: harina de trigo, azúcar, sal, mantequilla, micovan, agua, huevos, leche, levadura, canela y vainilla al gusto. El modo de preparación consiste en unir todos los ingredientes en el agua, y agregarle la harina poco a poco en la máquina de amasar hasta que tome consistencia. Una vez en su punto, se corta en trozos que luego son moldeados y llevados al horno."
 
-En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/manual-de-ociosidades-de-06-de-agosto-por-valentina-quintero/) señala que la "Panadería y pastelería Mi Favorita ([@panaderiamifavorita1960]) es propiedad de los hermanos Rigo y Giovanni Briceño, herencia de su padre, quien la fundó. Fue la primera panadería de Tovar, creadores del auténtico pan tovareño, ese aliñado que queda marroncito. Lo hacen largo tipo canilla y las acemas que son un delirio. Amé los dulces. Había uno de hojaldre con crema, que no recuerdo como se llama, pero era muy goloso. Es una visita feliz."
+En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/manual-de-ociosidades-de-06-de-agosto-por-valentina-quintero/){:target="blank"} señala que la "Panadería y pastelería Mi Favorita ([@panaderiamifavorita1960]{:target="blank"}) es propiedad de los hermanos Rigo y Giovanni Briceño, herencia de su padre, quien la fundó. Fue la primera panadería de Tovar, creadores del auténtico pan tovareño, ese aliñado que queda marroncito. Lo hacen largo tipo canilla y las acemas que son un delirio. Amé los dulces. Había uno de hojaldre con crema, que no recuerdo como se llama, pero era muy goloso. Es una visita feliz."
 
 ## Tips para preparar el Pan Tovareño
 
@@ -203,23 +203,23 @@ Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arena
 
 ### Referencias y enlaces
 
-El Pan Tovareño fue creado por la Panadería Mi Favorita puedes consultar la [Página Web](https://panaderiaypasteler3.wixsite.com/mifavorita/home) y su cuenta de Instagram [@panaderiamifavorita1960].
+El Pan Tovareño fue creado por la Panadería Mi Favorita puedes consultar la [Página Web](https://panaderiaypasteler3.wixsite.com/mifavorita/home){:target="blank"} y su cuenta de Instagram [@panaderiamifavorita1960]{:target="blank"}.
 
-El Municipio Tovar tiene un sitio donde [reseña el Pan Tovareño](http://tovarestulugar.blogspot.com/2015/01/pan-tovareno.html) y aparecen fotos.
+El Municipio Tovar tiene un sitio donde [reseña el Pan Tovareño](http://tovarestulugar.blogspot.com/2015/01/pan-tovareno.html){:target="blank"} y aparecen fotos.
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, el libro La magia de la panadería de Máximo Segundo Colina Barriga [@maximocolina], la edición número 4 de la revista P.A.N [revistapan] de Otoño 2017, páginas 82 y 84, donde Cristian Galué [@pancasero] comparte el procedimiento que el utilizaba en la ėpoca para preparar su versión del pan Tovareño y los procedimientos que con mucho cariño nos compartieron [@dunitasbakery] y [@lamamideamy].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, el libro La magia de la panadería de Máximo Segundo Colina Barriga [@maximocolina]{:target="blank"}, la edición número 4 de la revista P.A.N [revistapan]{:target="blank"} de Otoño 2017, páginas 82 y 84, donde Cristian Galué [@pancasero]{:target="blank"} comparte el procedimiento que el utilizaba en la ėpoca para preparar su versión del pan Tovareño y los procedimientos que con mucho cariño nos compartieron [@dunitasbakery]{:target="blank"} y [@lamamideamy]{:target="blank"}.
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Jesús Méndez [@1painalafois] y Alexander Ramírez [@hazpanencasa].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Jesús Méndez [@1painalafois]{:target="blank"} y Alexander Ramírez [@hazpanencasa]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 __Versión 4.1__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois

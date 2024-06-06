@@ -19,7 +19,7 @@ Este Pan es un rollo relleno, la miga es cerrada y suave, de corteza color marro
 
 ## Origen del Pan de Jamón
 
-Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de Miro Popic ([@miropopic]), El nuevo libro del pan de jamón... y 26 panes más.[^1] El Pan de Jamón es de origen caraqueño que a diferencia de muchos panes que son de origen casero y luego industrial, el pan de jamón surge en las panaderías de la época, aprovechando los restos y recortes de jamón 'Ferrys' que quedaban adheridos al hueso.[^2]
+Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de Miro Popic ([@miropopic]{:target="blank"}), El nuevo libro del pan de jamón... y 26 panes más.[^1] El Pan de Jamón es de origen caraqueño que a diferencia de muchos panes que son de origen casero y luego industrial, el pan de jamón surge en las panaderías de la época, aprovechando los restos y recortes de jamón 'Ferrys' que quedaban adheridos al hueso.[^2]
 
 [^1]: El nuevo libro del pan de jamón... y 26 panes más, Miro Popic.
 [^2]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
@@ -158,17 +158,17 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 ### Referencias y enlaces
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 __Versión 1.2__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
