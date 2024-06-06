@@ -11,9 +11,9 @@ Vamos a profundizar en las características de la Canilla y compararla con la Ba
 
 ## ¿Qué es una Canilla?
 
-El profesor [Rafael Cartay] en el Diccionario de Cocina Venezolana señala que **el pan "canilla" es un pan salado, alargado, de masa de miga porosa y corteza firme y crujiente**.
+El profesor [Rafael Cartay]{:target="blank"} en el Diccionario de Cocina Venezolana señala que **el pan "canilla" es un pan salado, alargado, de masa de miga porosa y corteza firme y crujiente**.
 
-La reseña que hace [Adriana Gibbs] en el Libro [Soy Panadero] es más extensa y nos indica lo siguiente:
+La reseña que hace [Adriana Gibbs]{:target="blank"} en el Libro [Soy Panadero]{:target="blank"} es más extensa y nos indica lo siguiente:
 
 **Se le conoce como la versión tropicalizada de la baguette francesa, pero a diferencia de ésta, tiene una costra menos crujiente y una miga más suave. Es un pan salado, delgado y largo, muy popular. Su historia data de la década de los años ochenta del siglo pasado.**
 
@@ -21,11 +21,11 @@ La reseña que hace [Adriana Gibbs] en el Libro [Soy Panadero] es más extensa y
 
 **El nombre deriva del parecido con las "canillas", como llamamos en Venezuela a las piernas largas y delgadas de algunas persona.**
 
-En el portal del [IEPAN] podemos conseguir esta reseña:
+En el portal del [IEPAN]{:target="blank"} podemos conseguir esta reseña:
 
 **La canilla es un pan también del día, de color marrón, en algunos casos pálido, con costra quebradiza y, en muchos casos, suave; miga con alvéolos regulares y pequeños, sin aroma, sin sabor y, en ocasiones, con tono a levadura o ácido.**
 
-Por su parte el Chef [Roberto Nunes señala]:
+Por su parte el Chef [Roberto Nunes señala]{:target="blank"}:
 
 **El Pan Canilla, es una barra de pan, de fermentaciónes cortas, que se le adiciona materia grasa para aportar elasticidad, algo de textura y vida útil.**
 
@@ -95,7 +95,7 @@ Cuando escuchamos o leemos frases como:
 
 Se podría decir, sin embargo, que nuestra barra evolucionó en base a los ingredientes disponibles y a la necesidad de producirla de forma masiva; realmente las harinas que se consiguen en Venezuela son harinas flojas o media fuerza en general. En cambio en Francia, la Baguette se produce de forma masiva sin perder la esencia en el proceso. 
 
-[Juan Pablo Marquez] señala en su blog:
+[Juan Pablo Marquez]{:target="blank"} señala en su blog:
 
 **La  diferencia es clara, la canilla es un pan más mecanizado y de  fermentación forzada, La baguette es un pan con una fórmula más sencilla pero que demanda una técnica más depurada para poder lograr un buen resultado. La forma de los panes son similares pero el sabor es la diferencia.**
 
@@ -109,7 +109,7 @@ En fin, la Canilla es un Pan que se adapta a nuestro gusto en general.
 
 ## ¿Qué relación tiene con otros Panes?
 
-Realmente hemos conseguido que la Canilla en su proceso se parece más a un Pan Candeal que a la Baguette o a un Pan Sobado en general. Como característica fundamental la Canilla se elabora con harinas flojas y su elaboración por lo tanto se parece más a los tipos de panes que se elaboran con este tipo de harinas, entre ellos el Pan Candeal o también el [Pão Sovado que se elabora en Portugal].
+Realmente hemos conseguido que la Canilla en su proceso se parece más a un Pan Candeal que a la Baguette o a un Pan Sobado en general. Como característica fundamental la Canilla se elabora con harinas flojas y su elaboración por lo tanto se parece más a los tipos de panes que se elaboran con este tipo de harinas, entre ellos el Pan Candeal o también el [Pão Sovado que se elabora en Portugal]{:target="blank"}.
 
 | Característica          | Canilla       | Candeal      | 
 |-------------------------|---------------|---------------|
@@ -132,15 +132,15 @@ Como dato curioso, España comparte con Portugal una de las fronteras más larga
 
 Desde nuestro punto de vista es un Pan que es familia de los Panes de baja hidratación y se desarrolla la masa con la ayuda de una sobadora. Ambos son panes de familias distintas y linaje distinto.
 
-Se consiguen diferentes artículos, escritos por Venezolanos, sobre la Baguette vs. la Canilla donde se describe a la Canilla como una deformación de la Baguette. Es evidente que la elaboración de panes evolucionó en Venezuela con la evolución de la migración europea, de ello hay mucha evidencia recogida en libros como "El Pan Nuestro de Cada Día", en particular el apartado con título "Los panaderos del siglo XIX". La Baguette y los panes sobados existen de hace mucho tiempo y son sencillamente panes distintos, compararlos es como comparar peras con manzanas, hay documentación suficiente de la existencia de panes con procesos similares en [España] y en [Portugal]. 
+Se consiguen diferentes artículos, escritos por Venezolanos, sobre la Baguette vs. la Canilla donde se describe a la Canilla como una deformación de la Baguette. Es evidente que la elaboración de panes evolucionó en Venezuela con la evolución de la migración europea, de ello hay mucha evidencia recogida en libros como "El Pan Nuestro de Cada Día", en particular el apartado con título "Los panaderos del siglo XIX". La Baguette y los panes sobados existen de hace mucho tiempo y son sencillamente panes distintos, compararlos es como comparar peras con manzanas, hay documentación suficiente de la existencia de panes con procesos similares en [España]{:target="blank"} y en [Portugal]{:target="blank"}. 
 
-En un [artículo sobre el Pan Candeal se señala]: 
+En un [artículo sobre el Pan Candeal se señala]{:target="blank"}: 
 
 **El pan candeal nació por las zonas de Castilla y León y más concretamente en Valladolid. A partir del año 1563 comenzó a exportarse hacia el sur de España la técnica del pan blanco.**
 
-El uso del [Breguil como instrumento de elaboración de panes] antecede a la aparición de los hornos con vapor.
+El uso del [Breguil como instrumento de elaboración de panes]{:target="blank"} antecede a la aparición de los hornos con vapor.
 
-De hecho, [la Baguette es un Pan más reciente]:
+De hecho, [la Baguette es un Pan más reciente]{:target="blank"}:
 
 **La baguette sería un derivado del pan desarrollado en Viena (Austria) a mediados del siglo xix, cuando empezaron a funcionar los primeros hornos a vapor, ayudando a que la corteza estuviera crujiente y la miga blanca y agujereada, aspectos que la distinguen hoy día.**
 

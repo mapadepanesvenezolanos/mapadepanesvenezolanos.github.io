@@ -83,8 +83,8 @@ No tenemos registro de panes.
 
 ## Guárico
 
-- Pan Especial de la Pascua, [YouTube El PAN ICÓNICO de Valle de la Pascua / Soy Gustin Gomez](https://www.youtube.com/watch?v=Q-od27wBnAQ).
-- Quesadilla de Corozopando, [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY)
+- Pan Especial de la Pascua, [YouTube El PAN ICÓNICO de Valle de la Pascua / Soy Gustin Gomez](https://www.youtube.com/watch?v=Q-od27wBnAQ){:target="blank"}.
+- Quesadilla de Corozopando, [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY){:target="blank"}
 - Pan de horno 
 
 ## Lara
@@ -146,7 +146,7 @@ No tenemos registro de panes.
 - Pan aliñado
 - Rosquitas
 - [Saboyano](/comunidad/lamamideamy/#saboyano)
-- [Pan de la Vieja / Referencia de Joselin Bread](https://www.instagram.com/p/C66qX_ionH2/?igsh=eHlqYXp5MzRxNGFh)
+- [Pan de la Vieja / Referencia de Joselin Bread](https://www.instagram.com/p/C66qX_ionH2/?igsh=eHlqYXp5MzRxNGFh){:target="blank"}
 
 ## Portuguesa
 
@@ -209,7 +209,7 @@ No tenemos registro de panes.
 ## Trujillo
 
 - Pan aliñado de Burbusay 
-- [Pan Criollo / Rutas Sabor y Tradición YouTube](https://www.youtube.com/watch?v=CtagzYzhCzw)
+- [Pan Criollo / Rutas Sabor y Tradición YouTube](https://www.youtube.com/watch?v=CtagzYzhCzw){:target="blank"}
 - Pan dormido
 - Pan de plátano
 - [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
@@ -254,6 +254,6 @@ No tenemos registro de panes.
 - El manual de la cocina venezolana, Panes y Pastelitos, Trina Arocha, Editorial Arte.
 - Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
 - El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
-- [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf), Fundación Polar.
+- [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf){:target="blank"}, Fundación Polar.
 
 

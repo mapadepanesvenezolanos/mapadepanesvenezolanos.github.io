@@ -31,6 +31,7 @@ Este es un pan de miga cerrada y suave formado como bollo pequeño. Es una masa 
 
 - Este Pan utiliza el cinco (5%) por ciento de grasa en relación a la harina y se puede incorporar desde el inicio.
 - Este Pan se puede hacer con harina todo uso y se suele hacer por método directo y sin fermentación inicial o en bloque.
+- La fórmula está estandarizada para una harina todo uso con 10% de proteínas de calidad. Si utilizas una harina más fuerte sube la hidratación a 55%, es decir, 165g de agua.
 
 {% include whatsapp.html %}
 
