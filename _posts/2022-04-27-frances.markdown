@@ -22,15 +22,15 @@ Es un Pan semi rústico de miga algodonada, suave, esponjosa, con corteza marró
 
 Se utiliza azúcar para dar color y grasa para dar elasticidad y suavidad.
 
-Para preparar Pan Francés en las Panaderías, es usual, que se utilice la misma masa del [Pan Canilla](https://panesvenezolanos.com/pan-canilla/).
+Para preparar Pan Francés en las Panaderías, es usual, que se utilice la misma masa del [Pan Canilla](/panes-venezolanos/pan-canilla/).
 
 ## Origen del Pan Francés Venezolano
 
-Es un Pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa del [Pan Canilla](https://panesvenezolanos.com/pan-canilla/) que contiene grasa y azúcar para darle más duración y color. Un formato similar [en México se conoce como Bolillo, Pan Francés, Birote o Pan Blanco](https://www.milenio.com/politica/comunidad/bolillo-pan-frances-costumbre-europea-mexico-historia), este puede o no tener grasa y no suele tener azúcar, te dejo [una reseña sobre el origen del Bolillo](https://www.mexicodesconocido.com.mx/origen-del-bolillo.html). 
+Es un Pan con formato pequeño común en toda Latinoamérica en Venezuela se le llama Pan Francés, Pan de a locha y con una ligera variación en la forma Pan de piquito. En Venezuela se suele hacer en las panaderías con la misma masa del [Pan Canilla](/panes-venezolanos/pan-canilla/) que contiene grasa y azúcar para darle más duración y color. Un formato similar [en México se conoce como Bolillo, Pan Francés, Birote o Pan Blanco](https://www.milenio.com/politica/comunidad/bolillo-pan-frances-costumbre-europea-mexico-historia){:target="blank"}, este puede o no tener grasa y no suele tener azúcar, te dejo [una reseña sobre el origen del Bolillo](https://www.mexicodesconocido.com.mx/origen-del-bolillo.html){:target="blank"}. 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-En Vietnam un formato similar se conoce como [Bahn Mi](https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC) derivada de la Baguette que también puede hacerse con una mezcla de harina de trigo y de arroz. A nivel de los ingredientes no suelen tener grasa y se consiguen recetas con azúcar.
+En Vietnam un formato similar se conoce como [Bahn Mi](https://en.wikipedia.org/wiki/B%C3%A1nh_m%C3%AC){:target="blank"} derivada de la Baguette que también puede hacerse con una mezcla de harina de trigo y de arroz. A nivel de los ingredientes no suelen tener grasa y se consiguen recetas con azúcar.
 
 En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también conocido como pan francés. Salado, de costra suave y alargado, pero en formato pequeño (aproximadamente 15 centímetros). Muy útil para preparar sándwiches o bocadillos. Su denominación obedece al precio original por unidad, la antigua “locha” (12,5 céntimos de bolívar)”. [^1]
 
@@ -58,7 +58,7 @@ En el libro Soy Panadero nos indica lo siguiente: ”Pan de a locha, también co
 
 - Los tiempos del proceso presentado son referenciales y se ajustan y adaptan a las condiciones ambientales.
 - Aunque no es lo usual, recomiendo al menos 6 horas de fermentación lenta en la nevera. Después de mezclar los ingredientes y obtener la malla de gluten, deja la masa fermentar una hora a temperatura ambiente y luego la metes en la nevera por al menos 6h. Luego de sacar de la nevera atemperar, divides, preformas y formas. La miga será distinta pero tendrás un Pan más saludable y con más sabor.
-- Puedes seguir el procedimiento resumido en la cuenta de Instagram [@hazpanencasa].
+- Puedes seguir el procedimiento resumido en la cuenta de Instagram [@hazpanencasa]{:target="blank"}.
 
 {% include whatsapp.html %}
 
@@ -143,7 +143,7 @@ De un kilo de harina se hace 15 panes aproximadamente.
 
 ### Formado
 
-- Estirar cada bola con el rodillo y forma un bollo de aproximadamente de 15 centímetros como en el [video].
+- Estirar cada bola con el rodillo y forma un bollo de aproximadamente de 15 centímetros como en el [video]{:target="blank"}.
 - Coloca cada bollo en una bandeja engrasada.
 
 ### Precalentar el horno
@@ -177,19 +177,19 @@ De un kilo de harina se hace 15 panes aproximadamente.
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey], el [Instituto Europeo del PAN], el [Grupo Académico Panadero y Pastelero de Venezuela], [Panadero Artesanal] y [William Tse].
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [William Tse]{:target="blank"}.
 
-Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa] y Jesús Méndez [@1painalafois].
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery], Alba Cennerazzo [@farinaelievito] y Claudia Raga [@algosevaacocinar].
+Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois] y [@hazpanencasa].**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
 __Versión 2.0__
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
