@@ -1,6 +1,6 @@
 ---
 title: 'Listado de Panes Venezolanos'
-date: 2024-04-30 00:00:00
+date: 2024-06-10 00:00:00
 description: Esta es nuestra lista de Panes Venezolanos.
 permalink: /blog/lista-de-panes-venezolanos/
 published: true
@@ -52,7 +52,7 @@ No tenemos registro de panes.
 
 ## Cojedes
 
-- Pan de Tunja
+- [Pan de Tunja](/panes-venezolanos/pan-pinita/)
 
 ## Delta Amacuro
 
@@ -67,10 +67,10 @@ No tenemos registro de panes.
 - [Pan Canilla](/panes-venezolanos/pan-canilla/)
 - [Pan Francés](/panes-venezolanos/pan-frances/)
 - [Pan Chino](/panes-venezolanos/pan-chino/)
-- Pan Sobao
+- [Pan Sobao](/panes-venezolanos/pan-sobao/)
 - [Pan de Jamón](/panes-venezolanos/pan-de-jamon/)
 - Pan dulce en rebanadas (Pan librillo)
-- Pan de banquete
+- [Pan de banquete](/panes-venezolanos/pan-de-banquete/)
 - Mini lunch
 - Pan de Lima
 - [Golfeado](/panes-venezolanos/golfeado/)
@@ -107,16 +107,16 @@ No tenemos registro de panes.
 
 - [Pan Tovareño](/panes-venezolanos/pan-tovareno/)
 - Pan aliñado
-- Pan de Tunja
+- [Pan de Tunja](/panes-venezolanos/pan-pinita/)
 - [Pan de avena](/panes-venezolanos/pan-de-avena/)
 - [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
-- Pan de leche
+- [Pan de leche](/panes-venezolanos/pan-de-leche/)
 - Pan con guayaba
 - Pan de queso
 - Pan con chicharrones
 - Acema
 - Acemita
-- Adema de chicharrón
+- Acema de chicharrón
 - Acema integral
 - Mojicón
 - Piñita
@@ -147,6 +147,7 @@ No tenemos registro de panes.
 - Rosquitas
 - [Saboyano](/comunidad/lamamideamy/#saboyano)
 - [Pan de la Vieja / Referencia de Joselin Bread](https://www.instagram.com/p/C66qX_ionH2/?igsh=eHlqYXp5MzRxNGFh){:target="blank"}
+- Coscorrones
 
 ## Portuguesa
 
@@ -187,7 +188,7 @@ No tenemos registro de panes.
 - Acema de chicharrón
 - Acema de bocadillo / conserva de guayaba
 - Sema
-- Quesadilla
+- [Quesadilla](/panes-venezolanos/quesadilla-andina/)
 - Quesadillita
 - Almidoncito
 - Mantecada
