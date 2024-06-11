@@ -17,11 +17,11 @@ Me encantan los números y las matemáticas, la panadería es una mezcla de núm
 
 Comencé mi proyecto de [@lamamideamy](https://instagram.com/lamamideamy/){:target="blank"} cuando ella nació a finales de 2019 y esperaba ponerlo en marcha a principios  de 2020, justo nos sorprendió la pandemia ese año y nos descuadró todo, entonces comencé a dar talleres en línea para ayudar a amigos y familiares que me pedían les enseñara a hacer Pan Canilla, también fue una manera de lidiar con el estrés, la preocupaciones y el encierro.
 
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-01.jpg" alt="{{page.title}}">
-
 Gracias a eso muchos pudieron sustentarse y hoy en día tienen emprendimientos bien forjados que pudieron salir adelante en medio de las vicisitudes.
 
 Siempre estoy aprendiendo cosas nuevas, superando obstáculos y me encanta poder seguir ayudando a mi comunidad a crecer en sus emprendimientos.
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-01.jpg" alt="{{page.title}}">
 
 Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia.
 
@@ -37,19 +37,17 @@ A continuación el contenido que comparte Joanther a la comunidad de panaderos.
 
 # Pan de leche tradición asuntina
 
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-panes-asuncion.jpg" alt="{{page.title}}">
-
 En tiempos antiguos, este Pan, se solía elaborar solo con leche fresca, después vino la sustitución por leche en polvo a la que le siguió en una parte la leche condensada, a veces hasta dulce de leche o malta en su constante adaptación y evolucionando para lograr un pan único y delicioso. Se horneaba en leña, en la actualidad se hace a gas, excepto en ocasiones especiales.
 
 Es un pan de miga prieta, suave, delicado y con gran valor de identidad asuntina que pone en alto la cultura culinaria y panadería margariteña.
+
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-panes-asuncion.jpg" alt="{{page.title}}">
 
 Gracias a nuestras panaderías de tradición como lo son [Pan de Mama La Asunción](https://www.instagram.com/pandemamalaasuncion){:target="blank"} y la [Panadería San Juan Bosco](https://www.instagram.com/bosco_sanjuan){:target="blank"} que son identidad neoespartana con más de 100 años.
 
 Mi receta es un obsequio, que ha sido prueba tras prueba y esfuerzo para que otras personas puedan disfrutar del sabor y la tradición margariteña en su hogar, fue parte de mi presentación de panes margariteños para graduarme como chef panadero aprobada por chefs como Juan José Hassan,  Freddy Acosta, Francesca Spaziani entre otros en mi examen final en el 2022 en el instituto iberoamericano.
 
 Espero puedan disfrutarlo tanto como nosotros.
-
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
 
 ## Ingredientes del Pan de leche asuntino
 
@@ -67,7 +65,7 @@ Espero puedan disfrutarlo tanto como nosotros.
 
 ## Proceso del Pan de leche asuntino
 
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-03.jpg" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-antonionavarro.jpg" alt="{{page.title}}">
 
 - Yo uso la levadura instantanea de empaque dorado que es osmotolerante y aguanta mejor la cantidad de azúcar.
 - El proceso es manual así que primero mezclo harina con la levadura, la nuez moscada y la reservo.
@@ -78,12 +76,9 @@ Espero puedan disfrutarlo tanto como nosotros.
 - El peso de cada pastón es aproximadamente 680 g.
 - Divide y bolea.
 - Cada bola, la estiras con un rodillo, formas un rectángulo y lo enrollas sin apretar mucho.
-
-<img class="post_image post_image_right" src="/images/comunidad/lamamideamy/lamamideamy-asuntino-04.jpg" alt="{{page.title}}">
-
 - Deja el cierre abajo.
 - Pásalo a la bandeja y lo dejas esponjarse por 2 horas aproximadamente o más dependiendo de la temperatura ambiente.
-- No lleva barniz, solo un poco de la misma harina que le queda por encina cuando se arma el pan en la mesa
+- No lleva barniz, solo un poco de la misma harina que le queda por encina cuando se arma el pan en la mesa.
 - Hornea a 170°C por 25 minutos a 30 minutos.
 - 🤭 Ah, es importante dejar reposar el Pan para que se asiente y puedas sentir su sabor realmente, la nuez moscada es característica y se debe sentir.
 
@@ -275,6 +270,55 @@ El Saboyano es tradicional en Margarita y la [Panadería San Juan Bosco](https:/
 - Añadir la vainilla y la nuez moscada.
 - Agregar la harina con el polvo de hornear con movimientos envolventes.
 - Hornear en molde engrasado con mantequilla sin sal más o menos 15 minutos a 150ºC o 350ºF.
+
+---
+
+<div id="vieja"></div>
+
+# Pan de Vieja
+
+Otra joya de la panadería Margariteña. 
+Pueblos vivos de Margarita.
+
+## Ingredientes del Pan de Vieja
+
+- 1 kg. Harina de trigo
+- 2 Cucharadas de levadura
+- 1 Taza de azúcar 
+- 1 Pizca de sal
+- 100 gramos de mantequilla 
+- Agua (la necesaria)
+
+### Modo de hacer el Pan de Vieja
+
+- Primero se hidrata la levadura en 1/2 taza de agua tibia por 15 minutos, despues agregárselo a la harina. 
+- Amasar la harina, con azucar, levadura, sal y agua la necesaria, hasta que no se pegue en las manos la masa. 
+- Después ponerle la mantequilla derretida hasta que se integre toda la masa y luego dejar en reposo hasta que crezca, aproximadamente por una hora. 
+- Formar los panes, colocarlos en la bandeja, se pueden rellenar de lo que gusten, barnizar antes de entrar al horno con huevo batido y hornear a 350ºF ó 180ºC  hasta que estén doraditos, unos 20 aproximadamente.
+
+---
+
+<div id="sobao"></div>
+
+# Pan Sobao
+
+## Ingredientes del Pan Sobao
+
+- Harina panadera 280g
+- Harina todo uso 75g
+- Agua   182g
+- Manteca vegetal (o mantequilla sin sal, yo usaba manteca porque mantiene el pan suave por más días) 35g
+- Azúcar 35g
+- Huevo 25g
+- Leche en polvo 15g
+- Sal 3.5g
+- Levadura 3.5g
+
+### Modo de hacer el Pan Sobao
+
+- Método directo, amasado, reposo, le hago solo 6 vueltas con rodillo y pliegue, reposo hasta duplicar, formar, leudar y hornear. Realmente es una masa muy noble y queda super suave.
+- Es un pan grandeeee unos 650g aproximadamente, se puede dividir y hacer dos panes.
+- Esta masa la he hecho, la he dejado sin amasar, la he congelado, la he sacado, descongelado, amasado, sobado y seguido el procedimiento sin problema. Esas han sido mis pruebas, mis clientes me decían que todavía al cuarto día el pan estaba suave.
 
 ---
 
