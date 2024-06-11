@@ -32,6 +32,8 @@ A continuación el contenido que comparte Joanther a la comunidad de panaderos.
 * [Acema margariteña](#acema)
 * [Bombón margariteño](#bombon)
 * [Saboyano](#saboyano)
+* [Pan de vieja](#vieja)
+* [Pan Sobao](#sobao)
 
 <div id="asuntino"></div>
 
