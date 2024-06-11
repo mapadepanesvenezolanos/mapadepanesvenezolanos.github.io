@@ -63,6 +63,8 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 ## Masa leudada con levadura instantánea
 
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_7.jpeg" alt="{{page.title}}">
+
 - Un Pan con 220g a 250g de masa.
 - Una masa sobada entre 50% y 60% de hidratación.
 - Contiene azúcar y grasa.
@@ -100,9 +102,9 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 ## Pasos para preparar el Pan Canilla
 
-<div id="preparacion"></div>
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_8.jpeg" alt="{{page.title}}">
 
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_7.jpeg" alt="{{page.title}}">
+<div id="preparacion"></div>
 
 ### Preparación
 
@@ -125,9 +127,9 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 - Realiza la prueba del gluten, si todavía falta vuelva a sobar la masa y haga reposos de 10 minutos hasta que el gluten se desarrolle. 
 - Usualmente con una o dos tandas de sobado es suficiente.
 
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_8.jpeg" alt="{{page.title}}">
-
 ### División 
+
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
 
 - Esta fórmula es para dos unidades, si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
 
@@ -146,8 +148,6 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 ### Precalentar el horno
 
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
-
 - Precalienta el horno a 220ºC/430ºF 
 - Introduce un caldero en el piso del horno para precalentarlo y luego generar vapor.
 
@@ -157,13 +157,13 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 ### Barnices, coberturas y cortes
 
+<img class="post_image post_image_right" src="/images/panes/canilla/canilla_10.jpeg" alt="{{page.title}}">
+
 - Coloca agua sobre cada pastón con un aspersor.
 - Realiza los cortes en la dirección del pastón, el corte siguiente se solapa un poco con el anterior.
 - Evita los cortes de forma transversal.
 
 ### Horneado
-
-<img class="post_image post_image_right" src="/images/panes/canilla/canilla_10.jpeg" alt="{{page.title}}">
 
 - Reduce la temperatura del horno a 200ºC/390ºF.
 - Introduce la bandeja en el horno.
