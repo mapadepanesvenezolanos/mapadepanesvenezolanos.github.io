@@ -45,6 +45,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 - Parte del agua se puede sustituir por malta o cerveza, recomendamos alrededor del cinco (5)% (diecisiete (17)g en este caso).
 - Algunos panaderos agregan papelón rallado al relleno. Inclusive se puede pintar la masa con melao de papelón, puedes usar miel, melaza, mostaza y hasta salsa BBQ. Tu imaginación es el límite. Cuida no excederte para que no se salgan los líquidos del pan en el horno.
 - Para darles un tono de color atractivo, durante el horneado a mitad del tiempo pásales un barniz de melao de papelón fino y los metes en el horno para que terminen su cocción.
+- Si estás en España busca una harina con W entre 170 y 250 para preparar los Cachitos.
 
 {% include whatsapp.html %}
 
