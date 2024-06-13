@@ -3,7 +3,7 @@ layout: post
 title: Acerca
 subtitle: ¿Quienes somos?
 description: Somos un equipo decidido a ayudarte a hacer los Panes Venezolanos.
-featured_image: /images/social.jpg
+featured_image: /images/panes/coco/coco_1.jpeg
 ---
 
 Te damos la bienvenida a la Página de los Panes Venezolanos.
