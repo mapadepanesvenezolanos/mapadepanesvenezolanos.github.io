@@ -107,8 +107,8 @@ li a:hover {
         </a>
     </li>
     <li>
-        <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank">
-            <img src="/images/HazPanesVenezolanosEnCasa-cover.jpg" alt="Libro Haz Panes Venezolanos en Casa"  class="link-img">
+        <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" target="_blank">
+            <img src="/images/portada-cuadrada.jpg" alt="Libro Haz Panes Venezolanos en Casa"  class="link-img">
             <span>Libro Haz Panes Venezolanos en Casa</span>
         </a>
     </li>
@@ -125,7 +125,7 @@ li a:hover {
         </a>
     </li>
     <li>
-        <a href="https://chat.whatsapp.com/GrnANlWQiTvJaRFvrbhvjo" target="_blank">
+        <a href="https://t.me/+kO4Xq-nVws45YzEx" target="_blank">
             <img src="/images/hazpanencasa.jpeg" alt="Grupo en Telegram Haz Pan en Casa"  class="link-img">
             <span>Grupo en Telegram Haz Pan en Casa</span>
         </a>
