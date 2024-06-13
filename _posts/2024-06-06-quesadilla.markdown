@@ -1,7 +1,7 @@
 ---
 title: "Quesadilla andina"
-subtitle: "La Quesadilla andina es un Pan tradicional de los andes."
-description: "La Quesadilla es un Pan que puede venir en distintas formas con un relleno o cobertura de queso mezclado con azúcar, leche y huevo para amalgamar. Se consume con toda Venezuela en diferentes versiones y su atractivo principal es poder degustar queso fresco sobre un Pan dulce suave."
+subtitle: "La Quesadilla andina es un Pan tradicional de La Grita, Estado Táchira."
+description: "La Quesadilla es un Pan que puede venir en distintas formas con un relleno o cobertura de queso mezclado con azúcar, leche y huevo para amalgamar. Se consume en toda Venezuela en diferentes versiones y su atractivo principal es poder degustar queso fresco sobre un Pan dulce suave."
 date: 2024-06-06 10:32:39 -0400
 published: true
 permalink: /panes-venezolanos/quesadilla-andina/
