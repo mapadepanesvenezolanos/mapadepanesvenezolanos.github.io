@@ -19,6 +19,8 @@ menu_settings:
       url: '/'
     - title: 'Mapa'
       url: '/mapa/'
+    - title: 'Libro'
+      url: '/libros/haz-panes-venezolanos-en-casa/'
     - title: 'Calculadoras'
       url: '/calculadoras'
     - title: 'Blog'
