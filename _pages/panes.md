@@ -8,6 +8,8 @@ featured_image: /images/social.jpg
 
 {% include intro.html %}
 
+{% include search-lunr.html %}
+
 <section class="listing">
 
 	<div class="content-wrap listing-wrap">
