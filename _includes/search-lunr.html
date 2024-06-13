@@ -102,11 +102,21 @@ function lunr_search(term) {
     .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
     .lunrsearchresult a:hover .title {text-decoration: underline;}
     .lunrsearchresult { list-style-type: none; }
+
+    .lunrsearch { 
+        width: 25%; 
+        margin-bottom: 1rem;
+        margin-left: 2rem;
+        border-color: grey;
+        border-radius: 5px;
+        border-width: 2px;
+    } 
+
 </style>
 
 
 <form onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
-    <p><input type="text" style="width: 25%; margin-bottom: 1rem; margin-left: 2rem; border-color: grey; border-radius: 5px;border-width: 2px;" class="form-control" id="lunrsearch" name="q" maxlength="255" value="" placeholder="¿Qué buscas? Escribe aquí..." /></p>
+    <p><input type="text" class="form-control lunrsearch" id="lunrsearch" name="q" maxlength="255" value="" placeholder="¿Qué buscas? Escribe aquí..." /></p>
 </form>
 <div id="lunrsearchresults">
     <ul></ul>
