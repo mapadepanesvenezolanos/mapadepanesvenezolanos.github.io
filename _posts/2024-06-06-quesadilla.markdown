@@ -121,7 +121,7 @@ Your browser does not support the video tag.
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - En un segundo envase, mezcla el agua, los huevos, leche condensada, miel, vainilla, azúcar y diluye.
 - Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
-- Mezcla hasta obtener una masa homogénea y déjala reposar tadada en un recipiente por diez (10) minutos.
+- Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
 <div id="sobado"></div>
 
