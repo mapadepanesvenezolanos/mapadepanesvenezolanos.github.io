@@ -12,7 +12,7 @@ formula_name: "quesadilla"
 second_formula_name: "quesadillarelleno"
 ---
 
-La Quesadilla es un Pan que puede venir en distintas formas con un relleno o cobertura de queso mezclado con azúcar, leche y huevo para amalgamar. Se consume con toda Venezuela en diferentes versiones y su atractivo principal es poder degustar queso fresco sobre un Pan dulce suave.
+La Quesadilla es un Pan que puede venir en distintas formas con un relleno o cobertura de queso mezclado con azúcar, leche y huevo para amalgamar. Se consume en toda Venezuela en diferentes versiones y su atractivo principal es poder degustar queso fresco sobre un Pan dulce suave.
 
 En Venezuela hay varias versiones de quesadilla, las más nombradas y conocidas son la andina y la llanera. La andina de la Grita y la llanera de Corozopando, Estado Guárico. Se forman distinto y lo que la hace única es el queso que se utiliza. Nada iguala el queso fresco que se usa en los andes o en los llanos venezolanos.
 
@@ -76,7 +76,7 @@ Your browser does not support the video tag.
 | ----------------------------------------------|---------------|-----------|
 | **Total**                                     |   **189%**    | **760g**  |
 
-### Calculadora para preparar la Quesadilla andina
+### Calculadora para preparar la  Quesadilla andina
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
