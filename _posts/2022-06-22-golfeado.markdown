@@ -26,8 +26,8 @@ Hemos probado golfeados en otros lugares de Venezuela y son muy variantes las in
 
 Les dejamos los enlaces para cada proceso:
 
-* [Al estilo Caraqueño](#caraqueno)
 * [Al estilo del Junquito](#junquito)
+* [Al estilo Caraqueño](#caraqueno)
 
 ## RECETA, FÓRMULA y TÉCNICAS del Golfeado Caraqueño
 
@@ -47,18 +47,152 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
 
-## Tips para preparar el Golfeado Caraqueño
+<div id="junquito"></div>
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_1.jpeg" alt="{{page.title}}">
 
+# Golfeado del Junquito (nuestra interpretación)
+
+## Método directo
+
+### Tips para preparar el Golfeado del Junquito
+
+- Los golfeados del Junquito suelen ser más pequeños y el rollo debe ser de al menos tres (3) vueltas.
+- Esta versión tiene relleno y cobertura de manera que se siente una textura grumosa, dulce y melosa en la superficie.
 - Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
 - Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
-- El queso del relleno preferimos pasarlo por un procesador para que quede en bolitas pequeñas.
+- Para que el queso del relleno quede en bolitas pequeñas como lo preferimos nosotros, pasalo por un procesador de alimentos o rallalo utilizando el lado más fino de un rayo de cocina.
+- Si no te gusta conseguir el anís en grano en la masa, puedes utilizar anís molido en la misma cantidad.
 - Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
-- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melao de papelón dos o tres veces cada 10 minutos.
-- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especias.
+- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melado de papelón dos (2) o tres (3) veces cada diez (10) minutos.
+- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especies.
 - Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
 - En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
 {% include whatsapp.html %}
+
+### Ingredientes para preparar el Golfeado del Junquito (6 unidades de 80g)
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Harina todo uso           |        100% |  267g  |
+| Agua                      |         30% |   80g  |
+| Levadura instantánea      |          1% |    3g  |
+| Sal                       |          1% |    3g  |
+| Huevos ligeramente batidos|         10% |   27g  |
+| Mantequilla sin sal       |         15% |   40g  |
+| Azúcar                    |         15% |   40g  | 
+| Leche en polvo            |          5% |   13g  |
+| Anís en grano (molido)    |          1% |    3g  |
+| Miel                      |          1% |    3g  |
+| Vainilla                  |          1% |    3g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **180%**  |**482g**|
+
+### Relleno y cobertura del Golfeado del Junquito
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Queso                     |        100% |   61g  |
+| Papelón                   |        100% |   61g  |
+| Azúcar                    |         75% |   46g  | 
+| Anís en grano (molido)    |          1% |    1g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **276%**  |**169g**|
+|---------------------------|-------------|--------|
+| Relleno                   |         60% |  101g  |
+| Cobertura                 |         40% |   68g  |
+
+### Melao del Golfeado del Junquito
+
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Papelón                   |        100% |  200g  |
+| Agua                      |         50% |  100g  |
+| Especias                  |          5% |   10g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **155%**  |**310g**|
+
+## Paso a paso para preparar el Golfeado del Junquito
+
+<div id="preparacion"></div>
+
+### Preparación del relleno
+
+- Si es posible, pasa el queso por un procesador o por el lado fino del rayo para que quede bien granulado, en bolitas.
+- Al queso agrega el papelón cernido y el azúcar.
+- Mezcla, pesa y divide lo que va a ser relleno y cobertura, reserva.
+
+### Preparación del melao
+
+- En una olla a fuego medio a bajo, agrega el papelón y el agua. 
+- Si vas a agregar especias, te sugerimos utilizar pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. 
+- Deja que se disuelva el papelón hasta que alcances el punto nape de temperatura (al poner la mezcla en una cuchara de metal y pasar el dedo, este se  queda marcado). 
+
+### Preparación de la masa
+
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_2.jpeg" alt="{{page.title}}">
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+- Para la mezcla inicial, reserva la sal, el anís en grano y la mitad de la mantequilla.
+- En un envase mezcla la harina, la levadura instantánea, el azúcar y la leche en polvo, 
+- En otro envase mezcla el agua, el huevo, la miel y la vainilla hasta disolver.
+- Cree un volcán con la mezcla de ingredientes secos. 
+- Coloca los líquidos y la mitad de la mantequilla en el centro del volcán.
+- Agrega la sal en los bordes del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa utilizando el rodillo haciendo pliegues, unos cinco (5) a siete (7) y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+### Formado
+
+<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_8.jpeg" alt="{{page.title}}">
+
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Coloca la masa como te sea más cómoda para enrollar por el lado de treinta (30) centímetros.
+- Coloca ciento un (101)gramos del relleno sobre la masa, dejando unos cinco (5cm) sin relleno en uno de los lados de treinta (30) centímetros.
+- Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno
+- Engrasa un recipiente o bandeja alto para mantener la humedad.
+- Corta el rollo en seis (6) partes y coloca cada parte en el recipiente.
+
+### Fermentación final (maduración)
+
+- A una temperatura entre 24ºC/75ºF y 27ºC/80ºF deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
+
+### Barnices, coberturas y cortes
+
+- Después de una (1) hora de maduración coloca la cobertura (la mezcla del relleno sobrante - 68g) sobre las masas.
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante diez (10) minutos. 
+- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
+- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
+- Déjalos en el horno entre veinticinco (25) y treinta (30) minutos.
+
+### Enfriamiento
+
+- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
+
+### Consumo
+- Para elevar la experiencia de sabores, cubre el golfeado tibio con una capa fina del melao utilizando una brocha de cocina.
+
+## Tips para preparar el Golfeado Caraqueño
+
+- Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
+- Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
+- Para que el queso del relleno quede en bolitas pequeñas como lo preferimos nosotros, pasalo por un procesador de alimentos o rallalo utilizando el lado más fino de un rayo de cocina.
+- Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
+- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melao de papelón dos (2) o tres (3) veces cada diez (10) minutos.
+- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especias.
+- Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
+- En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
 
 <div id="caraqueno"></div>
 <img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_4.jpeg" alt="{{page.title}}">
@@ -126,13 +260,15 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 ### Preparación del relleno
 
-- Si es posible, pasa el queso por un procesador para que quede bien granulado, en bolitas.
+- Si es posible, pasa el queso por un procesador o por el lado fino del rayo para que quede bien granulado, en bolitas.
 - Al queso agrega el papelón cernido y el azúcar, la idea es que esté fino.
 - Mezcla y reserva.
 
 ### Preparación del melao
 
-- En una olla a fuego medio a bajo, agrega el papelón y el agua. Deja que se disuelva. Si vas a agregar especias, sigue el tip que dejamos previamente.
+- En una olla a fuego medio a bajo, agrega el papelón y el agua. 
+- Si vas a agregar especias, te sugerimos utilizar pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. 
+- Deja que se disuelva el papelón hasta que alcances el punto nape de temperatura (al poner la mezcla en una cuchara de metal y pasar el dedo, este se  queda marcado). 
 
 ### Preparación de la masa
 
@@ -142,37 +278,38 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 
 ### Mezcla y amasado
 
-- Para la mezcla inicial reserva la mitad de la mantequilla, sal y anís en grano.
-- En un envase mezcla la harina, levadura instantánea, azúcar y leche en polvo. 
-- En otro envase mezcla el agua, huevo, miel y vainilla hasta disolver.
-- Crea un volcán con la mezcla de ingredientes secos, agrega los líquidos, la mitad de la mantequilla en el centro del volcán y la sal alrededor del volcán.
+- Para la mezcla inicial, reserva la sal, el anís en grano y la mitad de la mantequilla.
+- En un envase mezcla la harina, la levadura instantánea, el azúcar y la leche en polvo, 
+- En otro envase mezcla el agua, el huevo, la miel y la vainilla hasta disolver.
+- Cree un volcán con la mezcla de ingredientes secos. 
+- Coloca los líquidos y la mitad de la mantequilla en el centro del volcán.
+- Agrega la sal en los bordes del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. 
-- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
-- Amasa utilizando el rodillo haciendo pliegues, unos 5 a 7 y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa utilizando el rodillo haciendo pliegues, unos cinco (5) a siete (7) y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de 30cm x 40cm.
-- Coloca la masa como te sea más cómoda para enrollar por el lado de 30cm.
-- Coloca el relleno sobre la masa dejando unos 5cm sin relleno en uno de los lados de 30cm.
-- Enrolla desde el lado de 30cm con relleno al lado sin relleno, sin generar tensión.
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Coloca la masa como te sea más cómoda para enrollar por el lado de treinta (30) centímetros.
+- Coloca el relleno sobre la masa, dejando unos cinco (5) centímetros sin relleno en uno de los lados de treinta (30) centímetros.
+- Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno.
 - Engrasa un recipiente o bandeja alto para mantener la humedad.
-- Corta el rollo en 6 partes y coloca cada parte en el recipiente.
+- Corta el rollo en seis (6) partes y coloca cada parte en el recipiente.
 
 ### Fermentación final (maduración)
 
-- A una temperatura entre 24ºC y 27ºC deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
+- A una temperatura entre 24ºC/75ºF y 27ºC/80ºF deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
 
 <div id="horneado"></div>
 
 ### Horneado
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante diez (10) minutos. 
 - Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
 - Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
-- Déjalos en el horno entre veinticinco (25) a treinta (30) minutos.
+- Déjalos en el horno entre veinticinco (25) y treinta (30) minutos.
 
 <div id="enfriamiento"></div>
 
@@ -181,136 +318,10 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
 
+### Consumo
+- Para elevar la experiencia de sabores, cubre el golfeado tibio con una capa fina del melao utilizando una brocha de cocina.
+
 ------
-
-<div id="junquito"></div>
-<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_1.jpeg" alt="{{page.title}}">
-
-# Golfeado del Junquito (nuestra interpretación)
-
-## Método directo
-
-### Tips para preparar el Golfeado del Junquito
-
-- Los golfeados del Junquito suelen ser más pequeños y el rollo debe ser de al menos tres vueltas.
-- Esta versión tiene relleno y cobertura de manera que se siente una textura grumosa, dulce y melosa en la superficie.
-- Al armar el rollo no le des mucha tensión para que no se rasgue o se rompa la masa durante el leudado o en el horno.
-- Antes de introducir la bandeja en el horno se le puede colocar un poquito de agua, sin exagerar, para que la base de los Golfeados sea melosa y blanda.
-- El queso del relleno preferimos pasarlo por un procesador para que quede en bolitas pequeñas.
-- Si no te gusta conseguir el anís en grano en la masa, puedes utilizar anís molido en la misma cantidad.
-- Al introducir la bandeja en el horno se tapa con una bandeja o papel aluminio para mantener la superficie húmeda. 
-- Para lograr un color oscuro se coloca una barniz de melao de papelón y durante el horneado se puede volver a colocar melado de papelón dos o tres veces cada 10 minutos.
-- En algunas preparaciones se hace un melao de papelón especiado con pimienta guayabita, canela en rama, anís en grano o estrellado y clavos de olor. Se agrega papelón y un poco de agua además de las especies.
-- Se espuma (retirar la espuma de la superficie de un líquido en ebullición) y se reduce hasta obtener un melao de papelón más espeso y perfumado, cuando esté listo se pasa por un colador y se reserva.
-- En un horno casero a gas o eléctrico, sin convección inducida, puedes usar vapor para mantener la cámara húmeda y evitar que se resequen los golfeados en la superficie. Si esto ocurre, también puedes bajar la temperatura del horno.
-
-### Ingredientes para preparar el Golfeado del Junquito (6 unidades de 80g)
-
-| Ingrediente               | Fórmula     | Peso   |
-|:--------------------------|:-----------:|-------:|
-| Harina todo uso           |        100% |  267g  |
-| Agua                      |         30% |   80g  |
-| Levadura instantánea      |          1% |    3g  |
-| Sal                       |          1% |    3g  |
-| Huevos ligeramente batidos|         10% |   27g  |
-| Mantequilla sin sal       |         15% |   40g  |
-| Azúcar                    |         15% |   40g  | 
-| Leche en polvo            |          5% |   13g  |
-| Anís en grano (molido)    |          1% |    3g  |
-| Miel                      |          1% |    3g  |
-| Vainilla                  |          1% |    3g  |
-|---------------------------|-------------|--------|
-| **Total**                 |   **180%**  |**482g**|
-
-### Relleno y cobertura del Golfeado del Junquito
-
-| Ingrediente               | Fórmula     | Peso   |
-|:--------------------------|:-----------:|-------:|
-| Queso                     |        100% |   61g  |
-| Papelón                   |        100% |   61g  |
-| Azúcar                    |         75% |   46g  | 
-| Anís en grano (molido)    |          1% |    1g  |
-|---------------------------|-------------|--------|
-| **Total**                 |   **276%**  |**169g**|
-|---------------------------|-------------|--------|
-| Relleno                   |         60% |  101g  |
-| Cobertura                 |         40% |   68g  |
-
-### Melao del Golfeado del Junquito
-
-| Ingrediente               | Fórmula     | Peso   |
-|:--------------------------|:-----------:|-------:|
-| Papelón                   |        100% |  200g  |
-| Agua                      |         50% |  100g  |
-| Especias                  |          5% |   10g  |
-|---------------------------|-------------|--------|
-| **Total**                 |   **155%**  |**310g**|
-
-## Paso a paso para preparar el Golfeado del Junquito
-
-<div id="preparacion"></div>
-
-### Preparación del relleno
-
-- Si es posible, pasa el queso por un procesador para que quede bien granulado, en bolitas.
-- Al queso agrega el papelón cernido y el azúcar.
-- Mezcla, pesa y divide lo que va a ser relleno y cobertura, reserva.
-
-### Preparación del melao
-
-- En una olla a fuego medio a bajo agrega el papelón y el agua. Deja que se disuelva. Si vas a agregar especias, sigue el tip que dejamos previamente.
-
-### Preparación de la masa
-
-<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_2.jpeg" alt="{{page.title}}">
-
-- Pesa todos los ingredientes y colocarlos en envases separados. 
-- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
-
-### Mezcla y amasado
-
-- Para la mezcla inicial reserva la mitad de la mantequilla, sal y anís en grano.
-- En un envase mezcla la harina, levadura instantánea, azúcar y leche en polvo, 
-- En otro envase mezcla el agua, huevo, miel y vainilla hasta disolver.
-- Cree un volcán con la mezcla de ingredientes secos y coloca los líquidos y la mitad de la mantequilla en el centro del volcán y la sal alrededor del volcán.
-- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
-- Amasa utilizando el rodillo haciendo pliegues, unos 5 a 7 y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
-
-### Formado
-
-<img class="post_image post_image_right" src="/images/panes/golfeado/golfeado_8.jpeg" alt="{{page.title}}">
-
-- Con el rodillo extiende la masa en un rectángulo de 30cm x 40cm.
-- Coloca la masa como te sea más cómoda para enrollar por el lado de 30cm.
-- Coloca el relleno (101g) sobre la masa dejando unos 5cm sin relleno en uno de los lados de 30cm.
-- Enrolla desde el lado de 30cm con relleno al lado sin relleno, sin generar tensión.
-- Engrasa un recipiente o bandeja alto para mantener la humedad.
-- Corta el rollo en 6 partes y coloca cada parte en el recipiente.
-
-### Fermentación final (maduración)
-
-- A una temperatura entre 24ºC y 27ºC deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
-
-### Barnices, coberturas y cortes
-
-- Después de una (1) hora de maduración coloca la cobertura (la mezcla del relleno sobrante - 68g) sobre las masas.
-
-### Horneado
-
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante 10 minutos. 
-- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
-- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
-- Déjalos en el horno entre veinticinco (25) a treinta (30) minutos.
-
-### Enfriamiento
-
-- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
-
----
 
 ### Referencias y enlaces
 
@@ -326,7 +337,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 3.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
