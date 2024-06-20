@@ -139,9 +139,6 @@ Your browser does not support the video tag.
 
 - Bolea cada porción.
 - Colócalas sobre la mesa tapadas con plástico.
-
-### Descanso en mesa
-
 - Deja reposar las porciones por diez (10) minutos.
 
 ### Formado
@@ -154,7 +151,7 @@ Your browser does not support the video tag.
 
 ### Fermentación final (maduración)
 
-- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC y 27ºC durante noventa (90) minutos.
+- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (90) minutos.
 
 ### Precalentar el horno
 
@@ -175,6 +172,7 @@ Your browser does not support the video tag.
 
 - Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
 
+
 ------
 
 ### Referencias y enlaces
@@ -189,7 +187,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 2.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
