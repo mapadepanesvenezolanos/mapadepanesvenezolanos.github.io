@@ -78,7 +78,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Leche
 
 <div id="preparacion"></div>
 
@@ -205,7 +205,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 |---------------------------|-------------|-------|
 | **Total**                 |   **257.4%**|**540g**|
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Leche
 
 ### Preparación del prefermento Pie (Día 1)
 
@@ -282,7 +282,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Leche
 
 ### Preparación del prefermento Biga (Dia 1)
 
@@ -336,7 +336,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 {% include calculadora-de-panes3.html %}
 
-## Paso a paso del panadero
+## Paso a paso para preparar el Pan de Leche
 
 ### Mezcla y amasado
 
