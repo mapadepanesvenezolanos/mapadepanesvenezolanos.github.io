@@ -1,0 +1,166 @@
+---
+title:  "Pan de Ajo"
+subtitle: "Es el pan por excelencia para acompañar almuerzos y parrillas."
+description: "El Pan de Ajo que se prepara en Venezuela es un pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y tupida. Es perfecto para acompañar pastas, asados o parrillas como las llamamos en Venezuela, la imaginación es el límite."
+date:   2024-06-23 19:00:39 -0400
+permalink: /panes-venezolanos/pan-ajo/
+published: false
+categories: pan rustico capital
+keywords: ajo, pan de ajo, pan de ajo venezolano, panes venezolanos, pan ajo venezolano receta, pan ajo venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
+featured_image: '/images/panes/ajo/ajo_1.jpeg'
+formula_name: "ajo"
+---
+
+Esta versión del Pan de Ajo que les proponemos es un pan de miga esponjosa, suave, y perfumada a ajo, de corteza rústica y miga aromática donde se funde el afrecho dentro de la nube blanca que produce la harina panadera. Es perfecto para acompañar pastas, asados o parrillas como las llamamos en Venezuela, la imaginación es el límite.
+
+## RECETA, FÓRMULA y TÉCNICAS del Pan de Ajo
+
+## Resultado esperado
+
+Este es un pan de miga esponjosa, suave, y perfumada a ajo, de corteza rústica y miga aromática donde se funde el afrecho dentro de la nube blanca que produce la harina panadera. Es perfecto para acompañar una comida principal, de sabores fuertes, por ejemplo una buena parrilla venezolana, una mesa de quesos cremosos tipo camembert, brie. Yo Jesús (@1painalafois) lo preparo muy seguido porque es el favorito de mi hija Mayah Rose.
+
+## Origen del Pan de Ajo
+El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Foods en Míchigan.1​ Con los años, se ha discutido si el pan de ajo es una variante de la bruschetta o si es una creación estadounidense (tostada texana)[^1]. Este es un pan extra que quisimos compartir porque a Jesus le encanta prepararlo 
+
+
+[^1]: Wikipedia 
+
+## Tips para preparar el Pan de Ajo
+
+- Corta el ajo en trocitos muy pequeños, luego sofríe en un sartén en una cucharada de mantequilla sin sal. 
+- Luego ponlo a enfriar unos diez (10) minutos en la nevera antes de incorporarlo a la masa del pan.
+- Prevée unas cinco (5) horas para la preparación de este pan.
+- Al momento de la preparación, toma en consideración el efecto que la temperatura ambiente de tu cocina, la humedad en el ambiente y la época del año van a tener sobre la fermentación y la textura de tu pan. A mayor temperatura es igual a una fermentación más rápida, lo inverso es igual también. 
+
+{% include whatsapp.html %}
+
+<div id="ajo"></div>
+
+# Pan de Ajo 
+
+## Masa leudada con levadura instantánea 
+
+- 1 Pan de 700g de masa.
+- Temperatura ambiente 24ºC - 27ºC
+- 72% de hidratación
+
+### Ingredientes para preparar el Pan de Ajo (1 unidad)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera (13%)                                        |       97%     |      384g |
+| Afrecho                                                      |        3%     |       12g |
+| Agua                                                         |       70%     |      277g |
+| Levadura instantanea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        8g |
+| Ajo cortado y sofrito                                        |        4%     |       16g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **177%**    |  **700g** |
+
+### Calculadora para la masa del Pan de Ajo
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
+## Paso a paso para preparar el Pan de Ajo
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado 
+
+#### Ciclo de amasado
+
+- Reserva la sal y el ajo cortado a parte.
+- En un primer envase, mezcla los ingredientes sólidos de la masa: harina panadera y el afrecho. 
+- En un segundo envase, mezcla el agua con la levadura instantánea hasta disolver. 
+- Integra el contenido del primer y segundo envase hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa. - Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. 
+- Si todavía le falta, amasa durante dos (2) minutos o hasta superar la prueba de la malla de gluten.
+
+#### Incorporar el ajo cortado y sofrito
+
+- Extiende la masa y distribuye el ajo cortado sobre la masa. 
+- Cierra la masa haciendo un doblez simple, como si fuese un cuaderno. 
+- Intentando no romper mucho el gluten, realiza un preformado redondo. 
+
+### Primera Fermentación y Manipulación
+
+En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
+
+- Estirar y plegar, déjala reposar tapada por sesenta (60) minutos.
+- Estirar y plegar, déjala reposar tapada por sesenta (60) minutos.
+
+### Formado
+
+- Realiza el formado batard o redondo generando tensión.
+- Coloca la masa formada en un envase que mantenga la forma y permita que siga fermentando la masa por una hora o hasta que esté esponjosa y aireada, cuidando de no sobre fermentar. 
+- Si el formado es batard el recipiente puede ser rectangular o ovalado. 
+- Si el formado es redondo el recipiente puede ser redondo como una quesillera.
+
+### Fermentación final (maduración)
+
+- Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
+
+### Barnices, coberturas y cortes
+
+- Una (1) hora antes de sacar la pieza de la nevera, enciende el horno a 232ºC/450ºF colocando preferiblemente una olla de tipo holandesa tapada, dentro del horno a media altura. 
+- Saca el recipiente de la nevera y coloca la masa sobre papel para hornear (papel parchemin).
+- Con una hojilla, realiza un corte de un (1) cm de profundidad, que atraviese el pastón desde el extremo norte hasta el extremo sur. 
+- Saca la olla (holandesa) del horno con cuidado e introduce el paston en la olla.
+- Coloca dos (2) hielos en la base de la olla, debajo del papel para hornear (parchemin).
+- Con un atomizador, rocía agua generosamente sobre la superficie del pastón.
+- Tapa la olla.
+
+### Horneado 
+
+- Introduce la olla en el horno y déjala por veinte (20) minutos a 200ºC/430ºF. 
+- Saca la olla del horno, pasa la pieza de Pan con cuidado a una bandeja e introdúcela en el horno por veinte (20) minutos a 210ºC/410ºF. 
+- Reduce la temperatura a 180ºC/355ºF y deja el Pan por diez (10) minutos más. 
+- Apaga el horno, dejando la puerta del horno entreabierta. 
+- Deja el Pan en el horno durante quince (15) minutos.
+
+### Enfriamiento
+
+- Saca la bandeja del horno y mueve el Pan a una rejilla. 
+- Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
+- Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [Plaza’s Escuela de Cocina]{:target="blank"} y la receta de pan Mollete Gallego del libro 100 recetas de pan de pueblo: Ideas y trucos para hacer en casa panes de toda España de Iban Yarza [100 Recetas Pan de Pueblo]{:target="blank"}.
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
+
+Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 1.0__ 
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Panadero Artesanal]: https://www.instagram.com/panadero_artesanal
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Plaza’s Escuela de Cocina]: https://www.youtube.com/@ZonaDeleitePlazas
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[@pandemelao]: https://www.instagram.com/pandemelao
+[@oreganobaguette]: https://www.instagram.com/oreganobaguette
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+[100 Recetas Pan de Pueblo]: https://www.amazon.com/100-recetas-pan-pueblo-Recipes/dp/8417338640
