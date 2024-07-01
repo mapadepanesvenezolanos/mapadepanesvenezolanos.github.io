@@ -135,7 +135,7 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [Plaza’s Escuela de Cocina]{:target="blank"} y la receta de pan Mollete Gallego del libro 100 recetas de pan de pueblo: Ideas y trucos para hacer en casa panes de toda España de Iban Yarza [100 Recetas Pan de Pueblo]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [Plaza’s Escuela de Cocina]{:target="blank"}.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -145,7 +145,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__ 
+__Versión 1.1__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -162,5 +162,3 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
-[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
-[100 Recetas Pan de Pueblo]: https://www.amazon.com/100-recetas-pan-pueblo-Recipes/dp/8417338640
