@@ -28,7 +28,7 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 
 - Corta el ajo en trocitos muy pequeños, luego sofríe en un sartén en una cucharada de mantequilla sin sal. 
 - Luego ponlo a enfriar unos diez (10) minutos en la nevera antes de incorporarlo a la masa del pan.
-- Prevée unas cinco (5) horas para la preparación de este pan.
+- Prevé unas cinco (5) horas para la preparación de este pan.
 - Al momento de la preparación, toma en consideración el efecto que la temperatura ambiente de tu cocina, la humedad en el ambiente y la época del año van a tener sobre la fermentación y la textura de tu pan. A mayor temperatura es igual a una fermentación más rápida, lo inverso es igual también. 
 
 {% include whatsapp.html %}
