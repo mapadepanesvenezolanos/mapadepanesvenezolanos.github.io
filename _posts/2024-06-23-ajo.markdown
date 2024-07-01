@@ -7,7 +7,7 @@ permalink: /panes-venezolanos/pan-de-ajo/
 published: true
 categories: pan rustico capital
 keywords: ajo, pan de ajo, pan de ajo venezolano, panes venezolanos, pan ajo venezolano receta, pan ajo venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
-featured_image: '/images/panes/ajo/ajo_3.png'
+featured_image: '/images/panes/ajo/ajo_1.png'
 formula_name: "ajo"
 ---
 
