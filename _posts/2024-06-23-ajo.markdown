@@ -4,7 +4,7 @@ subtitle: "Es el pan por excelencia para acompañar almuerzos y parrillas."
 description: "El Pan de Ajo que se prepara en Venezuela es un pan tiene una corteza rústica, semi dura y crocante con una miga esponjosa y tupida. Es perfecto para acompañar pastas, asados o parrillas como las llamamos en Venezuela, la imaginación es el límite."
 date:   2024-06-23 19:00:39 -0400
 permalink: /panes-venezolanos/pan-ajo/
-published: false
+published: true
 categories: pan rustico capital
 keywords: ajo, pan de ajo, pan de ajo venezolano, panes venezolanos, pan ajo venezolano receta, pan ajo venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
 featured_image: '/images/panes/ajo/ajo_1.jpg'
