@@ -99,14 +99,14 @@ alto.
 
 <div id="cocinadosimultaneo"></div>
 
-### Cocinado por lotes de cinco arepas 
+### Asado por lotes  
 
 - Enciende una de las hornillas de tu cocina a fuego medio.
 - Con la ayuda de una brochita de cocina, barniza tu plancha de cocina con una media cucharadita (½)de aceite vegetal.
 - Coloca la plancha de cocina en la hornilla
 - Calienta la plancha de cocina hasta que al colocar tu mano por encima y a diez (10) centímetros de distancia, sientas el calor que de ella se desprende.
-- Coloca tus primeros (5) discos de masa/arepas en la plancha, distribuidos de tal forma que estén separados al menos un centímetro en la plancha.
-- Cocina tus arepas cinco minutos por cada lado.
+- Coloca tus primeros tres (3) discos de masa/arepas en la plancha, distribuidos de tal forma que estén separados al menos un centímetro en la plancha.
+- Asa tus arepas durante cinco (5) minutos por cada lado.
 
 ### Prueba de cocción
 
@@ -141,7 +141,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.3__
+__Versión 3.4__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
