@@ -110,11 +110,12 @@ alto.
 
 ### Prueba de cocción
 
-- Por cada arepa en la plancha de cocina, con la ayuda de un guante de cocina, retira la arepa que deseas probar y percute uno de sus lados con tu dedo índice. Si el sonido es hueco, entonces tu arepa está lista. En caso contrario, coloca la arepa de nuevo en la plancha de cocina y verifica nuevamente en dos minutos.
-- Repite el paso anterior con cada una de las arepas dispuestas en la plancha.
-- Retira cada arepa de la plancha de cocina, y colócalas en un recipiente cubiertas con un paño de tela para que mantengan el calor.
+- Con la ayuda de un guante de cocina, retira la arepa que deseas probar y percute uno de sus lados con tu dedo índice. Si el sonido es hueco, entonces tu arepa está lista. 
+- En caso contrario, ponla de nuevo en la plancha de cocina y verifica la cocción en dos (2) minutos. 
+- Repite el paso anterior con cada una de las arepas dispuestas en la plancha. 
+- Retira cada arepa de la plancha de cocina, y colócalas en un recipiente seco cubiertas con un paño de tela para que mantengan el calor.
 
-Procede a cocinar el segundo lote de arepas, siguiendo los pasos que se indican en la etapa [Asado por lotes](#asadoporlotes)
+Procede a cocinar el siguiente lote de arepas, siguiendo los pasos que se indican en la etapa [Asado por lotes](#asadoporlotes)
 
 ### Horneado (opcional)
 
@@ -141,7 +142,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.5__
+__Versión 3.6__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
