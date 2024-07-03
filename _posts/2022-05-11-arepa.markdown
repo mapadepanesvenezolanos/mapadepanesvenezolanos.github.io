@@ -97,7 +97,7 @@ alto.
 - Repite el paso anterior con cada bolita.
 - Coloca las bolitas en una bandeja plana.
 
-<div id="cocinadosimultaneo"></div>
+<div id="asadoporlotes"></div>
 
 ### Asado por lotes  
 
@@ -114,11 +114,11 @@ alto.
 - Repite el paso anterior con cada una de las arepas dispuestas en la plancha.
 - Retira cada arepa de la plancha de cocina, y colócalas en un recipiente cubiertas con un paño de tela para que mantengan el calor.
 
-Procede a cocinar el segundo lote de arepas, siguiendo los pasos que se indican en la etapa [Cocinado por lotes de cinco arepas simultáneamente](#cocinadosimultaneo)
+Procede a cocinar el segundo lote de arepas, siguiendo los pasos que se indican en la etapa [Asado por lotes](#asadoporlotes)
 
 ### Horneado (opcional)
 
-- Enciende el horno a trescientos cincuenta y cinco (355) grados fahrenheit.
+- Enciende el horno a 180ºC/355ºF.
 - Una vez alcanzada la temperatura del horno, coloca tus arepas ya cocidas en una bandeja plana.
 - Introduce la bandeja en el horno y hornea las arepas durante diez (10) minutos o hasta que veas que percibas que se infla la costra.
 
@@ -141,7 +141,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.4__
+__Versión 3.5__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
