@@ -143,7 +143,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación final (maduración y retardo en nevera)
 
-* Coloca el recipiente tapado en la nevera entre 8h y 12h.
+* Coloca el recipiente tapado en la nevera entre ocho (8) y doce (12)horas.
 
 ### Barnices, coberturas y cortes (Día 2)
 
@@ -151,12 +151,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Horneado
 
-* Enciende el horno media hora antes de hornear a una temperatura de 200ºC - 430ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+* Enciende el horno media hora antes de hornear a una temperatura de 200ºC/430ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 * Una vez que el horno haya alcanzado la temperatura indicada anteriormente, saca la olla holandesa del horno y con cuidado introduce la pieza en la olla, tapa la olla.
-* Hornea tu paston durante 20 minutos.
-* Disminuye la temperatura del horno a 390ºF dejando la olla tapada. Continúe horneando el pan durante 30 minutos más. 
+* Hornea tu paston durante veinte (20) minutos.
+* Disminuye la temperatura del horno a a 210ºC/410ºF dejando la olla tapada. 
+* Continua horneando el pan durante treinta (30) minutos más. 
 * Abre el horno y retira la tapa de la olla holandesa.
-* Disminuye la temperatura del horno a 355ºF y continua horneando durante 10 minutos.
+* Disminuye la temperatura del horno a 180ºC/355ºF y continua horneando durante diez (10) minutos.
 * Apaga el horno, saca la olla holandesa del horno.
 
 ### Enfriamiento
@@ -166,7 +167,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Consumo del pan
 
-* Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 355ºF por 10 minutos para que recupere la crocancia.
+* Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
 ---
 
@@ -226,8 +227,8 @@ Planifica tres días para la preparación de esta versión del Pan.
 * Incorpora ahora la levadura y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
 * Agrega poco a poco la harina y ve disolviendo en la mezcla del paso anterior hasta formar una bola de masa.
 * Coloca la masa en un envase transparente y haz una marca en el envase, indicando la altura inicial de la masa.
-* Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante 3 horas o hasta que la masa triplique su altura.
-* Lleve su envase a la nevera y deje reposar durante 12 horas
+* Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante tres (3) horas o hasta que la masa triplique su altura.
+* Lleve su envase a la nevera y deje reposar durante doce (12) horas
 
 ### Preparación de la masa (Día 2)
 
@@ -265,7 +266,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2.0__ 
+__Versión 3.3__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
