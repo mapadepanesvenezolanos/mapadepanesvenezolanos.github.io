@@ -21,22 +21,20 @@ formula_name: "arepa"
 
 ## Resultado esperado
 
-La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois]{:target="blank"} las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
+La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el fabricante más reconocido y renombrado de harina de maíz precocida venezolana P.A.N en su sitio web, “La Arepa es un disco de harina de maíz plano y redondo que se puede cortar para formar un bolsillo y rellenarlo con diferentes tipos de ingredientes según la preferencia. Es similar a la forma del pan pita, pero la Arepa se prepara mezclando harina de maíz seca con agua y sal (y ocasionalmente aceite,mantequilla, huevos y/o leche). La mezcla se realiza perfectamente para formar una masa de harina de maíz. Después de ser amasada y formada en bolas, la masa se aplana y forma en discos, y los discos se fríen, se asan o se hornean”[^1]. Son perfectas con cualquier relleno salado o dulce y mágicas para compartir en familia y con amigos. Jesús [@1painalafois]{:target="blank"} las prepara religiosamente todos los sábados en la mañana, para el desayuno familiar y se las come rellenas con mantequilla y queso cheddar.
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ## Origen
 
-“Del cumanagoto erepa 'maíz'. Especie de pan de forma circular, hecho con maíz ablandado a fuego lento y luego molido, o con harina de maíz precocida, que se cocina sobre un budare o una plancha. La arepa es el plato típico venezolano por excelencia icónico de la gastronomía del país. Es consumida en toda la geografía del país, se suele comer casi todos los días, rellena, en el desayuno o en la cena como plato principal o como acompañante.”[^1]
+La arepa es un alimento de origen precolombino proveniente de los actuales territorios de Colombia y Venezuela, hecho a base de masa de maíz seco molido o de harina de maíz precocida, de forma circular y aplanada. Es conocida bajo ese nombre en Colombia y Venezuela. Es consumida de manera tradicional en las gastronomías de estos países. También es conocida bajo ese nombre en Bolivia, particularmente en la zona oriental del país, siendo la variedad de Cotoca la más tradicional y reconocida. Una etimología popular sugerida por el académico Mariano Picón Salas mantiene que la palabra arepa proviene de la voz erepa, que significaba maíz para la etnia extinguida de los cumanagotos.​ Sin embargo, los registros más antiguos de la palabra indican que diferentes pueblos indígenas en Colombia y Venezuela ya usaban la palabra arepa para referirse a un alimento a base de maíz cuando los europeos llegaron al continente, por lo cual esta etimología es poco probable. La referencia más antigua al vocablo arepa la proporciona el italiano, Galeotto Cei en su Viaje y descripción de las Indias (1539-1553)”[^2]
 
-"Sobre las arepas cuenta que “hacen otra suerte de pan a modo de tortillas, de un dedo de grueso redondas y grandes como un plato a la francesa, o poco más o menos, y las ponen a cocer en una tortera sobre el fuego, untándolas con grasa para que no se peguen, volteándolas hasta que estén cocidas por ambos lados y a esta clase llaman areppas y algunos fecteguas”. También habla de un pan de maíz pequeño y redondo cocido bajo las brasas al que llaman abozzos que no es indígena, ya que “lo han aprendido a hacer de nosotros en ciertos anafres de barro”. Más adelante escribe que “el pan de dicho grano, o maíz, que nosotros los cristianos hacíamos allá era muy bueno, sobre todo cuando llegábamos a los pueblos”. Cuenta que las indias ponían en remojo un poco de dicho grano y que “una hace mejor pan que otra, según la mano, y hay muchos que tienen una india para hacer pan solo para dos o tres cristianos”. Cuando tenían que salir repentinamente por 4 o 5 días, “sin llevar indias que muela, asaban las arepas en una tortera para llevarlas secas como mantenimiento"[^2]
-
-[^1]: El señor de los aliños, Miro Popic.
-[^2]: La historia de las arepas de Zoraida Rodriguez por Miro Popic.
+[^1]: [Tradicional Arepa Venezolana] {:target="blank"}
+[^2]: [Wikipedia] {:target="blank"}
 
 ## Tips
 
-- Para garantizar un mejor resultado durante la cocción y así crear una buena costra, te recomiendo utilizar un sartén bien curado en la superficie y de ser posible un budare.
+- Para garantizar un mejor resultado durante la cocción y crear una buena costra, te recomendamos utilizar un sartén bien curado en la superficie y de ser posible un budare.
 
 {% include whatsapp.html %}
 
@@ -63,65 +61,55 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 
 <div id="preparacion"></div>
 
-### Preparación de la masa
+### Preparación de los ingredientes
 
-- Pesa todos los ingredientes y colócalos en envases separados.
-- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Pesa todos los ingredientes y colócalos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. 
+- Una falla en las medidas afecta significativamente el resultado. 
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 
 ### Mezcla y amasado
 
-- En un envase deposita el agua y agrega dos (2) gramos de sal. 
-- Luego mezcla ambos ingredientes ayudándote con una paleta o mi utensilio favorito, el dedo mágico de cocina.
+- En un envase agrega el agua y la mitad de la sal. 
+- Luego mezcla ambos ingredientes ayudándote con una paleta o un dedo mágico de cocina. 
 - Prueba el agua y verifica el sabor del agua para saber si el nivel de sal está a tu gusto.
-- Si a tu gusto le hace falta más sal, agrega los 2 gramos de sal restantes hasta disolver completamente en el agua.
-- Agrega poco a poco la harina de maíz precocida en el envase con la mezcla de agua y sal, y ayudándote con la paleta/dedo mágico de cocina ve mezclando la harina hasta formar una bolita homogénea de masa. 
-- Amasa durante dos (2) minutos.
-- Cubre el envase y deja la masa reposar en la mesa a temperatura ambiente durante cinco (5) minutos.
+- Si le hace falta más sal, agrega la sal restante hasta disolver completamente. 
+- Ayudándote con la paleta/dedo mágico de cocina, mezcla la harina de maíz precocida con la mezcla de agua y sal hasta formar una bolita homogénea de masa. 
+- Amasa vigorosamente durante dos (2) minutos hasta que no queden grumos. 
+- Cubre el envase y deja reposar en la mesa de trabajo a temperatura ambiente durante cinco (5) minutos.
 
 #### División y pesado 
 
-- Saca la masa del recipiente tapado.
-- Procede a pesar la masa total.
-- Divide la masa en seis (6) porciones iguales de ciento setenta (160) gramos cada una.
+- Saca la masa del recipiente tapado. 
+- Procede a pesar la masa total. 
+- Divide la masa en seis (6) porciones de ciento sesenta (160) gramos cada una.
 
-### Pre-Formado
+### Formado
 
-- **Bolea** la masa con ambas manos, dejando la superficie lisa y suave.
-- Deja reposar las bolitas cubiertas en la mesa durante cinco (5) minutos.
+- Toma una bolita y forma una esfera del tamaño de una naranja. 
+- Luego aplastarla con la palma de tus manos hasta crear una forma circular de unos diez (10) centímetros. “El grosor de la arepa cambia en función de tu gusto: pueden ser más grandes y finas o más pequeñas y gruesas”
 
-### Formado plano
+### Asado  
 
-- Toma una bolita, coloca sobre la mesa de trabajo y con la palma de la mano, haz presión en la parte superior de la bolita, hasta formar un platillo de masa de diez (10) centímetros de diámetro por uno y medio (1.5) centímetros de
-alto.
-- Repite el paso anterior con cada bolita.
-- Coloca las bolitas en una bandeja plana.
+- Barniza con una media cucharadita de aceite vegetal, un sartén/budare curado. 
+- Coloca la sartén/budare en la hornilla de cocina. 
+- Calienta a fuego medio durante tres (3) minutos. 
+- Coloca las arepas en la sartén/budare, distribuidas de tal forma que estén separadas al menos un centímetro. 
+- Cocina tus arepas cinco (5) minutos por cada lado. 
 
-<div id="asadoporlotes"></div>
+### Horneado (Opcional - agregar crocancia a la costra)
 
-### Asado por lotes  
-
-- Enciende una de las hornillas de tu cocina a fuego medio.
-- Con la ayuda de una brochita de cocina, barniza tu plancha de cocina con una media cucharadita (½)de aceite vegetal.
-- Coloca la plancha de cocina en la hornilla
-- Calienta la plancha de cocina hasta que al colocar tu mano por encima y a diez (10) centímetros de distancia, sientas el calor que de ella se desprende.
-- Coloca tus primeros tres (3) discos de masa/arepas en la plancha, distribuidos de tal forma que estén separados al menos un centímetro en la plancha.
-- Asa tus arepas durante cinco (5) minutos por cada lado.
+- Enciende el horno a 180ºC/355ºF. 
+- Una vez alcanzada la temperatura del horno, coloca tus arepas ya cocidas en la rejilla.
+- Hornea las arepas durante diez (10) minutos o hasta que veas que percibas que se infla la costra.
 
 ### Prueba de cocción
 
-- Con la ayuda de un guante de cocina, retira la arepa que deseas probar y percute uno de sus lados con tu dedo índice. Si el sonido es hueco, entonces tu arepa está lista. 
-- En caso contrario, ponla de nuevo en la plancha de cocina y verifica la cocción en dos (2) minutos. 
-- Repite el paso anterior con cada una de las arepas dispuestas en la plancha. 
-- Retira cada arepa de la plancha de cocina, y colócalas en un recipiente seco cubiertas con un paño de tela para que mantengan el calor.
-
-Procede a cocinar el siguiente lote de arepas, siguiendo los pasos que se indican en la etapa [Asado por lotes](#asadoporlotes)
-
-### Horneado (opcional)
-
-- Enciende el horno a 180ºC/355ºF.
-- Una vez alcanzada la temperatura del horno, coloca tus arepas ya cocidas en una bandeja plana.
-- Introduce la bandeja en el horno y hornea las arepas durante diez (10) minutos o hasta que veas que percibas que se infla la costra.
+- Con un guante de cocina, retira de la sartén/budare la arepa que deseas probar y percute uno de sus lados con tu dedo índice (Si el sonido es hueco tu arepa está lista). 
+- En caso contrario, ponla de nuevo en la sartén/budare y verifica luego de dos (2) minutos. 
+- Repite el paso anterior con cada una de las arepas. 
+- Apaga la hornilla de cocina.
+- Retira tus arepas de la sartén/budare, y colócalas en un recipiente seco cubiertas con un paño de tela para que mantengan el calor.
 
 ### Relleno y degustación
 
@@ -132,7 +120,7 @@ Procede a cocinar el siguiente lote de arepas, siguiendo los pasos que se indica
 
 ### Referencias y enlaces
 
-Para la concepción de esta receta, hemos utilizado como fuente de inspiración, las fórmulas del libro **Clásicos de la cocina venezolana de Armando Scannonne** y las instrucciones de fabricación que vienen en el reverso de la Harina de maíz precocida marca P.A.N
+Para la concepción de esta receta, hemos utilizado como fuente de inspiración, las fórmulas del libro **Clásicos de la cocina venezolana de Armando Scannonne**, las instrucciones de fabricación que vienen en el reverso de la Harina de maíz precocida marca P.A.N, y la el artículo Como hacer arepas de [www.laylita.com]{:target="blank"}
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -142,7 +130,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.7__
+__Versión 4.0__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -154,3 +142,6 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Instituto Europeo del PAN]: https://escuelaiepan.com/
 [Trina Arocha]: https://www.instagram.com/trinaarocha
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[www.laylita.com]: https://www.laylita.com/recetas/como-hacer-arepas
+[Wikipedia]: https://es.wikipedia.org/wiki/Arepa
+[Tradicional Arepa Venezolana]: https://es.allofpan.com/recipes/traditional-venezuelan-arepa/
