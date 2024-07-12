@@ -99,8 +99,8 @@ li a:hover {
 
 <body>
 <div class="container">
-    <img src="/images/hazpanencasa-logo2.0.png" alt="Imagen de perfil Haz Pan en Casa" class="profile-img">
-    <h1 id="username">Haz Pan en Casa</h1>
+    <img src="/images/hazpanencasa-logo2.0.png" alt="Imagen de perfil 1painalafois" class="profile-img">
+    <h1 id="username">1pain a la fois</h1>
 <ul id="link-list">
     <li>
         <a href="https://panesvenezolanos.com" target="_blank">
