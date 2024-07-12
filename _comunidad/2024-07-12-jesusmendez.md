@@ -12,11 +12,12 @@ Soy Jesús Méndez, licenciado en computación de profesión, Panadero graduado 
 
 En Agosto del 2016, hornee mi primera hogaza de pan en casa luego de hacer un curso de panadería que me regaló mi esposa Luisa para festejar nuestros 13 años de matrimonio en La Guilde Culinaire. Desde ese momento y seguido de la llegada de mi hija Mayah Rose en 2016, se despertó en mí una necesidad de brindarle a mi familia algo especial, nutritivo y lleno de sabor me llevó a explorar y conocer sobre el pan. Allí nació mi pasión por el pan. 
 
-Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela (GAPP) abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanesencasa](https://instagram.com/hazpanesencasa/){:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos](https://panesvenezolanos.com){:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería Haz Panes Venezolanos en Casa.
+Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela (GAPP) abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanesencasa]{:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos]{:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería Haz Panes Venezolanos en Casa.
 
 Siempre estoy leyendo nuevos libros, intentando, probando y aprendiendo nuevas cosas, buscando la manera de mejorar lo que hago, y ayudar a la comunidad de panaderos compartiendo.
 
-Tomo esta frase de Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia.
+Tomo esta frase de [@lamamideamy]{:target="blank"}:
+"Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia."
 
 A continuación el contenido que comparte Jesús a la comunidad de panaderos.
 
@@ -66,6 +67,11 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 | Ajo cortado y sofrito                                        |        4%     |       16g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **177%**    |  **700g** |
+
+### Calculadora para la masa del Pan de Ajo
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
 
 ## Paso a paso para preparar el Pan de Ajo
 
@@ -157,4 +163,13 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 ---
 
-[Jesús](https://instagram.com/1painalafois/){:target="blank"} comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [Jesús](https://instagram.com/1painalafois/){:target="blank"} directamente.
+[@1painalafois]{:target="blank"} comparte este contenido con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con [@1painalafois](https://instagram.com/1painalafois/){:target="blank"} directamente.
+
+[@lamamideamy]: https://instagram.com/lamamideamy/
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Panes Venezolanos]: https://panesvenezolanos.com

@@ -29,8 +29,8 @@ La Arepa es sin duda alguna “El Pan de los venezolanos”. Según lo indica el
 
 La arepa es un alimento de origen precolombino proveniente de los actuales territorios de Colombia y Venezuela, hecho a base de masa de maíz seco molido o de harina de maíz precocida, de forma circular y aplanada. Es conocida bajo ese nombre en Colombia y Venezuela. Es consumida de manera tradicional en las gastronomías de estos países. También es conocida bajo ese nombre en Bolivia, particularmente en la zona oriental del país, siendo la variedad de Cotoca la más tradicional y reconocida. Una etimología popular sugerida por el académico Mariano Picón Salas mantiene que la palabra arepa proviene de la voz erepa, que significaba maíz para la etnia extinguida de los cumanagotos.​ Sin embargo, los registros más antiguos de la palabra indican que diferentes pueblos indígenas en Colombia y Venezuela ya usaban la palabra arepa para referirse a un alimento a base de maíz cuando los europeos llegaron al continente, por lo cual esta etimología es poco probable. La referencia más antigua al vocablo arepa la proporciona el italiano, Galeotto Cei en su Viaje y descripción de las Indias (1539-1553)”[^2]
 
-[^1]: [Tradicional Arepa Venezolana]{:target="blank"}
-[^2]: [Wikipedia]{:target="blank"}
+[^1]: [Tradicional Arepa Venezolana] {:target="blank"}
+[^2]: [Wikipedia] {:target="blank"}
 
 ## Tips
 
