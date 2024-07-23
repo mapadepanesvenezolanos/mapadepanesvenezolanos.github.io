@@ -28,7 +28,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka Doble Chocolate y Nueces](#bakbadoblechoco) - Receta en construcción
+* [Babka Doble Chocolate y Nueces](#babkadoblechoco) - Receta en construcción
 
 <div id="ajo"></div>
 
