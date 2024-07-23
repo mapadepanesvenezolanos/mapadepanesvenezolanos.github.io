@@ -4,7 +4,7 @@ date: 2024-07-12 00:00:00
 description: Estos son los panes que prepara Jesús Méndez.
 permalink: /comunidad/1painalafois/
 published: true
-featured_image: '/images/comunidad/1painalafois/jesusmendez.JPG'
+featured_image: '/images/comunidad/1painalafois/perfil/jesusmendez.JPG'
 categories: ajo, babka panes del mundo
 keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo
 formula_name: "ajo"
@@ -28,7 +28,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka Doble Chocolates y Nueces](#bakba) - Receta en construcción
+* [Babka Doble Chocolate y Nueces](#bakbadoblechoco) - Receta en construcción
 
 <div id="ajo"></div>
 
@@ -160,7 +160,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
-<div id="babka"></div>
+# Babka (mi interpretación)
+
+<div id="babkadoblechoco"></div>
 
 La Babka es uno de mis panes favoritos, de los preferidos para el desayuno.
 
@@ -182,8 +184,6 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 "Se trata de un pastel esponjoso con levadura que se prepara tradicionalmente para el domingo de Pascua en Polonia, Lituania, Eslovaquia, Bielorrusia, Ucrania y Rusia Occidental. Darra Goldstein, profesor de ruso en el Williams College, afirma que «babka viene de baba, un delicado pastel con levadura muy alto pero sabroso que se consume en Rusia occidental y Polonia oriental.»2​ El babka tradicional tiene algún tipo de relleno de frutas, especialmente pasas, y se glasea con un escarchado con sabor a fruta, añadiéndosele a veces ron. Los babkas modernos pueden ser de chocolate o estar rellenos de queso." [Wikipedia Babka]{:target="blank"} 
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
-
-# Babka (mi interpretación)
 
 ## Método indirecto
 
