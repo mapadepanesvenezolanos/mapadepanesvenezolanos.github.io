@@ -5,7 +5,12 @@ description: Estos son los panes que prepara Jesús Méndez.
 permalink: /comunidad/1painalafois/
 published: true
 featured_image: '/images/comunidad/1painalafois/jesusmendez.JPG'
+categories: ajo, babka panes del mundo
+keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo
 formula_name: "ajo"
+second_formula_name: "babkadoblechoco"
+third_formula_name: "babkanelis"
+
 ---
 
 Soy Jesús Méndez, licenciado en computación de profesión, Panadero graduado en el GAPP en el 2021, comparto mi devoción por el Pan a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web 
@@ -20,9 +25,10 @@ Siempre estoy leyendo nuevos libros, intentando, probando y aprendiendo nuevas c
 Tomo esta frase de [@lamamideamy]{:target="blank"}:
 "Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia."
 
-A continuación el contenido que comparte Jesús a la comunidad de panaderos.
+A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
+* [Babka Doble Chocolates y Nueces](#bakba) - Receta en construcción
 
 <div id="ajo"></div>
 
@@ -46,7 +52,7 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 - Prevé unas cinco (5) horas para la preparación de este pan.
 - Al momento de la preparación, toma en consideración el efecto que la temperatura ambiente de tu cocina, la humedad en el ambiente y la época del año van a tener sobre la fermentación y la textura de tu pan. A mayor temperatura es igual a una fermentación más rápida, lo inverso es igual también. 
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo_1.png" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo/ajo_1.png" alt="{{page.title}}">
 
 # Pan de Ajo 
 
@@ -154,9 +160,144 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
+<div id="babka"></div>
+
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno.
+
+Es dulce y de miga muy suave, rellana con trocitos de nueces y ese aroma delicioso a chocolate o canela que te atrapa de inmediato, de corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+
+Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP] y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off], conocí a [Paul Hollywood] y su pasión por la panadería, y así dí buscando en internet con su receta de Babka de Chocolate y me luego de preparar una vez el relleno de doble chocolates y nueces, combinarlo con la receta de Bakba de la [GAPP] y me experiencia haciendo panes de larga fermentación, se convirtió en esta maravilla culinaria.
+
+## RECETA, FÓRMULA y TÉCNICAS de la Babka
+
+## Resultado esperado
+
+La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. Les presentamos dos opciones de relleno: la primera versión combina cholocate negro 70% con cacao en polvo y nueces de macadamia. La segunda versión combina azúcar blanca con azúcar morena y canela en polvo. Vamos a describir nuestra versión de ambas preparaciones. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
+
+## Origen de la Babka
+
+“El babka o bobka, también conocido como baba, es un pastel dulce elaborado con levadura. Los nombres babka (en ruso бабка) y baba (баба) significan ‘abuela’, y aluden probablemente a la forma del pastel, un cilindro alto, a veces con ondulaciones que recuerdan los pliegues de una falda."[Wikipedia Babka]{:target="blank"} 
+
+### Europa del Este
+"Se trata de un pastel esponjoso con levadura que se prepara tradicionalmente para el domingo de Pascua en Polonia, Lituania, Eslovaquia, Bielorrusia, Ucrania y Rusia Occidental. Darra Goldstein, profesor de ruso en el Williams College, afirma que «babka viene de baba, un delicado pastel con levadura muy alto pero sabroso que se consume en Rusia occidental y Polonia oriental.»2​ El babka tradicional tiene algún tipo de relleno de frutas, especialmente pasas, y se glasea con un escarchado con sabor a fruta, añadiéndosele a veces ron. Los babkas modernos pueden ser de chocolate o estar rellenos de queso." [Wikipedia Babka]{:target="blank"} 
+
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
+
+# Babka (mi interpretación)
+
+## Método indirecto
+
+### Tips para preparar la Babka
+
+- Al iniciar el horneado, cubre tu Babka con papel de aluminio con la finalidad de reducir el efecto de la refracción del calor sobre el relleno de tu babka y así evitarás que esta se queme o que el relleno se desborde del envase.
+
+### Ingredientes para preparar la Babka (1 unidad de 1220g)
+
+| Ingrediente               | Fórmula     | Peso    |
+|:--------------------------|:-----------:|--------:|
+| Harina todo uso           |        100% |   609g  |
+| Agua                      |         30% |   183g  |
+| Levadura instantánea      |          1% |     7g  |
+| Sal                       |          1% |     7g  |
+| Huevos ligeramente batidos|         20% |   122g  |
+| Mantequilla sin sal       |         20% |   122g  |
+| Azúcar                    |         15% |    91g  | 
+| Azúcar morena             |         10% |    61g  |
+| Leche en polvo            |          2% |    12g  |
+| Canela en polvo           |        0.5% |     3g  |
+| Ralladura de limón        |          1% |     3g  |
+|---------------------------|-------------|---------|
+| **Total**                 |   **200%**  |**1220g**|
+
+### Calculadora para la masa de Babka
+
+{% include calculadora-de-panes2.html %}
+
+<div id="babkadoblechoco"></div>
+
+### Relleno de Doble Chocolate y nueces
+
+| Ingrediente                    | Fórmula     | Peso   |
+|:-------------------------------|:-----------:|-------:|
+| Chocolate negro 70% (trocitos) |          7% |   80g  |
+| Azúcar                         |         12% |  150g  |
+| Mantequilla sin sal            |          8% |  100g  | 
+| Cacao en polvo                 |          3% |   40g  |
+| Nueces                         |          5% |   65g  |
+|--------------------------------|-------------|--------|
+| **Total**                      |    **36%**  |**435g**|
+|--------------------------------|-------------|--------|
+
+## Paso a paso para preparar la Babka de Doble Chocolate y nueces
+
+<div id="preparacion"></div>
+
+### Preparación del relleno
+
+- Si es posible, pasa el queso por un procesador o por el lado fino del rayo para que quede bien granulado, en bolitas.
+- Al queso agrega el papelón cernido y el azúcar.
+- Mezcla, pesa y divide lo que va a ser relleno y cobertura, reserva.
+
+### Preparación de la masa
+
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
+
+- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+
+### Mezcla y amasado
+
+- Para la mezcla inicial, reserva la sal, el anís en grano y la mitad de la mantequilla.
+- En un envase mezcla la harina, la levadura instantánea, el azúcar y la leche en polvo, 
+- En otro envase mezcla el agua, el huevo, la miel y la vainilla hasta disolver.
+- Cree un volcán con la mezcla de ingredientes secos. 
+- Coloca los líquidos y la mitad de la mantequilla en el centro del volcán.
+- Agrega la sal en los bordes del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa utilizando el rodillo haciendo pliegues, unos cinco (5) a siete (7) y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+### Formado
+
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_formado.JPG" alt="{{page.title}}">
+
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Coloca la masa como te sea más cómoda para enrollar por el lado de treinta (30) centímetros.
+- Coloca ciento un (101)gramos del relleno sobre la masa, dejando unos cinco (5cm) sin relleno en uno de los lados de treinta (30) centímetros.
+- Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno
+- Engrasa un recipiente o bandeja alto para mantener la humedad.
+- Corta el rollo en seis (6) partes y coloca cada parte en el recipiente.
+
+### Fermentación final (maduración)
+
+- A una temperatura entre 24ºC/75ºF y 27ºC/80ºF deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
+
+### Barnices, coberturas y cortes (opcional)
+
+- Después de una (1) hora de maduración coloca la cobertura (la mezcla del relleno sobrante - 68g) sobre las masas.
+
+### Horneado
+
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante diez (10) minutos. 
+- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
+- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
+- Déjalos en el horno entre veinticinco (25) y treinta (30) minutos.
+
+### Enfriamiento
+
+- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
+
+### Consumo
+- Para elevar la experiencia de sabores, cubre el golfeado tibio con una capa fina del melao utilizando una brocha de cocina.
+
+------
+
 ### Referencias y enlaces
 
-Para la concepción de este pan, he utilizado como fuente de inspiración la fórmula de el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}.
+Para la concepción de mis panes, he utilizado como fuente de inspiración las fórmulas de el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y la receta de Bakba de Cholocate de [Paul Hollywood]{:target="blank"}, publicada en el sitio [The Great British Bake Off]{:target="blank"}.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -175,3 +316,6 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
 [Haz Panes Venezolanos en Casa]: https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/
+[Paul Hollywood]: https://en.wikipedia.org/wiki/Paul_Hollywood
+[The Great British Bake off]: https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-chocolate-babka/
+[Wikipedia Babka]: https://es.wikipedia.org/wiki/Babka
