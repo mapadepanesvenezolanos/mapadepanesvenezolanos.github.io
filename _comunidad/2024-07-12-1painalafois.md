@@ -30,6 +30,10 @@ A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 * [Pan de ajo](#ajo)
 * [Babka Doble Chocolate y Avellanas](#babkadoblechoco)
 
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo/ajo_1.png" alt="{{page.title}}">
+
+# Pan de Ajo 
+
 <div id="ajo"></div>
 
 El Pan perfecto para acompañar tus pastas, asados o parrillas como las llamamos en Venezuela, la imaginación es el límite.
@@ -51,10 +55,6 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 - Luego ponlo a enfriar unos diez (10) minutos en la nevera antes de incorporarlo a la masa del pan.
 - Prevé unas cinco (5) horas para la preparación de este pan.
 - Al momento de la preparación, toma en consideración el efecto que la temperatura ambiente de tu cocina, la humedad en el ambiente y la época del año van a tener sobre la fermentación y la textura de tu pan. A mayor temperatura es igual a una fermentación más rápida, lo inverso es igual también. 
-
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo/ajo_1.png" alt="{{page.title}}">
-
-# Pan de Ajo 
 
 ## Masa leudada con levadura instantánea 
 
@@ -161,14 +161,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
 <div id="babkadoblechoco"></div>
-
-# Babka
+---------
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
 
-La Babka es uno de mis panes favoritos, de los preferidos para el desayuno.
+# Babka
 
-Es dulce y de miga muy suave, rellana con trocitos de nueces y ese aroma delicioso a chocolate o canela que te atrapa de inmediato, de corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, rellana con trocitos de nueces y ese aroma delicioso a chocolate o canela que te atrapa de inmediato, de corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
 Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"} y su pasión por la panadería, y así dí buscando en internet con su receta de Babka de Chocolate y me luego de preparar una vez el relleno de doble chocolates y nueces, combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y me experiencia haciendo panes de larga fermentación, se convirtió en esta maravilla culinaria.
 
