@@ -263,7 +263,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 ### Primera Fermentación 
 
-La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
 - Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
 - Después de la primera hora se realiza una manipulación.
@@ -310,7 +310,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Luego levanta la mitad derecha sobre la mitad izquierda, seguida de la mitad izquierda sobre la mitad derecha. 
 - Repite, girando la masa para hacer una trenza de dos (2) hilos.
 - Presiona suavemente los extremos inferiores para sellar.
-- Levanta con cuidado el pan y depositalo en el molde redondo similar al de la imagen
+- Levanta con cuidado el pan y depositalo en el molde redondo similar al de la imagen:
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_fermentacion1.JPG" alt="{{page.title}}">
+
 - Cúbrelo con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una). 
 
 ### Fermentación final (maduración)
