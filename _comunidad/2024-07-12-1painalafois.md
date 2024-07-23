@@ -30,6 +30,8 @@ A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 * [Pan de ajo](#ajo)
 * [Babka Doble Chocolate y Avellanas](#babkadoblechoco)
 
+---------
+
 <div id="ajo"></div>
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo/ajo_1.png" alt="{{page.title}}">
