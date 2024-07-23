@@ -28,7 +28,9 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka Doble Chocolate y Avellanas](#babkadoblechoco)
+* [Babka](#babka)
+* [Babka - Relleno de Doble Chocolate y Avellanas](#babkadoblechoco)
+* [Babka - Relleno de Azúcar y Canela](#babkanelis)
 
 ---------
 
@@ -164,7 +166,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ---------
 
-<div id="babkadoblechoco"></div>
+<div id="babka"></div>
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
 
@@ -178,7 +180,7 @@ Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]
 
 ## Resultado esperado
 
-La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. Les presentamos dos opciones de relleno: la primera versión combina cholocate negro 70% con cacao en polvo y nueces de macadamia. La segunda versión combina azúcar blanca con azúcar morena y canela en polvo. Vamos a describir nuestra versión de ambas preparaciones. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
+La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. Les presentamos dos (2) opciones de relleno: la primera versión combina cholocate negro 70% con cacao en polvo y avellanas. La segunda versión combina azúcar blanca con azúcar morena y canela en polvo. Vamos a describir nuestra versión de ambas preparaciones. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
 
 ## Origen de la Babka
 
@@ -220,7 +222,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 <div id="babkadoblechoco"></div>
 
-### Relleno de Doble Chocolate y nueces
+### Opción de Relleno - Doble Chocolate y Avellanas
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -233,7 +235,22 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 | **Total**                      |    **36%**  |**435g**|
 |--------------------------------|-------------|--------|
 
-## Paso a paso para preparar la Babka de Doble Chocolate y Avellanas
+<div id="babkanelis"></div>
+
+### Opción de Relleno - Azúcar y Canela
+
+| Ingrediente                    | Fórmula     | Peso   |
+|:-------------------------------|:-----------:|-------:|
+| Azúcar                         |          7% |   80g  |
+| Azúcar morena                  |         12% |  150g  |
+| Mantequilla sin sal            |          8% |  100g  | 
+| Canela en polvo                |          3% |   40g  |
+|--------------------------------|-------------|--------|
+| **Total**                      |    **30%**  |**370g**|
+|--------------------------------|-------------|--------|
+
+
+## Paso a paso para preparar la Babka 
 
 <div id="preparacion"></div>
 
@@ -283,7 +300,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
 
-### Preparación del relleno 
+### Preparación del relleno - Doble Chocolate y Avellanas (Opción 1)
 - Coloca las avellanas en una bandeja para hornear durante cuatro (4) a cinco (5) minutos, revolviendo ocasionalmente, hasta que estén ligeramente doradas. 
 - Viertelas sobre una tabla de cortar y déjelas enfriar.
 - Pica finamente las avenallanas.
@@ -294,15 +311,26 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Vierte la mezcla en un bol 
 - Deja enfriar y espesar un poco.
 
-### Formado
+### Preparación del relleno - Azúcar y Canela (Opción 2)
+- En un envase mezcla el azúcar blanca, el azúcar morena y la canela en polvo.
+- Coloca la mantequilla sin sal en un envase a prueba de microhondas.
+- Derrite la mantequilla sin sal durante veinte (20) segundos.
+
+### Formado 
 
 - Espolvorea la superficie de trabajo con harina todo uso.
 - Saca tu recepiente de la nevera
 - Deposita la masa sobre la superficie espolvoreada de trabajo.
 - Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
+#### Opción de relleno - Doble Chocolate y Avellana
 - Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
 - Espolvorea todas las avellanas tostadas por encima.
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
+
+#### Opción de relleno - Azúcar y Canela
+- Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
+- Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
+### Continuación del Formado
 - Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
 - Recorta unos dos (2) cm de cada extremo para dejarlo limpio.
 - Ahora gira el rollo noventa (90)° en el sentido de las agujas del reloj para que el extremo corto quede más cerca de ti. 
@@ -314,7 +342,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Presiona suavemente los extremos inferiores para sellar.
 - Levanta con cuidado el pan y depositalo en el molde redondo similar al de la imagen:
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_fermentacion1.JPG" alt="{{page.title}}">
-
 - Cúbrelo con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una). 
 
 ### Fermentación final (maduración)
