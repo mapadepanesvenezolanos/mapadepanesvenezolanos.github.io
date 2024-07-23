@@ -30,11 +30,11 @@ A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 * [Pan de ajo](#ajo)
 * [Babka Doble Chocolate y Avellanas](#babkadoblechoco)
 
+<div id="ajo"></div>
+
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/ajo/ajo_1.png" alt="{{page.title}}">
 
 # Pan de Ajo 
-
-<div id="ajo"></div>
 
 El Pan perfecto para acompañar tus pastas, asados o parrillas como las llamamos en Venezuela, la imaginación es el límite.
 
@@ -160,8 +160,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
-<div id="babkadoblechoco"></div>
 ---------
+
+<div id="babkadoblechoco"></div>
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
 
