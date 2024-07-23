@@ -28,7 +28,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka Doble Chocolate y Nueces](#babkadoblechoco) - Receta en construcción
+* [Babka Doble Chocolate y Avellanas](#babkadoblechoco)
 
 <div id="ajo"></div>
 
@@ -109,7 +109,7 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 - Cierra la masa haciendo un doblez simple, como si fuese un cuaderno. 
 - Intentando no romper mucho el gluten, realiza un preformado redondo. 
 
-### Primera Fermentación y Manipulación
+### Primera Fermentación
 
 En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
 
@@ -132,7 +132,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Si el formado es batard el recipiente puede ser rectangular o ovalado. 
 - Si el formado es redondo el recipiente puede ser redondo como una quesillera.
 
-### Fermentación final (maduración)
+### Fermentación en bloque (maduración)
 
 - Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
 
@@ -160,9 +160,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
+<div id="babkadoblechoco"></div>
+
 # Babka
 
-<div id="babkadoblechoco"></div>
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
 
 La Babka es uno de mis panes favoritos, de los preferidos para el desayuno.
 
@@ -183,12 +185,13 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 ### Europa del Este
 "Se trata de un pastel esponjoso con levadura que se prepara tradicionalmente para el domingo de Pascua en Polonia, Lituania, Eslovaquia, Bielorrusia, Ucrania y Rusia Occidental. Darra Goldstein, profesor de ruso en el Williams College, afirma que «babka viene de baba, un delicado pastel con levadura muy alto pero sabroso que se consume en Rusia occidental y Polonia oriental.​ El babka tradicional tiene algún tipo de relleno de frutas, especialmente pasas, y se glasea con un escarchado con sabor a fruta, añadiéndosele a veces ron. Los babkas modernos pueden ser de chocolate o estar rellenos de queso." [Wikipedia Babka]{:target="blank"} 
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
 
 ## Método indirecto
 
 ### Tips para preparar la Babka
 
+- Prepara el relleno de la Babka, treinta (30) minutos antes de finalizar la fermentación en bloque.
 - Al iniciar el horneado, cubre tu Babka con papel de aluminio con la finalidad de reducir el efecto de la refracción del calor sobre el relleno de tu babka y así evitarás que esta se queme o que el relleno se desborde del envase.
 
 ### Ingredientes para preparar la Babka (1 unidad de 1220g)
@@ -223,75 +226,111 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 | Azúcar                         |         12% |  150g  |
 | Mantequilla sin sal            |          8% |  100g  | 
 | Cacao en polvo                 |          3% |   40g  |
-| Nueces                         |          5% |   65g  |
+| Avellanas                      |          5% |   65g  |
 |--------------------------------|-------------|--------|
 | **Total**                      |    **36%**  |**435g**|
 |--------------------------------|-------------|--------|
 
-## Paso a paso para preparar la Babka de Doble Chocolate y nueces
+## Paso a paso para preparar la Babka de Doble Chocolate y Avellanas
 
 <div id="preparacion"></div>
 
-### Preparación del relleno
-
-- Si es posible, pasa el queso por un procesador o por el lado fino del rayo para que quede bien granulado, en bolitas.
-- Al queso agrega el papelón cernido y el azúcar.
-- Mezcla, pesa y divide lo que va a ser relleno y cobertura, reserva.
-
 ### Preparación de la masa
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
-
-- Pesa todos los ingredientes y colocarlos en envases separados. 
+- Pesa todos los ingredientes y colocarlos en envases separados.
 - Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
-- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano. 
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 
 ### Mezcla y amasado
 
-- Para la mezcla inicial, reserva la sal, el anís en grano y la mitad de la mantequilla.
-- En un envase mezcla la harina, la levadura instantánea, el azúcar y la leche en polvo, 
-- En otro envase mezcla el agua, el huevo, la miel y la vainilla hasta disolver.
-- Cree un volcán con la mezcla de ingredientes secos. 
-- Coloca los líquidos y la mitad de la mantequilla en el centro del volcán.
-- Agrega la sal en los bordes del volcán.
-- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos hasta formar una bola. Deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un minuto y agrega la mantequilla restante. Amasa hasta que la masa se sienta uniforme. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
-- Amasa utilizando el rodillo haciendo pliegues, unos cinco (5) a siete (7) y agrega el anís en grano. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+#### Primer ciclo de amasado
+
+- Para la mezcla inicial reserva la mantequilla y la sal.
+- En un envase mezcla la harina, la levadura instantánea, la leche en polvo, el azúcar, la canela en polvo y la ralladura de limón.
+- En otro envase mezcla el agua con el huevo hasta disolver.
+- Crea un volcán con la mezcla ingredientes sólidos y coloca los líquidos en el centro del volcán.
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+<div id="segundociclo"></div>
+
+#### Segundo ciclo de amasado
+
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie.
+
+### Primera Fermentación 
+
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+
+- Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Después de la primera hora se realiza una manipulación.
+
+### Manipulación
+
+La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
+
+- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
+- Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
+- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
+- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+
+### Fermentación en bloque (maduración)
+
+- Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
+
+### Preparación del relleno 
+- Coloca las avellanas en una bandeja para hornear durante cuatro (4) a cinco (5) minutos, revolviendo ocasionalmente, hasta que estén ligeramente doradas. 
+- Viertelas sobre una tabla de cortar y déjelas enfriar.
+- Pica finamente las avenallanas.
+- Dejalas de lado.
+- Ahora coloca la mantequilla, el azúcar y el chocolate en una sartén.
+- Derrite los ingredientes muy lentamente a fuego lento, revolviendo hasta que quede suave y combinado. 
+- Retira la mezcla del fuego y agrega el cacao en polvo.
+- Vierte la mezcla en un bol 
+- Deja enfriar y espesar un poco.
 
 ### Formado
 
+- Espolvorea la superficie de trabajo con harina todo uso.
+- Saca tu recepiente de la nevera
+- Deposita la masa sobre la superficie espolvoreada de trabajo.
+- Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
+- Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
+- Espolvorea todas las avellanas tostadas por encima.
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
+- Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
+- Recorta unos dos (2) cm de cada extremo para dejarlo limpio.
+- Ahora gira el rollo noventa (90)° en el sentido de las agujas del reloj para que el extremo corto quede más cerca de ti. 
+- Con un cuchillo grande y afilado o un cortador de pizza, corta la masa a lo largo y por la mitad, cortándola en dos (2) trozos largos.
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_formado.JPG" alt="{{page.title}}">
-
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
-- Coloca la masa como te sea más cómoda para enrollar por el lado de treinta (30) centímetros.
-- Coloca ciento un (101)gramos del relleno sobre la masa, dejando unos cinco (5cm) sin relleno en uno de los lados de treinta (30) centímetros.
-- Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno
-- Engrasa un recipiente o bandeja alto para mantener la humedad.
-- Corta el rollo en seis (6) partes y coloca cada parte en el recipiente.
+- Con los lados cortados hacia arriba, presiona suavemente el extremo superior de cada mitad para sellar.
+- Luego levanta la mitad derecha sobre la mitad izquierda, seguida de la mitad izquierda sobre la mitad derecha. 
+- Repite, girando la masa para hacer una trenza de dos (2) hilos.
+- Presiona suavemente los extremos inferiores para sellar.
+- Levanta con cuidado el pan y depositalo en el molde redondo similar al de la imagen
+- Cúbrelo con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una). 
 
 ### Fermentación final (maduración)
 
-- A una temperatura entre 24ºC/75ºF y 27ºC/80ºF deja reposar los pastones en el recipiente o bandeja tapada durante noventa (90) minutos o hasta que pase la prueba del dedo.
-
-### Barnices, coberturas y cortes (opcional)
-
-- Después de una (1) hora de maduración coloca la cobertura (la mezcla del relleno sobrante - 68g) sobre las masas.
+- Deja reposar tu bakba durante aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Coloca la bandeja tapada con otra bandeja o papel aluminio en el medio del horno durante diez (10) minutos. 
-- Cada diez (10) minutos puedes colocar más melao de papelón para que tengan un color más acaramelado.
-- Coloca melao de papelón sobre cada masa, sin exagerar, al gusto.
-- Déjalos en el horno entre veinticinco (25) y treinta (30) minutos.
+- Enciende el horno quince (15) minutos antes de hornear a una temperatura de 190ºC/375ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Cuando el babka haya terminado de fermentar, llevala al horno y cubre la superficie con papel de aluminio 
+- Hornea durante quince (15) minutos.
+- Ahora reduce la temperatura del horno a 170°C/325 y continua horneando entre veinticinco (25) y treinta (30) minutos más, hasta que se inserte una brocheta en el centro y salga limplia
+- Saca tu Babka del horno y apaga el horno.
 
 ### Enfriamiento
 
-- Al sacar los Golfeados del horno, pásalos a una rejilla o bandeja, en un lugar cálido, queremos que se enfríen un poco.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Los golfeados se comen tibios.
-
-### Consumo
-- Para elevar la experiencia de sabores, cubre el golfeado tibio con una capa fina del melao utilizando una brocha de cocina.
+- Cuando la babka esté lista, transfiérala en su envase a una rejilla. 
+- Deja reposar la babka en el molde durante veinte minutos.
+- Desmolda la babka sobre una rejilla.
+- Sirvela tibia o a temperatura ambiente.
 
 ------
 
