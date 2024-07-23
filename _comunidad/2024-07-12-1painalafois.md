@@ -168,7 +168,7 @@ La Babka es uno de mis panes favoritos, de los preferidos para el desayuno.
 
 Es dulce y de miga muy suave, rellana con trocitos de nueces y ese aroma delicioso a chocolate o canela que te atrapa de inmediato, de corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
-Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP] y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"} y su pasión por la panadería, y así dí buscando en internet con su receta de Babka de Chocolate y me luego de preparar una vez el relleno de doble chocolates y nueces, combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y me experiencia haciendo panes de larga fermentación, se convirtió en esta maravilla culinaria.
+Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"} y su pasión por la panadería, y así dí buscando en internet con su receta de Babka de Chocolate y me luego de preparar una vez el relleno de doble chocolates y nueces, combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y me experiencia haciendo panes de larga fermentación, se convirtió en esta maravilla culinaria.
 
 ## RECETA, FÓRMULA y TÉCNICAS de la Babka
 
@@ -315,6 +315,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://www.gappvzla.dsinternacional.com/
+[GAPP]: https://www.gappvzla.dsinternacional.com/
 [Haz Panes Venezolanos en Casa]: https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/
 [Paul Hollywood]: https://en.wikipedia.org/wiki/Paul_Hollywood
 [The Great British Bake off]: https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-chocolate-babka/
