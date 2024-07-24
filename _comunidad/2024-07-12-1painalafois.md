@@ -168,7 +168,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 # Babka
 
-La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, rellana con trocitos de nueces y ese aroma delicioso a chocolate o canela que te atrapa de inmediato, de corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de avellanas o con azúcar blanca, azúcar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
 Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"}, su pasión por la panadería, y descubrí su receta de Babka de Chocolate cuyo relleno es imbatible. Para probar, lo preparé una vez y al combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y mi experiencia haciendo panes de larga fermentación, logré producir  esta maravilla panadera que aquí les presento.
 
