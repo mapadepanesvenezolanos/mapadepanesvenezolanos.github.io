@@ -220,7 +220,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 <div id="babkadoblechoco"></div>
 
-### Opción de Relleno - Doble Chocolate y Avellanas
+### Relleno - Doble Chocolate y Avellanas
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -235,7 +235,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 <div id="babkanelis"></div>
 
-### Opción de Relleno - Azúcar y Canela
+### Relleno - Azúcar y Canela
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
