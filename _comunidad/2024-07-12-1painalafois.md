@@ -358,10 +358,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Horneado
 
-- Enciende el horno quince (15) minutos antes de hornear a una temperatura de 190ºC/375ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno quince (15) minutos antes de hornear a una temperatura de 190ºC/375ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Cuando el babka haya terminado de fermentar, llevala al horno y cubre la superficie con papel de aluminio 
 - Hornea durante quince (15) minutos.
-- Ahora reduce la temperatura del horno a 170°C/325 y continua horneando entre veinticinco (25) y treinta (30) minutos más, hasta que se inserte una brocheta en el centro y salga limplia
+- Ahora reduce la temperatura del horno a 170°C/325 y continua horneando entre veinticinco (25) y treinta (30) minutos más, hasta que se inserte una brocheta en el centro y esta salga limpia.
 - Saca tu Babka del horno y apaga el horno.
 
 ### Enfriamiento
