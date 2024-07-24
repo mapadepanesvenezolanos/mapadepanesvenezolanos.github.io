@@ -304,7 +304,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
 
-### ##### Preparación del relleno 
+### Preparación del relleno 
 - Te propongo dos (2) opciones de relleno para tu Bakba.
 - Escoge solo una de ella y sigue las instrucciones.
 
