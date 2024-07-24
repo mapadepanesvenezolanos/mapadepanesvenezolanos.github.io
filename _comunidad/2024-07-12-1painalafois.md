@@ -26,7 +26,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka](#babka) rellena de [Doble Chocolate y Avellanas](#babkadoblechoco) o [de Azúcar y Canela (Babkanelis)](#babkanelis)
+* [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azúcar y Canela (Babkanelis)](#babkanelis)
 
 ---------
 
@@ -168,7 +168,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 # Babka
 
-La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de avellanas o con azúcar blanca, azúcar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de nueces o con azúcar blanca, azúcar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
 Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"}, su pasión por la panadería, y descubrí su receta de Babka de Chocolate cuyo relleno es imbatible. Para probar, lo preparé una vez y al combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y mi experiencia haciendo panes de larga fermentación, logré producir  esta maravilla panadera que aquí les presento.
 
@@ -179,7 +179,7 @@ Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]
 La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
 
 A continuación encontrarás la receta y el paso a paso para preparar la [masa para Babka](#babkamasa) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
--  La primera versión, la [Doble Chocolate y Avellanas](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y avellanas. 
+-  La primera versión, la [Doble Chocolate y nueces](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y nueces. 
 - La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azúcar blanca con azúcar morena y canela en polvo. 
 
 ## Origen de la Babka
@@ -199,7 +199,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 ### Tips para preparar la Babka
 
 - La Babka puedes rellenarla con cualquier tipo de mermelada e inclusive algunas versiones llevan queso.
-- Si vas a preparar el relleno Doble Chocolate y Avellanas, comienza a hacerlo treinta (30) minutos antes de finalizar la fermentación en bloque.
+- Si vas a preparar el relleno Doble Chocolate y Nueces, comienza a hacerlo treinta (30) minutos antes de finalizar la fermentación en bloque.
 - Al iniciar el horneado, cubre tu Babka con papel de aluminio con la finalidad de reducir el efecto de la refracción del calor sobre el relleno de tu babka y así evitarás que esta se queme o que el relleno se desborde del envase.
 
 ### Ingredientes para preparar la Babka (1 unidad de 1220g)
@@ -226,7 +226,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 <div id="babkadoblechoco"></div>
 
-### Relleno de Doble Chocolate y Avellanas
+### Relleno de Doble Chocolate y Nueces
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -234,7 +234,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | Azúcar                         |         12% |  150g  |
 | Mantequilla sin sal            |          8% |  100g  | 
 | Cacao en polvo                 |          3% |   40g  |
-| Avellanas                      |          5% |   65g  |
+| Nueces                         |          5% |   65g  |
 |--------------------------------|-------------|--------|
 | **Total**                      |    **36%**  |**435g**|
 |--------------------------------|-------------|--------|
@@ -307,9 +307,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Preparación del relleno 
 - Te propongo dos (2) opciones de relleno para tu Bakba. Escoge una de ellas y sigue las instrucciones:
 
-####  Relleno - Doble Chocolate y Avellanas
+####  Relleno - Doble Chocolate y Nueces
 
-- Coloca las avellanas en una bandeja para hornear durante cuatro (4) a cinco (5) minutos, revolviendo ocasionalmente, hasta que estén ligeramente doradas. 
+- Coloca las nueces en una bandeja para hornear durante cuatro (4) a cinco (5) minutos, revolviendo ocasionalmente, hasta que estén ligeramente doradas. 
 - Viertelas sobre una tabla de cortar y déjelas enfriar.
 - Pica finamente las avenallanas.
 - Dejalas de lado.
@@ -332,9 +332,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deposita la masa sobre la superficie espolvoreada de trabajo.
 - Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
-- Si escogistes el Relleno Doble Chocolate con Avellanas:
+- Si escogistes el Relleno Doble Chocolate con Nueces:
     - Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
-    - Espolvorea todas las avellanas tostadas por encima.
+    - Espolvorea todas las nueces tostadas por encima.
 - Si escogiste el Relleno de Azúcar y Canela:
     - Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
     - Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
