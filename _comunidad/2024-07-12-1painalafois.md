@@ -178,7 +178,7 @@ Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]
 
 La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
 
-A continuación encontrarás la receta y el paso a paso para preparar la masa para [Babka](#babkamasa) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
+A continuación encontrarás la receta y el paso a paso para preparar la [masa para Babka](#babkamasa) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
 -  La primera versión, la [Doble Chocolate y Avellanas](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y avellanas. 
 - La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azúcar blanca con azúcar morena y canela en polvo. 
 
