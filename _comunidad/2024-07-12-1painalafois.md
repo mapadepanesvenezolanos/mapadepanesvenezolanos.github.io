@@ -28,7 +28,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka](#babka) con [Relleno - Doble Chocolate y Avellanas](#babkadoblechoco) o con [Relleno - Azúcar y Canela](#babkanelis)
+* [Babka](#babka)[Doble Chocolate y Avellanas](#babkadoblechoco) o [de Azúcar y Canela](#babkanelis)
 
 ---------
 
@@ -220,7 +220,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 <div id="babkadoblechoco"></div>
 
-### Relleno - Doble Chocolate y Avellanas
+### Relleno de Doble Chocolate y Avellanas
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -235,7 +235,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 <div id="babkanelis"></div>
 
-### Relleno - Azúcar y Canela
+### Relleno de Azúcar y Canela
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
