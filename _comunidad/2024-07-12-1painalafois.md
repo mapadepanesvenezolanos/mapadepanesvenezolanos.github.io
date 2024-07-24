@@ -305,8 +305,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
 
 ### Preparación del relleno 
-- Te propongo dos (2) opciones de relleno para tu Bakba.
-- Escoge solo una de ella y sigue las instrucciones.
+- Te propongo dos (2) opciones de relleno para tu Bakba. Escoge una de ellas y sigue las instrucciones:
 
 ####  Relleno - Doble Chocolate y Avellanas
 
@@ -348,7 +347,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Luego levanta la mitad derecha sobre la mitad izquierda, seguida de la mitad izquierda sobre la mitad derecha. 
 - Repite, girando la masa para hacer una trenza de dos (2) hilos.
 - Presiona suavemente los extremos inferiores para sellar.
-- Levanta con cuidado el pan y depositalo en el molde redondo similar al de la imagen:
+- Levanta con cuidado el pastón de masa y depositalo en un molde redondo similar al de la imagen:
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_fermentacion1.JPG" alt="{{page.title}}">
 - Cúbrelo con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una). 
 
