@@ -178,13 +178,18 @@ Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]
 
 ## Resultado esperado
 
-La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. Les presentamos dos (2) opciones de relleno: la primera versión combina cholocate negro 70% con cacao en polvo y avellanas. La segunda versión combina azúcar blanca con azúcar morena y canela en polvo. Vamos a describir nuestra versión de ambas preparaciones. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
+La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo, canela y ralladura de limón y formada en formato trenzado redondo y rellena. La Babka debe ser de miga cerrada, suave tanto en su superficie como en su base.
+
+A continuación encontrarás la receta y el paso a paso para preparar la masa para [Babka](#babka) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
+-  La primera versión, la [Doble Chocolate y Avellanas](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y avellanas. 
+- La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azúcar blanca con azúcar morena y canela en polvo. 
 
 ## Origen de la Babka
 
 “El babka o bobka, también conocido como baba, es un pastel dulce elaborado con levadura. Los nombres babka (en ruso бабка) y baba (баба) significan ‘abuela’, y aluden probablemente a la forma del pastel, un cilindro alto, a veces con ondulaciones que recuerdan los pliegues de una falda."[Wikipedia Babka]{:target="blank"} 
 
 ### Europa del Este
+
 "Se trata de un pastel esponjoso con levadura que se prepara tradicionalmente para el domingo de Pascua en Polonia, Lituania, Eslovaquia, Bielorrusia, Ucrania y Rusia Occidental. Darra Goldstein, profesor de ruso en el Williams College, afirma que «babka viene de baba, un delicado pastel con levadura muy alto pero sabroso que se consume en Rusia occidental y Polonia oriental.​ El babka tradicional tiene algún tipo de relleno de frutas, especialmente pasas, y se glasea con un escarchado con sabor a fruta, añadiéndosele a veces ron. Los babkas modernos pueden ser de chocolate o estar rellenos de queso." [Wikipedia Babka]{:target="blank"} 
 
 <img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
@@ -193,7 +198,8 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 ### Tips para preparar la Babka
 
-- Prepara el relleno de la Babka, treinta (30) minutos antes de finalizar la fermentación en bloque.
+- La Babka puedes rellenarla con cualquier tipo de mermelada e inclusive algunas versiones llevan queso.
+- Si vas a preparar el relleno Doble Chocolate y Avellanas, comienza a hacerlo treinta (30) minutos antes de finalizar la fermentación en bloque.
 - Al iniciar el horneado, cubre tu Babka con papel de aluminio con la finalidad de reducir el efecto de la refracción del calor sobre el relleno de tu babka y así evitarás que esta se queme o que el relleno se desborde del envase.
 
 ### Ingredientes para preparar la Babka (1 unidad de 1220g)
