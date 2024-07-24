@@ -26,7 +26,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka](#babka)[Doble Chocolate y Avellanas](#babkadoblechoco) o [de Azúcar y Canela](#babkanelis)
+* [Babka](#babka) rellena de [Doble Chocolate y Avellanas](#babkadoblechoco) o [de Azúcar y Canela](#babkanelis)
 
 ---------
 
