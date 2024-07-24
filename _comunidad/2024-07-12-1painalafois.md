@@ -254,7 +254,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 |--------------------------------|-------------|--------|
 
 
-## Paso a paso para preparar la masa de Babka 
+## Paso a paso para preparar la Babka 
 
 <div id="preparacion"></div>
 
