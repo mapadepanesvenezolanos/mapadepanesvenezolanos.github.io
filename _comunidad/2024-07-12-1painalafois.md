@@ -8,9 +8,7 @@ featured_image: '/images/comunidad/1painalafois/perfil/jesusmendez.JPG'
 categories: ajo, babka panes del mundo
 keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo
 formula_name: "ajo"
-second_formula_name: "babkadoblechoco"
-third_formula_name: "babkanelis"
-
+second_formula_name: "babka"
 ---
 
 Soy Jesús Méndez, licenciado en computación de profesión, Panadero graduado en el GAPP en el 2021, comparto mi devoción por el Pan a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web 
