@@ -354,14 +354,14 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación final (maduración)
 
-- Deja reposar tu bakba durante aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
+- Deja reposar tu bakba durante aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
 - Enciende el horno quince (15) minutos antes de hornear a una temperatura de 190ºC/375ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Cuando el babka haya terminado de fermentar, llevala al horno y cubre la superficie con papel de aluminio 
 - Hornea durante quince (15) minutos.
-- Ahora reduce la temperatura del horno a 170°C/325 y continua horneando entre veinticinco (25) y treinta (30) minutos más, hasta que se inserte una brocheta en el centro y esta salga limpia.
+- Ahora reduce la temperatura del horno a 170°C/325ºF y continua horneando entre veinticinco (25) y treinta (30) minutos más, hasta que se inserte una brocheta en el centro y esta salga limpia.
 - Saca tu Babka del horno y apaga el horno.
 
 ### Enfriamiento
