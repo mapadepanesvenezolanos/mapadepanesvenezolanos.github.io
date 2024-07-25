@@ -25,7 +25,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azucar y Canela (Babkanelis)](#babkanelis)
+* [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azúcar y Canela (Babkanelis)](#babkanelis)
 
 ---------
 
@@ -167,7 +167,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 # Babka
 
-La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de nueces o con azucar blanca, azucar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de nueces o con Azúcar blanca, Azúcar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
 Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"}, su pasión por la panadería, y descubrí su receta de Babka de Chocolate cuyo relleno es imbatible. Para probar, lo preparé una vez y al combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y mi experiencia haciendo panes de larga fermentación, logré producir  esta maravilla panadera que aquí les presento.
 
@@ -179,7 +179,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 A continuación encontrarás la receta y el paso a paso para preparar la [masa para Babka](#babkamasa) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
 -  La primera versión, la [Doble Chocolate y nueces](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y nueces. 
-- La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azucar blanca con azucar morena y canela en polvo. 
+- La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina Azúcar blanca con Azúcar morena y canela en polvo. 
 
 ## Origen de la Babka
 
@@ -211,8 +211,8 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | Sal                       |          1% |     7g  |
 | Huevos ligeramente batidos|         20% |   122g  |
 | Mantequilla sin sal       |         20% |   122g  |
-| Azucar                    |         15% |    91g  | 
-| Azucar morena             |         10% |    61g  |
+| Azúcar                    |         15% |    91g  | 
+| Azúcar morena             |         10% |    61g  |
 | Leche en polvo            |          2% |    12g  |
 | Canela en polvo           |        0.5% |     3g  |
 | Ralladura de limón        |          1% |     3g  |
@@ -230,7 +230,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
 | Chocolate negro 70% (trocitos) |          7% |   80g  |
-| Azucar                         |         12% |  150g  |
+| Azúcar                         |         12% |  150g  |
 | Mantequilla sin sal            |          8% |  100g  | 
 | Cacao en polvo                 |          3% |   40g  |
 | Nueces                         |          5% |   65g  |
@@ -240,12 +240,12 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 <div id="babkanelis"></div>
 
-### Relleno de Azucar y Canela
+### Relleno de Azúcar y Canela
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Azucar                         |       16.5% |   30g  |
-| Azucar morena                  |       16.5% |   30g  |
+| Azúcar                         |       16.5% |   30g  |
+| Azúcar morena                  |       16.5% |   30g  |
 | Mantequilla sin sal            |         33% |   60g  | 
 | Canela en polvo                |          8% |   15g  |
 |--------------------------------|-------------|--------|
@@ -268,7 +268,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 #### Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina, la levadura instantánea, la leche en polvo, el azucar, la canela en polvo y la ralladura de limón.
+- En un envase mezcla la harina, la levadura instantánea, la leche en polvo, el Azúcar, la canela en polvo y la ralladura de limón.
 - En otro envase mezcla el agua con el huevo hasta disolver.
 - Crea un volcán con la mezcla ingredientes sólidos y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
@@ -312,15 +312,15 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Viertelas sobre una tabla de cortar y déjelas enfriar.
 - Pica finamente las avenallanas.
 - Dejalas de lado.
-- Ahora coloca la mantequilla, el azucar y el chocolate en una sartén.
+- Ahora coloca la mantequilla, el Azúcar y el chocolate en una sartén.
 - Derrite los ingredientes muy lentamente a fuego lento, revolviendo hasta que quede suave y combinado. 
 - Retira la mezcla del fuego y agrega el cacao en polvo.
 - Vierte la mezcla en un bol 
 - Deja enfriar y espesar un poco.
 
-####  Relleno - Azucar y Canela 
+####  Relleno - Azúcar y Canela 
 
-- En un envase mezcla el azucar blanca, el azucar morena y la canela en polvo.
+- En un envase mezcla el Azúcar blanca, el Azúcar morena y la canela en polvo.
 - Coloca la mantequilla sin sal en un envase a prueba de microhondas.
 - Derrite la mantequilla sin sal durante veinte (20) segundos.
 
@@ -334,7 +334,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Si escogistes el Relleno Doble Chocolate con Nueces:
     - Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
     - Espolvorea todas las nueces tostadas por encima.
-- Si escogiste el Relleno de Azucar y Canela:
+- Si escogiste el Relleno de Azúcar y Canela:
     - Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
     - Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
 - Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
