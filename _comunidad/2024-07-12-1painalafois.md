@@ -11,12 +11,11 @@ formula_name: "ajo"
 second_formula_name: "babka"
 ---
 
-Soy Jesús Méndez, licenciado en computación de profesión, Panadero graduado en el GAPP en el 2021, comparto mi devoción por el Pan a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web 
-[Panes Venezolanos]{:target="blank"}  
+Mi nombre es Jesús Enrique Méndez Alvarez, nacido en la hermosa ciudad de Caracas, Venezuela, especificamente en el municipio Baruta estado Miranda. El hijo mayor de Gladys Cristina (Licenciada en Educación) y Jesús Filiberto (Contador), y el hermano de Eduardo José. Estudié y me gradué de licenciado en Ciencias de la Computación de la Universidad Central de Venezuela en 2001, tengo una especialización en Gerencia de Técnología y Telecomunicaciones de la Universidad Metropolitana, hablo cuatro idiomas (Español, Francés, Inglés e Italiano). Soy Maestro Panadero egresado del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y comparto mi amor por la Panadería a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web [Panes Venezolanos]{:target="blank"}  
 
 En Agosto del 2016, hornee mi primera hogaza de pan en casa luego de hacer un curso de panadería que me regaló mi esposa Luisa para festejar nuestros 13 años de matrimonio en La Guilde Culinaire. Desde ese momento y seguido de la llegada de mi hija Mayah Rose en 2016, se despertó en mí una necesidad de brindarle a mi familia algo especial, nutritivo y lleno de sabor me llevó a explorar y conocer sobre el pan. Allí nació mi pasión por el pan. 
 
-Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela (GAPP) abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanencasa]{:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos]{:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería [Haz Panes Venezolanos en Casa]{:target="blank"} .
+Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela [GAPP]{:target="blank"} abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanencasa]{:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos]{:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería [Haz Panes Venezolanos en Casa]{:target="blank"} .
 
 Siempre estoy leyendo nuevos libros, intentando, probando y aprendiendo nuevas cosas, buscando la manera de mejorar lo que hago, y ayudar a la comunidad de panaderos compartiendo.
 
@@ -26,7 +25,7 @@ Tomo esta frase de [@lamamideamy]{:target="blank"}:
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
-* [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azúcar y Canela (Babkanelis)](#babkanelis)
+* [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azucar y Canela (Babkanelis)](#babkanelis)
 
 ---------
 
@@ -168,7 +167,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 # Babka
 
-La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de nueces o con azúcar blanca, azúcar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
+La Babka es uno de mis panes favoritos, de los preferidos para el desayuno. Es dulce y de miga muy suave, ya sea rellena de delicioso doble chocolate con trocitos de nueces o con azucar blanca, azucar morena y canela, quedas atrapado de inmediato, por su corteza suave y delicada al paladar. La combinación del relleno con la ralladura de limón le da un balance de sabor impresionante a la miga. 
 
 Aprendí a prepararla durante mi formación de Panadero Profesional en la [GAPP]{:target="blank"} y me fascinó. Luego viendo una de las emisiones del show televisivo [The Great British Bake Off]{:target="blank"}, conocí a [Paul Hollywood]{:target="blank"}, su pasión por la panadería, y descubrí su receta de Babka de Chocolate cuyo relleno es imbatible. Para probar, lo preparé una vez y al combinarlo con la receta de Bakba de la [GAPP]{:target="blank"} y mi experiencia haciendo panes de larga fermentación, logré producir  esta maravilla panadera que aquí les presento.
 
@@ -180,7 +179,7 @@ La Babka se elabora partiendo de una masa dulce enriquecida, con mantequilla, hu
 
 A continuación encontrarás la receta y el paso a paso para preparar la [masa para Babka](#babkamasa) y dos (2) opciones de relleno que son mis preferidos hasta ahora:
 -  La primera versión, la [Doble Chocolate y nueces](#babkadoblechoco), está rellena con una pasta fría que combina cholocate negro 70% con cacao en polvo y nueces. 
-- La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azúcar blanca con azúcar morena y canela en polvo. 
+- La segunda versión, la [Bakbanelis](#babkanelis), esta rellena con la mismos ingredientes del relleno de roles de canela (en mi casa "Canelis"), que combina azucar blanca con azucar morena y canela en polvo. 
 
 ## Origen de la Babka
 
@@ -206,14 +205,14 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 | Ingrediente               | Fórmula     | Peso    |
 |:--------------------------|:-----------:|--------:|
-| Harina todo uso           |        100% |   609g  |
+| Harina panadera (13%)     |        100% |   609g  |
 | Agua                      |         30% |   183g  |
 | Levadura instantánea      |          1% |     7g  |
 | Sal                       |          1% |     7g  |
 | Huevos ligeramente batidos|         20% |   122g  |
 | Mantequilla sin sal       |         20% |   122g  |
-| Azúcar                    |         15% |    91g  | 
-| Azúcar morena             |         10% |    61g  |
+| Azucar                    |         15% |    91g  | 
+| Azucar morena             |         10% |    61g  |
 | Leche en polvo            |          2% |    12g  |
 | Canela en polvo           |        0.5% |     3g  |
 | Ralladura de limón        |          1% |     3g  |
@@ -231,7 +230,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
 | Chocolate negro 70% (trocitos) |          7% |   80g  |
-| Azúcar                         |         12% |  150g  |
+| Azucar                         |         12% |  150g  |
 | Mantequilla sin sal            |          8% |  100g  | 
 | Cacao en polvo                 |          3% |   40g  |
 | Nueces                         |          5% |   65g  |
@@ -241,16 +240,16 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 <div id="babkanelis"></div>
 
-### Relleno de Azúcar y Canela
+### Relleno de Azucar y Canela
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Azúcar                         |          7% |   80g  |
-| Azúcar morena                  |         12% |  150g  |
-| Mantequilla sin sal            |          8% |  100g  | 
-| Canela en polvo                |          3% |   40g  |
+| Azucar                         |       16.5% |   30g  |
+| Azucar morena                  |       16.5% |   30g  |
+| Mantequilla sin sal            |         33% |   60g  | 
+| Canela en polvo                |          8% |   15g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |    **30%**  |**370g**|
+| **Total**                      |    **74%**  |**135g**|
 |--------------------------------|-------------|--------|
 
 
@@ -269,7 +268,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 #### Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina, la levadura instantánea, la leche en polvo, el azúcar, la canela en polvo y la ralladura de limón.
+- En un envase mezcla la harina, la levadura instantánea, la leche en polvo, el azucar, la canela en polvo y la ralladura de limón.
 - En otro envase mezcla el agua con el huevo hasta disolver.
 - Crea un volcán con la mezcla ingredientes sólidos y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
@@ -313,15 +312,15 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Viertelas sobre una tabla de cortar y déjelas enfriar.
 - Pica finamente las avenallanas.
 - Dejalas de lado.
-- Ahora coloca la mantequilla, el azúcar y el chocolate en una sartén.
+- Ahora coloca la mantequilla, el azucar y el chocolate en una sartén.
 - Derrite los ingredientes muy lentamente a fuego lento, revolviendo hasta que quede suave y combinado. 
 - Retira la mezcla del fuego y agrega el cacao en polvo.
 - Vierte la mezcla en un bol 
 - Deja enfriar y espesar un poco.
 
-####  Relleno - Azúcar y Canela 
+####  Relleno - Azucar y Canela 
 
-- En un envase mezcla el azúcar blanca, el azúcar morena y la canela en polvo.
+- En un envase mezcla el azucar blanca, el azucar morena y la canela en polvo.
 - Coloca la mantequilla sin sal en un envase a prueba de microhondas.
 - Derrite la mantequilla sin sal durante veinte (20) segundos.
 
@@ -335,7 +334,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Si escogistes el Relleno Doble Chocolate con Nueces:
     - Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
     - Espolvorea todas las nueces tostadas por encima.
-- Si escogiste el Relleno de Azúcar y Canela:
+- Si escogiste el Relleno de Azucar y Canela:
     - Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
     - Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
 - Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
