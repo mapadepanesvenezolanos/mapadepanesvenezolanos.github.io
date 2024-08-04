@@ -55,7 +55,7 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 
 | Ingrediente               | Fórmula     | Peso  |
 |:--------------------------|:-----------:|------:|
-| Harina de trigo(todo uso) |        100% |  322g |
+| Harina panadera           |        100% |  322g |
 | Agua                      |         38% |  122g |
 | Levadura instantánea      |          1% |    3g |
 | Sal                       |          1% |    3g |
@@ -75,11 +75,11 @@ En uno de sus viajes [Valentina Quintero](https://www.venezuelanprofiles.com/man
 
 ### Ingredientes del aliño/guiso o arenado del Pan Tovareño
 
-Nota: La harina de trigo (todo uso) y el azúcar morena del aliño/guiso o arenado, representan el 12.5% de la Harina de trigo (todo uso) que se indica en tabla con los [ingredientes de la masa](#masatalvina).
+Nota: La harina y el azúcar morena del aliño/guiso o arenado, representan el 12.5% del peso de la harina panadera que se indica en la tabla de [ingredientes de la masa](#masatalvina).
 
 | Ingrediente                   | Fórmula     | Peso  |
 |:------------------------------|:-----------:|------:|
-| Harina de trigo(todo uso)     |        100% |   40g |
+| Harina panadera               |        100% |   40g |
 | Papelon rallado/Azúcar morena |        100% |   40g |
 | Alimento para niños(polvo)[^2]|         50% |   20g |
 | Harina de maiz                |         30% |   12g |
