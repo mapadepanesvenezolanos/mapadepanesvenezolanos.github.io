@@ -101,6 +101,12 @@ li a:hover {
     <img src="/images/hazpanencasa-logo2.0.png" alt="Imagen de perfil Haz Pan en Casa" class="profile-img">
 <ul id="link-list">
     <li>
+        <a href="https://leanpub.com/u/hazpanencasa/" target="_blank">
+            <img src="/images/portada-cuadrada.jpg" alt="Cursos y libros publicados"  class="link-img">
+            <span>Cursos y libros publicados</span>
+        </a>
+    </li>
+    <li>
         <a href="https://panesvenezolanos.com" target="_blank">
             <img src="/images/social.jpg" alt="Panes Venezolanos" class="link-img">
             <span>Página Panes Venezolanos</span>
@@ -110,6 +116,12 @@ li a:hover {
         <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" target="_blank">
             <img src="/images/portada-cuadrada.jpg" alt="Libro Haz Panes Venezolanos en Casa"  class="link-img">
             <span>Libro Haz Panes Venezolanos en Casa</span>
+        </a>
+    </li>
+    <li>
+        <a href="https://ambassadeursdupainvenezuela.com" target="_blank">
+            <img src="/images/logo-ve-nb.jpg" alt="Ambassadeurs du Pain Venezuela" class="link-img">
+            <span>Página Ambassadeurs du Pain Venezuela</span>
         </a>
     </li>
     <li>
