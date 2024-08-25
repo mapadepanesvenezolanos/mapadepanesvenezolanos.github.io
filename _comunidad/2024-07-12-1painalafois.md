@@ -215,7 +215,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | Azúcar morena             |         10% |    61g  |
 | Leche en polvo            |          2% |    12g  |
 | Canela en polvo           |        0.5% |     3g  |
-| Ralladura de limón        |          1% |     3g  |
+| Ralladura de limón        |        0.5% |     3g  |
 |---------------------------|-------------|---------|
 | **Total**                 |   **200%**  |**1220g**|
 
