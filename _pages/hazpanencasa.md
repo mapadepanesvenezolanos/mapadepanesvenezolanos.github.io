@@ -109,7 +109,7 @@ li a:hover {
     <li>
         <a href="https://leanpub.com/u/hazpanencasa/" target="_blank">
             <img src="/images/portada-cuadrada.jpg" alt="Cursos y libros publicados"  class="link-img">
-            <span>Cursos y libros publicados</span>
+            <span>Talleres, cursos y libros publicados</span>
         </a>
     </li>
     <li>
