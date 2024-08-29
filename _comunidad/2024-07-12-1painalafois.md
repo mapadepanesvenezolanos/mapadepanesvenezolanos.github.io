@@ -244,12 +244,12 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Azúcar                         |       16.5% |   30g  |
-| Azúcar morena                  |       16.5% |   30g  |
-| Mantequilla sin sal            |         33% |   60g  | 
-| Canela en polvo                |          8% |   15g  |
+| Azúcar                         |          3% |   37g  |
+| Azúcar morena                  |          3% |   37g  |
+| Mantequilla sin sal            |          5% |   61g  | 
+| Canela en polvo                |          1% |   12g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |    **74%**  |**135g**|
+| **Total**                      |    **74%**  |**146g**|
 |--------------------------------|-------------|--------|
 
 
