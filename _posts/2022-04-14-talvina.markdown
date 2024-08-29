@@ -31,7 +31,7 @@ La Talvina es la masa madre de origen Venezolano que se ha utilizado en la prepa
 
 Una Masa Madre líquida dulce y especiada que es la base para hacer Panes Andinos con un sabor tradicional. El aroma de la talvina tiene tonos alcohólicos fuertes, un tenue aroma característico de la masa madre y se siente el aroma a papelón.
 
-## Origen de a Talvina
+## Origen de la Talvina
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
