@@ -29,18 +29,28 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <style>
+    body {
+      font-family: 'Poppins', serif;
+    }
+
     .cta-button {
-      background-color: #007bff;
+      /* background-color: #007bff;*/
+      background-color: #ff4500;
       color: white;
-      padding: 10px 20px;
-      border-radius: 5px;
+      padding: 12px 25px;
+      border-radius: 30px;
       text-decoration: none;
+      transition: background-color 0.3s ease;
+      font-weight: bold;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     }
 
     .cta-button:hover {
-      background-color: #0056b3;
+      background-color: #e03c00;
+      /*background-color: #0056b3;*/
       color: white;
     }
 
@@ -49,10 +59,97 @@
     }
     .title {
       font-family: "Alfa Slab One", serif;
-      font-weight: 400;
-      font-style: normal;
-      font-size: calc(1.475rem + 2.7vw);
+      font-size: calc(1.875rem + 2.7vw);
       line-height: 1.2;
+      color: #00000f;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .subtitle {
+      font-family: "Alfa Slab One", serif;
+      font-size: calc(1.5rem + 1.5vw);
+      line-height: 1.2;
+      color: #0f0f0f;
+      margin-bottom: 20px;
+    }
+
+    .lead {
+      font-size: 1.25rem;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    .card-title {
+      font-weight: 700;
+      font-size: 1.25rem;
+      color: #333;
+    }
+
+    .card-text {
+      font-size: 1rem;
+      color: #555;
+    }
+
+    .accordion-button::after {
+      font-size: 1.25rem;
+    }
+
+    .accordion-button {
+      background-color: #f8f9fa;
+      color: #333;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .accordion-button:hover {
+      background-color: #e9ecef;
+    }
+
+    .accordion-item {
+      border: 1px solid #ddd;
+    }
+
+    .accordion-body ul {
+      padding-left: 20px;
+      list-style-type: disc;
+    }
+
+    .text-muted {
+      color: #6c757d;
+    }
+
+    .rounded-circle {
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .container-fluid {
+      background: #f5e6cc;
+      color: white;
+      padding: 50px 0;
+    }
+
+    .wbackground {
+      background: #f5e6cc;
+      color: white;
+      padding: 50px 0;
+    }
+
+    .img-fluid {
+      transition: transform 0.3s ease;
+    }
+
+    .img-fluid:hover {
+      transform: scale(1.05);
+    }
+
+    .gallery img {
+      transition: transform 0.3s ease;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.05);
+      cursor: pointer;
     }
   </style>
 </head>
@@ -74,7 +171,7 @@
 
   <!-- Beneficios del Libro -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">¿Por qué este libro?</h2>
+    <h2 class="text-center mb-5 subtitle">¿Por qué este libro?</h2>
     <div class="row g-4">
       <div class="col-md-4">
         <div class="card h-100">
@@ -112,7 +209,7 @@
 
   <!-- Resumen del Contenido del Curso -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">Lo que aprenderás</h2>
+    <h2 class="text-center mb-5 subtitle">Lo que aprenderás</h2>
     <div class="row">
       <div class="col-md-6 mb-5">
         <h2>Tabla de contenido</h2>
@@ -343,12 +440,13 @@
   </div>
 
   <!-- Prueba Social y Precios -->
+  <div class="wbackground text-black">
   <div class="container py-5">
     <div class="row mb-4">
       <div class="col-md-6">
         <h2>Únete a la comunidad de lectores satisfechos</h2>
-        <p>Ya más de 100 lectores han transformado su panadería con nuestro libro. 
-          Han aprendido a realizar panes de toda venezuela e inclusive han iniciado el camino de emprender.</p>
+        <p>Ya más de 100 lectores han transformado su panadería con nuestro libro.</p> 
+        <p>Han aprendido a realizar panes de toda venezuela e inclusive han iniciado el camino de emprender.</p>
       </div>
       <div class="col-md-6">
         <h2>Precio</h2>
@@ -359,13 +457,13 @@
           devolución de tu dinero dentro de los 60 días de la compra.</p>
       </div>
     </div>
-  </div>
+  </div></div>
 
   <!-- Biografías de los Autores -->
   <div class="container py-5">
     <div class="row mb-4">
       <div class="col text-center">
-        <h2>Sobre los autores</h2>
+        <h2 class="subtitle">Sobre los autores</h2>
         <p>Conoce a los creadores del libro y su trayectoria.</p>
       </div>
     </div>
@@ -409,7 +507,7 @@
 
   <!-- Testimonios -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">Testimonios</h2>
+    <h2 class="text-center mb-5 subtitle">Testimonios</h2>
     <div class="row row-cols-1 row-cols-md-2 g-4">
       <div class="col">
         <div class="card h-100">
@@ -464,7 +562,7 @@
 
   <!-- Testimonios visuales -->
   <div class="container py-5 d-none">
-    <h2 class="text-center mb-5">Resultados de nuestros lectores</h2>
+    <h2 class="text-center mb-5 subtitle">Resultados de nuestros lectores</h2>
     <div class="row" id="testimonial-grid">
       <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
         <div class="card">
@@ -526,11 +624,11 @@
   <div class="container-fluid text-center p-5">
     <div class="row mb-5 align-items-center">
       <div class="col-md-6 text-center">
-        <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/9.png" class="img-fluid mb-3" alt="Portada del libro"
+        <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/9.png" class="img-fluid rounded mb-3" alt="Portada del libro"
           style="max-height: 600px;">
       </div>
       <div class="col-md-6 text-center text-md-start">
-        <h1 class="display-4">Eleva tus panes</h1>
+        <h2 class="subtitle">Eleva tus panes</h2>
         <p class="lead">Descubre los secretos de la panadería artesanal venezolana 
           y lleva tus habilidades al próximo nivel con
           técnicas y recetas probadas.</p>
@@ -542,7 +640,7 @@
 
 
   <div class="container my-5">
-    <h2 class="text-center mb-4">Galería de imágenes</h2>
+    <h2 class="text-center mb-4 subtitle">Galería de imágenes</h2>
     <div class="row g-3">
       <!-- Image with Title and Modal Trigger -->
       <div class="col-6 col-md-4 col-lg-3">
@@ -602,7 +700,7 @@
           <!-- Modal Trigger -->
           <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Hamburguesa">
             <!-- Image -->
-            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/24.png" class="card-img-top img-fluid" alt="Libro, Pan de Hamburguesa">
+            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/12.png" class="card-img-top img-fluid" alt="Libro, Pan de Hamburguesa">
             <!-- Title -->
             <div class="card-body">
               <h5 class="card-title">Pan de Hamburguesa</h5>
@@ -689,7 +787,7 @@
         <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/7.png" class="img-fluid rounded" alt="Preguntas frecuentes">
       </div>
       <div class="col-md-6">
-        <h2>Preguntas frecuentes</h2>
+        <h2 class="subtitle">Preguntas frecuentes</h2>
         <div class="accordion" id="tableOfContentsAccordion">
           <!-- Pregunta 1 -->
           <div class="accordion-item">
@@ -844,7 +942,7 @@
   </div>
 
   <!-- Pie de Página -->
-  <footer class="container-fluid text-center p-3">
+  <footer class="container-fluid text-center text-black p-3">
     <p>¡Síguenos en redes sociales para más actualizaciones!</p>
     <a href="https://instagram.com/hazpanencasa" class="text-white me-2"><img src="/images/libro/AR-HazPan.jpeg" style="width: 60px; border-radius: 100%;"></a>
     <a href="https://instagram.com/1painalafois" class="text-white me-2"><img src="/images/libro/JM-HazPan.JPG" style="width: 60px; border-radius: 100%;"></a>

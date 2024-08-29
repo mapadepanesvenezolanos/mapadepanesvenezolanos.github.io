@@ -4,75 +4,203 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Compra Nuestro Libro de Panadería</title>
+  <title>Haz Panes Venezolanos en Casa</title>
+  <meta name="description" content="Es la referencia definitiva sobre Panadería Venezolana con más de 60 recetas y procedimientos detallados.">
+  <meta name="keywords" content="Panes Venezolanos, Haz Panes Venezolanos en Casa, Panadería Venezolana, Panaderia Venezolana">
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta property="twitter:domain" content="panesvenezolanos.com">
+  <meta property="twitter:url" content="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/">
+  <meta name="twitter:title" content="Haz Panes Venezolanos en Casa">
+  <meta name="twitter:description" content="Es la referencia definitiva sobre Panadería Venezolana con más de 60 recetas y procedimientos detallados.">
+  <meta name="twitter:image" content="https://panesvenezolanos.com/images/portada-cuadrada.jpg">
+
+  <!-- Facebook OpenGraph -->
+  <meta property="og:url" content="{{ page.url | absolute_url }}">
+  <meta property="og:type" content="article">
+  <meta property="og:title" content="Haz Panes Venezolanos en Casa">
+  <meta property="og:description" content="Es la referencia definitiva sobre Panadería Venezolana con más de 60 recetas y procedimientos detallados.">
+  <meta property="og:image" content="https://panesvenezolanos.com/images/portada-cuadrada.jpg">
+  <meta property="og:site_name" content="panesvenezolanos.com">
+
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
   <style>
+    body {
+      font-family: 'Poppins', serif;
+    }
+
     .cta-button {
-      background-color: #007bff;
+      /* background-color: #007bff;*/
+      background-color: #ff4500;
       color: white;
-      padding: 10px 20px;
-      border-radius: 5px;
+      padding: 12px 25px;
+      border-radius: 30px;
       text-decoration: none;
+      transition: background-color 0.3s ease;
+      font-weight: bold;
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
     }
 
     .cta-button:hover {
-      background-color: #0056b3;
+      background-color: #e03c00;
+      /*background-color: #0056b3;*/
       color: white;
     }
 
     .mr-10 {
       margin-right: 10px;
     }
+    .title {
+      font-family: "Alfa Slab One", serif;
+      font-size: calc(1.875rem + 2.7vw);
+      line-height: 1.2;
+      color: #00000f;
+      text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+      margin-bottom: 20px;
+    }
+
+    .subtitle {
+      font-family: "Alfa Slab One", serif;
+      font-size: calc(1.5rem + 1.5vw);
+      line-height: 1.2;
+      color: #0f0f0f;
+      margin-bottom: 20px;
+    }
+
+    .lead {
+      font-size: 1.25rem;
+      color: #333;
+      margin-bottom: 30px;
+    }
+
+    .card-title {
+      font-weight: 700;
+      font-size: 1.25rem;
+      color: #333;
+    }
+
+    .card-text {
+      font-size: 1rem;
+      color: #555;
+    }
+
+    .accordion-button::after {
+      font-size: 1.25rem;
+    }
+
+    .accordion-button {
+      background-color: #f8f9fa;
+      color: #333;
+      font-weight: bold;
+      transition: background-color 0.3s ease;
+    }
+
+    .accordion-button:hover {
+      background-color: #e9ecef;
+    }
+
+    .accordion-item {
+      border: 1px solid #ddd;
+    }
+
+    .accordion-body ul {
+      padding-left: 20px;
+      list-style-type: disc;
+    }
+
+    .text-muted {
+      color: #6c757d;
+    }
+
+    .rounded-circle {
+      box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    .container-fluid {
+      background: #f5e6cc;
+      color: white;
+      padding: 50px 0;
+    }
+
+    .wbackground {
+      background: #f5e6cc;
+      color: white;
+      padding: 50px 0;
+    }
+
+    .img-fluid {
+      transition: transform 0.3s ease;
+    }
+
+    .img-fluid:hover {
+      transform: scale(1.05);
+    }
+
+    .gallery img {
+      transition: transform 0.3s ease;
+    }
+
+    .gallery img:hover {
+      transform: scale(1.05);
+      cursor: pointer;
+    }
   </style>
 </head>
 
-<body class="bg-black text-white">
+<body class="bg-white text-black">
 
   <!-- Sección Hero -->
   <div class="container-fluid text-center p-5">
-    <h1 class="display-4">¡Haz Panes Venezolanos en Casa!</h1>
+    <h1 class="title">¡HAZ Panes Venezolanos EN CASA!</h1>
     <p class="lead">
       Reproduce los sabores que recuerdas de tu infancia y
-      compártelos. Prepara Panes Venezolanos saludables y espectaculares. 
+      compártelos. <br> Prepara Panes Venezolanos saludables y espectaculares. 
       Emprende, comparte y disfruta.</p>
-    <img src="https://via.placeholder.com/800x400" class="img-fluid rounded mb-3" alt="Imagen del Curso">
+    <img src="/images/libro/libro_cover.jpg" class="img-fluid rounded w-25" alt="Imagen del Libro">
     <br>
-    <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" class="btn cta-button btn-lg mb-3">Comprar ahora <i class="fas fa-arrow-right"></i></a>
+    <br>
+    <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank" class="btn cta-button btn-lg mb-3">Comprar ahora <i class="fas fa-arrow-right"></i></a>
   </div>
 
-  <!-- Beneficios del Curso -->
+  <!-- Beneficios del Libro -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">¿Por qué este libro?</h2>
+    <h2 class="text-center mb-5 subtitle">¿Por qué este libro?</h2>
     <div class="row g-4">
       <div class="col-md-4">
         <div class="card h-100">
-          <img src="https://via.placeholder.com/100" class="card-img-top mx-auto" alt="Beneficio 1">
+          <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/2.png" class="card-img-top mx-auto" alt="Foto de Cachitos">
           <div class="card-body">
             <h5 class="card-title">La referencia más completa</h5>
-            <p class="card-text">El libro comprende más de sesenta recetas y
+            <p class="card-text">El libro contendrá más de sesenta recetas y
               fórmulas con preparaciones de oriente a occidente y del norte a los llanos venezolanos.</p>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card h-100">
-          <img src="https://via.placeholder.com/100" class="card-img-top mx-auto" alt="Beneficio 2">
+          <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/19.png" class="card-img-top mx-auto" alt="Foto de Pan Francés">
           <div class="card-body">
             <h5 class="card-title">Recetas y fórmulas probadas</h5>
-            <p class="card-text">Todas las recetas y fórmulas se han probado en distintos
-              lugares del mundo bajo distintas condiciones e ingredientes.</p>
+            <p class="card-text">Todas las recetas y fórmulas han sido probadas por nuestra comunidad en cocinas
+             de varios lugares del mundo bajo distintas condiciones ambientales, con diversas marcas de ingredientes. ¡Las recetas funcionan en casa!</p>
           </div>
         </div>
       </div>
       <div class="col-md-4">
         <div class="card h-100">
-          <img src="https://via.placeholder.com/100" class="card-img-top mx-auto" alt="Beneficio 3">
+          <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/30.png" class="card-img-top mx-auto" alt="Foto de Golfeado">
           <div class="card-body">
-            <h5 class="card-title">Técnicas artesanales</h5>
-            <p class="card-text">Aprenderás a hacer los Panes Andinos con los métodos
-              artesanales de tradición.</p>
+            <h5 class="card-title">
+              Técnicas artesanales</h5>
+            <p class="card-text">Aprenderás a hacer los planes clásicos venezolanos y más. Desde los Panes Andinos con los métodos
+              artesanales de tradición hasta el fabuloso Pan de Jamón.</p>
           </div>
         </div>
       </div>
@@ -81,7 +209,7 @@
 
   <!-- Resumen del Contenido del Curso -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">Lo que aprenderás</h2>
+    <h2 class="text-center mb-5 subtitle">Lo que aprenderás</h2>
     <div class="row">
       <div class="col-md-6 mb-5">
         <h2>Tabla de contenido</h2>
@@ -91,16 +219,18 @@
             <h2 class="accordion-header" id="headingOne">
               <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
                 aria-expanded="true" aria-controls="collapseOne">
-                <i class="fas fa-bread-slice mr-10"></i> Capítulo 1: Introducción a la Panadería
+                <i class="fas fa-bread-slice mr-10"></i>Introducción 
               </button>
             </h2>
             <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
               data-bs-parent="#tableOfContentsAccordion">
               <div class="accordion-body">
                 <ul>
-                  <li>Historia del Pan</li>
-                  <li>Tipos de Pan</li>
-                  <li>Herramientas Esenciales</li>
+                  <li>Los amigos panarras</li>
+                  <li>¿Qué es el Pan?</li>
+                  <li>¿Cuál es el proceso que ocurre en la masa?</li>
+                  <li>Haz Pan en Casa</li>
+                  <li>Tipos de panes</li>
                 </ul>
               </div>
             </div>
@@ -110,53 +240,230 @@
             <h2 class="accordion-header" id="headingTwo">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
                 data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                <i class="fas fa-leaf mr-10"></i> Capítulo 2: Ingredientes Naturales
+                <i class="fas fa-leaf mr-10"></i> Capítulo 2: Técnicas básicas
               </button>
             </h2>
             <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
               data-bs-parent="#tableOfContentsAccordion">
               <div class="accordion-body">
                 <ul>
-                  <li>Harinas</li>
-                  <li>Levaduras y Masa Madre</li>
-                  <li>Aditivos Naturales</li>
+                  <li>Ingredientes y procesos</li>
+                    <ul>
+                      <li>Harina</li>
+                      <li>Agua</li>
+                      <li>Levadura</li>
+                      <li>Sal</li>
+                      <li>Azúcar</li>
+                      <li>Grasas (Mantequilla, manteca, aceite, margarina)</li>
+                      <li>Huevos</li>
+                    </ul>
+                  <li>Prefermentos</li>
+                    <ul>
+                      <li>Poolish</li>
+                      <li>Biga</li>
+                      <li>Masa vieja (Pâte fermentée)</li>
+                      <li>Esponja</li>
+                    </ul>
+                  <li>Talvina</li>
+                    <ul>
+                      <li>Talvina</li>
+                      <li>Preparación paso a paso</li>
+                      <li>Talvina refresco</li>
+                      <li>Paso a paso del refresco</li>
+                    </ul>
+                  <li>Factores ambientales</li>
+                    <ul>
+                      <li>Temperatura</li>
+                      <li>Humedad</li>
+                      <li>Altura</li>
+                    </ul>
+                  <li>Métodos de panificación</li>
+                    <ul>
+                      <li>Directo</li>
+                      <li>Retardo</li>
+                      <li>Larga fermentación</li>
+                      <li>Indirecto</li>
+                    </ul>
+                  <li>Proceso de elaboración del Pan</li>
+                    <ul>
+                      <li>Desarrollar la masa</li>
+                      <li>Fermentar</li>
+                      <li>Formar</li>
+                      <li>Cocer</li>
+                      <li>Conservar</li>
+                      <li>Consumir</li>
+                    </ul>
+                   <li>Los 12 pasos de la Panadería</li> 
+                    <ul>
+                      <li>Preparación</li>
+                      <li>Integración y amasado</li>
+                      <li>Fermentación inicial o en bloque</li>
+                      <li>Manipulación</li>
+                      <li>División</li>
+                      <li>Preformado</li>
+                      <li>Descanso en mesa</li>
+                      <li>Formado</li>
+                      <li>Fermentación final o maduración</li>
+                      <li>Barnices, coberturas y cortes</li>
+                      <li>Horneado</li>
+                      <li>Enfriamiento</li>
+                      <li>Conservación</li>
+                      <li>Reciclaje</li>
+                      <li>Consumo</li>
+                    </ul>
+                   <li>Utensilios básicos</li>
+                    <ul>
+                      <li>Recipientes o Bowls</li>
+                      <li>Espátulas</li>
+                      <li>Taroco</li>
+                      <li>Bandejas</li>
+                      <li>Balanza</li>
+                    </ul>
+                    <li>El horno</li>
+                      <ul>
+                        <li>Tipos de hornos</li>
+                        <li>Calor de abajo</li>
+                        <li>Termómetro de horno</li>
+                        <li>Termómetro de sonda</li>
+                        <li>Termómetro de pistola</li>
+                        <li>Piedra de horno</li>
+                        <li>Olla holandesa</li>
+                        <li>Precalentar el horno</li>
+                        <li>Dos etapas para hornear Pan</li>
+                        <li>Hornear panes enriquecidos</li>
+                        <li>Hornear panes semi rústicos o rústicos</li>
+                        <li>Generar vapor en el horno casero</li>
+                      </ul>
+                    <li>Fórmula panadera</li>
+                      <ul>
+                        <li>La fórmula maestra del panadero</li>
+                        <li>Procedimiento para el cálculo del peso de cada ingrediente dada la fórmula</li>
+                        <li>Procedimiento para obtener la fórmula en base a los pesos de los ingredientes</li>
+                        <li>Procedimiento para incorporar un prefermento a la fórmula</li>
+                      </ul>
                 </ul>
               </div>
             </div>
           </div>
-          <!-- Additional chapters... -->
+          <!-- Chapter 3 -->
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingThree">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                aria-expanded="true" aria-controls="collapseThree">
+                <i class="fas fa-bread-slice mr-10"></i>Capítulo 3: Panes rústicos y semi rústicos
+              </button>
+            </h2>
+            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+              data-bs-parent="#tableOfContentsAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li>PAN CAMPESINO</li>
+                  <li>PAN CANILLA</li>
+                  <li>PAN FRANCÉS</li>
+                  <li>PAN DE JOJOTO</li>
+                  <li>PAN SOBAO</li>
+                  <li>PAN TIPO GALLEGO</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFour">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                aria-expanded="true" aria-controls="collapseFour">
+                <i class="fas fa-bread-slice mr-10"></i>Capítulo 4: Panes Suaves
+              </button>
+            </h2>
+            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+              data-bs-parent="#tableOfContentsAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li>PAN DE AFRECHO</li>
+                  <li>PAN DE AVENA/MUESLI</li>
+                  <li>PAN DE BANQUETE</li>
+                  <li>CACHITO</li>
+                  <li>PAN CHINO</li>
+                  <li>PAN DE HAMBURGUESA</li>
+                  <li>PAN DE JAMÓN</li>
+                  <li>PAN DE PERRO CALIENTE</li>
+                  <li>PAN DE SANDWICH</li>
+                  <li>PAN DE YUCA</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingFive">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                aria-expanded="true" aria-controls="collapseFive">
+                <i class="fas fa-bread-slice mr-10"></i>Capítulo 5: Panes Dulces
+              </button>
+            </h2>
+            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+              data-bs-parent="#tableOfContentsAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li>PAN CAMALEÓN</li>
+                  <li>PAN DE COCO</li>
+                  <li>GOLFEADO</li>
+                  <li>PAN DE LECHE</li>
+                  <li>PAN CHINO</li>
+                  <li>PIÑITA / TUNJITA</li>
+                  <li>PAN TOVAREŇO</li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div class="accordion-item">
+            <h2 class="accordion-header" id="headingSix">
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                aria-expanded="true" aria-controls="collapseSix">
+                <i class="fas fa-bread-slice mr-10"></i>Referencias
+              </button>
+            </h2>
+            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+              data-bs-parent="#tableOfContentsAccordion">
+              <div class="accordion-body">
+                <ul>
+                  <li>Referencias</li>
+                  <li>Agradecimientos</li>
+                </ul>
+              </div>
+            </div>
+          </div>          
         </div>
       </div>
       <div class="col-md-6 text-center">
-        <img src="https://via.placeholder.com/500x300" class="img-fluid rounded" alt="Resumen del Contenido del Curso">
+        <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/14.png" class="img-fluid rounded" alt="Resumen del Contenido del libro">
       </div>
     </div>
   </div>
 
   <!-- Prueba Social y Precios -->
+  <div class="wbackground text-black">
   <div class="container py-5">
     <div class="row mb-4">
       <div class="col-md-6">
         <h2>Únete a la comunidad de lectores satisfechos</h2>
-        <p>Ya más de 100 lectores han transformado su panadería con nuestro libro. 
-          Han aprendido a realizar panes de toda venezuela e inclusive han iniciado el camino de emprender.</p>
+        <p>Ya más de 100 lectores han transformado su panadería con nuestro libro.</p> 
+        <p>Han aprendido a realizar panes de toda venezuela e inclusive han iniciado el camino de emprender.</p>
       </div>
       <div class="col-md-6">
         <h2>Precio</h2>
         <p>Nuestro libro está disponible por 9,99 USD. Explora nuestras opciones de pago.</p>
-        <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" class="btn cta-button btn-lg mb-3">Lo quiero ya! <i class="fas fa-arrow-right"></i></a>
+        <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank" class="btn cta-button btn-lg mb-3">¡Lo quiero ya! <i class="fas fa-arrow-right"></i></a>
         <p><strong>Garantía de 60 días</strong> 
           La plataforma Leanpub ofrece una garantía de satisfacción completa o la
           devolución de tu dinero dentro de los 60 días de la compra.</p>
       </div>
     </div>
-  </div>
+  </div></div>
 
   <!-- Biografías de los Autores -->
   <div class="container py-5">
     <div class="row mb-4">
       <div class="col text-center">
-        <h2>Sobre los autores</h2>
+        <h2 class="subtitle">Sobre los autores</h2>
         <p>Conoce a los creadores del libro y su trayectoria.</p>
       </div>
     </div>
@@ -164,7 +471,7 @@
     <div class="row text-center">
       <!-- Autor 1 -->
       <div class="col-md-4 mb-4">
-        <img src="https://via.placeholder.com/150" alt="Autor 1" class="img-fluid rounded-circle mb-3">
+        <img src="/images/libro/AR-HazPan.jpeg" style="width: 150px;" alt="Autor 1" class="img-fluid rounded-circle mb-3">
         <h4>Alexander A. Ramírez M.</h4>
         <p>Venezolano, creador del Lab Haz Pan en Casa, la aplicación
           <a href="https://hazpanen.casa" target="_blank">hazpanen.casa</a> y de la página
@@ -177,45 +484,49 @@
 
       <!-- Autor 2 -->
       <div class="col-md-4 mb-4">
-        <img src="https://via.placeholder.com/150" alt="Autor 2" class="img-fluid rounded-circle mb-3">
-        <h4>Jesús Enrique Mendez</h4>
-        <p>Experto en panes artesanales y fermentación natural, con numerosos premios internacionales.</p>
-        <a href="https://instagram.com/autor2" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+        <img src="/images/libro/JM-HazPan.JPG" style="width: 150px;" alt="Autor 2" class="img-fluid rounded-circle mb-3">
+        <h4>Jesús Enrique Mendez Alvarez</h4>
+        <p>Venezolano, Licenciado en Computación egresado de la UCV, especialista en panes artesanales rústicos caseros</p>
+        <p>Co-creador de la página web
+        <a href="https://panesvenezolanos.com" target="_blank">Panes Venezolanos</a>,
+        Apasionado de la panadería casera, Panadero Profesional egresado de la GAPP Venezuela
+        <a href="https://instagram.com/1painalafois" target="_blank"><i class="fab fa-instagram"></i> 1painalafois</a>
       </div>
 
       <!-- Autor 3 -->
       <div class="col-md-4 mb-4">
-        <img src="https://via.placeholder.com/150" alt="Autor 3" class="img-fluid rounded-circle mb-3">
-        <h4></h4>
-        <p>Innovador en técnicas de panificación, conocido por sus talleres educativos y su bestseller sobre panadería.
-        </p>
-        <a href="https://instagram.com/autor3" target="_blank"><i class="fab fa-instagram"></i> Instagram</a>
+        <img src="/images/libro/LG-HazPan.JPG" style="width: 150px;" alt="Fotógrafa" class="img-fluid rounded-circle mb-3">
+        <h4>Luisa Guillermina González Pérez</h4>
+        <p>Venezolana, Fotógrafa Culinaria profesional en Montreal, Canadá</p>
+        <p>
+        Médico Oftalmólogo Pediatra egresada de la UCV, apasionada de la cocina, pastelera casera con más de 20 años de experiencia! 
+        <a href="https://instagram.com/luisagonzalez" target="_blank"><i class="fab fa-instagram"></i> luisagonzalezp</a>
       </div>
     </div>
   </div>
 
   <!-- Testimonios -->
   <div class="container py-5">
-    <h2 class="text-center mb-5">Opiniones de nuestros estudiantes</h2>
+    <h2 class="text-center mb-5 subtitle">Testimonios</h2>
     <div class="row row-cols-1 row-cols-md-2 g-4">
       <div class="col">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title">"Una Experiencia Transformadora"</h5>
-            <p class="card-text">"Gracias a este curso, conseguí el trabajo de mis sueños. ¡Muy recomendable!"</p>
+            <h5 class="card-title">"UN LIBRO SIN DESPERDICIO"</h5>
+            <p class="card-text">"El libro no tiene desperdicio, excelente lo que he leído hasta ahora... No sé guardan ningún secreto... 
+              Felicitaciones!!! Hay algunos secretos que yo he descubierto en cursos que he hecho y los encontré en el libro"</p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">- Claudia Raga, Panadera Casera</small>
+            <small class="text-muted">- Rubén Eduardo Hernández Ystúriz</small>
           </div>
         </div>
       </div>
       <div class="col">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title">"Exhaustivo y Atractivo"</h5>
-            <p class="card-text">"Las lecciones están bien estructuradas y son atractivas, lo que hace que aprender sea
-              un
-              placer."</p>
+            <h5 class="card-title">"Exhaustivo y atractivo"</h5>
+            <p class="card-text">"Los capítulos están muy bien estructurados, las fotos son profesionales, lo que hace que aprender a hacer panes en casa sea
+              un verdadero placer."</p>
           </div>
           <div class="card-footer">
             <small class="text-muted">- Dunia Morales, Emprendedora</small>
@@ -225,13 +536,24 @@
       <div class="col">
         <div class="card h-100">
           <div class="card-body">
-            <h5 class="card-title">"Exhaustivo y Atractivo"</h5>
-            <p class="card-text">"Las lecciones están bien estructuradas y son atractivas, lo que hace que aprender sea
-              un
-              placer."</p>
+            <h5 class="card-title">"EXCELENTE LIBRO!"</h5>
+            <p class="card-text">"Ha sido una ayuda incommesurable para mi aprendizaje. Con la técnica descrita 
+              para hacer el pan Canilla que es muy diferente a la que venia aplicando, mi producto mejoró de manera exponencial."
+            </p>
           </div>
           <div class="card-footer">
-            <small class="text-muted">- Alba, Panadera Casera</small>
+            <small class="text-muted">- Rafael Ponce</small>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card h-100">
+          <div class="card-body">
+            <h5 class="card-title">"PRIMERA VEZ, Y FUE UN ÉXITO!"</h5>
+            <p class="card-text">"Primera vez que hago pan francés, que es como le decimos los venezolanos a estas hogazas de pan. El sabor idéntico al que atesoro en mis recuerdos de las panaderías caraqueñas. La corteza suave, aunque creo que la prefiero un poquito más crujiente. La miga de dioses."</p>
+          </div>
+          <div class="card-footer">
+            <small class="text-muted">- Enriqueta Lemoine</small>
           </div>
         </div>
       </div>
@@ -239,8 +561,8 @@
   </div>
 
   <!-- Testimonios visuales -->
-  <div class="container py-5">
-    <h2 class="text-center mb-5">Resultados de nuestros lectores</h2>
+  <div class="container py-5 d-none">
+    <h2 class="text-center mb-5 subtitle">Resultados de nuestros lectores</h2>
     <div class="row" id="testimonial-grid">
       <div class="col-lg-4 col-md-6 col-sm-12 mb-4">
         <div class="card">
@@ -302,86 +624,143 @@
   <div class="container-fluid text-center p-5">
     <div class="row mb-5 align-items-center">
       <div class="col-md-6 text-center">
-        <img src="https://via.placeholder.com/400x600" class="img-fluid mb-3" alt="Portada del libro de panadería"
+        <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/9.png" class="img-fluid rounded mb-3" alt="Portada del libro"
           style="max-height: 600px;">
       </div>
       <div class="col-md-6 text-center text-md-start">
-        <h1 class="display-4">Eleva tus panes</h1>
+        <h2 class="subtitle">Eleva tus panes</h2>
         <p class="lead">Descubre los secretos de la panadería artesanal venezolana 
           y lleva tus habilidades al próximo nivel con
           técnicas y recetas probadas.</p>
         <br>
-        <a href="#enroll" class="btn cta-button btn-lg mb-3">Quiero el libro! <i class="fas fa-arrow-right"></i></a>
+        <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank" class="btn cta-button btn-lg mb-3">¡Quiero el libro! <i class="fas fa-arrow-right"></i></a>
       </div>
     </div>
   </div>
 
-  <div class="container my-5">
-    <h2 class="text-center mb-4">Galería de imágenes</h2>
-    <div class="row g-4">
-      <!-- Images -->
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 1">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 2">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 3">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 4">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 5">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 6">
-      </div>
-      <!-- Add more images as needed up to 9 -->
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 7">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 8">
-      </div>
-      <div class="col-6 col-md-4 col-lg-3">
-        <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen 9">
-      </div>
-    </div>
-  </div>
 
   <div class="container my-5">
-    <h2 class="text-center mb-4">Galería de Imágenes del Libro</h2>
-    <div class="row g-4">
+    <h2 class="text-center mb-4 subtitle">Galería de imágenes</h2>
+    <div class="row g-3">
       <!-- Image with Title and Modal Trigger -->
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <!-- Modal Trigger -->
-          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Maíz">
+          <a href="#" data-toggle="modal" data-target="" data-title="Pan Canilla">
             <!-- Image -->
-            <img src="https://via.placeholder.com/600x400" class="card-img-top img-fluid" alt="Libro Imagen 1">
+            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/22.png" class="card-img-top img-fluid" alt="Libro, Pan Canilla">
             <!-- Title -->
             <div class="card-body">
-              <h5 class="card-title">Pan de Maíz</h5>
+              <h5 class="card-title">Pan Canilla</h5>
             </div>
           </a>
         </div>
       </div>
-      <!-- Add more images with titles and modal triggers -->
+      <div class="col-6 col-md-4 col-lg-3 d-none">
+        <div class="card">
+          <!-- Modal Trigger -->
+          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan Tipo Gallego">
+            <!-- Image -->
+            <img src="/images/libro/libro_tipogallego.jpg" class="card-img-top img-fluid" alt="Libro, Pan Tipo Gallego">
+            <!-- Title -->
+            <div class="card-body">
+              <h5 class="card-title">Pan Tipo Gallego</h5>
+            </div>
+          </a>
+        </div>
+      </div>
       <div class="col-6 col-md-4 col-lg-3">
         <div class="card">
           <!-- Modal Trigger -->
-          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Espelta">
+          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Yuca">
             <!-- Image -->
-            <img src="https://via.placeholder.com/600x400" class="card-img-top img-fluid" alt="Libro Imagen 2">
+            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/32.png" class="card-img-top img-fluid" alt="Libro, Pan de Yuca">
             <!-- Title -->
             <div class="card-body">
-              <h5 class="card-title">Pan de Espelta</h5>
+              <h5 class="card-title">Pan Francés</h5>
             </div>
           </a>
         </div>
       </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="card">
+          <!-- Modal Trigger -->
+          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Coco">
+            <!-- Image -->
+            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/23.png" class="card-img-top img-fluid" alt="Libro, Pan de Coco">
+            <!-- Title -->
+            <div class="card-body">
+              <h5 class="card-title">Pan de Coco </h5>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+        <div class="card">
+          <!-- Modal Trigger -->
+          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Hamburguesa">
+            <!-- Image -->
+            <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/12.png" class="card-img-top img-fluid" alt="Libro, Pan de Hamburguesa">
+            <!-- Title -->
+            <div class="card-body">
+              <h5 class="card-title">Pan de Hamburguesa</h5>
+            </div>
+          </a>
+        </div>
+      </div>
+      <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+          <!-- Modal Trigger -->
+          <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan Francés">
+          <!-- Image -->
+          <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/27.png" class="card-img-top img-fluid" alt="Libro, Pan Francés">
+              <!-- Title -->
+              <div class="card-body">
+                <h5 class="card-title">Pan de Perro Caliente</h5>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <!-- Modal Trigger -->
+            <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Sandwich">
+              <!-- Image -->
+              <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/20.png" class="card-img-top img-fluid" alt="Libro, Pan de Sandwich">
+              <!-- Title -->
+              <div class="card-body">
+                <h5 class="card-title">Piñitas</h5>
+              </div>
+            </a>
+          </div>
+        </div>
+        <!-- Add more images with titles and modal triggers -->
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <!-- Modal Trigger -->
+            <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Leche ">
+              <!-- Image -->
+              <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/34.png" class="card-img-top img-fluid" alt="Libro, Pan de Leche">
+              <!-- Title -->
+              <div class="card-body">
+                <h5 class="card-title">Pan de Leche</h5>
+              </div>
+            </a>
+          </div>
+        </div>
+        <div class="col-6 col-md-4 col-lg-3">
+          <div class="card">
+            <!-- Modal Trigger -->
+            <a href="#" data-toggle="modal" data-target="#exampleModal" data-title="Pan de Leche ">
+              <!-- Image -->
+              <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/4.png" class="card-img-top img-fluid" alt="Libro, Pan de Leche">
+              <!-- Title -->
+              <div class="card-body">
+                <h5 class="card-title">Pan Chino</h5>
+              </div>
+            </a>
+          </div>
+        </div>
       <!-- Repeat the above structure for additional images with titles -->
     </div>
   </div>
@@ -391,11 +770,11 @@
     <div class="modal-dialog modal-lg">
       <div class="modal-content">
         <div class="modal-header">
-          <h5 class="modal-title text-black" id="exampleModalLabel">Image Title</h5>
+          <h5 class="modal-title text-black" id="exampleModalLabel">¡Haz este Pan en Casa!</h5>
         </div>
         <div class="modal-body text-center">
           <!-- Image -->
-          <img src="https://via.placeholder.com/600x400" class="img-fluid" alt="Libro Imagen">
+          <img src="/images/libro/libro_cover.jpg" class="img-fluid" alt="Libro Imagen">
         </div>
       </div>
     </div>
@@ -403,51 +782,149 @@
 
   <!-- Table of Contents -->
   <div class="container-fluid p-5">
-    <div class="row">
+    <div class="row ">
       <div class="col-md-6 text-center pb-5">
-        <img src="https://via.placeholder.com/400x600" class="img-fluid rounded" alt="Resumen del Contenido del Curso">
+        <img src="/images/libro/Haz-Panes-Venezolanos-en-Casa/7.png" class="img-fluid rounded" alt="Preguntas frecuentes">
       </div>
       <div class="col-md-6">
-        <h2>Preguntas frecuentes</h2>
+        <h2 class="subtitle">Preguntas frecuentes</h2>
         <div class="accordion" id="tableOfContentsAccordion">
-          <!-- Chapter 1 -->
+          <!-- Pregunta 1 -->
           <div class="accordion-item">
             <h2 class="accordion-header " id="headingOne">
-              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne"
-                aria-expanded="true" aria-controls="collapseOne">
-                <i class="fas fa-bread-slice mr-10"></i> Capítulo 1: Introducción a la Panadería
+              <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseUno"
+                aria-expanded="true" aria-controls="collapseUno">
+                <i class="fas fa-bread-slice mr-10"></i> ¿Qué es Leanpub?
               </button>
             </h2>
-            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+            <div id="collapseUno" class="accordion-collapse collapse show" aria-labelledby="headingUno"
               data-bs-parent="#tableOfContentsAccordion">
               <div class="accordion-body">
                 <ul>
-                  <li>Historia del Pan</li>
-                  <li>Tipos de Pan</li>
-                  <li>Herramientas Esenciales</li>
+                  <li>Es la plataforma que permite publicar los libros y realizar entregas 
+                    progresivas.
+                  </li>
                 </ul>
               </div>
             </div>
           </div>
-          <!-- Chapter 2 -->
+          <!-- Pregunta 2 -->
           <div class="accordion-item">
             <h2 class="accordion-header" id="headingTwo">
               <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
-                data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                <i class="fas fa-leaf mr-10"></i> Capítulo 2: Ingredientes Naturales
+                data-bs-target="#collapseDos" aria-expanded="false" aria-controls="collapseDos">
+                <i class="fas fa-leaf mr-10"></i> ¿Cómo hago para comprar el libro?
               </button>
             </h2>
-            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo"
+            <div id="collapseDos" class="accordion-collapse collapse" aria-labelledby="headingDos"
               data-bs-parent="#tableOfContentsAccordion">
               <div class="accordion-body">
                 <ul>
-                  <li>Harinas</li>
-                  <li>Levaduras y Masa Madre</li>
-                  <li>Aditivos Naturales</li>
+                  <li>Entra a la página <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank"> leanpub.com</a> y baja las barritas del precio al mínimo permitido.</li>
                 </ul>
               </div>
             </div>
           </div>
+         <!-- Pregunta 3 -->
+         <div class="accordion-item">
+          <h2 class="accordion-header" id="headingTwo">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseTres" aria-expanded="false" aria-controls="collapseTres">
+              <i class="fas fa-leaf mr-10"></i> ¿Cuando compro el libro, que recibo a cambio?
+            </button>
+          </h2>
+          <div id="collapseTres" class="accordion-collapse collapse" aria-labelledby="headingTres"
+            data-bs-parent="#tableOfContentsAccordion">
+            <div class="accordion-body">
+              <ul>
+                <li>El libro esta en plena construcción. Cuando compras el libro recibes de inmediato por correo electrónico un enlace para descargar la última edición digital publicada.
+                  Tienes garantizada de por vida el acceso gratuito a todas las actualizaciones que haremos al contenido del libro hasta completar las 60 recetas prometidas. 
+                  La ultima edición publicada el 5 de Junio del 2024, contiene las técnicas básicas + veinte (20) recetas:</li>
+                  <li>Introducción</li>
+                  <li>Los amigos panarras</li>
+                  <li>¿Qué es el Pan?</li>
+                  <li>¿Cuál es el proceso que ocurre en la masa?</li>
+                  <li>Nivel básico</li>
+                  <li>Nivel intermedio</li>
+                  <li>Haz Pan en Casa</li>
+                  <li>Tipos de panes	
+                     - Panes rústicos	
+                     - Panes planos	
+                     - Panes enriquecidos</li>	
+                  <li>Técnicas básicas</li>
+                  <li>Panes rústicos y semi rústicos	
+                      - PAN CAMPESINO (Receta + Fotos)
+                      - PAN CANILLA	(Receta + Fotos)
+                      - PAN FRANCÉS	(Receta + Fotos)
+                      - PAN DE JOJOTO	(Receta + Fotos)
+                      - PAN TIPO GALLEGO (Receta)</li>
+                    <li>Panes Suaves	
+                      - PAN DE AFRECHO (Receta + Fotos)
+                      - PAN DE AVENA/MUESLI	(Receta + Fotos)
+                      - CACHITO (Receta + Fotos)
+                      - PAN CHINO (Receta + Fotos)
+                      - PAN DE HAMBURGUESA (Receta + Fotos)
+                      - PAN DE JAMÓN (Receta + Fotos)
+                      - PAN DE PERRO CALIENTE	(Receta + Fotos)
+                      - PAN DE SANDWICH	(Receta + Fotos)
+                      - PAN DE YUCA	(Receta + Fotos)</li>
+                    <li>Panes Dulces	
+                      - PAN CAMALEÓN	(Receta + Fotos del Pan)
+                      - PAN DE COCO (Receta + Fotos)
+                      - GOLFEADO	(Receta)
+                      - PAN DE LECHE (Receta + Fotos)
+                      - PIÑITA / TUNJITA (Receta + Fotos)
+                      - PAN TOVAREŇO (Receta)</li> 
+                  <li>Referencias</li>
+                </li>
+             </ul>
+            </div>
+          </div>
+        </div>
+        <!-- Pregunta 3 -->
+        <div class="accordion-item">
+          <h2 class="accordion-header" id="preguntasCuatro">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseCuatro" aria-expanded="false" aria-controls="collapseCuatro">
+              <i class="fas fa-leaf mr-10"></i> ¿Cuando recibo las actualizaciones del libro y por cuál vía?
+            </button>
+          </h2>
+          <div id="collapseCuatro" class="accordion-collapse collapse" aria-labelledby="collapseCuatro"
+            data-bs-parent="#tableOfContentsAccordion">
+            <div class="accordion-body">
+              <ul>
+                <li>Como el libro esta en plena construcción, cuando lo compras tienes garantizado de por vida el acceso gratuito 
+                  a todas las actualizaciones que haremos al contenido hasta que lleguemos a las sesenta (60) recetas prometidas.
+                  Mensualmente recibirás al menos un (1) correo electrónico, con una nueva edición en formato PDF del libro que 
+                  podrás descargar en tu dispositivo electrónico de preferencia, donde encontrarás nuevas recetas y fotos. 
+                </li>
+             </ul>
+            </div>
+          </div>
+        </div>
+        <!-- Pregunta 5 -->
+         <div class="accordion-item">
+          <h2 class="accordion-header" id="preguntasCinco">
+            <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse"
+              data-bs-target="#collapseCinco" aria-expanded="false" aria-controls="collapseCinco">
+              <i class="fas fa-leaf mr-10"></i> ¿Si vivo en Venezuela, puedo pagar el libro en Bolívares?
+            </button>
+          </h2>
+          <div id="collapseCinco" class="accordion-collapse collapse" aria-labelledby="collapseCinco"
+            data-bs-parent="#tableOfContentsAccordion">
+            <div class="accordion-body">
+              <ul>
+                <li>Sí via Pago Movil lo puedes hacer. Envia un mensaje via instagram a 
+                  <a href="https://instagram.com/1painalafois" target="_blank"><i class="fab fa-instagram"></i>1painalafois</a>
+                  y te daremos los datos de la cuenta y el precio al cambio del día en Bolívares.
+                </li>
+                <li>Una vez que hayas depositado el dinero, envias una foto de tu comprobante de pago por mensaje a @1painalafois</li>
+                <li>Te daremos el enlace para que descargues tu copia digital del libro desde leanpub</li>
+                <li>Una vez que completes el proceso de compra de tu libro en leanpub, recibiras por correo electrónico el enlace para descargarlo.</li>
+              </ul>
+            </div>
+          </div>
+        </div>
           <!-- Additional chapters... -->
         </div>
       </div>
@@ -458,17 +935,17 @@
   <div class="container py-5">
     <h2 class="text-center mb-5" id="enroll">Compra el libro ahora e inicia tu camino...</h2>
     <div class="text-center">
-      <h3 class="mb-4">199$ <small class="fw-light">/ acceso de por vida</small></h3>
-      <p>¡Asegura tu lugar en nuestra próxima sesión que comienza pronto!</p>
-      <a href="#enroll" class="btn cta-button btn-lg mb-3">Comprar ahora <i class="fas fa-arrow-right"></i></a>
+      <h3 class="mb-4">9,99$ <small class="fw-light">/ acceso de por vida</small></h3>
+      <p>¡Aprovecha la oferta introductoria que estará disponible hasta el 31 de Julio del 2024!</p>
+      <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank" class="btn cta-button btn-lg mb-3">¡Comprar el libro ahora! <i class="fas fa-arrow-right"></i></a>
     </div>
   </div>
 
   <!-- Pie de Página -->
-  <footer class="container-fluid text-center p-3">
-    <p>Síguenos en redes sociales para más actualizaciones!</p>
-    <a href="https://instagram.com/hazpanencasa" class="text-white me-2"><i class="fab fa-instagram"></i></a>
-    <a href="https://instagram.com/hazpanencasa" class="text-white me-2"><i class="fab fa-instagram"></i></a>
+  <footer class="container-fluid text-center text-black p-3">
+    <p>¡Síguenos en redes sociales para más actualizaciones!</p>
+    <a href="https://instagram.com/hazpanencasa" class="text-white me-2"><img src="/images/libro/AR-HazPan.jpeg" style="width: 60px; border-radius: 100%;"></a>
+    <a href="https://instagram.com/1painalafois" class="text-white me-2"><img src="/images/libro/JM-HazPan.JPG" style="width: 60px; border-radius: 100%;"></a>
     <p>©️ 2024 Panes Venezolanos. Todos los derechos reservados.</p>
   </footer>
 
