@@ -151,6 +151,19 @@
       transform: scale(1.05);
       cursor: pointer;
     }
+    @media (max-width: 767px) {
+      .mobileimg {
+        width: 60%;
+      }
+      .lead {
+        font-size: 1rem;
+      }
+    }
+    @media (min-width: 768px) {
+      .mobileimg {
+        width: 30%;
+      }
+    }
   </style>
 </head>
 
@@ -163,7 +176,7 @@
       Reproduce los sabores que recuerdas de tu infancia y
       compártelos. <br> Prepara Panes Venezolanos saludables y espectaculares. 
       Emprende, comparte y disfruta.</p>
-    <img src="/images/libro/libro_cover.jpg" class="img-fluid rounded w-25" alt="Imagen del Libro">
+    <img src="/images/libro/libro_cover.jpg" class="img-fluid rounded mobileimg" alt="Imagen del Libro">
     <br>
     <br>
     <a href="https://leanpub.com/hazpanesvenezolanosencasavol1" target="_blank" class="btn cta-button btn-lg mb-3">Comprar ahora <i class="fas fa-arrow-right"></i></a>
