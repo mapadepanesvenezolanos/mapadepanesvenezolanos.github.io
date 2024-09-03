@@ -1,5 +1,5 @@
 ---
-title: "Acema"
+title: "Acema tocuyana"
 subtitle: "Tradición del Estado Lara para todo el mundo."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana o de Cubiro. En los Andes también la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
 date: 2022-09-28 10:32:39 -0400
