@@ -2,7 +2,7 @@
 title: "Mini Lunch"
 subtitle: "Es un pan suave semi dulce con queso ya sea como relleno o formado en trenza."
 description: "El Mini Lunch se consigue en muchas panaderías y destaca el contraste suave, dulce y salado del queso fresco que se produce en venezuela. En muchas escuelas de panadería se enseña en forma de trenza."
-date: 2024-08-31 10:32:39 -0400
+date: 2024-09-01 10:32:39 -0400
 published: false
 permalink: /panes-venezolanos/mini-lunch/
 categories: pan semidulce enriquecido
