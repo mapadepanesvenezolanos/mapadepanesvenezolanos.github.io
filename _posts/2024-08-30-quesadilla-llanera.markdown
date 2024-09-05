@@ -43,7 +43,7 @@ No tenemos noticia sobre su origen, sólo podemos inferir que es una variante de
 ## Masa leudada con levadura instantánea
 
 - Es un cuadrado o rectángulo que contiene el relleno de queso fresco.
-- En nuestro caso son 90g de masa y 60g de cobertura.
+- En nuestro caso son 90g de masa y 60g de relleno.
 - Temperatura ambiente 22ºC - 26ºC
 
 ### Ingredientes para preparar la Quesadilla llanera
@@ -134,14 +134,14 @@ Son 60g de relleno por Quesadilla.
 
 - Con la ayuda de un rodillo, extiende cada bolita como un cuadrado.
 - Coloca la crema de queso en el centro.
-- Pliega la masa de lado tapando el relleno.
+- Pliega la masa de cada lado tapando el relleno.
 - Pliega cada extremo del rectángulo al centro de la pieza y voltéala.
 - Coloca cada pieza en la bandeja engrasada o con papel de horno.
 - Tapa la bandeja con plástico
 
 ### Fermentación final (maduración)
 
-- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (90) minutos.
+- Deja reposar cada pieza una al lado de la otra en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (90) minutos.
 
 ### Precalentar el horno
 
@@ -155,7 +155,7 @@ Son 60g de relleno por Quesadilla.
 ### Horneado
 
 - Introduce la bandeja en el horno y déjala por quince (15) minutos.
-- Está pendiente para que no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
+- Vigila no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
 
 ### Enfriamiento
 
