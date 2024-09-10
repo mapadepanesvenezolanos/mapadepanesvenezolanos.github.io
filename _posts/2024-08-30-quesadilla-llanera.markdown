@@ -155,7 +155,7 @@ Son 60g de relleno por Quesadilla.
 ### Horneado
 
 - Introduce la bandeja en el horno y déjala por quince (15) minutos.
-- Vigila no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
+- Vigila que no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
 
 ### Enfriamiento
 
