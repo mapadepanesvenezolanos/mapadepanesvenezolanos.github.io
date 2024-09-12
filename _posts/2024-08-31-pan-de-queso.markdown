@@ -3,46 +3,36 @@ title: "Pan de Queso"
 subtitle: "Es un pan suave semi dulce con queso ya sea como relleno o formado en trenza."
 description: "El Pan de Queso se consigue en muchas panaderías y destaca el contraste suave, dulce y salado del queso fresco que se produce en venezuela. En muchas escuelas de panadería se enseña en forma de trenza."
 date: 2024-08-31 10:32:39 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/pan-de-queso/
 categories: pan semidulce enriquecido
 keywords: pan de queso
-featured_image: '/images/panes/pan-de-queso/pan-de-queso-1.jpeg'
+featured_image: '/images/panes/pan-de-queso/pan-de-queso-1.jpg'
 formula_name: "pandequeso"
 second_formula_name: "pandequeso"
 ---
 
-La Quesadilla es un Pan que puede venir en distintas formas con un relleno o cobertura de queso mezclado con azúcar, leche y huevo para amalgamar. Se consume en toda Venezuela en diferentes versiones y su atractivo principal es poder degustar queso fresco sobre un Pan dulce suave.
-
-En Venezuela hay varias versiones de quesadilla, las más nombradas y conocidas son la andina y la llanera. La andina de la Grita y la llanera de Corozopando, Estado Guárico. Se forman distinto y lo que la hace única es el queso que se utiliza. Nada iguala el queso fresco que se usa en los andes o en los llanos venezolanos.
-
-En esta receta vamos a elaborar el Pan de Queso que partiendo una forma redonda se hacen cinco (5) "pellizcos" y se coloca el queso en el centro y el bocadillo encima. En muchos lugares en Venezuela se hace también de forma redonda con bordes o baranda y en el centro una mezcla de queso con azúcar, leche y huevo. La forma de las quesadillas llaneras es completamente distinta, es cuadrada con relleno de queso.
-
-En muchas fórmulas conseguimos el uso de azúcar en gran cantidad, miel y leche condensada. En otras se usa papelón y/o vainilla. 
-
-[Trina Arocha] le coloca cáscara de limón a la mezcla de queso que seguramente le da un tono de sabor interesante.
+El Pan de Queso lo vas a conseguir en muchos lugares en Venezuela en forma de trenza, también lo vas a conseguir como un rollo relleno. Este Pan se consume en toda Venezuela para resaltar la diversidad de quesos frescos que se producen en Venezuela y producir una experiencia de balance entre la masa semi dulce y el salado del queso.
 
 ## RECETA, FÓRMULA y TÉCNICAS del Pan de Queso
 
 ## Resultado esperado
 
-La base de Pan del Pan de Queso es un Pan dulce que contrasta con el salado del queso que va en el centro. El queso está mezclado con azúcar, leche y huevo para amalgamar.
-
-Se puede preparar con la masa de un Pan dulce andino y si queremos reforzar la tradición tachirense, se puede usar una masa con Talvina. En general, no es una preparación largamente fermentada, por lo que si usas Talvina puedes usar un poquito de levadura para producir el mismo día.
+El Pan de Queso se realiza con una masa suave semi dulce enriquecida que complementa y se balancea con el queso blanco fresco.
 
 ## Origen del Pan de Queso
 
-En el libro "Soy Panadero"[^1] señalan "Pan de masa dulce sobada con apariencia de luna llena (otra de sus presentaciones es con piquitos) que lleva queso. Son sus ingredientes: harina de trigo, queso blanco llanero, grasa, leche, huevos, azúcar y sal".
+No hay mucha información sobre su origen, de hecho cuando investigas sobre el Pan de Queso terminas encontrando las referencias del Pão de queijo brasileño que se hace con almidón de Yuca y tiene parentezco con la Almojábana. 
 
-[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de trigo en formato de trenza generalmente o rollo relleno. Esta preparación guarda parentezco con la Quesadilla, el Mini lunch, el Cachito y el Pan de Jamón. Es un Pan que sigue la tradición de panes rellenos en distintos formatos que se realizan en Venezuela.
 
 ## Tips para preparar el Pan de Queso
 
-- Prepara el relleno un día antes y déjalo en la nevera para que se asienten los sabores.
+- Busca un buen queso que aguante el horno. El Queso llanero suele ser muy buena elección.
 
 {% include whatsapp.html %}
 
-# Quesadilla andina
+# Pan de Queso
 
 ## Masa leudada con levadura instantánea
 
@@ -50,36 +40,29 @@ En el libro "Soy Panadero"[^1] señalan "Pan de masa dulce sobada con apariencia
 - Son 150g de masa por unidad y 100g de queso.
 - Temperatura ambiente 22ºC - 26ºC
 
-<div class="post_image post_image_right">
-<video width="300" autoplay muted controls>
-  <source src="/images/panes/quesadilla-andina/quesadilla-andina.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</div>
-
-### Ingredientes para preparar la Pan de Queso
+### Ingredientes para preparar el Pan de Queso
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
-| Harina panadera                               |      100%     |      570g |
-| Agua                                          |       45%     |      257g |
-| Levadura instantánea                          |        1%     |        6g |
-| Sal                                           |      1,5%     |        9g |
-| Huevos ligeramente batidos                    |        5%     |       29g |
-| Mantequilla sin sal                           |        5%     |       29g |
-| Azúcar                                        |       15%     |       86g |
-| Leche en polvo                                |        2%     |       11g |
+| Harina panadera                               |      100%     |      516g |
+| Agua                                          |       45%     |      232g |
+| Levadura instantánea                          |        1%     |        5g |
+| Sal                                           |      1,5%     |        8g |
+| Huevos ligeramente batidos                    |        5%     |       26g |
+| Mantequilla sin sal                           |        5%     |       26g |
+| Azúcar                                        |       15%     |       77g |
+| Leche en polvo                                |        2%     |       10g |
 | ----------------------------------------------|---------------|-----------|
-| **Total**                                     |   **175,5%**  | **1000g** |
+| **Total**                                     |   **174,5%**  |  **900g** |
 
-### Calculadora para preparar la  Quesadilla andina
+### Calculadora para preparar el Pan de Queso
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
 ### Relleno del Pan de Queso
 
-- 100g de queso rayado salado semi duro.
+- 100g de queso rayado salado semi duro por cada Pan.
 
 ## Paso a paso para preparar el Pan de Queso
 
@@ -98,7 +81,7 @@ Your browser does not support the video tag.
 #### Ciclo de amasado
 
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
-- En un segundo envase, mezcla el agua, los huevos, leche condensada, miel, vainilla, azúcar y diluye.
+- En un segundo envase, mezcla el agua, los huevos, el azúcar y diluye.
 - Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
 - Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
@@ -112,7 +95,7 @@ Your browser does not support the video tag.
 
 ### División
 
-- Divide la masa en diez (10) porciones.
+- Divide la masa en seis (6) porciones.
 
 ### Preformado
 
@@ -124,13 +107,16 @@ Your browser does not support the video tag.
 
 <img class="post_image post_image_right" src="/images/panes/quesadilla-andina/quesadilla-andina-2.jpeg" alt="{{page.title}}">
 
-- Con la ayuda de un rodillo, extiende cada bolita como un disco.
-- Coloca cada disco en la bandeja.
+- Con la ayuda de un rodillo, extiende cada bolita como un rectángulo.
+- Coloca el queso rayado en el centro del rectángulo.
+- Con un taroco o cortador de lado y lado corta tiras.
+- Realiza una trenza con las tiras de lado y lado.
+- Coloca las piezas en la bandeja.
 - Tapa la bandeja con plástico
 
 ### Fermentación final (maduración)
 
-- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (90) minutos.
+- Deja reposar los pastones en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante dos (2) horas.
 
 ### Precalentar el horno
 
@@ -138,13 +124,11 @@ Your browser does not support the video tag.
 
 ### Barnices, coberturas y cortes
 
-- A cada disco presiona el centro dejando una baranda como una pizza y coloca la pasta de queso en el centro.
-- Si deseas le puedes hacer cinco (5) pellizcos al disco como hacen los andinos.
-- Opcionalmente coloca un cuadrito de bocadillo en el centro o jalea de guayaba.
+- Coloca un barniz de huevo con una pizca de sal y azúcar.
 
 ### Horneado
 
-- Introduce la bandeja en el horno y déjala por veinte (20) minutos.
+- Introduce la bandeja en el horno y déjala por dieciseis (16) minutos.
 - Está pendiente para que no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
 
 ### Enfriamiento
