@@ -105,8 +105,6 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 
 ### Formado
 
-<img class="post_image post_image_right" src="/images/panes/quesadilla-andina/quesadilla-andina-2.jpeg" alt="{{page.title}}">
-
 - Con la ayuda de un rodillo, extiende cada bolita como un rectángulo.
 - Coloca el queso rayado en el centro del rectángulo.
 - Con un taroco o cortador de lado y lado corta tiras.

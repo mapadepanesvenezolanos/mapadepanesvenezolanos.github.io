@@ -1,17 +1,18 @@
 ---
 title: "Mini Lunch"
-subtitle: "Es un pan suave semi dulce con queso ya sea como relleno o formado en trenza."
-description: "El Mini Lunch se consigue en muchas panaderías y destaca el contraste suave, dulce y salado del queso fresco que se produce en venezuela. En muchas escuelas de panadería se enseña en forma de trenza."
+subtitle: "Es un pan suave semi dulce enriquecido que enrolla jamón y queso amarillo madurado."
+description: "El Mini Lunch se consigue en muchas panaderías como alternativa a los Cachitos para un desayuno o como bala fría. Es una masa semi dulce rellena con jamón y queso amarillo madurado."
 date: 2024-09-01 10:32:39 -0400
 published: false
 permalink: /panes-venezolanos/mini-lunch/
-categories: pan semidulce enriquecido
-keywords: mini lunch
-featured_image: '/images/panes/mini-lunch/mini-lunch.jpeg'
+categories: pan semidulce enriquecido relleno
+keywords: mini lunch, mini lunch venezolano, venezuela mini lunch
+featured_image: '/images/panes/mini-lunch/mini-lunch.jpg'
 formula_name: "minilunch"
+second_formula_name: "minilunchrelleno"
 ---
 
-El Mini Lunch es un Pan de masa suave semi dulce relleno de jamón y queso amarillo. Se suele conseguir en las panaderías como alternativa al Cachito para el desayuno.
+El Mini Lunch es un Pan relleno con jamón y queso amarillo de masa suave semi dulce. Se suele conseguir en las panaderías como alternativa al Cachito para el desayuno.
 
 Se suele hacer con la masa estendida en un rectángulo, se coloca el queso y el jamón, se pliega la masa para cerrar el mini lunch y se cortan las porciones.
 
@@ -21,60 +22,58 @@ En particular y a nivel personal, no me gusta que el queso se salga de la masa y
 
 ## Resultado esperado
 
-La base de Pan del Mini Lunch es un Pan dulce que contrasta con el salado del queso que va en el centro. El queso está mezclado con azúcar, leche y huevo para amalgamar.
-
-Se puede preparar con la masa de un Pan dulce andino y si queremos reforzar la tradición tachirense, se puede usar una masa con Talvina. En general, no es una preparación largamente fermentada, por lo que si usas Talvina puedes usar un poquito de levadura para producir el mismo día.
+La base de Pan del Mini Lunch es un Pan semi dulce de leche relleno y suave relleno con jamón y queso.
 
 ## Origen del Mini Lunch
 
-En el libro "Soy Panadero"[^1] señalan "Pan de masa dulce sobada con apariencia de luna llena (otra de sus presentaciones es con piquitos) que lleva queso. Son sus ingredientes: harina de trigo, queso blanco llanero, grasa, leche, huevos, azúcar y sal".
+Venezuela cuenta con una variedad de panes rellenos como el Cachito, Pan de queso y el Pan de Jamón. El Mini Lunch es otra opción de pan relleno del día con un formado diferente.
 
-[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+Debemos recordar que muchas preparaciones de nuestra panadería venezolana surgen de la iniciativo, creatividad e inventiva de nuestros panaderos en las panaderías comerciales y estas son variantes de panes rellenos.
 
 ## Tips para preparar el Mini Lunch
 
-- Prepara el relleno un día antes y déjalo en la nevera para que se asienten los sabores.
+- Utiliza jamón y queso amarillo de la mejor calidad. Vas a notar la diferencia en el resultado y te dará orgullo el resultado.
 
 {% include whatsapp.html %}
 
-# Quesadilla andina
+# Mini Lunch
 
 ## Masa leudada con levadura instantánea
 
-- Es un pan formado como rollo relleno de queso o como trenza rellena.
-- Son 150g de masa por unidad y 100g de queso.
+- Es un rollo de jamón y queso.
+- Son 100g de masa por unidad, 30g de jamón y 30g de queso.
 - Temperatura ambiente 22ºC - 26ºC
 
-<div class="post_image post_image_right">
-<video width="300" autoplay muted controls>
-  <source src="/images/panes/quesadilla-andina/quesadilla-andina.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
-</div>
-
-### Ingredientes para preparar la Mini Lunch
+### Ingredientes para preparar el Mini Lunch
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
 | Harina panadera                               |      100%     |      430g |
-| Agua                                          |       40%     |      170g |
+| Agua                                          |       40%     |      172g |
 | Levadura instantánea                          |        1%     |        4g |
 | Sal                                           |        1%     |        4g |
 | Huevos ligeramente batidos                    |       15%     |       65g |
 | Mantequilla sin sal                           |       10%     |       43g |
 | Azúcar                                        |       15%     |       65g |
-| Leche en polvo                                |        6%     |       24g |
+| Leche en polvo                                |        6%     |       26g |
 | ----------------------------------------------|---------------|-----------|
-| **Total**                                     |    **188%**   |  **805g** |
+| **Total**                                     |    **188%**   |  **809g** |
 
-### Calculadora para preparar la  Quesadilla andina
+### Calculadora para preparar el Mini Lunch
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
 ### Relleno del Mini Lunch
 
-- 100g de queso rayado salado semi duro.
+| Ingrediente               | Fórmula     | Peso   |
+|:--------------------------|:-----------:|-------:|
+| Jamón                     |        100% |  240g  |
+| Queso amarillo madurado   |        100% |  240g  |
+|---------------------------|-------------|--------|
+| **Total**                 |   **200%**  |**480g**|
+
+{% include calculadora-de-panes2.html %}
 
 ## Paso a paso para preparar el Mini Lunch
 
@@ -93,7 +92,7 @@ Your browser does not support the video tag.
 #### Ciclo de amasado
 
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
-- En un segundo envase, mezcla el agua, los huevos, leche condensada, miel, vainilla, azúcar y diluye.
+- En un segundo envase, mezcla el agua, los huevos, azúcar y diluye.
 - Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
 - Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
@@ -105,27 +104,25 @@ Your browser does not support the video tag.
 - Déjala reposar tapada por 5 minutos.
 - Realiza la prueba de la membrana, si todavía no está desarrollado el gluten vuelve a sobar la masa.
 
-### División
+### Fermentación en bloque
 
-- Divide la masa en diez (10) porciones.
+- Coloca toda la masa en un bowl, tápala con un plástico y déjala fermentar por dos (2) horas.
 
-### Preformado
+### Manipulación
 
-- Bolea cada porción.
-- Colócalas sobre la mesa tapadas con plástico.
-- Deja reposar las porciones por diez (10) minutos.
+- Después de transcurrida la primera hora desgasifica la masa, bolea de nuevo, tápala con plástico y déjala fermentar una hora más.
 
 ### Formado
 
-<img class="post_image post_image_right" src="/images/panes/quesadilla-andina/quesadilla-andina-2.jpeg" alt="{{page.title}}">
-
-- Con la ayuda de un rodillo, extiende cada bolita como un disco.
-- Coloca cada disco en la bandeja.
+- Con la ayuda de un rodillo, extiende toda la masa en un rectángulo de largo un metro y un ancho de 22 cm.
+- Corta el rectángulo en ocho rectángulos de 12 cm de largo y 22 cm de ancho.
+- Enrolla el queso dentro del jamón y lo enrollas con la masa y deja que sobresalga el jamón en los extremos.
+- Coloca cada pieza en la bandeja.
 - Tapa la bandeja con plástico
 
 ### Fermentación final (maduración)
 
-- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (90) minutos.
+- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante noventa (30) minutos.
 
 ### Precalentar el horno
 
@@ -133,9 +130,7 @@ Your browser does not support the video tag.
 
 ### Barnices, coberturas y cortes
 
-- A cada disco presiona el centro dejando una baranda como una pizza y coloca la pasta de queso en el centro.
-- Si deseas le puedes hacer cinco (5) pellizcos al disco como hacen los andinos.
-- Opcionalmente coloca un cuadrito de bocadillo en el centro o jalea de guayaba.
+- Barniza cada pieza con huevo, una pizca de sal y una de azúcar.
 
 ### Horneado
 
@@ -151,7 +146,7 @@ Your browser does not support the video tag.
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Joanther Guacarán]{:target="blank"}, el [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [William Tse]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, el [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [William Tse]{:target="blank"}.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -161,7 +156,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 1.0__ (12/09/2024)
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
