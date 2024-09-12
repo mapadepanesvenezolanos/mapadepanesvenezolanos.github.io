@@ -112,7 +112,7 @@ No tenemos registro de panes.
 - [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
 - Pan con guayaba
-- Pan de queso
+- [Pan de queso](/panes-venezolanos/pan-de-queso/)
 - Pan con chicharrones
 - Acema
 - Acemita
@@ -172,7 +172,7 @@ No tenemos registro de panes.
 - [Pan de afrecho](/panes-venezolanos/pan-de-afrecho/)
 - Pan mojicón
 - [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
-- Pan de queso
+- [Pan de queso](/panes-venezolanos/pan-de-queso/)
 - Pan integral o negro
 - Pan de mantequilla
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
