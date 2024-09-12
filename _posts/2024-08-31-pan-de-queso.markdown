@@ -140,7 +140,7 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Joanther Guacarán]{:target="blank"}, el [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [William Tse]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, el [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y [William Tse]{:target="blank"}.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
