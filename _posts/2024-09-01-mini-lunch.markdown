@@ -3,7 +3,7 @@ title: "Mini Lunch"
 subtitle: "Es un pan suave semi dulce enriquecido que enrolla jamón y queso amarillo madurado."
 description: "El Mini Lunch se consigue en muchas panaderías como alternativa a los Cachitos para un desayuno o como bala fría. Es una masa semi dulce rellena con jamón y queso amarillo madurado."
 date: 2024-09-01 10:32:39 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/mini-lunch/
 categories: pan semidulce enriquecido relleno
 keywords: mini lunch, mini lunch venezolano, venezuela mini lunch
