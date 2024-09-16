@@ -71,7 +71,7 @@ No tenemos registro de panes.
 - [Pan de Jamón](/panes-venezolanos/pan-de-jamon/)
 - Pan dulce en rebanadas (Pan librillo)
 - [Pan de banquete](/panes-venezolanos/pan-de-banquete/)
-- Mini lunch
+- [Mini lunch](/panes-venezolanos/mini-lunch/)
 - Pan de Lima
 - [Golfeado](/panes-venezolanos/golfeado/)
 - [Cachito](/panes-venezolanos/cachito/)
