@@ -48,16 +48,16 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
-| Harina panadera                               |      100%     |      430g |
-| Agua                                          |       40%     |      172g |
+| Harina panadera                               |      100%     |      442g |
+| Agua                                          |       35%     |      155g |
 | Levadura instantánea                          |        1%     |        4g |
 | Sal                                           |        1%     |        4g |
-| Huevos ligeramente batidos                    |       15%     |       65g |
-| Mantequilla sin sal                           |       10%     |       43g |
-| Azúcar                                        |       15%     |       65g |
-| Leche en polvo                                |        6%     |       26g |
+| Huevos ligeramente batidos                    |       15%     |       66g |
+| Mantequilla sin sal                           |       10%     |       44g |
+| Azúcar                                        |       15%     |       66g |
+| Leche en polvo                                |        6%     |       27g |
 | ----------------------------------------------|---------------|-----------|
-| **Total**                                     |    **188%**   |  **809g** |
+| **Total**                                     |    **183%**   |  **808g** |
 
 ### Calculadora para preparar el Mini Lunch
 
