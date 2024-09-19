@@ -14,7 +14,7 @@ second_formula_name: "minilunchrelleno"
 
 El Mini Lunch es un Pan relleno con jamón y queso amarillo de masa suave semi dulce. Se suele conseguir en las panaderías como alternativa al Cachito para el desayuno.
 
-Se suele hacer con la masa estendida en un rectángulo, se coloca el queso y el jamón, se pliega la masa para cerrar el mini lunch y se cortan las porciones.
+Se suele hacer con la masa extendida en un rectángulo, se coloca el queso y el jamón, se pliega la masa para cerrar el mini lunch y se cortan las porciones.
 
 En particular y a nivel personal, no me gusta que el queso se salga de la masa y se pierda. Por ello en casa los formo uno por uno y enrollo el trozo de queso dentro del jamón para evitar que se salga y se pierda.
 
@@ -22,7 +22,7 @@ En particular y a nivel personal, no me gusta que el queso se salga de la masa y
 
 ## Resultado esperado
 
-La base de Pan del Mini Lunch es un Pan semi dulce de leche relleno y suave relleno con jamón y queso.
+La base de Pan del Mini Lunch es un Pan semi dulce y suave relleno con jamón y queso.
 
 ## Origen del Mini Lunch
 
@@ -32,7 +32,7 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 ## Tips para preparar el Mini Lunch
 
-- Utiliza jamón y queso amarillo de la mejor calidad. Vas a notar la diferencia en el resultado y te dará orgullo el resultado.
+- Utiliza jamón y queso amarillo de la mejor calidad. Vas a notar la diferencia en el resultado y te dará orgullo.
 
 {% include whatsapp.html %}
 

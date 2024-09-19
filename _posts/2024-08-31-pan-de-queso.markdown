@@ -62,7 +62,7 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 
 ### Relleno del Pan de Queso
 
-- 100g de queso rayado salado semi duro por cada Pan.
+- 100g de queso rallado salado semi duro por cada Pan.
 
 ## Paso a paso para preparar el Pan de Queso
 
@@ -82,7 +82,7 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 
 - En un primer envase, mezcla la harina con la levadura instantánea y la leche en polvo.
 - En un segundo envase, mezcla el agua, los huevos, el azúcar y diluye.
-- Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
+- Crea un volcán de boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
 - Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
 <div id="sobado"></div>
@@ -106,7 +106,7 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 ### Formado
 
 - Con la ayuda de un rodillo, extiende cada bolita como un rectángulo.
-- Coloca el queso rayado en el centro del rectángulo.
+- Coloca el queso rallado en el centro del rectángulo.
 - Con un taroco o cortador de lado y lado corta tiras.
 - Realiza una trenza con las tiras de lado y lado.
 - Coloca las piezas en la bandeja.

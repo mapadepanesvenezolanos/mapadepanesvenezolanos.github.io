@@ -170,7 +170,7 @@ Your browser does not support the video tag.
 
 ### Enfriamiento
 
-- Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
+- Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Déjalos enfriar en una rejilla para degustar por treinta (30) minutos.
 
 
 ------
