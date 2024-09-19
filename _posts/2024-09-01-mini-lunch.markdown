@@ -28,7 +28,7 @@ La base de Pan del Mini Lunch es un Pan semi dulce y suave relleno con jamón y 
 
 Venezuela cuenta con una variedad de panes rellenos como el Cachito, Pan de queso y el Pan de Jamón. El Mini Lunch es otra opción de pan relleno del día con un formado diferente.
 
-Debemos recordar que muchas preparaciones de nuestra panadería venezolana surgen de la iniciativo, creatividad e inventiva de nuestros panaderos en las panaderías comerciales y estas son variantes de panes rellenos.
+Debemos recordar que muchas preparaciones de nuestra panadería venezolana surgen de la iniciativa, creatividad e inventiva de nuestros panaderos en las panaderías comerciales y estas son variantes de panes rellenos.
 
 ## Tips para preparar el Mini Lunch
 
