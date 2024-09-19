@@ -122,7 +122,7 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 ### Fermentación final (maduración)
 
-- Deja reposar cada disco en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante treinta (30) minutos.
+- Deja reposar cada pieza en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC/75ºF y 27ºC/80ºF durante treinta (30) minutos.
 
 ### Precalentar el horno
 
