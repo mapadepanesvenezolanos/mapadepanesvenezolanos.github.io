@@ -101,9 +101,9 @@ li a:hover {
     <img src="/images/hazpanencasa-logo2.0.png" alt="Imagen de perfil Haz Pan en Casa" class="profile-img">
 <ul id="link-list">
     <li>
-        <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" target="_blank">
-            <img src="/images/portada-cuadrada.jpg" alt="Libro Haz Panes Venezolanos en Casa"  class="link-img">
-            <span>Libro Haz Panes Venezolanos en Casa</span>
+        <a href="https://panesvenezolanos.com/libros/" target="_blank">
+            <img src="/images/portada-cuadrada.jpg" alt="Libros de Panes Venezolanos"  class="link-img">
+            <span>Libros de Panes Venezolanos</span>
         </a>
     </li>
     <li>
