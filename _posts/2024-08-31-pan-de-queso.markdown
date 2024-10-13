@@ -29,6 +29,7 @@ Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de tr
 ## Tips para preparar el Pan de Queso
 
 - Busca un buen queso que aguante el horno. El Queso llanero suele ser muy buena elección.
+- Durante el formado del pan, adapta el largo de tu(s) pastón al ancho de la(s) bandeja(s) metálica que tengas disponible en casa para el horneado.
 
 {% include whatsapp.html %}
 
