@@ -2,16 +2,16 @@
 title: "Trenza de Leche"
 subtitle: "Nuestro pancito dulce tradicional azucarado."
 description: "La trenza de leche azucarada es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce, que se prepara utilizando el pan de leche como masa base, con forma de trenza simple. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. También se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino."
-date: 2024-10-16 07:13:00 -0400
-published: false
+date: 2024-10-18 09:10:00 -0400
+published: true
 permalink: /panes-venezolanos/trenza-leche/
 categories: pan enriquecido los_andes
 keywords: trenza de leche azucarada, la trenza de leche azucarada, trenza de leche azucarada venezolana, trenza de leche azucarada venezuela, receta de trenza de leche azucarada, receta trenza de leche azucarada, trenza de leche azucarada receta, receta de trenza de leche azucarada venezolana,  como hacer trenza de leche venezolana, trenza dulce de leche, trenza dulce de leche venezolana, trenza de leche dulce, trenza de leche dulce venezolana, receta del trenza de leche, receta trenza de leche venezolana, panes venezolanos, pan dulce venezolano, pan trenza de leche azucarada receta, ingredientes de la trenza de leche azcuarada, ingredientes para la trenza de leche azucarada, trenza de leche azucarada ingredientes, trenza dulce azucarada venezolana receta, trenza dulce azucarada venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la trenza de leche azucarada, trenza de leche azucarada historia, trenza de leche azucarada origen, origen de la trenza de leche azucarada, pan andino de leche, trenza de leche azucarada casero, receta trenza de leche azucarada dulce, recetas de trenza de leche azucarada, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, trenzas de leche, trena de leche azucarada andino venezolano, trenza de leche andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la trenza de leche azucarada, cómo se hace la trenza de leche, como preparar trenza de leche azucarada, cómo preparar trenza de leche, pancitos de leche dulces, pan de leche panadería, pan leche, receta panes de leche, como hacer pan de leche venezolano en casa
-featured_image: '/images/panes/leche/leche_4.jpeg'
+featured_image: '/images/panes/trenza-leche/trenzaleche_01.jpg'
 formula_name: "trenzaleche"
 ---
 
-Esta es la receta de la Trenza de Leche Azucarada. Este Pan es típico de las panaderías en Venezuela y lo hemos preparado utilizando el método directo.
+Esta es la receta de la Trenza de Leche Azucarada. Este Pan es una versíon de nuestro típico pan de leche, formado en una trenza simple. El procedimiento que verás a continuación utiliza el método directo.
 
 También se le conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
@@ -23,7 +23,7 @@ Puedes revisar el procedimiento de cada versión a través de los enlaces siguie
 
 ## Resultado esperado
 
-Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. Los pequeños de la casa lo aman recién salido del horno. Jesús [@1painalafois]{:target="blank"} se lo come untados con diablitos underwood. A Alexander [@hazpanencasa]{:target="blank"} le encanta comerla con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando perciban el aroma proveniente del horno, la memoria los llevará de vuelta a su juventud en Venezuela.
+Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante cualquier merienda acompañado de un cafe con leche.  Jesús [@1painalafois]{:target="blank"} se lo come untado con diablitos underwood, mermelada de frutos del bosque o natural. A Alexander [@hazpanencasa]{:target="blank"} le encanta comerla con un buen queso fresco venezolano. Como más les guste, estamos seguros que cuando tu casa se impregne del aroma proveniente del horno, se te aguará la boca.
 
 ## Origen de la Trenza de Leche Azucarada
 
@@ -39,7 +39,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
-- Normalmente se realiza la decoración del pastón justo antes de meterlo en el horno. Como cada pastón va a tener una costra de azúcar, este paso se va a realizar antes de la fermentación final. Se cambia el orden para generar el efecto de la costra de azúcar. Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
+- Normalmente se realiza la decoración del pastón justo antes de meterlo en el horno. Como la trenza de leche va a tener una costra de azúcar, este paso se va a realizar antes de la fermentación final. Se cambia el orden para generar el efecto de la costra de azúcar. Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
 
 {% include whatsapp.html %}
 
@@ -126,45 +126,34 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC y 27ºC.
 
-### División y pesado
-
-- Saca la masa del recipiente tapado.
-- Procede a pesar la masa total.
-- Divide la masa en seis (6) o doce (12) porciones de igual peso según tu preferencia.
-
-### Preformado
-
-- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
-
-### Reposo en mesa (relajación de la masa)
-
-- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
-
 ### Formado
 
-- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
+- Forma un cilindro de treinta (30) centímetros de largo. 
+- Haz las puntas más delgadas que el centro. 
+- Luego realiza una trenza con un nudo simple. 
+- Ahora, lleva tu trenza a una bandeja metálica previamente engrasada.
 
 ### Barnices, coberturas y cortes
 
-- Con un aspersor humedece cada pastón por todos lados y déjalo rodar en otro recipiente lleno de azúcar para crear la corteza de azúcar.
-- Coloca todos los pastones en una bandeja engrasada de tres en tres separados medio centímetro uno de otro de cada lado. En la fermentación se pegarán y crecerán hacia arriba.
+- Con un aspersor humedece el pastón por todos lados.
+- Toma un puñito de azúcar y polvorea la masa para crear la corteza de azúcar. 
 
 ### Fermentación final (maduración)
 
-- Deja reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
 - Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Coloca la bandeja en el medio del horno durante aproximadamente 15 a 25 minutos.
+- Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que los panes se hornean de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
-- Saca los panes del horno cuando tengan un color dorado a tu gusto.
+- Saca tu trenza azucarada del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
-- Al sacar los panes del horno, pásalos a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya están casi listas. Disfruta tu Trena de Leche Azucarada!!!
-
+- Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
+- Disfruta tu Trenza de Leche Azucarada!!!
 
 ### Referencias y enlaces
 
@@ -178,7 +167,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (10/17/2024)__
+__Versión 1.1 (10/18/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -194,5 +183,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
 [Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
 [@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
-[@consentidoenboca]: http://www.instagram.com/consentidoenboca
 [@steconstance]: http://www.instagram.com/steconstance
