@@ -147,7 +147,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
-- Verifica el horno asegurándote que los panes se hornean de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr que se horneen uniformemente.
+- Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tu trenza azucarada del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
