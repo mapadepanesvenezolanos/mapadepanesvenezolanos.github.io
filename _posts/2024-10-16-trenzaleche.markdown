@@ -11,7 +11,7 @@ featured_image: '/images/panes/trenza-leche/trenzaleche_01.jpg'
 formula_name: "trenzaleche"
 ---
 
-Esta es la receta de la Trenza de Leche Azucarada. Este Pan es una versíon de nuestro típico [Pan de Leche](/panes-venezolanos/pan-de-leche/), formado en una trenza simple. El procedimiento que verás a continuación utiliza el método directo.
+Esta es la receta de la Trenza de Leche Azucarada. Este Pan es una versión de nuestro típico [Pan de Leche](/panes-venezolanos/pan-de-leche/), formado en una trenza simple. El procedimiento que verás a continuación utiliza el método directo.
 
 También se le conoce como: [Pan de Leche](/panes-venezolanos/pan-de-leche/), Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
@@ -20,7 +20,6 @@ A continuación el procedimiento de la versión:
 * [Método directo](#directo)
 
 ## RECETA, FÓRMULA y TÉCNICAS 
-
 
 ## Resultado esperado
 
@@ -108,7 +107,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
-- Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
 - Después de la primera hora se realiza la manipulación.
 
 ### Manipulación
@@ -124,7 +123,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Retardo en nevera (opcional)
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu molde rectangular cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envasecubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC y 27ºC.
 
 ### Formado
@@ -152,7 +151,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Enfriamiento
 
-- Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
 - Disfruta tu Trenza de Leche Azucarada!!!
 
