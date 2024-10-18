@@ -11,11 +11,11 @@ featured_image: '/images/panes/trenza-leche/trenzaleche_01.jpg'
 formula_name: "trenzaleche"
 ---
 
-Esta es la receta de la Trenza de Leche Azucarada. Este Pan es una versíon de nuestro típico pan de leche, formado en una trenza simple. El procedimiento que verás a continuación utiliza el método directo.
+Esta es la receta de la Trenza de Leche Azucarada. Este Pan es una versíon de nuestro típico [Pan de Leche](/panes-venezolanos/pan-de-leche/), formado en una trenza simple. El procedimiento que verás a continuación utiliza el método directo.
 
-También se le conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
+También se le conoce como: [Pan de Leche](/panes-venezolanos/pan-de-leche/), Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
-Puedes revisar el procedimiento de cada versión a través de los enlaces siguientes:
+A continuación el procedimiento de la versión:
 
 * [Método directo](#directo)
 
