@@ -19,7 +19,8 @@ A continuación el procedimiento de la versión:
 
 * [Método directo](#directo)
 
-## RECETA, FÓRMULA y TÉCNICAS de la Trenza de Leche Azucarada
+## RECETA, FÓRMULA y TÉCNICAS 
+
 
 ## Resultado esperado
 
