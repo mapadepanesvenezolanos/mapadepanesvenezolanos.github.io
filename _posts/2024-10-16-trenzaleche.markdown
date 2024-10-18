@@ -1,6 +1,6 @@
 ---
 title: "Trenza de Leche"
-subtitle: "La Trenza dulce azucarada del venezolano."
+subtitle: "La Trenza que endulza el corazón del venezolano."
 description: "La trenza de leche azucarada es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce, que se prepara utilizando el pan de leche como masa base, con forma de trenza simple. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. También se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino."
 date: 2024-10-17 09:10:00 -0400
 published: true
