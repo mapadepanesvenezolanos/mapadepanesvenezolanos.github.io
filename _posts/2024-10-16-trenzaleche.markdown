@@ -156,6 +156,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
 - Disfruta tu Trenza de Leche Azucarada!!!
 
+------
+
 ### Referencias y enlaces
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [@panadero_artesanal]{:target="blank"}, [@taosbaker]{:target="blank"}, [Chef Laszlo Gyomrey]{:target="blank"}, [Escuela de Cocina Plaza's]{:target="blank"} y [@elgatogolosoblog]{:target="blank"}
