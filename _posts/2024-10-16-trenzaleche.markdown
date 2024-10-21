@@ -49,7 +49,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 ## Masa leudada con levadura instantánea
 
-* 1 Trenza de 540 g de masa.
+* 1 Trenza de 550 g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 52.5% de hidratación (Baja hidratación).
 
@@ -57,16 +57,16 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Harina panadera           |        100% |  278g  |
-| Agua                      |         32% |   89g  |
+| Harina panadera           |        100% |  294g  |
+| Agua                      |         35% |  103g  |
 | Levadura instantánea      |          1% |    3g  |
 | Sal                       |          1% |    3g  |
-| Huevos ligeramente batidos|         20% |   56g  |
-| Mantequilla sin sal       |         15% |   42g  |
-| Azúcar                    |         20% |   56g  |
-| Leche en polvo            |          5% |   14g  |
+| Huevos ligeramente batidos|         10% |   29g  |
+| Mantequilla sin sal       |         15% |   44g  |
+| Azúcar                    |         20% |   59g  |
+| Leche en polvo            |          5% |   15g  |
 |---------------------------|-------------|--------|
-| **Total**                 |    **194%** |**540g**|
+| **Total**                 |    **187%** |**550g**|
 
 ### Calculadora para la masa 
 
@@ -128,12 +128,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Forma un cilindro de treinta (30) centímetros de largo. 
+- Para una trenza, forma un cilindro de ochenta (80) centímetros de largo. 
 - Haz las puntas más delgadas que el centro. 
 - Luego realiza una trenza con un nudo simple, siguiendo los pasos descritos en la imagen cortesía de [@luisagonzalezp]: 
-
 <img class="post_image post_image_left" src="/images/panes/trenza-leche/Trenza-nudo-simple.JPG" alt="{{page.title}}">
-
 - Ahora, lleva tu trenza a una bandeja metálica previamente engrasada.
 
 ### Barnices, coberturas y cortes
@@ -143,7 +141,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
