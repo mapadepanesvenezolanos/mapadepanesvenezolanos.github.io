@@ -131,7 +131,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Para una trenza, forma un cilindro de ochenta (80) centímetros de largo. 
 - Haz las puntas más delgadas que el centro. 
 - Luego realiza una trenza con un nudo simple, siguiendo los pasos descritos en la imagen cortesía de [@luisagonzalezp]: 
-<img class="post_image post_image_left" src="/images/panes/trenza-leche/Trenza-nudo-simple2.jpg" alt="{{page.title}}">
+<img class="post_image_left" src="/images/panes/trenza-leche/Trenza-nudo-simple2.jpg" alt="{{page.title}}">
 - Ahora, lleva tu trenza a una bandeja metálica previamente engrasada.
 
 ### Barnices, coberturas y cortes
