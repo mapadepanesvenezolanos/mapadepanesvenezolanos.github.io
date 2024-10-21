@@ -137,7 +137,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Barnices, coberturas y cortes
 
 - Con un aspersor humedece el pastón por todos lados.
-- Toma un puñito de azúcar y polvorea la masa para crear la corteza de azúcar. 
+- Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
 
 ### Fermentación final (maduración)
 
