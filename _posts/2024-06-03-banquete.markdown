@@ -115,7 +115,8 @@ Your browser does not support the video tag.
 
 ### Preformado
 
-- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- A cada porción aplica un preformado redondo. 
+- Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
 - Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
 
 ### Reposo en mesa (relajación de la masa)
@@ -124,7 +125,13 @@ Your browser does not support the video tag.
 
 ### Formado
 
-- Estira la masa con un rodillo para formar un bollo, similar al Pan Francés, dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. 
+- Con los dedos tus manos forma un círculo de diez (10) centímetros de diametro.
+- Comenzando en la parte superior del círculo, dobla la masa como un cuaderno.
+- Utilizando la punta de los dedos, cierra los bordes del lado recien doblado.
+- Toma la parte más inferior del círculo y dobla la masa como un cuaderno hacia el centro.
+- Utilizando la punta de los dedos, cierra los bordes del lado recien doblado.
+- Une ambos lados, formando una especie de empanada.
+- Cierra los bordes de tu empanada de masa utilizando la base de la palma de una de tus manos.
 - Los panes son gordos en el centro y alargados. No son redondos. Fíjate en el video.
 - Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
 - Coloca los pastones en una bandeja con papel de horno o papel encerado.
@@ -168,7 +175,7 @@ Un agradecimiento especial a Javier Benitez de [@pancitos_bakery]{:target="blank
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2__
+__Versión 1.3__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
