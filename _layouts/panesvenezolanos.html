@@ -21,7 +21,7 @@
   <link
     href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
     rel="stylesheet">
-    
+
 	<!-- Styles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
@@ -37,16 +37,6 @@
 		integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe"
 		crossorigin="anonymous"></script>
 
-	{% if site.data.settings.advanced_settings.custom_styles %}
-	<!-- Custom Styles -->
-	<style>
-		{
-				{
-				site.data.settings.advanced_settings.custom_styles
-			}
-		}
-	</style>
-	{% endif %}
 
 	{% if jekyll.environment == 'production' and site.data.settings.advanced_settings.analytics_code %}
 	{%- include google-analytics.html -%}
@@ -56,26 +46,23 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-
+  <style>
+  .title {
+    font-family: "Alfa Slab One", serif;
+    font-size: calc(3rem);
+    line-height: 1.2;
+    color: #00000f;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+  }
+  </style>
 </head>
-
 
 <body class="{% if site.data.settings.advanced_settings.ajax_loading == true %}loading ajax-loading{% endif %}"
 	data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
 
-	<div class="bg-danger text-white fixed-top text-center d-flex align-items-center justify-content-center"
-		style="height: 50px;">
-		<p class="small font-weight-bold m-0">
-			  {{ site.data.anuncio.anuncio.texto }}
-			<a href="{{ site.data.anuncio.anuncio.link }}" class="text-white font-weight-bold" style="text-decoration: underline;">
-				{{ site.data.anuncio.anuncio.texto_link }}
-			</a>
-		</p>
-	</div>
-
 	{% include header-panes-venezolanos.html %}
 
-	<div class="page">
+	<div class="page mb-5">
 
 		<div class="page__content" data-page-title="{% if page.url == " /" %}{{
 			site.data.settings.basic_settings.site_title }} – {{ page.title }}{% else %}{{ page.title }} – {{

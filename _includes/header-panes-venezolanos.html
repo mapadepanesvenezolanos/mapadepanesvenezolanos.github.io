@@ -1,4 +1,13 @@
-<header class="header">
+<div class="bg-danger text-white fixed-top text-center d-flex align-items-center justify-content-center"
+style="height: 50px;">
+<p class="small font-weight-bold m-0">
+    {{ site.data.anuncio.anuncio.texto }}
+  <a href="{{ site.data.anuncio.anuncio.link }}" class="text-white font-weight-bold" style="text-decoration: underline;">
+    {{ site.data.anuncio.anuncio.texto_link }}
+  </a>
+</p>
+</div>
+<header class="header" style="padding-top: 60px;">
 
 	<div class="wrap">
 
@@ -7,7 +16,7 @@
 			<img src="{{ site.data.settings.header_settings.logo_image | relative_url }}" class="header__logo__img">
 		</a>
 		{% else %}
-		<a href="{{ site.baseurl }}/" class="header__title">
+		<a href="{{ site.baseurl }}/" class="header__title title">
 			{{ site.data.settings.basic_settings.main_title }}
 		</a>
 		{% endif %}
