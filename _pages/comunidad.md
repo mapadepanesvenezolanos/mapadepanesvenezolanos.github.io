@@ -10,25 +10,44 @@ En esta página encontrarás todos los integrantes de la Comunidad de Panaderos 
 
 Cada creador lo hace con la ilusión de aportar y compartir con la mejor intención. Si consideras que algún contenido merece alguna revisión o tienes alguna duda, comunícate con el creador directamente.
 
-<section class="listing" style="margin-bottom: 40px;">
-	<div class="content-wrap listing-wrap">
-		{% for post in site.comunidad %}
-		<div class="listing-item-comunidad">
-			<a class="listing-item__link" href="{{ post.url | relative_url }}">
-				<div class="listing-item__image">
-					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
-				</div>
-				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
-					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ post.title }}</h2>
-						<p class="listing-item__subtitle">{{ post.subtitle }}</p>
-					</div>
-				</div>
-			</a>
-		</div>
-		{% endfor %}
-	</div>
-</section>
+<div class="container py-4">
+    <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        {% for post in site.comunidad %}
+        <div class="col">
+            <div class="card h-100 shadow-sm hover-card">
+                <a href="{{ post.url | relative_url }}" class="text-decoration-none text-dark">
+                    <div class="position-relative">
+                        <img src="{{ post.featured_image | relative_url }}" 
+                             class="card-img-top" 
+                             alt="{{ post.title }}"
+                             style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">{{ post.title }}</h5>
+                        <p class="card-text text-muted" style="font-family: 'Poppins', sans-serif;">{{ post.subtitle }}</p>
+                    </div>
+                </a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+</div>
+
+<style>
+.hover-card {
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+.hover-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15)!important;
+}
+.card-img-top {
+    transition: transform 0.3s ease-in-out;
+}
+.hover-card:hover .card-img-top {
+    transform: scale(1.05);
+}
+</style>
 
 Los amigos panarras queremos permitir a la comunidad realizar sus aportes sin censura. Respetamos los aportes de cada creador y los mantenemos intactos.
 
