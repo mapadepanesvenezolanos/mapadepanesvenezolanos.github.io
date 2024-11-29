@@ -12,7 +12,14 @@
 	<!-- Font Embed Code -->
 	{{ site.data.settings.font_settings.font_embed }}
 	{% endif %}
-
+	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap" rel="stylesheet">
+	<link
+	  href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
+	  rel="stylesheet">
 	<!-- Styles -->
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
@@ -22,11 +29,6 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/brands.js" integrity="sha384-0inRy4HkP0hJ038ZyfQ4vLl+F4POKbqnaUB6ewmU4dWP0ki8Q27A0VFiVRIpscvL" crossorigin="anonymous"></script>
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
 
-	{% if site.data.settings.advanced_settings.custom_styles %}
-	<!-- Custom Styles -->
-	<style>{{ site.data.settings.advanced_settings.custom_styles }}</style>
-	{% endif %}
-
 	{% if jekyll.environment == 'production' and site.data.settings.advanced_settings.analytics_code %}
     {%- include google-analytics.html -%}
 	{% endif %}
@@ -35,6 +37,22 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
+	<style>
+	.title {
+		font-family: "Alfa Slab One", serif;
+		font-size: calc(3rem);
+		line-height: 1.2;
+		color: #00000f;
+		text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+	  }
+	  .breadtitle {
+		font-family: "Alfa Slab One", serif;
+		font-size: calc(2.5rem);
+		line-height: 1.2;
+		color: #00000f;
+		text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+	  }
+  	</style>
 	
 </head>
 
