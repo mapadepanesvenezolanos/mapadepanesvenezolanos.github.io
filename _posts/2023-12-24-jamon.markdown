@@ -104,7 +104,7 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 - En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
 - Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
-- Mezcla hasta obtener una masa homogénea y déjala reposar tadada en un recipiente por diez (10) minutos.
+- Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
 <div id="sobado"></div>
 
@@ -166,7 +166,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2__
+__Versión 1.3__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
