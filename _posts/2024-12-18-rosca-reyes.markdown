@@ -1,7 +1,7 @@
 ---
 title: "Rosca de Reyes"
 subtitle: "La Rosca para recibir a los Reyes Magos."
-description: "La rosca de reyes es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce, que se prepara utilizando el pan de leche como masa base, con forma de rosca simple. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. También se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino."
+description: "LEste es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos."
 date: 2024-12-18 09:10:00 -0400
 published: false
 permalink: /panes-venezolanos/rosca-reyes/
