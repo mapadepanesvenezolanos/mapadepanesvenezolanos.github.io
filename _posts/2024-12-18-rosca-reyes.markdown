@@ -31,7 +31,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 
 [^1]: 100 Recetas de pan de pueblo, Ibán Yarza.
 
-## Tips para preparar la Trenza de Leche Azucarada
+## Tips para preparar la Rosca de Reyes
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (20%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
@@ -42,28 +42,33 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 
 <div id="directo"></div>
 
-# Roscón de Reyes
+# Rosca de Reyes
 
 ## Masa leudada con levadura instantánea y prefermento Biga
 
-* 1 roscón de 660 g de masa.
+* 1 rosca de 660 g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 52.5% de hidratación (Baja hidratación).
+* 40% de hidratación (Baja hidratación).
 
 ### Ingredientes para la masa
 
 | Ingrediente               | Fórmula     | Peso   |
 |:--------------------------|:-----------:|-------:|
-| Harina panadera           |        100% |  294g  |
-| Agua                      |         35% |  103g  |
+| Harina panadera            |        100% |  315g |
+| Agua                      |          5% |   16g  |
 | Levadura instantánea      |          1% |    3g  |
 | Sal                       |          1% |    3g  |
-| Huevos ligeramente batidos|         10% |   29g  |
-| Mantequilla sin sal       |         15% |   44g  |
-| Azúcar                    |         20% |   59g  |
-| Leche en polvo            |          5% |   15g  |
+| Huevos ligeramente batidos|         20% |   63g  |
+| Mantequilla sin sal       |         20% |   63g  |
+| Azúcar                    |         10% |   32g  |
+| Leche infusionada         |         15% |   47g  |
+| Rayadura de naranja       |          1% |    3g  |
+| Agua de azahar            |          2% |    6g  |
+| Miel                      |         10% |   32g  |
+| Ron                       |          5% |   16g  |
+| Prefermento Biga          |         20% |   63g   |
 |---------------------------|-------------|--------|
-| **Total**                 |    **187%** |**550g**|
+| **Total**                 |    **209%** |**660g**|
 
 ### Calculadora para la masa 
 
