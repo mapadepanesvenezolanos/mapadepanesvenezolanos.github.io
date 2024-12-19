@@ -85,7 +85,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 ### Mezcla y amasado
 
-#### Primer ciclo de amasado
+#### Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
 - En un envase mezcla la harina y la levadura instantánea.
@@ -96,7 +96,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 <div id="segundociclo"></div>
 
-#### Segundo ciclo de amasado
+#### Segundo ciclo de amasado (manual)
 
 - Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
@@ -105,7 +105,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 ### Primera fermentación 
 
-La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC y 27ºC. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
 - Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
 - Después de la primera hora se realiza la manipulación.
@@ -117,14 +117,14 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
 - Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
-- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC y 27ºC.
+- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 <div id="retardo"></div>
 
 ### Retardo en nevera (opcional)
 
 - Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
-- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC y 27ºC.
+- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
 
@@ -141,11 +141,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC y 27ºC o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tu trenza azucarada del horno cuando tenga el color dorado de tu gusto.
