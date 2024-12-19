@@ -175,8 +175,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Barnices, coberturas y cortes
 
-- Con un aspersor humedece el pastón por todos lados.
-- Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
+- Bate un huevo y mezclalo con una pizca de azúcar y sal.
+- Con una brocha de cocina cubre toda la superfecie de la rosca de Reyes.
+- Decora la superfecie de la rosca colocando:
+-- Las dos rodajas de naranja en almibar.
+-- ahora, coloca las cuatro guindas y entre ellas, coloca tus almendras en lajas.
 
 ### Horneado
 
@@ -205,7 +208,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.3 (12/18/2024)__
+__Versión 1.4 (12/18/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
