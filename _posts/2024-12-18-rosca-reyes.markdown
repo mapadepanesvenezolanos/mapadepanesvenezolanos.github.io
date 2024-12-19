@@ -3,7 +3,7 @@ title: "Rosca de Reyes"
 subtitle: "La Rosca para recibir a los Reyes Magos."
 description: "LEste es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos."
 date: 2024-12-18 09:10:00 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/rosca-reyes/
 categories: pan enriquecido heredados
 keywords: rosca de reyes, la rosca de reyes, rosca de reyes venezolana, rosca de reyes venezuela, receta de rosca de reyes, receta rosca de reyes, rosca de reyes receta, receta de rosca de reyes venezolana,  como hacer rosca de leche venezolana, rosca dulce de leche, rosca dulce de leche venezolana, rosca de leche dulce, rosca de leche dulce venezolana, receta del rosca de leche, receta rosca de leche venezolana, panes venezolanos, pan dulce venezolano, pan rosca de reyes receta, ingredientes de la rosca de leche azcuarada, ingredientes para la rosca de reyes, rosca de reyes ingredientes, rosca dulce azucarada venezolana receta, rosca dulce azucarada venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la rosca de reyes, rosca de reyes historia, rosca de reyes origen, origen de la rosca de reyes, rosca de reyes casero, receta rosca de reyes dulce, recetas de rosca de reyes, recetas pan de leche, como hacer rosca de leche, cómo hacer pan de leche, roscas de reyes,  como se hace la rosca de reyes, cómo se hace la rosca de leche, como preparar rosca de reyes, cómo preparar rosca de leche, como hacer rosca de reyes venezolana en casa
@@ -28,9 +28,9 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-“Heredada de España ....” [^1]
+“Entre la gran variedad de roscas festivas que se preparan durante el año en muchas zonas de España, el roscón de Reyes es tal vez la más extendida y comparte una liturgia común.” [^1]
 
-[^1]: 100 Recetas de pan de pueblo, Ibán Yarza.
+[^1]: 100 Recetas de pan de pueblo. Ideas y trucos para hacer en csa panes de toda España, Ibán Yarza.
 
 ## Tips para preparar la Rosca de Reyes
 
@@ -205,7 +205,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (12/18/2024)__
+__Versión 1.3 (12/18/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
