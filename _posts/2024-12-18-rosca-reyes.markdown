@@ -22,7 +22,7 @@ A continuación el procedimiento de la versión:
 
 ## Resultado esperado
 
-Este es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos.
+Este es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras laminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el día de los reyes magos.
 
 ## Origen de la Rosca "Roscón" de Reyes
 
