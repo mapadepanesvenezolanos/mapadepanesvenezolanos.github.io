@@ -178,9 +178,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Bate un huevo y mezclalo con una pizca de azúcar y sal.
 - Con una brocha de cocina cubre toda la superfecie de la rosca de Reyes.
 - Para decorar tu Rosca de Reyes, te proponemos un juego: imaginemos por un momento que tu rosca de reyes es un reloj analógico de 12 horas.
-- Primero decora la rosca, colocando las dos rodajas de naranja en almibar, una en la posición del reloj que marca las 12h y la otra en la posición que marca las 6h.
-- Coloca las cuatro guindas. Una a las 2h, la siguiente a las 4h, otra a las 7h y la última a las 10h.
-- Rellena con almendras en lajas y granos de azúcar, los espacios vacíos que quedaron alrededor de las naranjas y las guindas.
+- Coloca una de las rodajas de naranja en almibar en la posición del reloj que marca las 12h y la otra en la posición que marca las 6h.
+- En nuestro reloj imaginario, coloca las cuatro guindas así: una a las 2h, la siguiente a las 4h, otra a las 7h y la última a las 10h.
+- Ahora, rellena los espacios vacíos que quedaron alrededor de las naranjas y las guindas con almendras en lajas y granos de azúcar al gusto. 
 
 ### Horneado
 
