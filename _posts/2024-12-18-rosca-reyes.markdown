@@ -82,7 +82,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 | (Grasa) Mantequilla sin sal |         20% |   63g  |
 | Azúcar                      |         10% |   32g  |
 | Leche infusionada           |         15% |   47g  |
-| Rayadura de naranja         |          1% |    3g  |
+| Ralladura de naranja        |          1% |    3g  |
 | Agua de azahar              |          2% |    6g  |
 | Miel                        |         10% |   32g  |
 | Ron                         |          5% |   16g  |
