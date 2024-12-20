@@ -1,7 +1,7 @@
 ---
 title: "Rosca de Reyes"
 subtitle: "La Rosca para recibir a los Reyes Magos."
-description: "LEste es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos."
+description: "Este es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos."
 date: 2024-12-18 09:10:00 -0400
 published: true
 permalink: /panes-venezolanos/rosca-reyes/
@@ -177,9 +177,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Bate un huevo y mezclalo con una pizca de azúcar y sal.
 - Con una brocha de cocina cubre toda la superfecie de la rosca de Reyes.
-- Decora la superfecie de la rosca colocando:
--- Las dos rodajas de naranja en almibar.
--- ahora, coloca las cuatro guindas y entre ellas, coloca tus almendras en lajas.
+- Para decorar tu Rosca de Reyes, te proponemos un juego: imaginemos por un momento que tu rosca de reyes es un reloj analógico de 12 horas.
+- Primero decora la rosca, colocando las dos rodajas de naranja en almibar, una en la posición del reloj que marca las 12h y la otra en la posición que marca las 6h.
+- Coloca las cuatro guindas. Una a las 2h, la siguiente a las 4h, otra a las 7h y la última a las 10h.
+- Rellena con almendras en lajas y granos de azúcar, los espacios vacíos que quedaron alrededor de las naranjas y las guindas.
 
 ### Horneado
 
@@ -208,7 +209,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.4 (12/18/2024)__
+__Versión 1.5 (12/18/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
