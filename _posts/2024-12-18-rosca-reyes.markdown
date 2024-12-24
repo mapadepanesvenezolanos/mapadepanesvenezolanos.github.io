@@ -137,7 +137,7 @@ Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver 
 
 - Extiende la masa y coloca la mantequilla fría picada en cuadritos sobre la masa. 
 - Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. 
-- Sigue amasando durante aproximadamente diez (10) minutos hasta incorporar dentro de la masa. Asegurate que se alcance una masa tersa y lisa. El envase o la mesa de trabajo y tus manos, deben quedar limpios luego del amasado.
+- Sigue amasando durante aproximadamente diez (10) minutos hasta incorporar dentro de la masa. Asegúrate que se alcance una masa tersa y lisa. El envase o la mesa de trabajo y tus manos, deben quedar limpios luego del amasado.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 
