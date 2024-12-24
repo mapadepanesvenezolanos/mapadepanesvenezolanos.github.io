@@ -165,9 +165,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Utiliza un par de dedos de tus manos para atravezar la masa en el centro.
+- Utiliza un par de dedos de tus manos para atravesar la masa en el centro.
 - Tira delicadamente hasta formar una rosca de masa de treinta (30) centímetros de diámetro.
-- Asegurate de abrir bien el hueco para evitar que se vuelva a cerrar durante la fermentación.
+- Asegúrate de abrir bien el hueco para evitar que se vuelva a cerrar durante la fermentación.
 - Ahora, lleva tu rosca a una hoja de papel de hornear/parchemin.
 - Bate un huevo y con ayuda de una brocha de cocina, cubre toda la superficie de la rosca.
 - Deja reposar en mesa durante diez (10) minutos.
@@ -217,7 +217,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1 (12/24/2024)__
+__Versión 2.2 (12/24/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
