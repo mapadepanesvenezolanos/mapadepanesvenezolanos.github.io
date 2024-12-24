@@ -145,7 +145,7 @@ Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver 
 
 La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF . El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa.
 
-- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por dos (2) horas.
+- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
 
 ### Manipulación
 
@@ -154,7 +154,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
 - Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
-- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora más en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 <div id="retardo"></div>
 
@@ -217,7 +217,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0 (12/24/2024)__
+__Versión 2.1 (12/24/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
