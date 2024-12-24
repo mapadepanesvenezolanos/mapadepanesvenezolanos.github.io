@@ -109,7 +109,15 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 
 <div id="preparacion"></div>
 
-### Preparación de la masa
+## Preparación del prefermento Biga (Día 1)
+- En un envase redondo de boca grande, agrega el agua de acuerdo a la fórmula.
+Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
+- Agrega poco a poco la harina y ve disolviendo en la mezcla del paso anterior hasta formar una bola de masa.
+- Coloca la masa en un envase transparente y haz una marca en el envase, indicando la altura inicial de la masa.
+- Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante tres (3) horas o hasta que la masa triplique su altura.
+- Lleve su envase a la nevera y deje reposar durante doce (12) horas
+
+### Preparación de la masa (Día 2)
 
 - Pesa todos los ingredientes y colocarlos en envases separados.
 - Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
@@ -209,7 +217,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.5 (12/18/2024)__
+__Versión 2.0 (12/24/2024)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
