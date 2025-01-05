@@ -61,7 +61,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
-| Harina panadera (12%)                         |     100%      |      345g |
+| Harina panadera                               |     100%      |      345g |
 | Agua                                          |      25%      |       86g |
 | Levadura instantánea                          |       1%      |        3g |
 | Sal                                           |       2%      |        7g |

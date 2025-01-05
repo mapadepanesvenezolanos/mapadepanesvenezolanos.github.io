@@ -68,7 +68,7 @@ El Pan Campesino se puede rellenar y utilizar para fondues y sopas, como la sopa
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (12%)                                        |      100%     |      282g |
+| Harina panadera                                              |      100%     |      282g |
 | Agua                                                         |      55%      |      155g |
 | Levadura instantánea                                         |       1%      |        3g |
 | Sal                                                          |       2%      |        6g |
@@ -184,7 +184,7 @@ Planifica dos días para la preparación de tu pan.
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (12%)                                        |      100%     |      124g |
+| Harina panadera                                              |      100%     |      124g |
 | Agua                                                         |       65%     |       80g |
 | Levadura instantánea                                         |        1%     |        1g |
 | Sal                                                          |        4%     |        5g |

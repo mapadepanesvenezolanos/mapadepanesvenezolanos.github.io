@@ -79,7 +79,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 | Levadura instantánea        |          1% |    3g  |
 | Sal                         |          1% |    3g  |
 | Huevos ligeramente batidos  |         20% |   63g  |
-| (Grasa) Mantequilla sin sal |         20% |   63g  |
+|(Grasa) Mantequilla sin sal  |         20% |   63g  |
 | Azúcar                      |         10% |   32g  |
 | Leche infusionada           |         15% |   47g  |
 | Ralladura de naranja        |          1% |    3g  |
