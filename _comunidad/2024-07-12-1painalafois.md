@@ -467,9 +467,9 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 #### Segundo ciclo de amasado (con máquina)
 
 - Derrite la mantequilla sin sal llevándola en un envase al microondas durante veinte (20) segundos.
-- Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad media (2) utilizando el utensilio tipo gancho, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
+- Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad media (2), utilizando el utensilio tipo batidor plano, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
 - Mezcla durante tres (3) minutos.
-- Con la ayuda de un dedo mágico, recupera la masa contenida en la máquina.
+- Con la ayuda de un dedo mágico de cocina, recupera la masa contenida en la máquina y forma una bolita.
 - Deja reposar la masa cubierta durante diez (10) minutos.
 - Con el utensilio gancho, soba la masa a velocidad media (2) durante tres (3) minutos más.
 - Recupera la masa contenida en la máquina y forma una bolita.
