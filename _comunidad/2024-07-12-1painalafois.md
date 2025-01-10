@@ -5,10 +5,11 @@ description: Estos son los panes que prepara Jesús Méndez.
 permalink: /comunidad/1painalafois/
 published: true
 featured_image: '/images/comunidad/1painalafois/perfil/jesusmendez-panadero.JPG'
-categories: ajo, babka panes del mundo
-keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo
+categories: ajo, babka panes del mundo, roles de canela panes del mundo
+keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo, rollo de canela receta, canela, receta de rollo de canela, recetas de rollo de canela paso a paso, pan rollo de canela, rollo de canela venezolanos, rollo de canela al estilo venezolano, de donde son los rollo de canela, origen de los rollo de canela, rollo de canela venezuela, los, rollo de canela, rollo de canela panes del mundo, rollo de canela receta, recetas de rollo de canela
 formula_name: "ajo"
 second_formula_name: "babka"
+third_formula_name: "canelis"
 ---
 
 Mi nombre es Jesús Enrique Méndez Alvarez, nacido en la hermosa ciudad de Caracas, Venezuela, especificamente en el municipio Baruta estado Miranda. El hijo mayor de Gladys Cristina (Licenciada en Educación) y Jesús Filiberto (Contador), y el hermano de Eduardo José. Estudié y me gradué de licenciado en Ciencias de la Computación de la Universidad Central de Venezuela en 2001, tengo una especialización en Gerencia de Técnología y Telecomunicaciones de la Universidad Metropolitana, hablo cuatro idiomas (Español, Francés, Inglés e Italiano). Soy Maestro Panadero egresado del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y comparto mi amor por la Panadería a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web [Panes Venezolanos]{:target="blank"}  
@@ -26,6 +27,7 @@ A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
 * [Pan de ajo](#ajo)
 * [Babka](#babka) rellena de [Doble Chocolate y Nueces](#babkadoblechoco) o [de Azúcar y Canela (Babkanelis)](#babkanelis)
+* [Canelis](#canelis) Rollos de Canela
 
 ---------
 
@@ -65,7 +67,7 @@ El pan de ajo rallado fue desarrollado en los años 1970 por Cole's Quality Food
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (13%)                                        |       97%     |      384g |
+| Harina panadera                                              |       97%     |      384g |
 | Afrecho                                                      |        3%     |       12g |
 | Agua                                                         |       70%     |      277g |
 | Levadura instantanea                                         |        1%     |        4g |
@@ -205,7 +207,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 | Ingrediente               | Fórmula     | Peso    |
 |:--------------------------|:-----------:|--------:|
-| Harina panadera (13%)     |        100% |   609g  |
+| Harina panadera           |        100% |   609g  |
 | Agua                      |         30% |   183g  |
 | Levadura instantánea      |          1% |     7g  |
 | Sal                       |          1% |     7g  |
@@ -369,6 +371,168 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ------
 
+---------
+
+<div id="canelis"></div>
+
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
+
+# Canelis/Rollos de canela
+
+Cuando tenía 4 añitos mi hija Mayah Rose quedó tan cautivada con los Roles de canela, que los bautizó el nombre de Canelis, y desde esa época de tanto en tanto me pide que los prepare, bien sea para merendar o para llevarlos al colegio. El olor a canela durante el horneado y que colma cada rincón de nuestro hogar, su dulce y suave miga nos hacen salivar. Aprendí a preparar esta receta durante mi formación de Panadero Profesional en la GAPP y desde ese momento se quedó conmigo.  
+
+## RECETA, FÓRMULA y TÉCNICAS de los Canelis/Rollos de canela
+
+## Resultado esperado
+
+Los rollos de canela/canelis se elaboran a partir de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo. Cada rollo, está relleno de la mezcla de azúcar blanca y morena, y canela en polvo
+
+A continuación encontrarás la receta y el paso a paso para preparar la [masa de canelis](#canelismasa) y una (1) opción de relleno que combina Azúcar blanca con Azúcar morena, canela en polvo y ralladura de limón.
+
+## Origen 
+
+“El rollo de canela (también llamado pan de canela, espiral de canela o rol de canela) es un rollo (un tipo de pan dulce) creado en la década de 1920 en Suecia y Dinamarca. Si bien el rollo de canela era conocido desde la segunda mitad del siglo XIX, solo era horneado en hogares con suficientes recursos económicos, por el coste de sus ingredientes. Terminada la Primera Guerra Mundial, y la existente escasez de harina refinada, azúcar y canela, aparecieron en las pastelerías nuevos tipos de pan dulce. El rollo de canela no debe ser confundido con el Wienerbrød. En la actualidad, es una especialidad repostera típica de los Estados Unidos y del norte de Europa. En Suecia se lo conoce con el nombre de "kanelbulle". Es un panecillo muy popular para acompañar el café. Desde 1999, se celebra el Día del Rollo de Canela, cada 4 de octubre."[Wikipedia Rollos de Canela]{:target="blank"} 
+
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
+
+<div id="canelismasa"></div>
+
+## Método indirecto
+
+### Tips para preparar los Canelis/Rollos de canela
+
+- Los Canelis puedes rellenarlos con cualquier tipo de mermelada e inclusive algunas versiones llevan queso.
+
+### Ingredientes para preparar los Canelis (12 unidades de 75g)
+
+| Ingrediente                 | Fórmula     | Peso    |
+|:----------------------------|:-----------:|--------:|
+| Harina panadera             |        100% |   446g  |
+| Agua                        |         42% |   187g  |
+| Levadura instantánea        |          1% |     4g  |
+| Sal                         |          1% |     4g  |
+| Huevos ligeramente batidos  |         15% |    67g  |
+| Grasa (Mantequilla sin sal) |         20% |    89g  |
+| Azúcar                      |         20% |    89g  | 
+| Leche en polvo              |          2% |     9g  |
+| Esencia de vainilla         |          1% |     4g  |
+|-----------------------------|-------------|---------|
+| **Total**                   |   **202%**  | **900g**|
+
+### Calculadora para la masa de Canelis/Rollos de canela
+
+{% include calculadora-de-panes3.html %}
+
+<div id="canelisrellenooriginal"></div>
+
+### Relleno de Azúcar y Canela
+
+| Ingrediente                    | Fórmula     | Peso   |
+|:-------------------------------|:-----------:|-------:|
+| Azúcar                         |          4% |   32g  |
+| Azúcar morena                  |          4% |   32g  |
+| Mantequilla sin sal            |          2% |   15g  | 
+| Canela en polvo                |          1% |    9g  |
+| Ralladura de limón             |        0.5% |    4g  |
+|--------------------------------|-------------|--------|
+| **Total**                      |   **10.5%** | **91g**|
+|--------------------------------|-------------|--------|
+
+## Paso a paso para preparar los Canelis 
+
+<div id="preparacion"></div>
+
+### Preparación de la masa
+
+- Pesa todos los ingredientes y colocarlos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+#### Primer ciclo de amasado
+
+- Para la mezcla inicial reserva la mantequilla y la sal. 
+- En un envase mezcla la harina, la levadura instantánea, la leche en polvo y el azúcar, la canela en polvo. 
+- En otro envase mezcla el agua con la esencia de vainilla y el huevo hasta disolver. 
+- Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán. 
+- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos. - Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+
+<div id="segundociclo"></div>
+
+#### Segundo ciclo de amasado (con máquina)
+
+- Derrite la mantequilla sin sal llevándola en un envase al microondas durante veinte (20) segundos.
+- Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad media (2) utilizando el utensilio tipo gancho, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
+- Mezcla durante tres (3) minutos.
+- Con la ayuda de un dedo mágico, recupera la masa contenida en la máquina.
+- Deja reposar la masa cubierta durante diez (10) minutos.
+- Con el utensilio gancho, soba la masa a velocidad media (2) durante tres (3) minutos más.
+- Recupera la masa contenida en la máquina y forma una bolita.
+
+### Primera Fermentación 
+
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+
+- Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Después de la primera hora se realiza una manipulación.
+
+### Manipulación
+
+La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
+
+- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
+- Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
+- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
+- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+
+### Fermentación en bloque (maduración en nevera)
+
+- Coloca el recipiente tapado en la nevera entre ocho (8h) y doce (12h).
+
+### Preparación del relleno 
+
+####  Relleno - Azúcar y Canela 
+
+- En un envase mezcla el Azúcar blanca, el Azúcar morena y la canela en polvo.
+- Coloca la mantequilla sin sal en un envase a prueba de microhondas.
+- Derrite la mantequilla sin sal durante veinte (20) segundos.
+
+### Formado 
+
+- Espolvorea la superficie de trabajo con harina todo uso.
+- Saca tu recepiente de la nevera
+- Deposita la masa sobre la superficie espolvoreada de trabajo.
+- Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
+- Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
+- Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
+- Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
+
+### División
+- Toma un cuchillo bien afilado, corta doce (12) roles de cinco (5) cm de ancho cada uno.
+- Luego, lleva tus roles a una bandeja previamente engrasada, dejando al menos dos (2) cm de separación entre ellos. 
+- Cubre tu bandeja con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una).
+
+
+### Fermentación final (maduración)
+
+- Deja reposar tu bakba durante aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
+
+### Horneado
+
+- Enciende el horno treinta (30) minutos antes de hornear a una temperatura de 195ºC/380ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Introduce tu bandeja de panes y hornea tus canelis durante veintinco (25) minutos.
+
+### Enfriamiento
+
+- Cuando los canelis esten listos, transfiére cada rollo a una rejilla. 
+- Deja enfriar durante treinta (30) minutos.
+- Sirvelos tibios o a temperatura ambiente.
+
+------
+
 ### Referencias y enlaces
 
 Para la concepción de mis panes, he utilizado como fuente de inspiración las fórmulas de el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y la receta de Bakba de Cholocate de [Paul Hollywood]{:target="blank"}, publicada en el sitio [The Great British Bake Off]{:target="blank"}.
@@ -394,3 +558,4 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 [Paul Hollywood]: https://en.wikipedia.org/wiki/Paul_Hollywood
 [The Great British Bake off]: https://thegreatbritishbakeoff.co.uk/recipes/all/paul-hollywood-chocolate-babka/
 [Wikipedia Babka]: https://es.wikipedia.org/wiki/Babka
+[Wikipedia Rollos de canela]: https://es.wikipedia.org/wiki/Rollo_de_canela
