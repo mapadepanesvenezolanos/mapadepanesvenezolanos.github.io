@@ -73,7 +73,7 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (13%)                                        |       100%    |      436g |
+| Harina panadera                                              |       100%    |      436g |
 | Agua                                                         |        77%    |      336g |
 | Sal                                                          |         2%    |        9g |
 | Pie Francés                                                  |        52%    |      227g |
@@ -169,7 +169,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-_Versión 2.0.0_ 
+_Versión 2.0.1_ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

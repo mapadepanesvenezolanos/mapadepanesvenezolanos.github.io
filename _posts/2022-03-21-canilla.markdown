@@ -73,7 +73,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera (12%)                                        |      100%     |      298g |
+| Harina panadera                                              |      100%     |      298g |
 | Agua                                                         |      55%      |      164g |
 | Levadura instantánea                                         |      1%       |        3g |
 | Sal                                                          |      2%       |        6g |
@@ -91,7 +91,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 | Ingrediente                                                  |    Fórmula    |
 |:-------------------------------------------------------------|:-------------:|
-| Harina panadera (12%)                                        |      100%     |
+| Harina panadera                                              |      100%     |
 | Agua                                                         |    50% - 60%  |
 | Levadura instantánea                                         |  0.33% - 1%   |
 | Sal                                                          |   1.6% - 2%   |
