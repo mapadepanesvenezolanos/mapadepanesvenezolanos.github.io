@@ -383,7 +383,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 # Canelis/Rollos de canela
 
-Cuando tenía 4 añitos mi hija Mayah Rose quedó tan cautivada con los Roles de canela, que los bautizó el nombre de Canelis, y desde esa época de tanto en tanto me pide que los prepare, bien sea para merendar o para llevarlos al colegio. El olor a canela durante el horneado y que colma cada rincón de nuestro hogar, su dulce y suave miga nos hacen salivar. Aprendí a preparar esta receta durante mi formación de Panadero Profesional en la GAPP y desde ese momento se quedó conmigo.  
+Cuando tenía apenas 4 añitos de edad, mi hija Mayah Rose quedó tan cautivada con el sabor de los Rollos de Canela que los bautizó con el nombre de Canelis y desde esa época, de tanto en tanto, me pide que se los prepare bien sea para merendar o para llevarlos al colegio. El olor a canela durante el horneado que colma cada rincón de nuestro hogar, su dulce y suave miga nos hacen salivar a todos. Aprendí a preparar esta receta durante mi formación de Panadero Profesional en la [GAPP] y desde ese momento se quedó conmigo.  
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 ### Canelis/Rollos de canela
