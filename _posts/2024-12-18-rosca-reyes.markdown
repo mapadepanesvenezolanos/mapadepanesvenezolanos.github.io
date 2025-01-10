@@ -81,7 +81,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 | Huevos ligeramente batidos  |         20% |   63g  |
 |(Grasa) Mantequilla sin sal  |         20% |   63g  |
 | Azúcar                      |         10% |   32g  |
-| Leche (infusionada)         |         15% |   47g  |
+| Leche líquida (infusionada) |         15% |   47g  |
 | Ralladura de naranja        |          1% |    3g  |
 | Agua de azahar              |          2% |    6g  |
 | Miel                        |         10% |   32g  |
@@ -93,7 +93,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 <div id="lecheinfusionada"></div>
 
 ### Para la leche infusionada
-* El doble de la cantidad de Leche que se indica en los ingredientes de la masa
+* El doble de la cantidad de Leche líquida que se indica en los ingredientes de la masa.
 * Dos (2) palitos de canela.
 * Una concha de limón verde.
 
