@@ -379,7 +379,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="canelis"></div>
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/canelis/canelis_1.PNG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/canelis/canelis_01.PNG" alt="{{page.title}}">
 
 # Canelis/Rollos de canela
 
