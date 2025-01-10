@@ -458,7 +458,9 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 - En un envase mezcla la harina, la levadura instantánea, la leche en polvo y el azúcar, la canela en polvo. 
 - En otro envase mezcla el agua con la esencia de vainilla y el huevo hasta disolver. 
 - Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán. 
-- Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos. - Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Integra los ingredientes hasta tener un amasijo. 
+- Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos. 
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
 - Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 <div id="segundociclo"></div>
@@ -495,7 +497,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Preparación del relleno 
 
-####  Relleno - Azúcar y Canela 
+###  Relleno - Azúcar y Canela 
 
 - En un envase mezcla el Azúcar blanca, el Azúcar morena y la canela en polvo.
 - Coloca la mantequilla sin sal en un envase a prueba de microhondas.
