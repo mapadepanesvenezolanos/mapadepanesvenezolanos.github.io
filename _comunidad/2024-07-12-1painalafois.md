@@ -375,7 +375,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="canelis"></div>
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_1.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/comunidad/1painalafois/canelis/canelis_1.PNG" alt="{{page.title}}">
 
 # Canelis/Rollos de canela
 
@@ -392,8 +392,6 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 ## Origen 
 
 “El rollo de canela (también llamado pan de canela, espiral de canela o rol de canela) es un rollo (un tipo de pan dulce) creado en la década de 1920 en Suecia y Dinamarca. Si bien el rollo de canela era conocido desde la segunda mitad del siglo XIX, solo era horneado en hogares con suficientes recursos económicos, por el coste de sus ingredientes. Terminada la Primera Guerra Mundial, y la existente escasez de harina refinada, azúcar y canela, aparecieron en las pastelerías nuevos tipos de pan dulce. El rollo de canela no debe ser confundido con el Wienerbrød. En la actualidad, es una especialidad repostera típica de los Estados Unidos y del norte de Europa. En Suecia se lo conoce con el nombre de "kanelbulle". Es un panecillo muy popular para acompañar el café. Desde 1999, se celebra el Día del Rollo de Canela, cada 4 de octubre."[Wikipedia Rollos de Canela]{:target="blank"} 
-
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
 
 <div id="canelismasa"></div>
 
@@ -505,7 +503,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca tu recepiente de la nevera
 - Deposita la masa sobre la superficie espolvoreada de trabajo.
 - Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
 - Con una brocha de cocina, cubre la masa con una capa fina de la mantequilla sin sal derretida.
 - Extiende la mezcla del relleno sobre la masa, dejando un borde de 1 cm alrededor.
 - Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
@@ -523,7 +520,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Horneado
 
 - Enciende el horno treinta (30) minutos antes de hornear a una temperatura de 195ºC/380ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Introduce tu bandeja de panes y hornea tus canelis durante veintinco (25) minutos.
+- Introduce tu bandeja de panes y hornea tus Canelis/Rollos de canela entre veinte (20) y veintinco (25) minutos o hasta que alcancen el color dorado deseado.
+- Una vez terminado el tiempo de horneado, saca la bandeja del horno.
+- Apaga el horno.
 
 ### Enfriamiento
 
