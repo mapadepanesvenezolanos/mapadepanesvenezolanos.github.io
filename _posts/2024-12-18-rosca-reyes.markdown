@@ -55,10 +55,10 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 ### Otros tips
 
 * Planifica dos días para la preparación de esta versión de la Rosca de Reyes.
-	* Día 1: Preparación del prefermento Biga.
+	* Día 1: Preparación del prefermento Biga y Leche infusionada.
 	* Día 2: Preparación de la masa del pan.
 * La cantidad de prefermento que vas a preparar para mejorar la masa, es 15% más, de la cantidad indicada en la fórmula panadera de la masa.
-* Siembra en la masa, la cantidad de prefermento indicada en los ingredientes de la masa y el resto puedes guardarlo en un envase cubierto en la nevera para hacer otros panes.
+* Siembra en la masa la cantidad de prefermento indicada en los ingredientes de la masa, el prefermento restante puedes guardarlo en un envase cubierto en la nevera para hacer otros panes.
 
 ### Prefermento Biga 50%
 
@@ -81,7 +81,7 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 | Huevos ligeramente batidos  |         20% |   63g  |
 |(Grasa) Mantequilla sin sal  |         20% |   63g  |
 | Azúcar                      |         10% |   32g  |
-| Leche infusionada           |         15% |   47g  |
+| Leche (infusionada)         |         15% |   47g  |
 | Ralladura de naranja        |          1% |    3g  |
 | Agua de azahar              |          2% |    6g  |
 | Miel                        |         10% |   32g  |
@@ -90,15 +90,18 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 |-----------------------------|-------------|--------|
 | **Total**                   |    **209%** |**660g**|
 
+<div id="lecheinfusionada"></div>
+
 ### Para la leche infusionada
-* Dos palitos de canela
-* La piel/concha de medio limón
+* El doble de la cantidad de Leche que se indica en los ingredientes de la masa
+* Dos (2) palitos de canela.
+* Una concha de limón verde.
 
 ### Para decorar la Rosca de Reyes
-* Un puñito de almendras en lajas 
-* 4-6 Guindas en almibar (rojas y verdes si es posible)
-* Un puñito de azúcar granulada
-* 2 rodajas de naranja en almibar
+* Un puñito de almendras en lajas. 
+* 4-6 Guindas en almibar (rojas y verdes si es posible).
+* Un puñito de azúcar granulada.
+* 2 rodajas de naranja en almibar.
 
 ### Calculadora para la masa 
 
@@ -109,13 +112,21 @@ Este es un pan con forma de corona aromatizada con agua de azahar, decorada con 
 
 <div id="preparacion"></div>
 
-## Preparación del prefermento Biga (Día 1)
-- En un envase redondo de boca grande, agrega el agua de acuerdo a la fórmula.
+## Preparación del prefermento Biga y Leche infusionada (Día 1)
+
+- Prepara el prefermento Biga y la leche infusionada la noche anterior a la prepación de la masa.
+### Prefermento Biga
+ - Coloca en un envase redondo de boca grande el agua de acuerdo a la fórmula.
 Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver los granos de levadura instantánea en el agua.
 - Agrega poco a poco la harina y ve disolviendo en la mezcla del paso anterior hasta formar una bola de masa.
 - Coloca la masa en un envase transparente y haz una marca en el envase, indicando la altura inicial de la masa.
 - Cubre el envase y deja reposar a temperatura ambiente (25 grados centígrados preferiblemente) durante tres (3) horas o hasta que la masa triplique su altura.
-- Lleve su envase a la nevera y deje reposar durante doce (12) horas
+- Lleve su envase a la nevera y deje reposar durante doce (12) horas.
+
+### Leche infusionada
+- En una olla, calienta los ingredientes de la [Leche infusionada](#lecheinfusionada) hasta hervir.
+- Apaga la hornilla.
+- Deja la mezcla cubierta, infusionando toda la noche. 
 
 ### Preparación de la masa (Día 2)
 
@@ -127,9 +138,10 @@ Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver 
 
 #### Primer ciclo de amasado (manual)
 
-- Para la mezcla inicial reserva la mantequilla.
+- Para la mezcla inicial, reserva la mantequilla aparte.
 - En un envase mezcla el prefermento con el resto de los ingredientes de la masa.
-- Integra los ingredientes hasta tener un amasijo. Amasa cinco (5) minutos, forma una bola y deja reposar por diez (10) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Integra los ingredientes hasta tener un amasijo. Amasa cinco (5) minutos, forma una bola y deja reposar por diez (10) minutos. 
+- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 <div id="segundociclo"></div>
 
@@ -138,7 +150,7 @@ Incorpora ahora la levadura instantánea y mezcla hasta prácticamente disolver 
 - Extiende la masa y coloca la mantequilla fría picada en cuadritos sobre la masa. 
 - Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. 
 - Sigue amasando durante aproximadamente diez (10) minutos hasta incorporar dentro de la masa. Asegúrate que se alcance una masa tersa y lisa. El envase o la mesa de trabajo y tus manos, deben quedar limpios luego del amasado.
-- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
+- Forma una bola y dejala reposar tapada con un envase durante diez (10) minutos.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 
 ### Primera fermentación 
@@ -217,7 +229,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.2 (12/24/2024)__
+__Versión 2.3 (01/10/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
