@@ -186,7 +186,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por cuatro (4) horas en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón sin tapar, aproximadamente por cuatro (4) horas en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Precalentar el horno
 
