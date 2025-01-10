@@ -385,7 +385,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 Cuando tenía 4 añitos mi hija Mayah Rose quedó tan cautivada con los Roles de canela, que los bautizó el nombre de Canelis, y desde esa época de tanto en tanto me pide que los prepare, bien sea para merendar o para llevarlos al colegio. El olor a canela durante el horneado y que colma cada rincón de nuestro hogar, su dulce y suave miga nos hacen salivar. Aprendí a preparar esta receta durante mi formación de Panadero Profesional en la GAPP y desde ese momento se quedó conmigo.  
 
-## RECETA, FÓRMULA y TÉCNICAS de los Canelis/Rollos de canela
+## RECETA, FÓRMULA y TÉCNICAS 
+### Canelis/Rollos de canela
 
 ## Resultado esperado
 
@@ -401,7 +402,8 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 
 ## Método indirecto
 
-### Tips para preparar los Canelis/Rollos de canela
+### Tips para preparar 
+### Canelis/Rollos de canela
 
 - Los Canelis/Rollos de Canela puedes rellenarlos con cualquier tipo de mermelada e inclusive algunas versiones llevan pasas.
 
@@ -421,7 +423,8 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 |-----------------------------|-------------|---------|
 | **Total**                   |   **202%**  | **900g**|
 
-### Calculadora para la masa de Canelis/Rollos de canela
+### Calculadora para la masa 
+#### Canelis/Rollos de canela
 
 {% include calculadora-de-panes3.html %}
 
@@ -497,7 +500,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Preparación del relleno 
 
-###  Relleno - Azúcar y Canela 
+####  Relleno - Azúcar y Canela 
 
 - En un envase mezcla el Azúcar blanca, el Azúcar morena y la canela en polvo.
 - Coloca la mantequilla sin sal en un envase a prueba de microhondas.
