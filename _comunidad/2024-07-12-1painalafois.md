@@ -455,9 +455,8 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 #### Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la mantequilla y la sal. 
-- En un envase mezcla la harina, la levadura instantánea, la leche en polvo y el azúcar, la canela en polvo. 
-- En otro envase mezcla el agua con la esencia de vainilla y el huevo hasta disolver. 
-- Crea un volcán con la mezcla de los ingredientes sólidos y coloca los líquidos en el centro del volcán. 
+- En un primer envase mezcla el agua con la levadura instantánea, la leche en polvo y el azúcar, los huevos ligeramente batidos y la esencia de vainilla. 
+- En un segundo envase, crea un volcán con la la harina panadera y coloca el contenido del primer envase n el centro del volcán. 
 - Integra los ingredientes hasta tener un amasijo. 
 - Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos. 
 - Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
