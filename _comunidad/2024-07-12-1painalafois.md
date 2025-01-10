@@ -159,6 +159,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Saca la bandeja del horno y mueve el Pan a una rejilla. 
 - Deja enfriar al menos una (1) hora. Lo puedes dejar para el día siguiente.
+
+### Consumo
+
 - Al día siguiente antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por diez (10) minutos para que recupere la crocancia.
 
 ---------
@@ -367,9 +370,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Cuando la babka esté lista, transfiérala en su envase a una rejilla. 
 - Deja reposar la babka en el molde durante veinte minutos.
 - Desmolda la babka sobre una rejilla.
-- Sirvela tibia o a temperatura ambiente.
 
-------
+### Consumo
+
+- Sirve el pedazo de Babka preferiblemente tibio o a temperatura ambiente.
 
 ---------
 
@@ -528,7 +532,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Cuando los canelis esten listos, transfiére cada rollo a una rejilla. 
 - Deja enfriar durante treinta (30) minutos.
+
+### Consumo
 - Sirvelos tibios o a temperatura ambiente.
+- Al día siguiente antes de consumirlos, lleva el rol que deseas comer al horno microondas por diez (10) segundos para que recupere su suavidad inicial.
 
 ------
 
