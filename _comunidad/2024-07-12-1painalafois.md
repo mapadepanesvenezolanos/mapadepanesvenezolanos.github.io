@@ -389,7 +389,7 @@ Cuando tenía apenas 4 añitos de edad, mi hija Mayah Rose quedó tan cautivada 
 
 ## Resultado esperado
 
-Los rollos de canela/canelis se elaboran a partir de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo. Cada rollo, está relleno de la mezcla de azúcar blanca y morena, y canela en polvo
+Los Canelis/ Rollos de Canela se elaboran a partir de una masa dulce enriquecida, con mantequilla, huevo y leche en polvo. Cada rollo, está relleno de la mezcla de azúcar blanca y morena, y canela en polvo
 
 A continuación encontrarás la receta y el paso a paso para preparar la [masa de canelis](#canelismasa) y una (1) opción de relleno que combina Azúcar blanca con Azúcar morena, canela en polvo y ralladura de limón.
 
