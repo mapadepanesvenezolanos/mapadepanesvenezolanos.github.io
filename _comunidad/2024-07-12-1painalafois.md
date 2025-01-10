@@ -403,7 +403,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 
 ### Tips para preparar los Canelis/Rollos de canela
 
-- Los Canelis puedes rellenarlos con cualquier tipo de mermelada e inclusive algunas versiones llevan queso.
+- Los Canelis/Rollos de Canela puedes rellenarlos con cualquier tipo de mermelada e inclusive algunas versiones llevan pasas.
 
 ### Ingredientes para preparar los Canelis (12 unidades de 75g)
 
