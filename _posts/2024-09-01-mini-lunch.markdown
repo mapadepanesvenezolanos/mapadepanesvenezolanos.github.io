@@ -48,16 +48,16 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 | Ingrediente                                   |    Fórmula    |      Peso |
 |:----------------------------------------------|:-------------:|----------:|
-| Harina panadera                               |      100%     |      442g |
-| Agua                                          |       35%     |      155g |
+| Harina panadera                               |      100%     |      437g |
+| Agua                                          |       35%     |      153g |
 | Levadura instantánea                          |        1%     |        4g |
 | Sal                                           |        1%     |        4g |
 | Huevos ligeramente batidos                    |       15%     |       66g |
-| Mantequilla sin sal                           |       10%     |       44g |
+| Grasa (Mantequilla sin sal)                   |       10%     |       44g |
 | Azúcar                                        |       15%     |       66g |
-| Leche en polvo                                |        6%     |       27g |
+| Leche en polvo                                |        6%     |       26g |
 | ----------------------------------------------|---------------|-----------|
-| **Total**                                     |    **183%**   |  **808g** |
+| **Total**                                     |    **183%**   |  **800g** |
 
 ### Calculadora para preparar el Mini Lunch
 
@@ -66,12 +66,12 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 ### Relleno del Mini Lunch
 
-| Ingrediente               | Fórmula     | Peso   |
-|:--------------------------|:-----------:|-------:|
-| Jamón                     |        100% |  240g  |
-| Queso amarillo madurado   |        100% |  240g  |
-|---------------------------|-------------|--------|
-| **Total**                 |   **200%**  |**480g**|
+| Ingrediente               | Fórmula     | Peso   | Unidad |
+|:--------------------------|:-----------:|-------:|-------:|
+| Jamón                     |        100% |  240g  |  30g   |
+| Queso amarillo madurado   |        100% |  240g  |  30g   |
+|---------------------------|-------------|--------|--------|
+| **Total**                 |   **200%**  |**480g**|**60g** |
 
 {% include calculadora-de-panes2.html %}
 
@@ -156,7 +156,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__ (12/09/2024)
+__Versión 2.0__ (11/02/2025)
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
