@@ -116,7 +116,8 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 - Con la ayuda de un rodillo, extiende toda la masa en un rectángulo de largo un metro y un ancho de 22 cm.
 - Corta el rectángulo en ocho rectángulos de 12 cm de largo y 22 cm de ancho.
-- Enrolla el queso dentro del jamón y lo enrollas con la masa y deja que sobresalga el jamón en los extremos.
+- Enrolla el queso dentro del jamón. 
+- Envuelve el rollito (jamón y queso) con la masa, dejando que sobresalga el jamón en los extremos.
 - Coloca cada pieza en la bandeja.
 - Tapa la bandeja con plástico
 
@@ -156,7 +157,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__ (11/02/2025)
+__Versión 2.1__ (13/02/2025)
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
