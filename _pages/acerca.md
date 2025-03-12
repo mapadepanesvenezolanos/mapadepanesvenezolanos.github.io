@@ -70,13 +70,9 @@ Rol y responsabilidad: Capturar y reproducir la esencia de nuestros Panes Venezo
 Jesús Méndez ([@1painalafois en Instagram](https://www.instagram.com/1painalafois/"){:target="blank"}) y Alexander Ramírez ([@hazpanencasa en Instagram](https://www.instagram.com/hazpanencasa/"){:target="blank"}) están empeñados en rescatar, preservar y compartir las tradiciones de la panadería venezolana. El proyecto, Panes Venezolanos ([@panesve en Instagram](https://www.instagram.com/panesve/"){:target="blank"}), refleja el amor profundo que ambos tienen por la gastronomía de su tierra y la conexión emocional que los panes tradicionales tienen con las raíces y recuerdos de los venezolanos, estén donde estén.
 
 - Rescate de tradiciones: Queremos mantener viva la identidad cultural venezolana a través de recetas icónicas como el pan de jamón, los golfeados y los cachitos.
-
 - Educación y accesibilidad: Buscamos  enseñar de forma accesible cómo hacer estos panes en casa, para que más personas puedan disfrutar de la experiencia, sin importar su ubicación o nivel de experiencia en la panadería.
-
 - Conexión emocional: Sabemos  que los panes tradicionales evocan nostalgia y felicidad para los venezolanos, por lo que su misión no es solo enseñar, sino también unir a las personas en torno a su herencia gastronómica.
-
 - Creatividad y evolución: Además de preservar las recetas tradicionales, estamos interesados en innovar y adaptarlas, creando versiones que mezclan técnicas modernas con el sabor auténtico.
-
 - Comunidad global: Aspiramos  a crear una comunidad que valore y celebre la panadería venezolana en el mundo, promoviendo 
 una marca que inspire orgullo y arraigo cultural.
 
