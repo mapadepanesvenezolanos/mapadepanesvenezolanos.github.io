@@ -24,7 +24,7 @@ El Pan de Queso se realiza con una masa suave semi dulce enriquecida que complem
 
 No hay mucha información sobre su origen, de hecho cuando investigas sobre el Pan de Queso terminas encontrando las referencias del Pão de queijo brasileño que se hace con almidón de Yuca y tiene parentezco con la Almojábana. 
 
-Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de trigo en formato de trenza generalmente o rollo relleno. Esta preparación guarda parentezco con la Quesadilla, el Mini lunch, el Cachito y el Pan de Jamón. Es un Pan que sigue la tradición de panes rellenos en distintos formatos que se realizan en Venezuela.
+Nuestro Pan de Queso se hace con una masa enriquecida semi dulce de harina de trigo en formato de trenza generalmente o rollo relleno. Esta preparación guarda parentesco con la Quesadilla, el Mini lunch, el Cachito y el Pan de Jamón. Es un Pan que sigue la tradición de panes rellenos en distintos formatos que se realizan en Venezuela.
 
 ## Tips para preparar el Pan de Queso
 
@@ -149,7 +149,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 1.1__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
