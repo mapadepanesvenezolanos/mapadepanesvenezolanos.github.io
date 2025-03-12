@@ -84,9 +84,7 @@ una marca que inspire orgullo y arraigo cultural.
 
 "La Panadería me ha dado mucho a nivel personal y deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes en nuestras casas y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos."
 
-## ¿Como lo hacemos?
-
-### Etapas del ciclo de producción
+## ¿Cual es nuestro proceso de trabajo?
 
 1. Planificación (Al inicio de cada iteración, los directores deciden cuales recetas se van a producir)
 2. Investigación (Se inicia el proceso de investigación para determinar el origen y los ingredientes típicamente utilizados para producir las recetas)
