@@ -31,7 +31,7 @@ menu_settings:
       url: '/acerca'
 
 footer_settings:
-  footer_tagline: Referencia sobre Panes Venezolanos para Panaderos Caseros.
+  footer_tagline: La Referencia sobre Panes Venezolanos para Panaderos Caseros.
 
 grid_settings:
   overlay_opacity: 0.8
@@ -87,9 +87,9 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
-  title_font: '"Poppins", sans-serif'
-  body_font: '"Poppins", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One&display=swapfamily" rel="stylesheet">'
+  title_font: '"Alfa+Slab", sans-serif'
+  body_font: '"Alfa+Slab", sans-serif'
   regular_weight: 300
   bold_weight: 500
   site_title:
