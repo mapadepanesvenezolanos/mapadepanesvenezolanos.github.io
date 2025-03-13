@@ -2,17 +2,21 @@
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
 <style>
 	.container-fluid {
+	font-family: 'Poppins', serif;
       background: #ffe6cc;
-      color: white;
+      color: black;
       padding: 50px 0;
+	  text-align: center;
     }
-
-	.text-fluid{
-		font-family: 'Poppins', serif;
-		text-align: center;
-		color: black;
+	.text-white{
+    	color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 	}
+
+	me-2{
+		margin-right:.5rem!important;
+	}
+
 </style>
-<footer class="container-fluid text-fluid p-3">
+<footer class="container-fluid">
 	{% include socials.html %}
 </footer>
