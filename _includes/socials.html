@@ -1,8 +1,8 @@
  <footer class="container-fluid text-center text-black p-3">
+	<p>{{ site.data.settings.footer_settings.footer_tagline }}</p>
     <p>¡Síguenos en redes sociales para más actualizaciones!</p>
-    <a href="https://instagram.com/hazpanencasa" class="text-white me-2"><img src="/images/libro/AR-HazPan.jpeg" style="width: 60px; border-radius: 100%;"></a>
-    <a href="https://instagram.com/1painalafois" class="text-white me-2"><img src="/images/libro/JM-HazPan.JPG" style="width: 60px; border-radius: 100%;"></a>
-	<a href="https://www.instagram.com/panesve/" target="_blank" class="socials__item__link" title="panesve"><img src="/images/logo.PNG" style="width: 60px;border-radius: 100%;">
-	</a>
-    <p>©️ 2025 Panes Venezolanos. Todos los derechos reservados.</p>
+    <a href="https://instagram.com/hazpanencasa" target="_blank" class="text-white me-2"><img src="/images/libro/AR-HazPan.jpeg" style="width: 60px; border-radius: 100%;"></a>
+    <a href="https://instagram.com/1painalafois" target="_blank" class="text-white me-2"><img src="/images/libro/JM-HazPan.JPG" style="width: 60px; border-radius: 100%;"></a>
+	<a href="https://www.instagram.com/panesve/" target="_blank" class="text-white me-2"><img src="/images/logo.PNG" style="width: 60px;border-radius: 100%;"></a>
+    <p>© {{ 'now' | date: "%Y" }} {{ site.data.settings.basic_settings.site_owner }}</p>
   </footer>
