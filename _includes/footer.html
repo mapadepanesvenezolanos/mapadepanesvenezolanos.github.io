@@ -1,5 +1,5 @@
 <style>
-	footer {
+	.container-fluid {
 	  font-family: 'Poppins', serif;
       background: #ffe6cc;
       color: black;
@@ -7,7 +7,7 @@
 	  text-align: center;
     }
 	
-	footer .footer-images-container {
+	.container-fluid .footer-images-container {
   		display: flex;
   		justify-content: center;
   		align-items: center;
@@ -15,9 +15,9 @@
 	}
 
 	footer img {
- 		 margin: 0 10px; /* Optional: space between images */
+	  margin: 0 10px; /* Optional: space between images */
 	}
-	
+
 	.text-white{
     	color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 	}
@@ -27,6 +27,6 @@
 	}
 
 </style>
-<footer>
+<footer class="container-fluid">
 	{% include socials.html %}
 </footer>
