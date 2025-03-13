@@ -11,27 +11,25 @@ Te damos la bienvenida al Portal de Panes Venezolanos.
 Queremos ayudarte a conocer y a preparar los Panes tradicionales de Venezuela en casa.
 
 ## Misión
-
 Educar, preservar, enseñar y promover la tradición de la panadería venezolana, compartiendo las herramientas necesarias para recrear en casa los aromas y sabores auténticos venezolanos, en cualquier parte del mundo.
 Además, buscamos fortalecer el vínculo emocional con la cultura venezolana, fomentar la conexión con las raíces y construir una comunidad apasionada por la panadería artesanal.
 
 ## Visión
-
 Aspiramos a ser la referencia mundial en panadería venezolana para panaderos caseros, conectando culturas y generaciones con recetas que funcionan en casa.
 
-## ¿Que ofrecemos en “Panes Venezolanos”?
+## ¿Que ofrecemos?
 1. Técnicas de panadería artesanal casera: Instrucciones detalladas y herramientas accesibles para facilitar la creación de panes tradicionales venezolanos en casa.
 2. Adaptación y creatividad: Herramientas para adaptar la creación de nuestros panes a los ingredientes disponibles dentro y fuera de Venezuela.  Variantes modernas de las recetas de panes tradicionales venezolanos
 3. Conexión cultural: Enseñanza sobre las tradiciones y la historia detrás de los panes más emblemáticos de Venezuela.
 4. Comunidad y colaboración: Fomento de la interacción y el intercambio de conocimientos entre panaderos caseros.
 
-## Nuestros valores y emociones comunes
+## Valores y emociones comunes
 - Tradición:  preservar la cultura gastronómica venezolana.
 - Calidez: Asociamos los panes con familia, festividades y momentos felices.
 - Creatividad: Amamos  experimentar con recetas y aprender algo nuevo.
 - Comunidad: Valoramos  sentirnos  conectados con personas que comparten su interés.
 
-## ¿Cuales son nuestros Principios directores?
+## Principios directores
 - Aspirar a reproducir los aromas y sabores de la memoria panadera del venezolano en casa.
 - Aprender y mejorar de forma iterative y a través de la experiencia.
 - Ser transparentes, dar visibilidad y respetar nuestro trabajo y el de los otros.
@@ -84,7 +82,7 @@ una marca que inspire orgullo y arraigo cultural.
 
 "La Panadería me ha dado mucho a nivel personal y deseo dejar un legado que puedan disfrutar, mis hijos, mis familiares y amigos donde quiera que se encuentren. Me anima la idea de dejar documentado y de manera abierta el modo de preparar nuestros Panes en nuestras casas y que a través de la Panadería podamos conectarnos con nuestro origen, al mismo tiempo darle oportunidad a otros que tengan la misma experiencia. Tengo la convicción de que la mejor manera de aprender es compartiendo, estos panes nos pertenecen a todos los Venezolanos."
 
-## ¿Cual es nuestro proceso de trabajo?
+## Proceso de trabajo
 
 1. Planificación (Al inicio de cada iteración, los directores deciden cuales recetas se van a producir)
 2. Investigación (Se inicia el proceso de investigación para determinar el origen y los ingredientes típicamente utilizados para producir las recetas)
