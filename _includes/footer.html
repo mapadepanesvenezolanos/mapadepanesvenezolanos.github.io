@@ -1,11 +1,23 @@
 <style>
-	.container-fluid {
-	font-family: 'Poppins', serif;
+	footer {
+	  font-family: 'Poppins', serif;
       background: #ffe6cc;
       color: black;
       padding: 50px 0;
 	  text-align: center;
     }
+	
+	footer .footer-images-container {
+  		display: flex;
+  		justify-content: center;
+  		align-items: center;
+  		text-align: center;
+	}
+
+	footer img {
+ 		 margin: 0 10px; /* Optional: space between images */
+	}
+	
 	.text-white{
     	color: rgba(var(--bs-white-rgb), var(--bs-text-opacity)) !important;
 	}
@@ -15,6 +27,6 @@
 	}
 
 </style>
-<footer class="container-fluid">
+<footer>
 	{% include socials.html %}
 </footer>
