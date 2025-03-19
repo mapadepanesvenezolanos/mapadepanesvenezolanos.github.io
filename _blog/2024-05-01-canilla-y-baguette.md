@@ -169,7 +169,7 @@ Algunas de estas mejoras se pueden combinar o sencillamente son caminos distinto
 [IEPAN]: https://escuelaiepan.com/miscelaneas/baguette-vs-canilla/
 [Rafael Cartay]: https://www.instagram.com/cartaycocinasregionales
 [Adriana Gibbs]: https://www.instagram.com/adrianagibbsm
-[Soy Panadero]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
+[Soy Panadero]: https://alumware.com/wp-content/uploads/2020/05/Libro_Soy_Panadero_Pag-Enfrentadas.pdf
 [Roberto Nunes señala]: https://es.linkedin.com/pulse/la-canilla-baguette-venezolana-roberto-nunes
 [Pão Sovado que se elabora en Portugal]: https://tradicional.dgadr.gov.pt/pt/cat/pao-e-produtos-de-panificacao/326-pao-sovado
 [Juan Pablo Marquez]: https://www.tumblr.com/pan-comido/146971734256/diferencia-baguette-o-canilla
