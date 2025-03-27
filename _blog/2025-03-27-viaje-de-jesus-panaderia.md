@@ -20,7 +20,7 @@ Ese aprendizaje no solo me brindó herramientas prácticas, sino también una vi
 
 Cuando [Alexander A Ramírez M.](https://instagram.com/hazpanencasa){:target="blank"} y yo decidimos desarrollar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}, no solo queríamos compartir recetas, sino rescatar y difundir el valor cultural del pan en nuestra identidad venezolana. Nos impulsaba el deseo de que cada persona, sin importar dónde estuviera, pudiera reencontrarse con esos sabores de infancia, con el aroma de un pan recién horneado que evoca recuerdos y emociones.
 
-Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del proyecto. Mi experiencia en desarrollo de proyectos iterativos y ágiles nos permitió estructurar el aprendizaje, la creación, la producción y el crecimiento de la marca de una manera organizada y eficiente. La retroalimentación constante ha sido clave en estos cuatro años de trabajo continuo, ayudándonos a ajustar y mejorar tanto nuestro contenido como nuestros productos. Cada interacción con nuestra comunidad nos ha permitido evolucionar, adaptarnos y fortalecer la identidad de [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
+Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del proyecto. Nuestra experiencia en desarrollo de proyectos iterativos y ágiles, y el hecho de ser ambos Informáticos de carrera y profesión, nos ha permitido estructurar el aprendizaje, la creación, la producción y el crecimiento de la marca y su contenido de una manera organizada y eficiente. La retroalimentación constante ha sido clave en estos cuatro años de trabajo continuo, ayudándonos a ajustar y mejorar tanto nuestro contenido como nuestros productos. Cada interacción con nuestra comunidad nos ha permitido evolucionar, adaptarnos y fortalecer la identidad de [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
 ### Hemos aprendido muchísimo en este camino y lo que nos falta
 
@@ -29,6 +29,10 @@ Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del p
 • El valor de la perseverancia: No siempre ha sido fácil, pero cada desafío nos ha llevado a mejorar, innovar y mantenernos firmes en nuestra visión.
 
 • El poder de la mejora continua: La iteración y el aprendizaje constante nos han permitido evolucionar con el tiempo, asegurando que lo que ofrecemos siempre tenga el mejor valor posible para nuestra audiencia.
+
+• La fuerza de la inteligencia colectiva: Cuando aprendemos los unos de los otros, cuando nos unimos para alcanzar objectivos comunes el cielo es el límite.
+
+• Confiar en el otro y sus buena fe: Tenemos tantas cosas por hacer, incontables detalles, cosas que decidir, preparar, hacer y compartir para poder llevar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} adelante. Todo es posible gracias a que hemos aprendido a confiar en nuestra intensión más profunda, en la capacidad y la pasión que nos une en esta hermosa causa.
 
 ### Mirando hacia el futuro
 
