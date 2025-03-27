@@ -26,13 +26,13 @@ Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del p
 
 • La importancia de la comunidad: [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} no es solo un proyecto nuestro, sino de todos aquellos que comparten su amor por la panadería y la cultura gastronómica venezolana.
 
-• El valor de la perseverancia: No siempre ha sido fácil, pero cada desafío nos ha llevado a mejorar, innovar y mantenernos firmes en nuestra visión.
+• El valor de la perseverancia: Siempre ha sido fácil, exigente y divertido a la vez. En cada desafío hemos visto una oportunidad que nos ha llevado a mejorar, innovar y mantenernos firmes desarrollando y creyendo en nuestra visión.
 
 • El poder de la mejora continua: La iteración y el aprendizaje constante nos han permitido evolucionar con el tiempo, asegurando que lo que ofrecemos siempre tenga el mejor valor posible para nuestra audiencia.
 
-• La fuerza de la inteligencia colectiva: Cuando aprendemos los unos de los otros, cuando nos unimos para alcanzar objectivos comunes el cielo es el límite.
+• La fuerza mobilizadora de la inteligencia colectiva: Cuando aprendemos los unos de los otros y nos unimos para alcanzar objectivos comunes, el cielo es el límite. Esa motivación, esa fuerza que me ha dado nuestro equipo de trabajo, su dedicación, comentarios y retroalimentación son la llama que nos mueve a seguir construyendo.
 
-• Confiar en el otro y sus buena fe: Tenemos tantas cosas por hacer, incontables detalles, cosas que decidir, preparar, hacer y compartir para poder llevar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} adelante. Todo es posible gracias a que hemos aprendido a confiar en nuestra intensión más profunda, en la capacidad y la pasión que nos une en esta hermosa causa.
+• Confiar en el otro, las buenas intensiones: Tenemos tantas cosas por hacer, incontables detalles, cosas que decidir, preparar, hacer y compartir para poder llevar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} adelante. Todo es posible gracias a que hemos aprendido a confiar en nuestra intensión más profunda, en la capacidad y la pasión que nos une en esta hermosa causa.
 
 ### Mirando hacia el futuro
 
