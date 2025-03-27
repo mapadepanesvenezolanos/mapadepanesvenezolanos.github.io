@@ -44,7 +44,7 @@ No tenemos registro de panes.
 
 ## Carabobo
 
-- Pan de leche
+- [Pan de leche](/panes-venezolanos/pan-leche/)
 - Pan Butaque
 - Panelas de San Joaquín
 - Pan Cachicamo (fuente: Lic. Elena Alcalá)
@@ -214,7 +214,7 @@ No tenemos registro de panes.
 - Pan dormido
 - Pan de plátano
 - [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
-- Pan de papa
+- [Pan de papa](/panes-venezolanos/pan-de-papa/)
 - Acema 
 - Acemita 
 
