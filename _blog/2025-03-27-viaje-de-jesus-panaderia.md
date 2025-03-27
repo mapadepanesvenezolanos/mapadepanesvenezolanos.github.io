@@ -1,6 +1,5 @@
 ---
-title: 'Mi viaje en la panadería'
-subtitle: 'de formación a distancia a Panes Venezolanos'
+title: 'Mi viaje en la panadería: De la formación a distancia a Panes Venezolanos'
 date: 2025-03-26 00:00:00
 description: En este artículo, Jesús Méndez nos describe los detalles de su recorrido en la Panadería desde su formación académica y los origenes de Panes Venezolanos.
 permalink: /blog/articulos/jesus
