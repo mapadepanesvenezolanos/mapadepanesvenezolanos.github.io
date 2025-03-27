@@ -9,21 +9,19 @@ featured_image: '/images/blog/articulos/jesus/prefermento-jm.jpg'
 
 Nunca imaginé que mi camino en la panadería comenzaría a distancia. Aprender un oficio tan artesanal sin estar físicamente en un obrador parecía un reto enorme, pero con dedicación, práctica y mucha pasión, logré convertirme en panadero profesional. Este aprendizaje fue el primer paso en una travesía que, junto con mi partner [Alexander A Ramírez M.](https://instagram.com/hazpanencasa){:target="blank"}, nos llevaría a crear [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
-##  Aprender panadería a distancia 
-### Un desafío y una transformación
+### Aprender panadería a distancia: Un desafío y una transformación
 
 Ser panadero implica más que solo mezclar ingredientes y seguir recetas. Es comprender las texturas, la fermentación, el comportamiento de la masa y cómo influye cada pequeño detalle en el resultado final. La formación a distancia exigió disciplina y un enfoque autodidacta, pero también fue clave el apoyo y la enseñanza que recibí del [Grupo Académico Panadero y Pastelero de Venezuela (GAPP)](https://www.gappvzla.dsinternacional.com/){:target="blank"}. Gracias a sus profesores, pude adquirir conocimientos sólidos, desarrollar mi técnica y profundizar en la esencia de la panadería artesanal venezolana.
 
 Ese aprendizaje no solo me brindó herramientas prácticas, sino también una visión clara de la importancia de preservar y compartir nuestro patrimonio panadero. Aprender desde lejos me demostró que la pasión y el compromiso pueden superar cualquier barrera, y fue este convencimiento el que plantó la semilla de [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
-##  Construyendo Panes Venezolanos 
-### Más que una marca, una misión
+###  Construyendo Panes Venezolanos: Más que una marca, una misión
 
 Cuando [Alexander A Ramírez M.](https://instagram.com/hazpanencasa){:target="blank"} y yo decidimos desarrollar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}, no solo queríamos compartir recetas, sino rescatar y difundir el valor cultural del pan en nuestra identidad venezolana. Nos impulsaba el deseo de que cada persona, sin importar dónde estuviera, pudiera reencontrarse con esos sabores de infancia, con el aroma de un pan recién horneado que evoca recuerdos y emociones.
 
 Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del proyecto. Mi experiencia en desarrollo de proyectos iterativos y ágiles nos permitió estructurar el aprendizaje, la creación, la producción y el crecimiento de la marca de una manera organizada y eficiente. La retroalimentación constante ha sido clave en estos cuatro años de trabajo continuo, ayudándonos a ajustar y mejorar tanto nuestro contenido como nuestros productos. Cada interacción con nuestra comunidad nos ha permitido evolucionar, adaptarnos y fortalecer la identidad de [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
-## Hemos aprendido muchísimo en este camino...
+### Hemos aprendido muchísimo en este camino y lo que nos falta
 
 • La importancia de la comunidad: [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} no es solo un proyecto nuestro, sino de todos aquellos que comparten su amor por la panadería y la cultura gastronómica venezolana.
 
@@ -31,7 +29,7 @@ Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del p
 
 • El poder de la mejora continua: La iteración y el aprendizaje constante nos han permitido evolucionar con el tiempo, asegurando que lo que ofrecemos siempre tenga el mejor valor posible para nuestra audiencia.
 
-## Mirando hacia el futuro
+### Mirando hacia el futuro
 
 [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} sigue creciendo y evolucionando, y con él, nuestra pasión por el pan y la cultura venezolana. Cada receta, cada consejo compartido, cada historia que nos envían, refuerza nuestra convicción de que este proyecto tiene un propósito más grande: mantener vivas nuestras tradiciones a través del pan.
 
