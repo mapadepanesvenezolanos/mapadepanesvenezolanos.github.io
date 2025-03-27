@@ -30,7 +30,7 @@ Desde el principio, aplicamos un enfoque iterativo y ágil en cada aspecto del p
 
 • **El poder de la mejora continua**: La iteración y el aprendizaje constante nos han permitido evolucionar con el tiempo, asegurando que lo que ofrecemos siempre tenga el mejor valor posible para nuestra audiencia.
 
-• **La fuerza mobilizadora de la inteligencia colectiva**: Cuando aprendemos los unos de los otros y nos unimos para alcanzar objectivos comunes, el cielo es el límite. Esa motivación, esa fuerza que me ha dado nuestro equipo de trabajo, su dedicación, comentarios y retroalimentación son la llama que nos mueve a seguir construyendo.
+• **La fuerza mobilizadora de la inteligencia colectiva**: Cuando aprendemos los unos de los otros y nos unimos para alcanzar metas y objetivos comunes el cielo es el límite. Esa motivación, esa fuerza que me ha dado nuestro equipo de trabajo, su dedicación, comentarios y retroalimentación son una de las fuentes de energía más grandes para seguir construyendo.
 
 • **Confiar en el otro, las buenas intensiones**: Tenemos tantas cosas por hacer, incontables detalles, cosas que decidir, preparar, hacer y compartir para poder llevar [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"} adelante. Todo es posible gracias a que hemos aprendido a confiar en nuestra intensión más profunda, en la capacidad y la pasión que nos une en esta hermosa causa.
 
