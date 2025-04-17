@@ -153,7 +153,7 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [Plaza’s Escuela de Cocina]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Ana Dourado]{:target="blank"} y [Gabriele Bonci]{:target="blank"}.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -172,12 +172,6 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@dunitasbakery]: https://www.instagram.com/dunitasbakery
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
-[Panadero Artesanal]: https://www.instagram.com/panadero_artesanal
-[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
-[Instituto Europeo del PAN]: https://escuelaiepan.com/
-[Plaza’s Escuela de Cocina]: https://www.youtube.com/@ZonaDeleitePlazas
-[Trina Arocha]: https://www.instagram.com/trinaarocha
-[@pandemelao]: https://www.instagram.com/pandemelao
-[@oreganobaguette]: https://www.instagram.com/oreganobaguette
+[Ana Dourado]: https://www.instagram.com/ana_tremmel/
+[Gabriele Bonci]: https://en.wikipedia.org/wiki/Gabriele_Bonci
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
-[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
