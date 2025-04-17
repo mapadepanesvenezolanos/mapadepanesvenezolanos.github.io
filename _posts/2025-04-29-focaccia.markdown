@@ -12,7 +12,7 @@ formula_name: "focaccia"
 
 ---
 
-Ahora vamos a hacer una Focaccia utilizando el método indirecto con prefermento poolish.
+Ahora vamos a hacer una Focaccia utilizando el método indirecto con levadura instantánea.
 
 ## RECETA, FÓRMULA y TÉCNICAS de la Focaccia al estilo Venezolano
 
@@ -46,35 +46,35 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 
 {% include whatsapp.html %}
 
-<div id="directo"></div>
+<div id="indirecto"></div>
 
 # Focaccia
 
 ## Masa leudada con levadura instantánea
 
-- Un Pan con 474g de masa.
-- Una masa semi rústica entre 55% y 65% de hidratación.
-- Contiene azúcar y grasa.
+- Una Focaccia de 995g de masa.
+- Una masa suave, alveolada entre 80% de hidratación.
+- Contiene azúcar y grasa (aceite de oliva).
 
 ### Ingredientes para preparar Focaccia al estilo Venezolano (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      282g |
-| Agua                                                         |      55%      |      155g |
-| Levadura instantánea                                         |       1%      |        3g |
-| Sal                                                          |       2%      |        6g |
-| Azúcar                                                       |       5%      |       14g |
-| Grasa                                                        |       5%      |       14g |
+| Harina panadera                                              |      100%     |      539g |
+| Agua                                                         |       75%     |      404g |
+| Levadura instantánea                                         |      0.2%     |        1g |
+| Sal                                                          |      1.5%     |        8g |
+| Grasa (Aceite de oliva)                                      |        5%     |       27g |
+| Azúcar                                                       |        3%     |       16g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **168%**    |  **474g** |
+| **Total**                                                    |   **184.7%**  |  **995g** |
 
-### Calculadora para preparar el Pan Campesino Venezolano
+### Calculadora para preparar el Foccacia al estilo Venezolano
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Pan Campesino Venezolano
+## Paso a paso para preparar el Foccacia al estilo Venezolano
 
 <div id="preparacion"></div>
 
