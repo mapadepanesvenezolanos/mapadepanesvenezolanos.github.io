@@ -1,0 +1,304 @@
+---
+title:  "Focaccia"
+subtitle: "Deliciosa adaptación de la clásica focaccia italiana, reinventada con un toque criollo que la hace única"
+description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
+date:   2025-04-29 18:00:39 -0400
+published: false
+permalink: /panes-venezolanos/focaccia/
+categories: pan tipo plano heredados
+keywords:  focaccia, focaccia origen, focaccia venezolana historia, historia de la focaccia, focaccia venezolana, receta de focaccia, pan focaccia receta original, origen del pan focaccia, pan focaccia receta, receta pan focaccia, receta de focaccia venezolana, pan focaccia, cuanto pesa una focaccia, receta pan focaccia venezolana, pan focaccia venezuela, pan focaccia redondo, como hacer focaccia, focaccia grande, receta de focaccia, panes focaccia, diferencia entre pizza y focaccia, pan focaccia historia, como hacer, pan focaccia venezolana, focaccia venezolana, pan focaccia casero, como hacer pan focaccia casero, pan focaccia en venezuela, pan focaccia relleno, focaccia pan, pan focaccia
+featured_image: '/images/panes/focaccia/focaccia.jpg'
+formula_name: "focaccia"
+
+---
+
+Ahora vamos a hacer una Focaccia utilizando el método indirecto con prefermento poolish.
+
+## RECETA, FÓRMULA y TÉCNICAS de la Focaccia al estilo Venezolano
+
+## Resultado esperado
+
+Es un Pan tipo plano de textura esponjosa y suave, Al igual que la focaccia italiana, la versión venezolana mantiene una miga aireada y una textura interna húmeda, gracias al uso generoso de aceite de oliva y a una buena fermentación. La corteza suele ser ligeramente crujiente por fuera, especialmente si se hornea con un poco de aceite en la superficie. 
+
+## Origen de la Focaccia 
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+"El misterioso origen de la focaccia:
+
+Se cree que la focaccia tiene sus raíces en la antigua Roma, donde se elaboraba un pan plano llamado «panis focacius» en los hornos comunales. Este pan se horneaba en las brasas, lo que le daba su característica textura crujiente por fuera y suave por dentro. 
+
+Otra teoría sugiere que la focaccia se originó en la región de Liguria, en el noroeste de Italia, donde se preparaba como un alimento básico simple con aceite de oliva, sal marina y hierbas locales.
+
+A lo largo de los siglos, la receta básica de la focaccia ha evolucionado y se ha adaptado a las preferencias regionales, dando lugar a variaciones como la focaccia genovesa, cubierta con sal gruesa y romero; o la focaccia barese, que se rellena con tomate cherry y aceitunas.
+
+La popularidad actual de la focaccia fuera de Italia se debe en parte a su versatilidad en la cocina moderna. Se puede servir como acompañamiento, como base para pizzas o incluso como un sándwich relleno.
+
+En resumen, la focaccia es mucho más que un simple pan; es un producto de siglos de tradición culinaria e innovación gastronómica que ha conquistado paladares en todo el mundo." 
+
+[^1]: https://reyvinoblanco.com/cual-es-el-origen-del-pan-focaccia/, Rey Vino Blanco
+
+### Migración italiana a Venezuela
+
+Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria italiana. Miles de familias llegaron al país huyendo de la posguerra, muchos de ellos desde regiones como Liguria, Campania y Sicilia. Estos inmigrantes trajeron consigo sus costumbres, recetas y tradiciones culinarias, incluyendo preparaciones como pasta fresca, pizza… y por supuesto, la focaccia. Inicialmente, la focaccia se preparaba en panaderías italianas tradicionales en Caracas, Maracaibo, Valencia y otras ciudades con fuerte presencia europea. Con el tiempo, se fue fusionando con ingredientes venezolanos, incorporando quesos criollos, jamón planchado, ají dulce, entre otros.
+
+## Tips para preparar Focaccia al estilo Venezolano
+
+{% include whatsapp.html %}
+
+<div id="directo"></div>
+
+# Focaccia
+
+## Masa leudada con levadura instantánea
+
+- Un Pan con 474g de masa.
+- Una masa semi rústica entre 55% y 65% de hidratación.
+- Contiene azúcar y grasa.
+
+### Ingredientes para preparar Focaccia al estilo Venezolano (1 unidad)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      282g |
+| Agua                                                         |      55%      |      155g |
+| Levadura instantánea                                         |       1%      |        3g |
+| Sal                                                          |       2%      |        6g |
+| Azúcar                                                       |       5%      |       14g |
+| Grasa                                                        |       5%      |       14g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **168%**    |  **474g** |
+
+### Calculadora para preparar el Pan Campesino Venezolano
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
+## Paso a paso para preparar el Pan Campesino Venezolano
+
+<div id="preparacion"></div>
+
+### Preparación
+
+- Pesa todos los ingredientes y colócalos en envases separados. 
+- Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
+- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano. 
+
+### Mezcla y amasado manual
+
+- Mezcla la harina con la levadura instantánea.
+- Diluye el azúcar en el agua.
+- Crea un volcán con la mezcla de harina y levadura.
+- Coloca el agua en medio del volcán, la sal alrededor del volcán y los trozos de mantequilla en el medio.
+- En el centro del volcán mezcla la harina con los líquidos hasta obtener un engrudo. Integra el resto de la harina haciendo presión para que absorba hidratación.
+- Con las dos manos sigue integrando todo hasta que la mesa y las manos estén limpias.
+- Amasa por dos minutos y deja reposar la masa por 10 minutos.
+- Después de los 10 minutos realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas 4 a 7 veces. Dejar reposar la masa tapada por 10 minutos.
+- Realiza la prueba del gluten, si todavía falta, vuelve a sobar la masa y haz reposos de 10 minutos hasta que el gluten se desarrolle. 
+- Usualmente con una o dos tandas de sobado es suficiente.
+
+### División 
+
+- Divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
+
+### Preformado 
+
+- Realiza un preformado redondo, boleando la masa.
+
+### Descanso en mesa 
+
+- Cubre cada bola con plástico y déjala reposar diez (10) minutos o hasta que estén relajadas. 
+
+### Formado
+
+#### Barras
+
+- Estirar cada bola con el rodillo y formar un rectángulo.
+- Enrolla la masa y coloca en una bandeja engrasada.
+
+#### Hogazas
+
+- Bolea generando tensión en la superficie. 
+- Cubre cada bola con plástico.
+
+### Precalentar el horno
+
+- Precalienta el horno a 240ºC/460ºF con un caldero en el piso del horno.
+
+### Maduración
+
+- Deja los pastones reposar unas dos (2) horas y media a 180 minutos aproximadamente o hasta que se dupliquen en tamaño. El tiempo varía en base a la temperatura del día. Puede ser más o menos.
+
+### Barnices, coberturas y cortes
+
+- Coloca agua sobre cada pastón con un aspersor.
+- Realiza tres cortes en la dirección del pastón, el corte siguiente se solapa un tercio con el anterior.
+- Evita los cortes de forma transversal que atraviesan el pastón de un lado a otro..
+
+### Horneado
+
+- Reduce la temperatura del horno a 220ºC/410ºF.
+- Introduce la bandeja en el horno.
+- Coloca tres hielos en el caldero y cierra la puerta.
+- Deja el vapor en el horno durante diez (10) minutos.
+- Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC/355ºF.
+- Deja el Pan entre 20 a 25 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
+
+### Enfriamiento
+
+- Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
+
+---
+
+<div id="pie"></div>
+
+#  Pan Campesino Venezolano con Pie Francés
+
+## Masa mejorada con preferemento Pie Francés
+
+Planifica dos días para la preparación de tu pan.
+* Día 1: Preparación del prefermento pie francés.
+* Día 2: Preparación de la masa del pan, horneado, enfriado y consumo.
+
+### Prefermento Pie Francés
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |     100%      |      155g |
+| Agua                                                         |      65%      |      101g |
+| Levadura instantánea seca                                    |     0.66%     |        1g |
+| Sal                                                          |       2%      |        3g |
+|--------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |  **167.66%**  |  **260g** |
+
+### Ingredientes para preparar el Pan Campesino Venezolano con Pie Francés (1 unidad)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      124g |
+| Agua                                                         |       65%     |       80g |
+| Levadura instantánea                                         |        1%     |        1g |
+| Sal                                                          |        4%     |        5g |
+| Grasa (Mantequilla sin sal)                                  |       11%     |       14g |
+| Azúcar                                                       |       11%     |       14g |
+| Preferemento Pie Francés                                     |      191%     |      236g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |    **383%**   |  **474g** |
+
+### Calculadora para preparar el Pan Campesino Venezolano con Pie Francés 
+
+{% include calculadora-de-panes2.html %}
+
+## Paso a paso para preparar el Pan Campesino Venezolano con Pie Francés 
+
+### Preparación
+
+- Pesa todos los ingredientes y colócalos en envases separados. 
+- Asegúrate que cada ingrediente está bien pesado de acuerdo a la fórmula.
+- Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que va a utilizar durante el proceso al alcance de la mano. 
+
+### Mezcla y amasado manual
+
+- Mezcla la harina con la levadura instantánea.
+- Diluye el azúcar en el agua.
+- Crea un volcán con la mezcla de harina y levadura.
+- Coloca el agua en medio del volcán, la sal alrededor del volcán y los trozos de mantequilla en el medio.
+- En el centro del volcán mezcla la harina con los líquidos hasta obtener un engrudo. Integra el resto de la harina haciendo presión para que absorba hidratación..
+- Con las dos manos sigue integrando todo hasta que la mesa y las manos estén limpias.
+- Amasa por dos minutos y deja reposar la masa por 10 minutos.
+- Incorpora el pie francés en trozos a la masa hasta que incorpores todo. Amasa por 2 minutos y deja la masa reposar por 10 minutos.
+- Después de los 10 minutos realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas 4 a 7 veces. Dejar reposar la masa tapada por 10 minutos.
+- Realiza la prueba del gluten, si todavía falta, vuelve a sobar la masa y haz reposos de 10 minutos hasta que el gluten se desarrolle. 
+- Usualmente con una o dos tandas de sobado es suficiente.
+
+### Fermentación en bloque y retardo
+
+- Deja la masa tapada a temperatura ambiente por una hora.
+- Lleva la masa tapada a la nevera por al menos 6h, recomendable 18h.
+
+### División 
+
+- Al sacar la masa de la nevera déjala atemperar por 15 minutos.
+- Divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
+
+### Preformado 
+
+- Realiza un preformado en barra.
+
+### Descanso en mesa 
+
+- Cubre cada bola con plástico y déjala reposar 30 minutos o hasta que estén relajadas. 
+
+### Formado
+
+#### Barras
+
+- Estirar cada bola con el rodillo y formar un rectángulo.
+- Enrolla la masa y coloca en una bandeja engrasada.
+
+#### Hogazas
+
+- Bolea generando tensión en la superficie. 
+- Cubre cada bola con plástico.
+
+### Precalentar el horno
+
+- Precalienta el horno a 240ºC/460ºF con un caldero en el piso del horno.
+
+### Maduración
+
+- Deja los pastones reposar 90 minutos aproximadamente o hasta que se dupliquen en tamaño. El tiempo varía en base a la temperatura del día. Puede ser más o menos.
+
+### Barnices, coberturas y cortes
+
+- Coloca agua sobre cada pastón con un aspersor.
+- Realiza tres cortes en la dirección del pastón, el corte siguiente se solapa un tercio con el anterior.
+- Evita los cortes de forma transversal que atraviesan el pastón de un lado a otro..
+
+### Horneado
+
+- Reduce la temperatura del horno a 220ºC/410ºF.
+- Introduce la bandeja en el horno.
+- Coloca tres hielos en el caldero y cierra la puerta.
+- Deja el vapor en el horno durante diez (10) minutos.
+- Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC/355ºF.
+- Deja el Pan entre 20 a 25 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
+
+### Enfriamiento
+
+- Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
+
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"} y [Plaza’s Escuela de Cocina]{:target="blank"}.
+
+Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
+
+Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 2.0__ 
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Panadero Artesanal]: https://www.instagram.com/panadero_artesanal
+[Chef Laszlo Gyomrey]: https://www.youtube.com/@Mirecetadepancom
+[Instituto Europeo del PAN]: https://escuelaiepan.com/
+[Plaza’s Escuela de Cocina]: https://www.youtube.com/@ZonaDeleitePlazas
+[Trina Arocha]: https://www.instagram.com/trinaarocha
+[@pandemelao]: https://www.instagram.com/pandemelao
+[@oreganobaguette]: https://www.instagram.com/oreganobaguette
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela, Adriana Gibbs.
