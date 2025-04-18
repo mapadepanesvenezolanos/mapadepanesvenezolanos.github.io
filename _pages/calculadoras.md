@@ -17,5 +17,5 @@ En la panadería se usa la fórmula panadera para conocer la proporción de los 
 
 Cuando hacemos panes en casa es muy útil calcular que bandeja utilizar para una cantidad de masa dada, especialmente cuando preparamos pandes de molde o panes planos como la focaccia. Esta calculadora te puede ayudar:
 
-- [Del Peso de la masa a la bandeja Bandeja](/calculadoras/peso-bandeja)
+- [Del Peso del pan al tipo de bandeja ](/calculadoras/peso-bandeja)
 
