@@ -116,7 +116,7 @@ Para obtener la crocancia y suavidad del primer día, coloque su hogaza de pan e
 - Integra el prefermento pie (masa madre) con la masa hasta que quede bien mezclada.
 - Cubre el envase con una bolsa de plástico, o paño de tela y luego deja reposar en mesa a temperatura ambiente (25 grados centígrados) durante 20 minutos.
 
-### Fermentación en bloque y retardo
+### Manipulación
 
 En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
 

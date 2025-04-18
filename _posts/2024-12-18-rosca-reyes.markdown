@@ -172,7 +172,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Retardo en nevera (opcional)
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendamos meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado

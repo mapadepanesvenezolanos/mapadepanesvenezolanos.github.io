@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Calculadora de Bandeja para Pan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: auto;
+      padding: 20px;
+    }
+    label, input, button {
+      display: block;
+      width: 100%;
+      margin-bottom: 15px;
+    }
+    .resultado {
+      padding: 10px;
+      background-color: #f0f0f0;
+      border-radius: 5px;
+      white-space: pre-line;
+    }
+    a {
+      color: #007BFF;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <h1>Calculadora de Bandeja para Pan</h1>
+  <label for="pesoMasa">Peso de la masa (en gramos):</label>
+  <input type="number" id="pesoMasa" placeholder="Ej: 500" required>
+  <button onclick="calcularBandeja()">Calcular Bandeja</button>
+  <div class="resultado" id="resultado"></div>
+
+  <script>
+    function calcularBandeja() {
+      const peso = parseFloat(document.getElementById("pesoMasa").value);
+      let resultado = "";
+
+      if (isNaN(peso) || peso <= 0) {
+        resultado = "Por favor, ingresa un peso válido.";
+      } else if (peso <= 400) {
+        resultado = `📦 Recomendación:
+Modelo: Bandeja pequeña antiadherente
+Dimensiones: 20 cm largo x 10 cm ancho x 4 cm alto
+Ideal para: Panes individuales o focaccias pequeñas.
+🔗 <a href="https://www.amazon.com/dp/B001D06UKE" target="_blank">Ver en Amazon</a>
+🔗 <a href="https://www.mercadolibre.com.ve/p/B001D06UKE" target="_blank">Ver en MercadoLibre Venezuela</a>
+🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+      } else if (peso <= 800) {
+        resultado = `📦 Recomendación:
+Modelo: Bandeja mediana de acero aluminizado
+Dimensiones: 30 cm largo x 20 cm ancho x 5 cm alto
+Ideal para: Focaccias medianas o panes caseros.
+🔗 <a href="https://www.amazon.com/dp/B003YKGR58" target="_blank">Ver en Amazon</a>
+🔗 <a href="https://www.mercadolibre.com.ve/p/B003YKGR58" target="_blank">Ver en MercadoLibre Venezuela</a>
+🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+      } else if (peso <= 1500) {
+        resultado = `📦 Recomendación:
+Modelo: Bandeja grande tipo gastronorm
+Dimensiones: 40 cm largo x 30 cm ancho x 6 cm alto
+Ideal para: Panes familiares, ciabattas grandes o focaccias grandes.
+🔗 <a href="https://www.amazon.com/dp/B07R9KR7RP" target="_blank">Ver en Amazon</a>
+🔗 <a href="https://www.mercadolibre.com.ve/p/B07R9KR7RP" target="_blank">Ver en MercadoLibre Venezuela</a>
+🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+      } else {
+        resultado = `📦 Recomendación:
+Modelo: Bandeja industrial para horno de panadería
+Dimensiones: 60 cm largo x 40 cm ancho x 7 cm alto
+Ideal para: Producción a gran escala. Puedes dividir la masa entre 2 o más bandejas para mejor cocción.
+🔗 <a href="https://www.amazon.com/dp/B00JESLU1A" target="_blank">Ver en Amazon</a>
+🔗 <a href="https://www.mercadolibre.com.ve/p/B00JESLU1A" target="_blank">Ver en MercadoLibre Venezuela</a>
+🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+      }
+
+      document.getElementById("resultado").innerHTML = resultado;
+    }
+  </script>
+</body>
+</html>
