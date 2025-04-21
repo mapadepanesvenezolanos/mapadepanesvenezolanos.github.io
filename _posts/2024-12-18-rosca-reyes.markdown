@@ -247,4 +247,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Escuela de Cocina Plaza's]: https://www.instagram.com/escueladecocinaelplazas
 [@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
 [@steconstance]: http://www.instagram.com/steconstance
-[Ibán Yarza]: https://www.instagram.com/ibanyarz
+[Ibán Yarza]: https://www.instagram.com/ibanyarza/
