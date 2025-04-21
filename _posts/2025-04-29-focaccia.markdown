@@ -42,7 +42,7 @@ En resumen, la focaccia es mucho más que un simple pan; es un producto de siglo
 
 Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria italiana. Miles de familias llegaron al país huyendo de la posguerra, muchos de ellos desde regiones como Liguria, Campania y Sicilia. Estos inmigrantes trajeron consigo sus costumbres, recetas y tradiciones culinarias, incluyendo preparaciones como pasta fresca, pizza… y por supuesto, la focaccia. Inicialmente, la focaccia se preparaba en panaderías italianas tradicionales en Caracas, Maracaibo, Valencia y otras ciudades con fuerte presencia europea. Con el tiempo, se fue fusionando con ingredientes venezolanos, incorporando quesos criollos, jamón planchado, ají dulce, entre otros.
 
-## Tips para preparar Focaccia al estilo Venezolano
+## Tips para preparar Focaccia tradicional
 
 {% include whatsapp.html %}
 
@@ -54,27 +54,25 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 
 - Una Focaccia de 995g de masa.
 - Una masa suave, alveolada entre 80% de hidratación.
-- Contiene azúcar y grasa (aceite de oliva).
 
-### Ingredientes para preparar Focaccia al estilo Venezolano (1 unidad)
+### Ingredientes para preparar Focaccia tradicional (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      539g |
-| Agua                                                         |       75%     |      404g |
+| Harina panadera                                              |      100%     |      546g |
+| Agua                                                         |       75%     |      410g |
 | Levadura instantánea                                         |      0.2%     |        1g |
-| Sal                                                          |      1.5%     |        8g |
+| Sal                                                          |        2%     |       11g |
 | Grasa (Aceite de oliva)                                      |        5%     |       27g |
-| Azúcar                                                       |        3%     |       16g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **184.7%**  |  **995g** |
 
-### Calculadora para preparar el Foccacia al estilo Venezolano
+### Calculadora para preparar el Foccacia tradicional
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Foccacia al estilo Venezolano
+## Paso a paso para preparar el Foccacia tradicional
 
 <div id="preparacion"></div>
 
@@ -114,8 +112,9 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 - Saca la bolsa de la nevera
 - Lleva la masa a la mesa de trabajo.
 - Estira y pliega la masa como un cuaderno. 
-- Deja reposar la masa tapada en su envase por treinta (30) minutos.
+- Deja reposar la masa tapada en un envase por sesenta (60) minutos.
 - Estira y pliega una segunda vez la masa como un cuaderno. 
+- Deja reposar la masa tapada en un envase por sesenta (60) minutos.
 
 ### Formado
 

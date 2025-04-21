@@ -11,38 +11,14 @@
 
       if (isNaN(peso) || peso <= 0) {
         resultado = "Por favor, ingresa un peso válido.";
-      } else if (peso <= 400) {
-        resultado = `📦 Recomendación:
-Modelo: Bandeja pequeña antiadherente
-Dimensiones: 20 cm largo x 10 cm ancho x 4 cm alto
-Ideal para: Panes individuales o focaccias pequeñas.
-🔗 <a href="https://www.amazon.com/dp/B001D06UKE" target="_blank">Ver en Amazon</a>
-🔗 <a href="https://www.mercadolibre.com.ve/p/B001D06UKE" target="_blank">Ver en MercadoLibre Venezuela</a>
-🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
-      } else if (peso <= 800) {
-        resultado = `📦 Recomendación:
-Modelo: Bandeja mediana de acero aluminizado
-Dimensiones: 30 cm largo x 20 cm ancho x 5 cm alto
-Ideal para: Focaccias medianas o panes caseros.
-🔗 <a href="https://www.amazon.com/dp/B003YKGR58" target="_blank">Ver en Amazon</a>
-🔗 <a href="https://www.mercadolibre.com.ve/p/B003YKGR58" target="_blank">Ver en MercadoLibre Venezuela</a>
-🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
-      } else if (peso <= 1500) {
-        resultado = `📦 Recomendación:
-Modelo: Bandeja grande tipo gastronorm
-Dimensiones: 40 cm largo x 30 cm ancho x 6 cm alto
-Ideal para: Panes familiares, ciabattas grandes o focaccias grandes.
-🔗 <a href="https://www.amazon.com/dp/B07R9KR7RP" target="_blank">Ver en Amazon</a>
-🔗 <a href="https://www.mercadolibre.com.ve/p/B07R9KR7RP" target="_blank">Ver en MercadoLibre Venezuela</a>
-🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+      } else if (peso <= 500) {
+        resultado = `Recomendamos una bandeja pequeña (20x10 cm) o molde tipo budín.`;
+      } else if (peso <= 1000) {
+        resultado = `Recomendamos una bandeja mediana (25x15 cm) o molde tipo inglés.`;
+      } else if (peso <= 2000) {
+        resultado = `Recomendamos una bandeja grande (30x20 cm) o bandeja metálica profunda.`;
       } else {
-        resultado = `📦 Recomendación:
-Modelo: Bandeja industrial para horno de panadería
-Dimensiones: 60 cm largo x 40 cm ancho x 7 cm alto
-Ideal para: Producción a gran escala. Puedes dividir la masa entre 2 o más bandejas para mejor cocción.
-🔗 <a href="https://www.amazon.com/dp/B00JESLU1A" target="_blank">Ver en Amazon</a>
-🔗 <a href="https://www.mercadolibre.com.ve/p/B00JESLU1A" target="_blank">Ver en MercadoLibre Venezuela</a>
-🔗 <a href="https://www.epaenlinea.com/bandejas" target="_blank">Ver en EPA Venezuela</a>`;
+        resultado = `Recomendamos bandejas múltiples o una bandeja industrial (40x30 cm o más).`;
       }
 
       document.getElementById("resultado").innerHTML = resultado;
