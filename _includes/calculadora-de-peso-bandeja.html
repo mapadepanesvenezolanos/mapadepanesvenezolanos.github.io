@@ -1,26 +1,83 @@
-<div class="container">
-  <p class="non-printable no-pl">Escribe el Peso de la masa (en gramos) del pan que deseas preparar:.</p>
-    <input type="number" id="pesoMasa" placeholder="Ej: 500" required>
-    <button onclick="calcularBandeja()">Calcular tipo de bandeja</button>
-    <div class="form-group row topingredient" id="resultado"></div>  
-</div>
+<!-- Recomendador de Bandejas para Panes Venezolanos -->
+<section class="recomendador-bandejas">
+  <h2>Recomendador de Bandejas para Panes Venezolanos</h2>
+  <form id="form-recomendador">
+    <label for="tipoPan">Tipo de pan:</label>
+    <select id="tipoPan" name="tipoPan" required>
+      <option value="">-- Selecciona un pan --</option>
+      <option value="pan_canilla">Pan Canilla</option>
+      <option value="pan_jamon">Pan de Jamón</option>
+      <option value="golfeado">Golfeado</option>
+      <option value="pan_leche">Pan de Leche</option>
+      <option value="pan_campesino">Pan Campesino</option>
+      <option value="pan_frances">Pan Francés</option>
+      <option value="pan_yuca">Pan de Yuca</option>
+      <option value="pan_pinita">Pan Piñita</option>
+      <option value="pan_afrecho">Pan de Afrecho</option>
+      <option value="pan_avena">Pan de Avena/Muesli</option>
+      <option value="cachito">Cachito</option>
+      <option value="pan_tovareno">Pan Tovareño</option>
+      <option value="pan_sobao">Pan Sobao</option>
+      <option value="pan_camaleon">Pan Camaleón</option>
+      <option value="pan_coco">Pan de Coco</option>
+    </select>
+
+    <label for="pesoMasa">Peso de la masa (en gramos):</label>
+    <input type="number" id="pesoMasa" name="pesoMasa" min="100" step="50" placeholder="Ejemplo: 500" required>
+
+    <button type="submit">Recomendar Bandeja</button>
+  </form>
+
+  <div id="resultado" class="resultado"></div>
+</section>
+
 <script>
-    function calcularBandeja() {
-      const peso = parseFloat(document.getElementById("pesoMasa").value);
-      let resultado = "";
+  document.getElementById('form-recomendador').addEventListener('submit', function(event) {
+    event.preventDefault();
 
-      if (isNaN(peso) || peso <= 0) {
-        resultado = "Por favor, ingresa un peso válido.";
-      } else if (peso <= 500) {
-        resultado = `Recomendamos una bandeja pequeña (20x10 cm) o molde tipo budín.`;
-      } else if (peso <= 1000) {
-        resultado = `Recomendamos una bandeja mediana (25x15 cm) o molde tipo inglés.`;
-      } else if (peso <= 2000) {
-        resultado = `Recomendamos una bandeja grande (30x20 cm) o bandeja metálica profunda.`;
-      } else {
-        resultado = `Recomendamos bandejas múltiples o una bandeja industrial (40x30 cm o más).`;
-      }
+    const tipoPan = document.getElementById('tipoPan').value;
+    const peso = parseInt(document.getElementById('pesoMasa').value);
+    const resultado = document.getElementById('resultado');
 
-      document.getElementById("resultado").innerHTML = resultado;
+    if (!tipoPan || isNaN(peso)) {
+      resultado.textContent = 'Por favor, selecciona un tipo de pan y proporciona el peso de la masa.';
+      return;
     }
-  </script>
+
+    let recomendacion = '';
+
+    switch (tipoPan) {
+      case 'pan_canilla':
+      case 'pan_frances':
+        recomendacion = peso <= 500 ? 'Bandeja plana estándar (40x30 cm)' : 'Bandeja plana grande (60x40 cm)';
+        break;
+      case 'pan_jamon':
+      case 'golfeado':
+      case 'pan_leche':
+      case 'pan_pinita':
+        recomendacion = 'Bandeja plana antiadherente o perforada (40x30 cm)';
+        break;
+      case 'pan_campesino':
+      case 'pan_afrecho':
+      case 'pan_avena':
+      case 'pan_camaleon':
+        recomendacion = 'Bandeja plana o molde rectangular según la forma deseada';
+        break;
+      case 'pan_yuca':
+      case 'pan_coco':
+        recomendacion = 'Molde rectangular o bandeja plana antiadherente';
+        break;
+      case 'cachito':
+        recomendacion = 'Bandeja plana antiadherente (40x30 cm)';
+        break;
+      case 'pan_tovareno':
+      case 'pan_sobao':
+        recomendacion = 'Molde rectangular o bandeja plana según la receta';
+        break;
+      default:
+        recomendacion = 'Bandeja estándar (40x30 cm)';
+    }
+
+    resultado.textContent = `Recomendación: ${recomendacion}`;
+  });
+</script>
