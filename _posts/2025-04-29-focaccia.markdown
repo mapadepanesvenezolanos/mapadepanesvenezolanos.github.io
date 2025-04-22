@@ -14,7 +14,7 @@ formula_name: "focaccia"
 
 Ahora vamos a hacer una Focaccia utilizando el método indirecto con levadura instantánea.
 
-## RECETA, FÓRMULA y TÉCNICAS de la Focaccia tradicional
+## RECETA, FÓRMULA y TÉCNICAS 
 
 ## Resultado esperado
 
