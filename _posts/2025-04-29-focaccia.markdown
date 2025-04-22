@@ -2,7 +2,7 @@
 title:  "Focaccia"
 subtitle: "Deliciosa adaptación de la clásica focaccia italiana, reinventada con un toque criollo que la hace única"
 description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
-date:   2025-04-29 18:00:39 -0400
+date:   2025-04-23 18:00:39 -0400
 published: false
 permalink: /panes-venezolanos/focaccia/
 categories: pan tipo plano heredados
@@ -14,7 +14,7 @@ formula_name: "focaccia"
 
 Ahora vamos a hacer una Focaccia utilizando el método indirecto con levadura instantánea.
 
-## RECETA, FÓRMULA y TÉCNICAS de la Focaccia al estilo Venezolano
+## RECETA, FÓRMULA y TÉCNICAS de la Focaccia tradicional
 
 ## Resultado esperado
 
@@ -42,7 +42,7 @@ En resumen, la focaccia es mucho más que un simple pan; es un producto de siglo
 
 Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria italiana. Miles de familias llegaron al país huyendo de la posguerra, muchos de ellos desde regiones como Liguria, Campania y Sicilia. Estos inmigrantes trajeron consigo sus costumbres, recetas y tradiciones culinarias, incluyendo preparaciones como pasta fresca, pizza… y por supuesto, la focaccia. Inicialmente, la focaccia se preparaba en panaderías italianas tradicionales en Caracas, Maracaibo, Valencia y otras ciudades con fuerte presencia europea. Con el tiempo, se fue fusionando con ingredientes venezolanos, incorporando quesos criollos, jamón planchado, ají dulce, entre otros.
 
-## Tips para preparar Focaccia tradicional
+## Tips para preparar Focaccia tradicional 
 
 {% include whatsapp.html %}
 
@@ -67,12 +67,12 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |   **182.2%**  |  **995g** |
 
-### Calculadora para preparar el Foccacia tradicional
+### Calculadora para preparar el Foccacia tradicional 
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Foccacia tradicional
+## Paso a paso para preparar el Foccacia tradicional 
 
 <div id="preparacion"></div>
 
@@ -85,25 +85,25 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 
 ### Mezcla y amasado manual
 
-- En un primer envase, mezcla la harina con la levadura instantánea.
-- En un segundo envase, diluye el azúcar en el agua.
+- En un envase mezcla la harina con la levadura instantánea.
 - Crea un volcán con la mezcla de harina y levadura instantánea.
-- Coloca el agua con azúcar en medio del volcán, la sal alrededor del volcán y el aceite de oliva en el centro.
-- Mezcla los ingredientes sólidos con los líquidos hasta obtener un engrudo. Integra el resto de la harina haciendo presión para que absorba hidratación.
-- Con las dos manos sigue integrando todo hasta que la mesa y las manos estén limpias.
-- Amasa por dos minutos y deja reposar la masa por 10 minutos.
+- Coloca la sal alrededor del volcán, el agua en medio del volcán y el aceite de oliva en el centro.
+- Mezcla los ingredientes sólidos con los líquidos hasta obtener un engrudo. 
+- Integra el resto de la harina haciendo presión para que absorba hidratación.
+- Con las dos manos sigue integrando todo hasta que la masa y las manos estén limpias.
+- Amasa por dos (2) minutos y deja reposar la masa por diez (10) minutos.
 
 ### Conservación de la masa al vacío  
 
-Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando una bolsa tipo ziplock y una olla con agua. 
-- Mete tu bolita de masa en la bolsa plástica tipo ziplock y la cierras hasta el 80%.
+Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando una bolsa tipo ziplock y una olla con agua: 
+- Mete tu bolita de masa en la bolsa plástica tipo ziplock y la cierras hasta el ochenta (80) porciento (%).
 - Llena con agua una olla hasta la mitad de su capacidad.
 - Introduce poco a poco la bolsa en el agua y con los dedos, extrae poco a poco el aire dentro, asegurandote que no le entre agua a la bolsa en el proceso.
 - Cierre la bolsa.
 
 ### Retardo en nevera
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu bolsa plástica tipo ziplock en la nevera a cuatro (4) grados centígrados entre seis (18)y veinticuatro (24) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu bolsa plástica tipo ziplock en la nevera a cuatro (4) grados centígrados entre doce (12) y dieciocho (18) horas.
 
 ### Manipulación
 
@@ -118,34 +118,46 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ### Formado
 
-- Deposita la masa en una bandeja de metal de vein (40) cm de largo x treinta (30) cm de ancho y seis (6) cm alto, previamente engrasada con una capa fina de aceite de oliva.
-
-### Precalentar el horno
-
-- Precalienta el horno a 240ºC/460ºF con un caldero en el piso del horno.
+- Deposita la masa en una bandeja de metal de treinta (30) cm de largo x veinte (20) cm de ancho y seis (6) cm alto, previamente engrasada con una capa fina de aceite de oliva.
 
 ### Maduración
 
-- Deja los pastones reposar unas dos (2) horas y media a 180 minutos aproximadamente o hasta que se dupliquen en tamaño. El tiempo varía en base a la temperatura del día. Puede ser más o menos.
+- Deja reposar durante ciento veinte (120) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+
+### Precalentar el horno
+
+- Precalienta el horno a 230ºC/450ºF con un caldero en el piso del horno.
 
 ### Barnices, coberturas y cortes
 
-- Coloca agua sobre cada pastón con un aspersor.
-- Realiza tres cortes en la dirección del pastón, el corte siguiente se solapa un tercio con el anterior.
-- Evita los cortes de forma transversal que atraviesan el pastón de un lado a otro..
+- Rocía la masa con un poco de aceite de oliva extra virgen para evitar que se pegue a los dedos y aportar sabor.
+- Presiona suavemente con los dedos para hacer los característicos hoyuelos de la Focaccia.
+
+#### Elige tus ingredientes decorativos
+
+-Estas son algunas ideas (puedes combinar) para decorar tu Focaccia:
+
+| Tipo                             |           Ingredientes sugeridos            |
+|:---------------------------------|:-------------------------------------------:|
+| Aromáticos	                   | Romero, tomillo, albahaca, salvia           |
+| Vegetales	                       | Tomates cherry, cebolla morada, pimientos   |
+| Frutales	                       | Uvas, aceitunas, higos                      |
+| Detalles                         | Ajo en láminas, semillas (sésamo, amapola)  |
+| Colores	                       | Zanahoria rallada, espinaca, betabel cocido |
+| ---------------------------------|---------------------------------------------|
 
 ### Horneado
 
-- Reduce la temperatura del horno a 220ºC/410ºF.
 - Introduce la bandeja en el horno.
 - Coloca tres hielos en el caldero y cierra la puerta.
-- Deja el vapor en el horno durante diez (10) minutos.
-- Abre el horno y con cuidado deja escapar el vapor acumulado. Reduzca la temperatura del horno a 180ºC/355ºF.
-- Deja el Pan entre 20 a 25 minutos más o hasta que estén bien dorados y con una temperatura interna de 93ºC.
+- Deja hornear la focaccia entre veinte (20) y veinticinco (25) minutos más o hasta que esté bien dorada la superficie o con una la miga alcance una temperatura interna de 93ºC.
+- Saca la bandeja del horno.
+- Apaga el horno.
 
 ### Enfriamiento
 
-- Saca la bandeja y pasa la Focaccia a una rejilla. Deje enfriar al menos una (1) hora.
+- Saca la bandeja y pasa la Focaccia a una rejilla. 
+- Deja enfriar al menos treinta (30) minutos.
 
 ---
 

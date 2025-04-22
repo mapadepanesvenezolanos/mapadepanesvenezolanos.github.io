@@ -15,7 +15,4 @@ En la panadería se usa la fórmula panadera para conocer la proporción de los 
 - [Masa Madre](/masa-madre/masa-madre-natural-liquida)
 - [Talvina](/masa-madre/talvina)
 
-Esta calculadora te puede ayudar para tener una idea del tipo de bandeja que necesitas para hornear una cantidad de masa dada:
-
-- [Del Peso del pan al tipo de bandeja ](/calculadoras/peso-bandeja)
 
