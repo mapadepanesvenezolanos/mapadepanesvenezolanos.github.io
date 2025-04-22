@@ -7,7 +7,7 @@ published: true
 permalink: /panes-venezolanos/focaccia/
 categories: pan tipo plano heredados
 keywords:  focaccia, focaccia origen, focaccia venezolana historia, historia de la focaccia, focaccia venezolana, receta de focaccia, pan focaccia receta original, origen del pan focaccia, pan focaccia receta, receta pan focaccia, receta de focaccia venezolana, pan focaccia, cuanto pesa una focaccia, receta pan focaccia venezolana, pan focaccia venezuela, pan focaccia redondo, como hacer focaccia, focaccia grande, receta de focaccia, panes focaccia, diferencia entre pizza y focaccia, pan focaccia historia, como hacer, pan focaccia venezolana, focaccia venezolana, pan focaccia casero, como hacer pan focaccia casero, pan focaccia en venezuela, pan focaccia relleno, focaccia pan, pan focaccia
-featured_image: '/images/panes/focaccia/focaccia_01.jpg'
+featured_image: '/images/panes/focaccia/focaccia_001.jpg'
 formula_name: "focaccia"
 
 ---
@@ -175,4 +175,13 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 __Versión 1.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[@dunitasbakery]: https://www.instagram.com/dunitasbakery
+[@farinaelievito]: https://www.instagram.com/farinaelievito
+[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
+[Ana Dourado]: https://www.instagram.com/ana_tremmel/
+[Gabriele Bonci]: https://en.wikipedia.org/wiki/Gabriele_Bonci
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
