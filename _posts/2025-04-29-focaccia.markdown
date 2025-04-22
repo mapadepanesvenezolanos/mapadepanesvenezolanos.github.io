@@ -2,8 +2,8 @@
 title:  "Focaccia"
 subtitle: "Deliciosa adaptación de la clásica focaccia italiana, reinventada con un toque criollo que la hace única"
 description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
-date:   2025-04-23 18:00:39 -0400
-published: false
+date:   2025-04-22 09:00:39 -0400
+published: true
 permalink: /panes-venezolanos/focaccia/
 categories: pan tipo plano heredados
 keywords:  focaccia, focaccia origen, focaccia venezolana historia, historia de la focaccia, focaccia venezolana, receta de focaccia, pan focaccia receta original, origen del pan focaccia, pan focaccia receta, receta pan focaccia, receta de focaccia venezolana, pan focaccia, cuanto pesa una focaccia, receta pan focaccia venezolana, pan focaccia venezuela, pan focaccia redondo, como hacer focaccia, focaccia grande, receta de focaccia, panes focaccia, diferencia entre pizza y focaccia, pan focaccia historia, como hacer, pan focaccia venezolana, focaccia venezolana, pan focaccia casero, como hacer pan focaccia casero, pan focaccia en venezuela, pan focaccia relleno, focaccia pan, pan focaccia
