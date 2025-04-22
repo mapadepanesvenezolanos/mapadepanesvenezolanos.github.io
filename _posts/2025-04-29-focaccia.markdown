@@ -135,7 +135,7 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 #### Elige tus ingredientes decorativos
 
--Estas son algunas ideas (puedes combinar) para decorar tu Focaccia:
+- Estas son algunas ideas (puedes combinar) para decorar tu Focaccia:
 
 | Tipo                             |           Ingredientes sugeridos            |
 |:---------------------------------|:-------------------------------------------:|
@@ -175,13 +175,4 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 __Versión 1.0__ 
 
-Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
-
-[@hazpanencasa]: https://www.instagram.com/hazpanencasa
-[@1painalafois]: https://www.instagram.com/1painalafois
-[@dunitasbakery]: https://www.instagram.com/dunitasbakery
-[@farinaelievito]: https://www.instagram.com/farinaelievito
-[@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
-[Ana Dourado]: https://www.instagram.com/ana_tremmel/
-[Gabriele Bonci]: https://en.wikipedia.org/wiki/Gabriele_Bonci
-[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales
