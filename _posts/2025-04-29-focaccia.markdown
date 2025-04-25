@@ -1,6 +1,6 @@
 ---
-title:  "Focaccia"
-subtitle: "Deliciosa adaptación de la clásica focaccia italiana, reinventada con un toque criollo que la hace única"
+title:  "Panes Heredados - Focaccia"
+subtitle: "Nuestra versión de la deliciosa Focaccia italiana"
 description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
 date:   2025-04-22 09:00:39 -0400
 published: true
@@ -173,7 +173,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1__ 
+__Versión 1.2__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
