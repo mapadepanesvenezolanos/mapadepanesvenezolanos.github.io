@@ -95,11 +95,11 @@ Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria it
 
 ### Conservación de la masa al vacío  
 
-Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando una bolsa tipo ziplock y una olla con agua: 
-- Mete tu bolita de masa en la bolsa plástica tipo ziplock y la cierras hasta el ochenta (80) porciento (%).
-- Llena con agua una olla hasta la mitad de su capacidad.
-- Introduce poco a poco la bolsa en el agua y con los dedos, extrae poco a poco el aire dentro, asegurandote que no le entre agua a la bolsa en el proceso.
-- Cierre la bolsa.
+Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando una bolsa tipo ziploc y una olla con agua: 
+- Mete tu bolita de masa en la bolsa plástica tipo ziploc y la cierras hasta el ochenta (80) porciento (%).
+- Llena una olla con agua, hasta la mitad de su capacidad.
+- Introduce poco a poco la bolsa en el agua, y con los dedos extrae poco a poco el aire dentro, asegurandote que no le entre agua a la bolsa en el proceso.
+- Cierra la bolsa.
 
 ### Retardo en nevera
 
@@ -173,7 +173,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__ 
+__Versión 1.1__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
