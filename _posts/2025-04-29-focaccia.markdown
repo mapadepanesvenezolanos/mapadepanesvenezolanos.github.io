@@ -1,5 +1,5 @@
 ---
-title:  "Panes Heredados - Focaccia"
+title:  "Heredados - Focaccia"
 subtitle: "Nuestra versión de la deliciosa Focaccia italiana"
 description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
 date:   2025-04-22 09:00:39 -0400
@@ -110,11 +110,11 @@ Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando un
 En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
 
 - Saca la bolsa de la nevera
-- Lleva la masa a la mesa de trabajo.
+- Lleva la masa a un envase de boca grande.
 - Estira y pliega la masa como un cuaderno. 
-- Deja reposar la masa tapada en un envase por sesenta (60) minutos.
+- Deja reposar la masa tapada en un envase por veinte (20) minutos.
 - Estira y pliega una segunda vez la masa como un cuaderno. 
-- Deja reposar la masa tapada en un envase por sesenta (60) minutos.
+- Deja reposar la masa tapada en un envase por veinte (20) minutos.
 
 ### Formado
 
@@ -122,7 +122,7 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 ### Maduración
 
-- Deja reposar durante ciento veinte (120) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+- Deja reposar la masa cubierta durante ciento veinte (120) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Precalentar el horno
 
@@ -173,7 +173,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2__ 
+__Versión 2.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
