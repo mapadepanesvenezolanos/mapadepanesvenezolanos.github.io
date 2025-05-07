@@ -1,78 +1,72 @@
 ---
-title:  "Heredados - Focaccia"
-subtitle: "Nuestra versión de la deliciosa Focaccia italiana"
-description: "En el contexto venezolano, la focaccia se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
-date:   2025-04-22 09:00:39 -0400
+title:  "Heredados - Pizza"
+subtitle: "Nuestra versión de la deliciosa Pizza italiana"
+description: "Con masa suave, bordes doraditos y el toque criollo que nos identifica, esta receta es perfecta para compartir una rica Pizza entre risas, cuentos y buena compañía. Porque en cada bocado se siente el calor de nuestra mesa."
+date:   2025-05-10 09:00:39 -0400
 published: true
-permalink: /panes-venezolanos/focaccia/
+permalink: /panes-venezolanos/pizza/
 categories: pan tipo plano heredados
-keywords:  focaccia, focaccia origen, focaccia venezolana historia, historia de la focaccia, focaccia venezolana, receta de focaccia, pan focaccia receta original, origen del pan focaccia, pan focaccia receta, receta pan focaccia, receta de focaccia venezolana, pan focaccia, cuanto pesa una focaccia, receta pan focaccia venezolana, pan focaccia venezuela, pan focaccia redondo, como hacer focaccia, focaccia grande, receta de focaccia, panes focaccia, diferencia entre pizza y focaccia, pan focaccia historia, como hacer, pan focaccia venezolana, focaccia venezolana, pan focaccia casero, como hacer pan focaccia casero, pan focaccia en venezuela, pan focaccia relleno, focaccia pan, pan focaccia
-featured_image: '/images/panes/focaccia/focaccia_001.jpg'
-formula_name: "focaccia"
+keywords:  pizza, pizza origen, pizza venezolana historia, historia de la pizza, pizza venezolana, receta de pizza, pan pizza receta original, origen de la pizza,  pizza receta, receta pizza, receta de pizza venezolana, pizza, cuanto pesa una pizza, receta pizza venezolana, pizza venezuela, pizza redonda, como hacer pizza, pizza grande, panes pizza, diferencia entre pizza y focaccia, pizza historia, como hacer, pan pizza venezolana, pizza venezolana, pizza casera, como hacer pizza casera, pizza casera en venezuela, pizza hecha en casa, pizza pan
+
+featured_image: '/images/panes/pizza/pizza_001.jpg'
+formula_name: "pizza"
 
 ---
 
-Ahora vamos a hacer una Focaccia utilizando el método indirecto con levadura instantánea.
+Ahora vamos a hacer una Pizza utilizando el método indirecto con levadura instantánea.
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 
 ## Resultado esperado
 
-Es un Pan tipo plano de textura esponjosa y suave, Al igual que la focaccia italiana, la versión venezolana mantiene una miga aireada y una textura interna húmeda, gracias al uso generoso de aceite de oliva y a una buena fermentación. La corteza suele ser ligeramente crujiente por fuera, especialmente si se hornea con un poco de aceite en la superficie. 
+Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por dentro, con el queso bien derretido y burbujeante, y los ingredientes distribuidos de forma equilibrada. La masa, hecha a base de harina de trigo y levadura, debe tener buen sabor y una textura ligera, aportando una experiencia casera, personalizada y satisfactoria que combina técnica, gusto y creatividad. 
 
-## Origen de la Focaccia 
+## Origen de la Pizza 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-"El misterioso origen de la focaccia:
+"​La pizza, tal como la conocemos hoy, tiene sus raíces en Nápoles, Italia, donde en el siglo XVIII se popularizó como un alimento accesible para las clases trabajadoras. La adición del tomate, traído de América, transformó los panes planos tradicionales en la pizza moderna." 
 
-Se cree que la focaccia tiene sus raíces en la antigua Roma, donde se elaboraba un pan plano llamado «panis focacius» en los hornos comunales. Este pan se horneaba en las brasas, lo que le daba su característica textura crujiente por fuera y suave por dentro. 
-
-Otra teoría sugiere que la focaccia se originó en la región de Liguria, en el noroeste de Italia, donde se preparaba como un alimento básico simple con aceite de oliva, sal marina y hierbas locales.
-
-A lo largo de los siglos, la receta básica de la focaccia ha evolucionado y se ha adaptado a las preferencias regionales, dando lugar a variaciones como la focaccia genovesa, cubierta con sal gruesa y romero; o la focaccia barese, que se rellena con tomate cherry y aceitunas.
-
-La popularidad actual de la focaccia fuera de Italia se debe en parte a su versatilidad en la cocina moderna. Se puede servir como acompañamiento, como base para pizzas o incluso como un sándwich relleno.
-
-En resumen, la focaccia es mucho más que un simple pan; es un producto de siglos de tradición culinaria e innovación gastronómica que ha conquistado paladares en todo el mundo." 
-
-[^1]: https://reyvinoblanco.com/cual-es-el-origen-del-pan-focaccia/, Rey Vino Blanco
+[^1]: https://aprendexpertos.com/historia-de-la-pizza/, Historia de la Pizza: Origen, Evolución y Popularidad Mundial 1.0
 
 ### Migración italiana a Venezuela
 
-Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria italiana. Miles de familias llegaron al país huyendo de la posguerra, muchos de ellos desde regiones como Liguria, Campania y Sicilia. Estos inmigrantes trajeron consigo sus costumbres, recetas y tradiciones culinarias, incluyendo preparaciones como pasta fresca, pizza… y por supuesto, la focaccia. Inicialmente, la focaccia se preparaba en panaderías italianas tradicionales en Caracas, Maracaibo, Valencia y otras ciudades con fuerte presencia europea. Con el tiempo, se fue fusionando con ingredientes venezolanos, incorporando quesos criollos, jamón planchado, ají dulce, entre otros.
+"En Venezuela, la pizza llegó con la inmigración italiana durante el siglo XX, especialmente después de la Segunda Guerra Mundial. Los inmigrantes italianos trajeron consigo sus tradiciones culinarias, y la pizza comenzó a formar parte del panorama gastronómico venezolano. Con el tiempo, se adaptó a los gustos locales, incorporando ingredientes y estilos propios. Por ejemplo, en Caracas, Carmelo Pizza, fundada en 2003 por Carmelo Valleta, un emprendedor de origen italiano, introdujo el concepto de "slices" de pizza, marcando una nueva etapa en la historia de la pizza en Venezuela."
 
-## Tips para preparar Focaccia tradicional 
+[^2]: https://eldiario.com/2023/02/09/la-pizza-sigue-siendo-la-protagonista-en-caracas, Entre lo tradicional y lo moderno, la pizza sigue siendo la protagonista en Caracas.
+
+## Tips para preparar pizza  
 
 {% include whatsapp.html %}
 
 <div id="indirecto"></div>
 
-# Focaccia
+# pizza
 
 ## Masa leudada con levadura instantánea
 
-- Una Focaccia de 995g de masa.
-- Una masa suave, alveolada con 75% de hidratación.
+- Dos pizzas de 340g de masa.
+- Masa suave, alveolada con 70% de hidratación.
 
-### Ingredientes para preparar Focaccia tradicional (1 unidad)
+### Ingredientes para preparar pizza tradicional (1 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      546g |
-| Agua                                                         |       75%     |      410g |
-| Levadura instantánea                                         |      0.2%     |        1g |
-| Sal                                                          |        2%     |       11g |
-| Grasa (Aceite de oliva)                                      |        5%     |       27g |
+| Harina panadera                                              |      100%     |      378g |
+| Agua                                                         |       70%     |      264g |
+| Levadura instantánea                                         |        1%     |        4g |
+| Sal                                                          |        2%     |        8g |
+| Grasa (Aceite de oliva)                                      |        5%     |       19g |
+| Azúcar                                                       |        2%     |        8g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |   **182.2%**  |  **995g** |
+| **Total**                                                    |    **180%**   |  **680g** |
 
-### Calculadora para preparar el Foccacia tradicional 
+### Calculadora para preparar el Pizza  
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Foccacia tradicional 
+## Paso a paso para preparar el Pizza  
 
 <div id="preparacion"></div>
 
@@ -131,11 +125,11 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 ### Barnices, coberturas y cortes
 
 - Rocía la masa con un poco de aceite de oliva extra virgen para evitar que se pegue a los dedos y aportar sabor.
-- Presiona suavemente con los dedos para hacer los característicos hoyuelos de la Focaccia.
+- Presiona suavemente con los dedos para hacer los característicos hoyuelos de la pizza.
 
 #### Elige tus ingredientes decorativos
 
-- Estas son algunas ideas (puedes combinar) para decorar tu Focaccia:
+- Estas son algunas ideas (puedes combinar) para decorar tu pizza:
 
 | Tipo                             |           Ingredientes sugeridos            |
 |:---------------------------------|:-------------------------------------------:|
@@ -150,33 +144,32 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 
 - Introduce la bandeja en el horno.
 - Coloca tres hielos en el caldero y cierra la puerta.
-- Hornea la Focaccia entre veinte (20) y veinticinco (25) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
+- Hornea la pizza entre veinte (20) y veinticinco (25) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
 - Saca la bandeja del horno.
 - Apaga el horno.
 
 ### Enfriamiento
 
-- Saca la bandeja y pasa la Focaccia a una rejilla. 
+- Saca la bandeja y pasa la pizza a una rejilla. 
 - Deja enfriar al menos treinta (30) minutos.
 
 ---
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Ana Dourado]{:target="blank"} y [Gabriele Bonci]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [@hazpanencasa] y [Gabriele Bonci]{:target="blank"}.
 
-Este procedimiento ha sido escrito, validado, probado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
+Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
 **¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1__ 
+__Versión 1.0__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
-[Ana Dourado]: https://www.instagram.com/ana_tremmel/
 [Gabriele Bonci]: https://en.wikipedia.org/wiki/Gabriele_Bonci
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
