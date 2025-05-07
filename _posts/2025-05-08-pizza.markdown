@@ -35,7 +35,9 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 
 [^2]: https://eldiario.com/2023/02/09/la-pizza-sigue-siendo-la-protagonista-en-caracas, Entre lo tradicional y lo moderno, la pizza sigue siendo la protagonista en Caracas.
 
-## Tips para preparar pizza  
+## Tips para preparar Pizza en casa
+
+- Considera al menos dos (2) días para la preparación de tu pizza.
 
 {% include whatsapp.html %}
 
@@ -61,12 +63,12 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **180%**   |  **680g** |
 
-### Calculadora para preparar el Pizza  
+### Calculadora para preparar Pizza  
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Pizza  
+## Paso a paso para preparar Pizza  
 
 <div id="preparacion"></div>
 
@@ -77,55 +79,49 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 - Asegúrate de haber pesado en la unidad gramos y de descontar el peso de los recipientes. Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de la mano. 
 
-### Mezcla y amasado manual
+### Mezcla y amasado (Asistente de cocina)
 
-- En un envase mezcla la harina con la levadura instantánea.
-- Crea un volcán con la mezcla de harina y levadura instantánea.
-- Coloca la sal alrededor del volcán, el agua en medio del volcán y el aceite de oliva en el centro.
-- Mezcla los ingredientes sólidos con los líquidos hasta obtener un engrudo. 
-- Integra el resto de la harina haciendo presión para que absorba hidratación.
-- Con las dos manos sigue integrando todo hasta que la masa y las manos estén limpias.
-- Amasa por dos (2) minutos y deja reposar la masa por diez (10) minutos.
+- Agrega la harina y la levadura instantánea.
+- Agrega el agua y mezcla con el utensilio gancho a velocidad 2 durante dos (2) minutos.
+- Agrega la sal y continua mezclando a la misma velocidad durante dos (2) minutos.
+- Poco a poco, ve incorporando el aceite de oliva, durante dos (2) minutos más.
+- Aumenta la velocidad a 4 y mezcla durante ocho (8) minutos desarrollando la red de gluten.
+- Deja reposar la masa cubierta durante diez (10) minutos.
+- Con las dos manos humedas realiza la prueba de la membrana de gluten.
+- Coloca la masa en la mesa de trabajo previamente enharinada.
 
-### Conservación de la masa al vacío  
+### División 
+- Divide la masa en dos porciones de igual peso.
+- Cada bola la colocamos en un recipiente con una capa fina de aceite de oliva.
 
-Para conservar la masa, vamos a hacer un sellado al vacío casero, utilizando una bolsa tipo ziploc y una olla con agua: 
-- Mete tu bolita de masa en la bolsa plástica tipo ziploc y la cierras hasta el ochenta (80) porciento (%).
-- Llena una olla con agua, hasta la mitad de su capacidad.
-- Introduce poco a poco la bolsa en el agua, y con los dedos extrae poco a poco el aire dentro, asegurandote que no le entre agua a la bolsa en el proceso.
-- Cierra la bolsa.
+### Fermentación inicial 
+- Tapamos ambos envases y dejamos reposar sesenta (60) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Retardo en nevera
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu bolsa plástica tipo ziplock en la nevera a cuatro (4) grados centígrados entre doce (12) y dieciocho (18) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable, digerible y desarrollar el gluten, lleva ambos envases a la nevera, preferiblemente a una temperatura de cuatro (4) grados centígrados entre veinticuatro (24) y cuarenta y ocho (48) horas.
 
 ### Manipulación
 
-En esta etapa queremos desarrollar la estructura de la masa mediante técnicas de extensión y pliegues o estirar y plegar. La idea de la manipulación es igualar la temperatura de toda la masa y generar estructura mediante los pliegues.
-
-- Saca la bolsa de la nevera
-- Lleva la masa a un envase de boca grande.
-- Estira y pliega la masa como un cuaderno. 
-- Deja reposar la masa tapada en un envase por veinte (20) minutos.
-- Estira y pliega una segunda vez la masa como un cuaderno. 
-- Deja reposar la masa tapada en un envase por veinte (20) minutos.
+- Saca ambos envases de la nevera.
+- Coloca una capa fina de harina sobre la mesa de trabajo.
+- Lleva cada pastón de masa a la mesa y realiza una manipulación de la masa formando una bolita.
+- Deja que tus bolitas se relajen, reposando durante treinta (30) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Formado
 
-- Coloca la masa en una bandeja de metal de treinta y siete (37) cm de largo x veinticinco (25) cm de ancho y cinco (5) cm alto, previamente engrasada con una capa fina de aceite de oliva.
-
-### Maduración
-
-- Deja reposar la masa cubierta durante ciento veinte (120) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+- Para hornear tus pizzas vas a utilizar bandejas redondas.
+- Agrega harina pan en la superficie de ambas bandejas, para evitar que se pegue la masa.
+- Coloca la bola de masa en el centro de la bandeja y, con las yemas de los dedos, comienza a estirarla suavemente desde el centro hacia los bordes, dándole forma circular. 
+- No la aplastes mucho: deja algo de aire en los bordes para que se inflen al hornear.
 
 ### Precalentar el horno
 
-- Precalienta el horno a 230ºC/450ºF con un caldero en el piso del horno.
+- Precalienta el horno a 260ºC/500ºF.
 
 ### Barnices, coberturas y cortes
 
-- Rocía la masa con un poco de aceite de oliva extra virgen para evitar que se pegue a los dedos y aportar sabor.
-- Presiona suavemente con los dedos para hacer los característicos hoyuelos de la pizza.
+- A cada Pizza le colocamos la salsa de tomate, un poquito de queso parmesano, queso mozzarella y los ingredientes que desees para decorar al gusto.
 
 #### Elige tus ingredientes decorativos
 
@@ -134,24 +130,22 @@ En esta etapa queremos desarrollar la estructura de la masa mediante técnicas d
 | Tipo                             |           Ingredientes sugeridos            |
 |:---------------------------------|:-------------------------------------------:|
 | Aromáticos	                   | Romero, tomillo, albahaca, salvia           |
-| Vegetales	                       | Tomates cherry, cebolla morada, pimientos   |
-| Frutales	                       | Uvas, aceitunas, higos                      |
+| Vegetales	                       | Tomates cherry, cebolla, pimenton picado    |
+| Frutales	                       | Aceitunas, higos                            |
 | Detalles                         | Ajo en láminas, semillas (sésamo, amapola)  |
-| Colores	                       | Zanahoria rallada, espinaca, betabel cocido |
 | ---------------------------------|---------------------------------------------|
 
 ### Horneado
 
-- Introduce la bandeja en el horno.
-- Coloca tres hielos en el caldero y cierra la puerta.
-- Hornea la pizza entre veinte (20) y veinticinco (25) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
+- Introduce la bandeja en la rejilla superior del horno.
+- Hornea la pizza entre quince (15) y veinte (20) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
 - Saca la bandeja del horno.
 - Apaga el horno.
 
 ### Enfriamiento
 
 - Saca la bandeja y pasa la pizza a una rejilla. 
-- Deja enfriar al menos treinta (30) minutos.
+- Deja enfriar al menos diez (10) y veinte (20) minutos.
 
 ---
 
