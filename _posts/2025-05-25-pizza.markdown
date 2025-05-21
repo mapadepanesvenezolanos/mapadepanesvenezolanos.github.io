@@ -2,8 +2,8 @@
 title:  "Heredados - Pizza"
 subtitle: "Nuestra versión de la deliciosa Pizza italiana"
 description: "Con masa suave, bordes doraditos y el toque criollo que nos identifica, esta receta es perfecta para compartir una rica Pizza entre risas, cuentos y buena compañía. Porque en cada bocado se siente el calor de nuestra mesa."
-date:   2025-05-10 09:00:39 -0400
-published: true
+date:   2025-05-25 09:00:39 -0400
+published: false
 permalink: /panes-venezolanos/pizza/
 categories: pan tipo plano heredados
 keywords:  pizza, pizza origen, pizza venezolana historia, historia de la pizza, pizza venezolana, receta de pizza, pan pizza receta original, origen de la pizza,  pizza receta, receta pizza, receta de pizza venezolana, pizza, cuanto pesa una pizza, receta pizza venezolana, pizza venezuela, pizza redonda, como hacer pizza, pizza grande, panes pizza, diferencia entre pizza y focaccia, pizza historia, como hacer, pan pizza venezolana, pizza venezolana, pizza casera, como hacer pizza casera, pizza casera en venezuela, pizza hecha en casa, pizza pan
