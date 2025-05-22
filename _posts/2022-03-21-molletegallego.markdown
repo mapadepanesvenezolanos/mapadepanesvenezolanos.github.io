@@ -1,10 +1,10 @@
 ---
-title:  "Tipo Mollete Gallego"
+title:  "Heredados - Tipo Mollete Gallego"
 subtitle: "Una variante de lujo de nuesto pan tipo gallego"
 description: "El Mollete gallego tiene una corteza rústica, dura y crujiente con una miga esponjosa y abierta, con alvéolos medianos a grandes. Es perfecto acompañar una comida salada, hacer un snack con quesos madurados y aceite de oliva, la imaginación es el límite."
 date:   2022-03-21 01:00:39 -0400
 permalink: /panes-venezolanos/mollete-gallego/
-categories: pan rustico 
+categories: pan rustico heredados
 featured_image: '/images/panes/molletegallego/gallego_7.jpeg'
 formula_name: "molletegallego"
 ---
