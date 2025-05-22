@@ -27,13 +27,9 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 
 "​La pizza, tal como la conocemos hoy, tiene sus raíces en Nápoles, Italia, donde en el siglo XVIII se popularizó como un alimento accesible para las clases trabajadoras. La adición del tomate, traído de América, transformó los panes planos tradicionales en la pizza moderna." [^1]
 
-[^1]: https://aprendexpertos.com/historia-de-la-pizza/, Historia de la Pizza: Origen, Evolución y Popularidad Mundial 1.0
-
 ### Migración italiana a Venezuela
 
 "En Venezuela, la pizza llegó con la inmigración italiana durante el siglo XX, especialmente después de la Segunda Guerra Mundial. Los inmigrantes italianos trajeron consigo sus tradiciones culinarias, y la pizza comenzó a formar parte del panorama gastronómico venezolano. Con el tiempo, se adaptó a los gustos locales, incorporando ingredientes y estilos propios. Por ejemplo, en Caracas, Carmelo Pizza, fundada en 2003 por Carmelo Valleta, un emprendedor de origen italiano, introdujo el concepto de "slices" de pizza, marcando una nueva etapa en la historia de la pizza en Venezuela."[^2]
-
-[^2]: https://eldiario.com/2023/02/09/la-pizza-sigue-siendo-la-protagonista-en-caracas, Entre lo tradicional y lo moderno, la pizza sigue siendo la protagonista en Caracas.
 
 ## Tips para preparar Pizza en casa
 
@@ -166,10 +162,12 @@ Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.4__ 
+__Versión 1.4.1__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
+[^1]: https://aprendexpertos.com/historia-de-la-pizza
+[^2]: https://eldiario.com/2023/02/09/la-pizza-sigue-siendo-la-protagonista-en-caracas
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
 [Gabriele Bonci]: https://en.wikipedia.org/wiki/Gabriele_Bonci
