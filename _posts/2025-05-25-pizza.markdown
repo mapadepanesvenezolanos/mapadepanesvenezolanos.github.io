@@ -1,6 +1,6 @@
 ---
 title:  "Heredados - Pizza"
-subtitle: "Nuestra versión de la deliciosa Pizza italiana"
+subtitle: "Pizza al estilo Panes Venezolanos"
 description: "Con masa suave, bordes doraditos y el toque criollo que nos identifica, esta receta es perfecta para compartir una rica Pizza entre risas, cuentos y buena compañía. Porque en cada bocado se siente el calor de nuestra mesa."
 date:   2025-05-21 08:00:39 -0400
 published: true
@@ -166,7 +166,7 @@ Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1__ 
+__Versión 1.2__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
