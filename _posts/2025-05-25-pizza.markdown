@@ -2,8 +2,8 @@
 title:  "Heredados - Pizza"
 subtitle: "Nuestra versión de la deliciosa Pizza italiana"
 description: "Con masa suave, bordes doraditos y el toque criollo que nos identifica, esta receta es perfecta para compartir una rica Pizza entre risas, cuentos y buena compañía. Porque en cada bocado se siente el calor de nuestra mesa."
-date:   2025-05-25 09:00:39 -0400
-published: false
+date:   2025-05-21 08:00:39 -0400
+published: true
 permalink: /panes-venezolanos/pizza/
 categories: pan tipo plano heredados
 keywords:  pizza, pizza origen, pizza venezolana historia, historia de la pizza, pizza venezolana, receta de pizza, pan pizza receta original, origen de la pizza,  pizza receta, receta pizza, receta de pizza venezolana, pizza, cuanto pesa una pizza, receta pizza venezolana, pizza venezuela, pizza redonda, como hacer pizza, pizza grande, panes pizza, diferencia entre pizza y focaccia, pizza historia, como hacer, pan pizza venezolana, pizza venezolana, pizza casera, como hacer pizza casera, pizza casera en venezuela, pizza hecha en casa, pizza pan
@@ -91,10 +91,12 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 - Coloca la masa en la mesa de trabajo previamente enharinada.
 
 ### División 
+
 - Divide la masa en dos porciones de igual peso.
 - Cada bola la colocamos en un recipiente con una capa fina de aceite de oliva.
 
 ### Fermentación inicial 
+
 - Tapamos ambos envases y dejamos reposar sesenta (60) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Retardo en nevera
@@ -122,7 +124,10 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 
 ### Barnices, coberturas y cortes
 
-- A cada Pizza le colocamos la salsa de tomate para pizza, un poquito de queso parmesano, queso mozzarella en toda la superficie y los ingredientes que desees para decorar al gusto.
+A cada Pizza le colocamos:
+- Salsa de tomate para Pizza en toda la superficie sin cubrir los bordes.
+- Un poquito de queso parmesano y queso mozzarella en toda la superficie
+- Los ingredientes que desees para decorar al gusto.
 
 #### Elige tus ingredientes decorativos
 
@@ -139,14 +144,14 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 ### Horneado
 
 - Introduce la bandeja en la rejilla superior del horno.
-- Hornea la pizza entre quince (15) y veinte (20) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
+- Hornea la Pizza entre quince (15) y veinte (20) minutos, hasta que esté bien dorada la superficie o que la miga alcance una temperatura interna de 93ºC.
 - Saca la bandeja del horno.
 - Apaga el horno.
 
 ### Enfriamiento
 
-- Saca la bandeja y pasa la pizza a una rejilla. 
-- Deja enfriar al menos diez (10) y veinte (20) minutos.
+- Saca la bandeja y pasa la Pizza a una rejilla. 
+- Deja enfriar al menos diez (10) minutos.
 - Corta en porciones con la ayuda de una tijera de cocina.
 
 ---
