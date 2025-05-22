@@ -1,5 +1,5 @@
 ---
-title: "Rosca de Reyes"
+title: "Heredados - Rosca de Reyes"
 subtitle: "La Rosca para recibir a los Reyes Magos."
 description: "Este es un pan con forma de corona aromatizada con agua de azahar, decorada con frutas confitadas y almendras láminadas, que representan piedras preciosas. De miga suave, delicada y dulce, aromatizada con ron venezolano. La corteza es crocante por el azúcar. Es perfecta para comer durante las fiestas del final del año, especialmente durante el dia de los reyes magos."
 date: 2024-12-18 09:10:00 -0400
