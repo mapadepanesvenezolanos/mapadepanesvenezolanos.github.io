@@ -50,7 +50,7 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 - Dos Pizzas de 340g de masa.
 - Masa suave, alveolada con 70% de hidratación.
 
-### Ingredientes para preparar pizza tradicional (1 unidad)
+### Ingredientes para preparar pizza tradicional (2 unidad)
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
@@ -166,7 +166,7 @@ Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2__ 
+__Versión 1.3__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
