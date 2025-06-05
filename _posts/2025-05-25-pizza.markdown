@@ -77,7 +77,7 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 
 ### Mezcla y amasado (Asistente de cocina)
 
-- Agrega la harina y la levadura instantánea.
+- Agrega la harina, el azúcar y la levadura instantánea.
 - Agrega el agua y mezcla con el utensilio gancho a velocidad 2 durante dos (2) minutos.
 - Agrega la sal y continua mezclando a la misma velocidad durante dos (2) minutos.
 - Poco a poco, ve incorporando el aceite de oliva, durante dos (2) minutos más.
@@ -162,7 +162,7 @@ Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.4.1__ 
+__Versión 1.4.2__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
