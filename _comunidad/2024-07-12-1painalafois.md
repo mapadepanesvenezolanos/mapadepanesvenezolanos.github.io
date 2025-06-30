@@ -440,6 +440,17 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 | **Total**                      |   **10.5%** | **91g**|
 |--------------------------------|-------------|--------|
 
+### Glaseado
+
+| Ingrediente                    | Fórmula     | Peso   |
+|:-------------------------------|:-----------:|-------:|
+| Azúcar pulverizada (de nevar)  |          7% |   60g  |
+| Leche líquida                  |          1% |   12g  |
+| Zumo de Limón                  |        0.1% |    1g  |
+|--------------------------------|-------------|--------|
+| **Total**                      |   **8.1%** | **73g**|
+|--------------------------------|-------------|--------|
+
 ## Paso a paso para preparar Canelis/Rollos de Canela
 
 <div id="preparacion"></div>
@@ -532,6 +543,10 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Cuando los canelis esten listos, transfiére cada rollo a una rejilla. 
 - Deja enfriar durante treinta (30) minutos.
+
+### Glaceado (opcional)
+- Mezcla los ingredientes hasta integrar.
+- Decora los rollos de canella/canelis a tu gusto.
 
 ### Consumo
 - Sirvelos tibios o a temperatura ambiente.
