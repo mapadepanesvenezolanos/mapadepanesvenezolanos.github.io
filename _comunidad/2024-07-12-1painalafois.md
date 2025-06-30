@@ -515,15 +515,16 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Luego, lleva tus roles a una bandeja previamente engrasada, dejando al menos dos (2) cm de separación entre ellos. 
 - Cubre tu bandeja con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una).
 
-
 ### Fermentación final (maduración)
 
-- Deja reposar tu bakba durante aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
+- Deja reposar tus rollos de canela durante aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
 - Enciende el horno treinta (30) minutos antes de hornear a una temperatura de 195ºC/380ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Introduce tu bandeja de panes y hornea tus Canelis/Rollos de canela entre veinte (20) y veintinco (25) minutos o hasta que alcancen el color dorado deseado.
+- Introduce tu bandeja de panes, cubierta con papel de aluminio, y hornea tus Canelis/Rollos de canela entre (20) minutos.
+- Reduce la temperatura del horno 180ºC/355ºF.
+- Remueve el papel de aluminio y hornea durante 5 minutos más para dorar tus panes.
 - Una vez terminado el tiempo de horneado, saca la bandeja del horno.
 - Apaga el horno.
 
