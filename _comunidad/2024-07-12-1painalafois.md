@@ -511,7 +511,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Comenzando desde el borde largo más cercano a tí, enrolla la masa formando una espiral apretado, con la costura hacia abajo.
 
 ### División
-- Toma un cuchillo bien afilado, corta doce (12) roles de cinco (5) cm de ancho cada uno.
+- Toma un cuchillo bien afilado, corta doce (12) rollos de dos (2) cm de ancho cada uno.
 - Luego, lleva tus roles a una bandeja previamente engrasada, dejando al menos dos (2) cm de separación entre ellos. 
 - Cubre tu bandeja con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una).
 
