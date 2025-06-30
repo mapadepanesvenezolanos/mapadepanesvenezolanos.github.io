@@ -524,7 +524,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Enciende el horno treinta (30) minutos antes de hornear a una temperatura de 195ºC/380ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Introduce tu bandeja de panes, cubierta con papel de aluminio, y hornea tus Canelis/Rollos de canela entre (20) minutos.
 - Reduce la temperatura del horno 180ºC/355ºF.
-- Remueve el papel de aluminio y hornea durante 5 minutos más para dorar tus panes.
+- Remueve el papel de aluminio y hornea durante diez (10) minutos más para dorar tus panes.
 - Una vez terminado el tiempo de horneado, saca la bandeja del horno.
 - Apaga el horno.
 
