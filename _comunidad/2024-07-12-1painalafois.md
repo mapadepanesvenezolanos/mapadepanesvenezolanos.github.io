@@ -476,13 +476,12 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 <div id="segundociclo"></div>
 
 #### Segundo ciclo de amasado (con máquina)
-
-- Derrite la mantequilla sin sal llevándola en un envase al microondas durante veinte (20) segundos.
-- Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad media (2), utilizando el utensilio tipo batidor plano, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
-- Mezcla durante tres (3) minutos.
+- Derrite la mantequilla sin sal, en un envase al microondas durante veinte (20) segundos.
+- Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad intermedia (3), utilizando el utensilio tipo batidor plano, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
+- Mezcla durante seis (6) minutos.
 - Con la ayuda de un dedo mágico de cocina, recupera la masa contenida en la máquina y forma una bolita.
 - Deja reposar la masa cubierta durante diez (10) minutos.
-- Con el utensilio gancho, soba la masa a velocidad media (2) durante tres (3) minutos más.
+- Con el utensilio tipo batidor plano, soba la masa a velocidad intermedia (3) durante tres (3) minutos más.
 - Recupera la masa contenida en la máquina y forma una bolita.
 
 ### Primera Fermentación 
@@ -502,11 +501,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Fermentación en bloque (maduración en nevera)
-
-- Coloca el recipiente tapado en la nevera entre ocho (8h) y doce (12h).
+- Coloca el recipiente tapado en la nevera entre seis (6) y ocho (8) horas.
 
 ### Preparación del relleno - Azúcar y Canela
-
 - En un envase mezcla el Azúcar blanca, el Azúcar morena y la canela en polvo.
 - Coloca la mantequilla sin sal en un envase a prueba de microhondas.
 - Derrite la mantequilla sin sal durante veinte (20) segundos.
@@ -527,7 +524,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Cubre tu bandeja con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una).
 
 ### Fermentación final (maduración)
-
 - Deja reposar tus rollos de canela durante aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que duplique su tamaño y **supere la prueba de maduración con el dedo**.
 
 ### Horneado
@@ -540,7 +536,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Apaga el horno.
 
 ### Enfriamiento
-
 - Cuando los canelis esten listos, transfiére cada rollo a una rejilla. 
 - Deja enfriar durante treinta (30) minutos.
 
