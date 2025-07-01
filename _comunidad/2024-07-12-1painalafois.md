@@ -135,11 +135,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación en bloque (maduración en nevera)
 
-- Coloca el recipiente tapado en la nevera entre dieciséis (16h) y dieciocho (18h).
+- Coloca el recipiente tapado en la nevera entre seis (6) y ocho (8) horas.
 
 ### Barnices, coberturas y cortes
 
-- Una (1) hora antes de sacar la pieza de la nevera, enciende el horno a 232ºC/450ºF colocando preferiblemente una olla de tipo holandesa tapada, dentro del horno a media altura. 
+- Una (1) hora antes de sacar la pieza de la nevera, enciende el horno a 200ºC/430ºF colocando preferiblemente una olla de tipo holandesa tapada, dentro del horno a media altura. 
 - Saca el recipiente de la nevera y coloca la masa sobre papel para hornear (papel parchemin).
 - Con una hojilla, realiza un corte de un (1) cm de profundidad, que atraviese el pastón desde el extremo norte hasta el extremo sur. 
 - Saca la olla (holandesa) del horno con cuidado e introduce el paston en la olla.
@@ -257,6 +257,17 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 | **Total**                      |    **74%**  |**146g**|
 |--------------------------------|-------------|--------|
 
+### Glaseado
+
+| Ingrediente                    | Fórmula     | Peso   |
+|:-------------------------------|:-----------:|-------:|
+| Azúcar pulverizada (de nevar)  |          7% |   85g  |
+| Leche líquida                  |          1% |   12g  |
+| Zumo de Limón                  |        0.1% |    1g  |
+|--------------------------------|-------------|--------|
+| **Total**                      |   **8.1%**  | **99g**|
+|--------------------------------|-------------|--------|
+
 ## Paso a paso para preparar la Babka 
 
 <div id="preparacion"></div>
@@ -368,8 +379,12 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Enfriamiento
 
 - Cuando la babka esté lista, transfiérala en su envase a una rejilla. 
-- Deja reposar la babka en el molde durante veinte minutos.
+- Deja reposar la babka en el molde durante veinte (20) minutos.
 - Desmolda la babka sobre una rejilla.
+
+### Glaceado (opcional)
+- Mezcla los ingredientes hasta integrar.
+- Decora tu babka al gusto.
 
 ### Consumo
 
@@ -448,7 +463,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 | Leche líquida                  |          1% |   12g  |
 | Zumo de Limón                  |        0.1% |    1g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |   **8.1%** | **73g**|
+| **Total**                      |   **8.1%**  | **73g**|
 |--------------------------------|-------------|--------|
 
 ## Paso a paso para preparar Canelis/Rollos de Canela
