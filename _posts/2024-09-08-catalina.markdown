@@ -48,21 +48,21 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 ---
 
-## Ingredientes para preparar la Catalina
+## Ingredientes para preparar 15 Catalinas de 50g cada una
 
-| Ingrediente                | Fórmula | Peso  |
-|----------------------------|:-------:|------:|
-| Harina todo uso            |  100%   |  300g |
-| Bicarbonato de sodio       |    2%   |    6g |
-| Polvo de hornear           |    2%   |    6g |
-| Sal                        |    1%   |    3g |
-| Mantequilla / Margarina    |   35%   |  105g |
-| Canela                     |    2%   |    6g |
-| Jengibre molido            |    2%   |    6g |
-| Clavo de olor molido       |    2%   |    6g |
-| Melao de Papelón Especiado |  117%   |  350g |
-|----------------------------|---------|-------|
-| **Total**                  |  263%   |  788g |
+| Ingrediente                     | Fórmula | Peso  |
+|---------------------------------|:-------:|------:|
+| Harina todo uso                 |  100%   |  284g |
+| Bicarbonato de sodio            |    2%   |    6g |
+| Polvo de hornear                |    2%   |    6g |
+| Sal                             |    1%   |    3g |
+| Grasa (Mantequilla / Margarina) |   35%   |   99g |
+| Canela                          |    2%   |    6g |
+| Jengibre molido                 |    2%   |    6g |
+| Clavo de olor molido            |    2%   |    6g |
+| Melao de Papelón Especiado      |  117%   |  332g |
+|---------------------------------|---------|-------|
+| **Total**                       |  264%   |  750g |
 
 ### Calculadora para preparar la Catalina
 
@@ -97,18 +97,18 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 - Agrega la rama de canela, clavo de olor y pimienta guayabita.
 - Cocina a fuego medio, revolviendo ocasionalmente hasta disolver el papelón y que tome un color oscuro y espeso.
 - Cuela para retirar las especias y reserva.
-- Deja enfriar por 30 minutos.
+- Deja enfriar por treinta (30) minutos.
 
 ### Preparación de la masa
 
 - Pesa todos los ingredientes y tenlos listos.
-- Reserva la mantequilla para añadir después.
+- Reserva la grasa (mantequilla/margarina) para añadir después.
 
 ### Mezcla y amasado
 
 - En un bol mezcla la harina, bicarbonato, sal, canela, jengibre y clavo molido.
 - Agrega el melao especiado y el agua.
-- Mezcla hasta formar una masa homogénea y deja reposar 30 minutos.
+- Mezcla hasta formar una masa homogénea y deja reposar treina (30) minutos.
 
 ### División y formado
 
@@ -118,8 +118,8 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 ### Horneado
 
-- Precalienta el horno a 180ºC (350ºF).
-- Hornea durante 20-25 minutos o hasta que estén dorados.
+- Precalienta el horno a 180ºC/355ºF.
+- Hornea durante veinte y veinticinco (20-25) minutos o hasta que estén dorados.
 - Deja enfriar sobre rejilla antes de consumir.
 
 ---
@@ -128,7 +128,7 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 - El melao especiado aporta sabor y humedad, ajusta la cantidad si prefieres menos dulce.
 - La mantequilla o margarina debe estar a temperatura ambiente para una mejor integración.
-- Si las deseas más tiernas o la masa está muy seca agrega 20g. de aceite neutro.
+- Si las deseas más tiernas o la masa está muy seca agrega 20g de aceite neutro.
 
 ---
 
@@ -138,6 +138,6 @@ Esta receta está inspirada en las tradiciones venezolanas de dulces criollos.
 
 **¿Te gustó esta receta? Comparte con la etiqueta _#panesvenezolanos_ y etiqueta a [@hazpanencasa](https://www.instagram.com/hazpanencasa) y [@1painalafois](https://www.instagram.com/1painalafois).**
 
-__Versión 1.0__
+__Versión 1.1__
 
 Este contenido se comparte bajo licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), dando crédito a panesvenezolanos.com y prohibiendo uso comercial.
