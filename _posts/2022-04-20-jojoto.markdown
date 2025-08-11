@@ -70,7 +70,7 @@ De acuerdo al aroma y sabor que desees obtener, te sugerimos:
 | Agua tibia para hidratar la masa                             |      40%      |      229g |
 | Levadura instantánea                                         |      1%       |        6g |
 | Sal                                                          |      2%       |       11g |
-| Mantequilla sin sal                                          |      5%       |       29g |
+| Grasa (Mantequilla sin sal)                                  |      5%       |       29g |
 | Azúcar                                                       |      15%      |       86g |
 | Leche en polvo                                               |      4%       |       23g |
 | ---------------------------                                  | ------------- |   ------- |
@@ -207,7 +207,7 @@ Planifica tres días para la preparación de esta versión del Pan.
 | Agua tibia para hidratar la masa                             |      24%      |      107g |
 | Levadura instantánea                                         |       1%      |        6g |
 | Sal                                                          |       3%      |       11g |
-| Mantequilla sin sal                                          |       6%      |       29g |
+| Grasa (Mantequilla sin sal)                                  |       6%      |       29g |
 | Azúcar                                                       |      19%      |       86g |
 | Leche en polvo                                               |       5%      |       23g |
 | Prefermento Poolish                                          |      54%      |      244g |
@@ -245,7 +245,7 @@ Planifica tres días para la preparación de esta versión del Pan.
 - En un primer envase, mezcla la harina de maíz/mezcla de cachapas con la proporción de agua tibia indicada en la receta para remojar este ingrediente. Deja reposar en la mesa, cubriendo el envase con un paño o bolsa plástica.
 - Reserva la sal y la mantequilla a parte.
 - En un segundo envase, mezcla los ingredientes sólidos de la masa: harina panadera,  la leche en polvo, el azúcar y la harina de maiz previamente remojada. 
-- En un tercer envase, mezcla el agua con la levadura instantánea hasta disolver. Agrega el prefermento poolish y mezcla nuevamente.
+- En un tercer envase, mezcla el agua con la levadura instantánea hasta disolver. Agrega el prefermento poolish y mezcla nuevamente. 
 - Integra el contenido del segundo y tercer envase hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
 - Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa. - Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 - De aquí en adelante, sigue los pasos que se indican en la receta de pan de jojoto con el método directo, a partir del [segundo ciclo de amasado](#segundo-ciclo-de-amasado).
