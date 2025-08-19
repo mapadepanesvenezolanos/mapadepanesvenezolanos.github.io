@@ -56,7 +56,7 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 | Bicarbonato de sodio            |    2%   |    6g |
 | Polvo de hornear                |    2%   |    6g |
 | Sal                             |    1%   |    3g |
-| Grasa (Mantequilla / Margarina) |   35%   |   99g |
+| Grasa (Mantequilla sin sal).    |   35%   |   99g |
 | Canela                          |    2%   |    6g |
 | Jengibre molido                 |    2%   |    6g |
 | Clavo de olor molido            |    2%   |    6g |
@@ -138,6 +138,6 @@ Esta receta está inspirada en las tradiciones venezolanas de dulces criollos.
 
 **¿Te gustó esta receta? Comparte con la etiqueta _#panesvenezolanos_ y etiqueta a [@hazpanencasa](https://www.instagram.com/hazpanencasa) y [@1painalafois](https://www.instagram.com/1painalafois).**
 
-__Versión 1.1__
+__Versión 1.2__
 
 Este contenido se comparte bajo licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es), dando crédito a panesvenezolanos.com y prohibiendo uso comercial.
