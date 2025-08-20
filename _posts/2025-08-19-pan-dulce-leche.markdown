@@ -135,33 +135,35 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Para una trenza, forma un cilindro de ochenta (80) centímetros de largo. 
-- Haz las puntas más delgadas que el centro. 
-- Luego realiza una trenza con un nudo simple, siguiendo los pasos descritos en la imagen cortesía de [@luisagonzalezp]: 
-<img class="post_image_left" src="/images/panes/trenza-leche/Trenza-nudo-simple2.jpg" alt="{{page.title}}">
-- Ahora, lleva tu trenza a una bandeja metálica previamente engrasada.
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
+- Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca el Dulce de leche del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
+- En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
+- Enrolla la masa sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno creando una barra.
+- Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
 
 ### Barnices, coberturas y cortes
 
 - Con un aspersor humedece el pastón por todos lados.
 - Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
+- Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón. El corte siguiente no se solapa con el anterior.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por noventa (90) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
 - Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu trenza azucarada del horno cuando tenga el color dorado de tu gusto.
+- Saca tu Pan de Dulce de Leche del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
 - Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
-- Disfruta tu Trenza de Leche Azucarada!!!
+- Disfruta tu Pan de Dulce de Leche!!!
 
 ------
 
