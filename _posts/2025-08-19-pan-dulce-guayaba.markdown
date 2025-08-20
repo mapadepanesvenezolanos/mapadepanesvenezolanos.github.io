@@ -1,17 +1,17 @@
 ---
-title: "Pan de Dulde de Leche"
-subtitle: "La Trenza que endulza el corazón del venezolano."
-description: "La pan de dulce de leche es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce, que se prepara utilizando el pan de leche como masa base, con forma de trenza simple. La corteza es crocante por el azúcar. Es perfecto para comer durante una merienda acompañado con un vaso de leche. También se conoce como: Pan de Leche, Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino."
+title: "Pan de Guayaba"
+subtitle: "Un abrazo dulce y venezolano en cada mordisco."
+description: "El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche y huevos, da como resultado una miga suave, esponjosa y delicada, que se deshace con cada bocado."
 date: 2025-08-19 09:10:00 -0400
 published: false
-permalink: /panes-venezolanos/pan-dulce-leche/
+permalink: /panes-venezolanos/pan-guayaba/
 categories: pan enriquecido los_andes
-keywords: pan de dulce de leche, el pan de dulce de leche, pan de dulce de leche venezolana, pan de dulce de leche venezuela, receta de pan de dulce de leche, receta pan de dulce de leche, pan de dulce de leche receta, receta de pan de dulce de leche  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de dulce de leche, pan de dulce de leche venezolano, pan de dulce de leche, pan de dulce de leche dulce venezolano, receta del trenza de leche, receta pan de dulce de leche venezolana, panes venezolanos, pan dulce venezolano, pan de dulce de leche receta, ingredientes del pan de dulce de leche, ingredientes para la pan de dulce de leche, pan de dulce de leche  ingredientes, pan de dulce de leche dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de dulce de leche, pan de dulce de leche historia, pan de dulce de leche  origen, origen de la pan de dulce de leche , pan andino de leche, pan de dulce de leche casero, receta pan de dulce de leche dulce, recetas de pan de dulce de leche, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de dulce de leche andino venezolano, pan de dulce de leche andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de dulce de leche, cómo se hace la trenza de leche, como preparar pan de dulce de leche, cómo preparar pan de dulce de leche, pancitos rellenos de dulce de leche, pan de dulce de leche panadería, pan de dulce de leche, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de dulce de leche, como hacer panes venezolanos en la diaspora
-featured_image: '/images/panes/pan-dulce-leche/dulcedeleche_01.jpg'
-formula_name: "dulceleche"
+keywords: pan de guayaba, el pan de guayaba, pan de guayaba venezolana, pan de guayaba venezuela, receta de pan de guayaba, receta pan de guayaba, pan de guayaba receta, receta de pan de guayaba  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de guayaba, pan de guayaba venezolano, pan de guayaba, pan de guayaba dulce venezolano, receta del trenza de leche, receta pan de guayaba venezolana, panes venezolanos, pan dulce venezolano, pan de guayaba receta, ingredientes del pan de guayaba, ingredientes para la pan de guayaba, pan de guayaba  ingredientes, pan de guayaba dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de guayaba, pan de guayaba historia, pan de guayaba  origen, origen de la pan de guayaba , pan andino de leche, pan de guayaba casero, receta pan de guayaba dulce, recetas de pan de guayaba, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de guayaba andino venezolano, pan de guayaba andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de guayaba, cómo se hace la trenza de leche, como preparar pan de guayaba, cómo preparar pan de guayaba, pancitos rellenos de dulce de leche, pan de guayaba panadería, pan de guayaba, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de guayaba, como hacer panes venezolanos en la diaspora
+featured_image: '/images/panes/pan-guayaba/guayaba_01.jpg'
+formula_name: "guayaba"
 ---
 
-Esta es la receta de Pan de Dulce de Leche. Este Pan es una versión de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método directo.
+Esta es la receta de Pan de Guayaba. Este Pan es una versión de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método directo.
 
 También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenzaleche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
@@ -23,9 +23,11 @@ A continuación el procedimiento de la versión:
 
 ## Resultado esperado
 
-Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es crocante por el azúcar. Es perfecto para comer durante cualquier merienda acompañado de un cafe con leche.  Jesús [@1painalafois]{:target="blank"} se lo come en la tarde junto a un té. Alexander [@hazpanencasa]{:target="blank"} la prefiere con un buen café. Como más te guste, estamos seguros que cuando tu casa se impregne del aroma proveniente del horno, se te aguará la boca.
+El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche y huevos, da como resultado una miga suave, esponjosa y delicada, que se deshace con cada bocado. La magia de este pan está en su relleno: una generosa capa de pasta de guayaba que aporta ese toque dulce y frutal, con una ligera acidez que equilibra perfectamente la suavidad de la masa.
 
-## Origen del Pan de Dulce de Leche 
+Al salir del horno, se convierte en un pan dorado y fragante, con un interior húmedo y jugoso que invita a cortar una rebanada tras otra. Es ideal para disfrutarlo en la merienda, acompañado de un café con leche, o como un detalle especial para compartir en familia. Más que un pan, es un pedacito de tradición venezolana que combina sencillez, dulzura y ese inconfundible sabor tropical que siempre nos conecta con nuestros recuerdos. 
+
+## Origen del Pan de Guayaba
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -33,7 +35,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-## Tips para preparar el Pan de Dulce de Leche
+## Tips para preparar el Pan de Guayaba
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
@@ -44,7 +46,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 <div id="directo"></div>
 
-# Pan de Dulce de Leche
+# Pan de Guayaba
 
 ## Masa leudada con levadura instantánea
 
@@ -72,15 +74,15 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno Pan de Dulce de Leche
+### Relleno pan de guayaba
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
-| Dulce de Leche            |   100%   |  120g  |
+| Mermelada de Guayaba      |   100%   |  120g  |
 |---------------------------|----------|--------|
 | **Total**                 | **100%** |**120g**|
 
-## Paso a paso para preparar el Pan de Dulce de Leche
+## Paso a paso para preparar el Pan de Guayaba
 
 <div id="preparacion"></div>
 
@@ -137,7 +139,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
 - Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
-- Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca el Dulce de leche del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
+- Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca la mermelada de guayaba del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
 - En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
 - Enrolla la masa sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno creando una barra.
 - Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
@@ -157,13 +159,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu Pan de Dulce de Leche del horno cuando tenga el color dorado de tu gusto.
+- Saca tu Pan de Guayaba del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
 - Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
-- Disfruta tu Pan de Dulce de Leche!!!
+- Disfruta tu Pan de Guayaba!!!
 
 ------
 
