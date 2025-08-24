@@ -39,6 +39,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
+- Durante el formado, enrolla tu paston sin generar presión para evitar que el pan se rompa durante el horneado y que el dulce de leche se desborde.
 
 {% include whatsapp.html %}
 
@@ -76,9 +77,9 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
-| Dulce de Leche            |   100%   |  120g  |
+| Dulce de Leche            |   100%   |  150g  |
 |---------------------------|----------|--------|
-| **Total**                 | **100%** |**120g**|
+| **Total**                 | **100%** |**150g**|
 
 ## Paso a paso para preparar el Pan de Dulce de Leche
 
@@ -128,9 +129,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="retardo"></div>
 
-### Retardo en nevera (opcional)
+### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu pan en envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8)y doce (12) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
@@ -139,7 +140,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
 - Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca el Dulce de leche del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
 - En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
-- Enrolla la masa sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno creando una barra.
+- Enrolla la masa creando una barra sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno.
 - Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
 
 ### Barnices, coberturas y cortes
@@ -179,7 +180,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (08/19/2025)__
+__Versión 1.0 (08/24/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
