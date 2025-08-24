@@ -41,10 +41,9 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
+- Durante el decorado del pan, realiza cortes poco profundos para evitar que el relleno se salga durante el horneado. Corta con la hojilla solo hasta que puedas ver el relleno. 
 
 {% include whatsapp.html %}
-
-<div id="directo"></div>
 
 # Pan de Guayaba
 
@@ -74,7 +73,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno pan de guayaba
+### Relleno Pan de Guayaba
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
@@ -130,9 +129,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="retardo"></div>
 
-### Retardo en nevera (opcional)
+### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8)y doce (12) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
@@ -142,17 +141,17 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca la mermelada de guayaba del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
 - En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
 - Enrolla la masa sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno creando una barra.
-- Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
+- Coloca tu barra de pan en un recipiente/bandeja previamente engrasada con aceite/mantequilla sin sal/silicona.
+
+### Fermentación final (maduración)
+
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Barnices, coberturas y cortes
 
 - Con un aspersor humedece el pastón por todos lados.
 - Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
 - Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón. El corte siguiente no se solapa con el anterior.
-
-### Fermentación final (maduración)
-
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
@@ -181,7 +180,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (08/19/2025)__
+__Versión 1.0 (08/24/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

@@ -8,16 +8,12 @@ permalink: /panes-venezolanos/pan-dulce-leche/
 categories: pan enriquecido los_andes
 keywords: pan de dulce de leche, el pan de dulce de leche, pan de dulce de leche venezolana, pan de dulce de leche venezuela, receta de pan de dulce de leche, receta pan de dulce de leche, pan de dulce de leche receta, receta de pan de dulce de leche  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de dulce de leche, pan de dulce de leche venezolano, pan de dulce de leche, pan de dulce de leche dulce venezolano, receta del trenza de leche, receta pan de dulce de leche venezolana, panes venezolanos, pan dulce venezolano, pan de dulce de leche receta, ingredientes del pan de dulce de leche, ingredientes para la pan de dulce de leche, pan de dulce de leche  ingredientes, pan de dulce de leche dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de dulce de leche, pan de dulce de leche historia, pan de dulce de leche  origen, origen de la pan de dulce de leche , pan andino de leche, pan de dulce de leche casero, receta pan de dulce de leche dulce, recetas de pan de dulce de leche, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de dulce de leche andino venezolano, pan de dulce de leche andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de dulce de leche, cómo se hace la trenza de leche, como preparar pan de dulce de leche, cómo preparar pan de dulce de leche, pancitos rellenos de dulce de leche, pan de dulce de leche panadería, pan de dulce de leche, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de dulce de leche, como hacer panes venezolanos en la diaspora
 featured_image: '/images/panes/pan-dulce-leche/dulcedeleche_01.jpg'
-formula_name: "dulceleche"
+formula_name: "dulcedeleche"
 ---
 
 Esta es la receta de Pan de Dulce de Leche. Este Pan es una versión de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método directo.
 
 También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenzaleche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
-
-A continuación el procedimiento de la versión:
-
-* [Método directo](#directo)
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 
@@ -143,15 +139,15 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Enrolla la masa creando una barra sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno.
 - Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
 
+### Fermentación final (maduración)
+
+- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
+
 ### Barnices, coberturas y cortes
 
 - Con un aspersor humedece el pastón por todos lados.
 - Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
 - Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón. El corte siguiente no se solapa con el anterior.
-
-### Fermentación final (maduración)
-
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
