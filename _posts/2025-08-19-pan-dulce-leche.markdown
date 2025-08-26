@@ -45,16 +45,16 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 ## Masa leudada con levadura instantánea
 
-* 1 Barra de 550 g de masa.
+* 1 Barra de 620 g de masa rellena.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 52.5% de hidratación (Baja hidratación).
+* 41 % de hidratación (Baja hidratación).
 
 ### Ingredientes para la masa
 
 | Ingrediente                 | Fórmula     | Peso   |
 |:----------------------------|:-----------:|-------:|
-| Harina panadera             |        100% |  294g  |
-| Agua                        |         35% |  103g  |
+| Harina panadera             |        100% |  295g  |
+| Agua                        |         33% |   97g  |
 | Levadura instantánea        |          1% |    3g  |
 | Sal                         |          1% |    3g  |
 | Huevos ligeramente batidos  |         10% |   29g  |
@@ -62,7 +62,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 | Azúcar                      |         20% |   59g  |
 | Leche en polvo              |          5% |   15g  |
 |-----------------------------|-------------|--------|
-| **Total**                   |    **187%** |**550g**|
+| **Total**                   |    **185%** |**545g**|
 
 ### Calculadora para la masa 
 
@@ -73,13 +73,22 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
-| Dulce de Leche            |   100%   |  150g  |
+| Dulce de Leche            |   100%   |  100g  |
+| Fécula de maíz            |    10%   |   10g  |
+| Dulce de Leche            |    20%   |   20g  |
 |---------------------------|----------|--------|
-| **Total**                 | **100%** |**150g**|
+| **Total**                 | **130%** |**130g**|
+
+Relación masa/relleno: 18%
 
 ## Paso a paso para preparar el Pan de Dulce de Leche
 
 <div id="preparacion"></div>
+
+### Preparación del relleno
+- Mezcla la fécula de maíz en la leche fría.
+- Agrega el dulce de leche y calienta en una olla hasta espesar.
+- Deja enfriar en mesa.
 
 ### Preparación de la masa
 
@@ -92,11 +101,11 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 #### Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina y la levadura instantánea.
-- En otro envase mezcla el agua con la leche en polvo, el huevo y el azúcar hasta disolver.
-- Crea un volcán con la mezcla de harina y levadura y coloca los líquidos en el centro del volcán.
+- En un envase mezcla la harina, leche en polvo, la azúcar y la levadura instantánea.
+- En otro envase mezcla el agua con el huevo hasta disolver.
+- Crea un volcán con la mezcla de los sólidos y coloca los líquidos en el centro del volcán.
+- Agrega la sal en el borde del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 <div id="segundociclo"></div>
 
@@ -132,12 +141,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x veinte (20) centímetros.
 - Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
-- Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca el Dulce de leche del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
-- En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
-- Enrolla la masa creando una barra sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno.
-- Coloca tu barra de pan en un recipiente/bandejaß previamente engrasado con aceite o mantequilla sin sal.
+- Comenzando por el lado por donde vas a enrollar el pastón, coloca el relleno sobre la masa, dejando dos (2cm) sin relleno en los tres bordes.
+- En el lado de veinte (20) centímetros, deja diez (10cm) de masa sin rellenar.
+-  Partiendo del lado de treinta (30) centímetros cubierto con relleno, enrolla la masa creando una barra sin generar tensión.
+- Sella los bordes con agua/huevo batido, para evitar que se salga el relleno.
+- Coloca tu barra de pan en una bandeja previamente engrasada con aceite/mantequilla sin sal/alfrombrilla de silicona.
 
 ### Fermentación final (maduración)
 
@@ -147,7 +157,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Con un aspersor humedece el pastón por todos lados.
 - Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
-- Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón. El corte siguiente no se solapa con el anterior.
+- Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón.
+- Asegurate que el siguiente corte, no se solape con el anterior.
 
 ### Horneado
 

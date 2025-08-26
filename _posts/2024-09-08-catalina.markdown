@@ -48,21 +48,21 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 ---
 
-## Ingredientes para preparar 15 Catalinas de 50g cada una
+## Ingredientes para preparar 12 Catalinas de 50g cada una
 
 | Ingrediente                     | Fórmula | Peso  |
 |---------------------------------|:-------:|------:|
-| Harina todo uso                 |  100%   |  284g |
-| Bicarbonato de sodio            |    2%   |    6g |
-| Polvo de hornear                |    2%   |    6g |
-| Sal                             |    1%   |    3g |
-| Grasa (Mantequilla sin sal).    |   35%   |   99g |
-| Canela                          |    2%   |    6g |
-| Jengibre molido                 |    2%   |    6g |
-| Clavo de olor molido            |    2%   |    6g |
-| Melao de Papelón Especiado      |  117%   |  332g |
+| Harina todo uso                 |  100%   |  230g |
+| Bicarbonato de sodio            |    2%   |    5g |
+| Polvo de hornear                |    2%   |    5g |
+| Sal                             |    1%   |    5g |
+| Grasa (Mantequilla sin sal).    |   35%   |   80g |
+| Canela                          |    1%   |    2g |
+| Jengibre molido                 |    1%   |    2g |
+| Clavo de olor molido            |    1%   |    2g |
+| Melao de Papelón Especiado      |  117%   |  269g |
 |---------------------------------|---------|-------|
-| **Total**                       |  264%   |  750g |
+| **Total**                       |  264%   |  600g |
 
 ### Calculadora para preparar la Catalina
 
@@ -73,13 +73,13 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 | Ingrediente          | Fórmula | Peso  |
 |----------------------|:-------:|------:|
-| Papelón oscuro       |  100%   |  250g |
-| Agua                 |   40%   |  100g |
-| Rama de canela grande|    2%   |    5g |
-| Clavo de olor        |  0,4%   |    1g |
-| Pimienta guayabita   |    2%   |    5g |
+| Papelón oscuro       |   70%   |  188g |
+| Agua                 |   40%   |   75g |
+| Rama de canela grande|    3%   |    6g |
+| Clavo de olor        |  0,5%   |    1g |
+| Pimienta guayabita   |  0,5%   |    1g |
 |----------------------|---------|-------|
-| **Total**            | 144,4%  |  361g |
+| **Total**            |  114%   |  269g |
 
 ---
 
@@ -94,32 +94,36 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 ### Preparación del melao de papelón especiado
 
 - En una olla, coloca el papelón en trozos y el agua.
-- Agrega la rama de canela, clavo de olor y pimienta guayabita.
+- Agrega la rama de canela, clavo de olor y pimienta guayabita molida.
 - Cocina a fuego medio, revolviendo ocasionalmente hasta disolver el papelón y que tome un color oscuro y espeso.
 - Cuela para retirar las especias y reserva.
 - Deja enfriar por treinta (30) minutos.
 
 ### Preparación de la masa
 
-- Pesa todos los ingredientes y tenlos listos.
-- Reserva la grasa (mantequilla sin sal) para añadir después.
+ Pesa todos los ingredientes y colocarlos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 
 ### Mezcla y amasado
 
-- En un bol mezcla la harina, bicarbonato, sal, canela, jengibre y clavo molido.
-- Agrega el melao especiado y el agua.
-- Mezcla hasta formar una masa homogénea y deja reposar treina (30) minutos.
+- En un bol mezcla la harina, el bicarbonato, la sal, la canela, el jengibre y el clavo molido.
+- Agrega el melao especiado y la mantequilla sin sal mezclando hasta formar una masa homogénea.
+- Deja reposar treina (30) minutos.
 
 ### División y formado
 
-- Extiende la masa con un rodillo hasta obtener un grosor de 1cm.
-- Divide con un molde redondo o en flor.
-- Coloca sobre una bandeja con silpat o papel de horno.
+- Enharina la superficie de trabajo.
+- Extiende la masa con un rodillo hasta obtener un grosor de 0.5cm en toda la masa.
+- Divide la masa con un molde redondo o en flor.
+- Con cuidado, retira los bordes de masa primero.
+- Una por una, coloca tus catalinas separadas al menos dos (2) cm, en una bandeja cubierta con silpat o papel de horno.
+- Si te sobra masa, extiendela con el rodillo, divide con molde y coloca en bandeja.
 
 ### Horneado
 
 - Precalienta el horno a 180ºC/355ºF.
-- Hornea durante veinte y veinticinco (20-25) minutos o hasta que estén dorados.
+- Hornea durante quince (15) y dieciocho (18) minutos o hasta que estén doradas por debajo.
 - Deja enfriar sobre rejilla antes de consumir.
 
 ---
