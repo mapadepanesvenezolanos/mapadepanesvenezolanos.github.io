@@ -73,13 +73,13 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 | Ingrediente          | Fórmula | Peso  |
 |----------------------|:-------:|------:|
-| Papelón oscuro       |   70%   |  188g |
-| Agua                 |   40%   |   75g |
-| Rama de canela grande|    3%   |    6g |
+| Papelón oscuro       |   93%   |  250g |
+| Agua                 |   40%   |  100g |
+| Rama de canela grande|    3%   |    8g |
 | Clavo de olor        |  0,5%   |    1g |
 | Pimienta guayabita   |  0,5%   |    1g |
 |----------------------|---------|-------|
-| **Total**            |  114%   |  269g |
+| **Total**            |  137%   |  361g |
 
 ---
 
