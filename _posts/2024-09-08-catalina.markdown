@@ -56,13 +56,13 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 | Bicarbonato de sodio            |    2%   |    5g |
 | Polvo de hornear                |    2%   |    5g |
 | Sal                             |    1%   |    5g |
-| Grasa (Mantequilla sin sal).    |   40%   |   90g |
+| Grasa (Mantequilla sin sal).    |   40%   |   91g |
 | Canela                          |    1%   |    2g |
-| Jengibre molido                 |    1%   |    2g |
-| Clavo de olor molido            |    1%   |    2g |
-| Melao de Papelón Especiado      |  117%   |  264g |
+| Jengibre molido                 |  0.5%   |    1g |
+| Clavo de olor molido            |  0.5%   |    1g |
+| Melao de Papelón Especiado      |  117%   |  265g |
 |---------------------------------|---------|-------|
-| **Total**                       |  264%   |  600g |
+| **Total**                       |  265%   |  600g |
 
 ### Calculadora para preparar la Catalina
 
@@ -73,13 +73,13 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 
 | Ingrediente          | Fórmula | Peso  |
 |----------------------|:-------:|------:|
-| Papelón oscuro       |   93%   |  245g |
-| Agua                 |   40%   |   98g |
+| Papelón oscuro       |   93%   |  246g |
+| Agua                 |   40%   |   99g |
 | Rama de canela grande|    3%   |    8g |
 | Clavo de olor        |  0,5%   |    1g |
 | Pimienta guayabita   |  0,5%   |    1g |
 |----------------------|---------|-------|
-| **Total**            |  137%   |  354g |
+| **Total**            |  137%   |  355g |
 
 ---
 
