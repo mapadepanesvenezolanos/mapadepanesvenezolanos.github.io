@@ -1,6 +1,6 @@
 ---
 title: "Pan de Guayaba"
-subtitle: "Un abrazo dulce y venezolano en cada mordisco."
+subtitle: "El abrazo dulce y venezolano en cada mordisco."
 description: "El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche y huevos, da como resultado una miga suave, esponjosa y delicada, que se deshace con cada bocado."
 date: 2025-08-19 09:10:00 -0400
 published: false
@@ -11,19 +11,19 @@ featured_image: '/images/panes/pan-guayaba/guayaba_01.jpg'
 formula_name: "guayaba"
 ---
 
-Esta es la receta de Pan de Guayaba. Este Pan es una versión de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método directo.
+Esta es la receta de Pan de Guayaba. Este Pan es una versión ajustada a partir de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método indirecto.
 
 También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenzaleche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
 A continuación el procedimiento de la versión:
 
-* [Método directo](#directo)
+* [Método indirecto](#indirecto)
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 
 ## Resultado esperado
 
-El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche y huevos, da como resultado una miga suave, esponjosa y delicada, que se deshace con cada bocado. La magia de este pan está en su relleno: una generosa capa de pasta de guayaba que aporta ese toque dulce y frutal, con una ligera acidez que equilibra perfectamente la suavidad de la masa.
+El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche en polvo, huevos y azúcar, da como resultado una miga suave, esponjosa y delicada en cada bocado. La magia de este pan está en su relleno: una generosa capa de pasta de guayaba que aporta ese toque dulce y frutal, con una ligera acidez que equilibra perfectamente la suavidad de la masa.
 
 Al salir del horno, se convierte en un pan dorado y fragante, con un interior húmedo y jugoso que invita a cortar una rebanada tras otra. Es ideal para disfrutarlo en la merienda, acompañado de un café con leche, o como un detalle especial para compartir en familia. Más que un pan, es un pedacito de tradición venezolana que combina sencillez, dulzura y ese inconfundible sabor tropical que siempre nos conecta con nuestros recuerdos. 
 
@@ -38,35 +38,36 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 ## Tips para preparar el Pan de Guayaba
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
-- Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
+- Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento, debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
-- Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
-- Durante el decorado del pan, realiza cortes poco profundos para evitar que el relleno se salga durante el horneado. Corta con la hojilla solo hasta que puedas ver el relleno. 
+- Durante el decorado del pan, corta el pastón con una hojilla bien afilada sólo hasta que puedas ver un poco del relleno de guayaba.
 
 {% include whatsapp.html %}
+
+<div id="indirecto"></div>
 
 # Pan de Guayaba
 
 ## Masa leudada con levadura instantánea
 
-* 1 Barra de 550 g de masa.
+* 1 Barra de 545 g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 52.5% de hidratación (Baja hidratación).
+* 45% de hidratación (Baja hidratación).
 
 ### Ingredientes para la masa
 
 | Ingrediente                 | Fórmula     | Peso   |
 |:----------------------------|:-----------:|-------:|
-| Harina panadera             |        100% |  294g  |
-| Agua                        |         35% |  103g  |
+| Harina panadera             |        100% |  295g  |
+| Agua                        |         33% |   97g  |
 | Levadura instantánea        |          1% |    3g  |
 | Sal                         |          1% |    3g  |
-| Huevos ligeramente batidos  |         10% |   29g  |
+| Huevos ligeramente batidos  |         10% |   30g  |
 | Grasa (Mantequilla sin sal) |         15% |   44g  |
 | Azúcar                      |         20% |   59g  |
 | Leche en polvo              |          5% |   15g  |
 |-----------------------------|-------------|--------|
-| **Total**                   |    **187%** |**550g**|
+| **Total**                   |    **185%** |**545g**|
 
 ### Calculadora para la masa 
 
@@ -77,9 +78,9 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
-| Mermelada de Guayaba      |   100%   |  120g  |
+| Pasta de Guayaba          |   100%   |  180g  |
 |---------------------------|----------|--------|
-| **Total**                 | **100%** |**120g**|
+| **Total**                 | **100%** |**180g**|
 
 ## Paso a paso para preparar el Pan de Guayaba
 
@@ -131,33 +132,34 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8)y doce (12) horas.
-- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre doce (12)y dieciseis (16) horas.
+- Saca el envase de la nevera y llévalo a la mesa de trabajo, dejando reposar durante sesenta (60) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
-- Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
-- Comenzando por el lado por donde vas a comenzar a enrollar el pastón, coloca la mermelada de guayaba del relleno sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados del rectángulo conexos.
-- En el otro lado de treinta (30) centímetros del rectángulo, deja diez (10cm) sin rellenar.
-- Enrolla la masa sin generar tensión, partiendo del lado de treinta (30) centímetros cubierto con relleno creando una barra.
-- Coloca tu barra de pan en un recipiente/bandeja previamente engrasada con aceite/mantequilla sin sal/silicona.
+- Con ayuda del rodillo, extiende la masa formando un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- En el lado de cuarenta (40 cm) de largo coloca el relleno de pasta de guayaba sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados conexos del rectángulo.
+- En el lado opuesto, deja diez (10cm) de la masa sin rellenar.
+- Ahora comienza a enrollar la masa sin generar tensión, partiendo del lado cubierto con relleno.
+- Cuando estes cerca de terminar de enrollar tu barra, con la ayuda de una brocha de cocina, barniza el borde de la masa con agua o huevo batido y sella tu barra con los dedos.
+- Ahora termina de enrollar el pastón hasta crear una barra.
+- Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceita neutro.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón aproximadamente por ciento veinte (120) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
-- Con un aspersor humedece el pastón por todos lados.
-- Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
-- Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón. El corte siguiente no se solapa con el anterior.
+- Mezcla la mitad de un huevo batido ligeramente, una pizca de sal, una pizca de azúcar y un poquito de leche (5g) y barniza el pastón.
+- Realiza al menos tres (3) cortes diagonales en la dirección del pastón, asegurandote que se vea sólo un poquito el relleno de guayaba. El corte siguiente no se solapa con el anterior.
 
 ### Horneado
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
-- Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
+- Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
+- Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tu Pan de Guayaba del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
@@ -180,7 +182,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (08/24/2025)__
+__Versión 1.0 (08/30/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
