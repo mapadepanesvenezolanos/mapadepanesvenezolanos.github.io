@@ -73,22 +73,15 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 | Ingrediente               | Fórmula  | Peso   |
 |:--------------------------|:--------:|-------:|
-| Dulce de Leche            |   100%   |  100g  |
-| Fécula de maíz            |    10%   |   10g  |
-| Dulce de Leche            |    20%   |   20g  |
+| Dulce de Leche(Arequipe)  |   100%   |  180g  |
 |---------------------------|----------|--------|
-| **Total**                 | **130%** |**130g**|
+| **Total**                 | **100%** |**180g**|
 
 Relación masa/relleno: 18%
 
 ## Paso a paso para preparar el Pan de Dulce de Leche
 
 <div id="preparacion"></div>
-
-### Preparación del relleno
-- Mezcla la fécula de maíz en la leche fría.
-- Agrega el dulce de leche y calienta en una olla hasta espesar.
-- Deja enfriar en mesa.
 
 ### Preparación de la masa
 

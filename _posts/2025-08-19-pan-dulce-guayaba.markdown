@@ -50,9 +50,9 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 ## Masa leudada con levadura instantánea
 
-* 1 Barra de 545 g de masa.
+* 1 Barra de 620 g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 45% de hidratación (Baja hidratación).
+* 41% de hidratación (Baja hidratación).
 
 ### Ingredientes para la masa
 
