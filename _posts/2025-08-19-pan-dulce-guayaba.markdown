@@ -3,11 +3,11 @@ title: "Pan de Guayaba"
 subtitle: "El abrazo dulce y venezolano en cada mordisco."
 description: "El pan de guayaba venezolano es uno de esos panes que nos transporta de inmediato a la calidez del hogar y a los sabores tropicales de nuestra tierra. Su masa, hecha con harina de trigo, mantequilla, leche y huevos, da como resultado una miga suave, esponjosa y delicada, que se deshace con cada bocado."
 date: 2025-08-19 09:10:00 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/pan-guayaba/
 categories: pan enriquecido los_andes
 keywords: pan de guayaba, el pan de guayaba, pan de guayaba venezolana, pan de guayaba venezuela, receta de pan de guayaba, receta pan de guayaba, pan de guayaba receta, receta de pan de guayaba  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de guayaba, pan de guayaba venezolano, pan de guayaba, pan de guayaba dulce venezolano, receta del trenza de leche, receta pan de guayaba venezolana, panes venezolanos, pan dulce venezolano, pan de guayaba receta, ingredientes del pan de guayaba, ingredientes para la pan de guayaba, pan de guayaba  ingredientes, pan de guayaba dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de guayaba, pan de guayaba historia, pan de guayaba  origen, origen de la pan de guayaba , pan andino de leche, pan de guayaba casero, receta pan de guayaba dulce, recetas de pan de guayaba, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de guayaba andino venezolano, pan de guayaba andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de guayaba, cómo se hace la trenza de leche, como preparar pan de guayaba, cómo preparar pan de guayaba, pancitos rellenos de dulce de leche, pan de guayaba panadería, pan de guayaba, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de guayaba, como hacer panes venezolanos en la diaspora
-featured_image: '/images/panes/guayaba/guayaba_01.jpg'
+featured_image: '/images/panes/guayaba/guayaba_01.jpeg'
 formula_name: "guayaba"
 ---
 
@@ -182,7 +182,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (08/30/2025)__
+__Versión 1.0 (09/01/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
