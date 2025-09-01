@@ -13,7 +13,7 @@ formula_name: "guayaba"
 
 Esta es la receta de Pan de Guayaba. Este Pan es una versión ajustada a partir de nuestra típica [Trenza de Leche](/panes-venezolanos/trenzadeleche/), formado en barra. El procedimiento que verás a continuación utiliza el método indirecto.
 
-También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenzaleche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
+También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenzaleche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/) Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
 A continuación el procedimiento de la versión:
 
