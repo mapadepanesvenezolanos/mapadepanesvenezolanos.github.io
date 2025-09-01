@@ -132,18 +132,18 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre doce (12)y dieciseis (16) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre doce (12) y dieciseis (16) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo, dejando reposar durante sesenta (60) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
 
 - Con ayuda del rodillo, extiende la masa formando un rectángulo de treinta (30) x cuarenta (40) centímetros.
-- En el lado de cuarenta (40 cm) de largo coloca el relleno de pasta de guayaba sobre la masa, dejando dos (2cm) sin relleno en el borde de los tres (3) lados conexos del rectángulo.
+- En el lado de cuarenta (40 cm) de largo coloca el relleno de pasta de guayaba sobre la masa, dejando dos (2cm) sin relleno en los bordes superior, izquierdo y derecho.
 - En el lado opuesto, deja diez (10cm) de la masa sin rellenar.
 - Ahora comienza a enrollar la masa sin generar tensión, partiendo del lado cubierto con relleno.
 - Cuando estes cerca de terminar de enrollar tu barra, con la ayuda de una brocha de cocina, barniza el borde de la masa con agua o huevo batido y sella tu barra con los dedos.
 - Ahora termina de enrollar el pastón hasta crear una barra.
-- Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceita neutro.
+- Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceite neutro.
 
 ### Fermentación final (maduración)
 
@@ -182,7 +182,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (09/01/2025)__
+__Versión 1.1 (09/01/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
