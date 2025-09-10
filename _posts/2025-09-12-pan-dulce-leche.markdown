@@ -142,7 +142,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Partiendo del lado de treinta (30) centímetros cubierto con relleno, enrolla la masa creando una barra sin generar tensión.
 - Con un huevo batido, barniza el borde sin relleno y sella bien tu barra para evitar que se salga el relleno.
 - Coloca tu barra de pan en una bandeja previamente engrasada con aceite/mantequilla sin sal/alfrombrilla de silicona.
-
 - Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceite neutro.
 
 ### Fermentación final (maduración)
@@ -182,7 +181,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (09/10/2025)__
+__Versión 1.2 (09/10/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
