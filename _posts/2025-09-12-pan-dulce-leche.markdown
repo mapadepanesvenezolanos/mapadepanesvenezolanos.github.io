@@ -1,6 +1,6 @@
 ---
 title: "Pan de Dulde de Leche"
-subtitle: "La Pan "
+subtitle: "Un pan suave relleno del caramelo que nos une: el dulce de leche"
 description: "El pan de dulce de leche venezolano es una suave y esponjosa masa horneada, rellena con generosas capas de arequipe que se funden en cada bocado, ofreciendo un equilibrio perfecto entre dulzura y tradición"
 date: 2025-09-10 09:10:00 -0400
 published: true
