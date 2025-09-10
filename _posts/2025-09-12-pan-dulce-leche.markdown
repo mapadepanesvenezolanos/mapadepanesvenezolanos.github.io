@@ -11,7 +11,7 @@ featured_image: '/images/panes/dulce-de-leche/dulcedeleche_01.jpg'
 formula_name: "dulcedeleche"
 ---
 
-Esta es la receta de Pan de Dulce de Leche, una versión menos hidratada de nuestra típica [Trenza de Leche](/panes-venezolanos/trenza-leche/), formado en barra. El procedimiento que verás a continuación utiliza el método indirecto.
+Esta receta es una versión menos hidratada de nuestra típica [Trenza de Leche](/panes-venezolanos/trenza-leche/), formado en barra. El procedimiento que verás a continuación utiliza el método indirecto.
 
 También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenza-leche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
@@ -181,7 +181,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (09/10/2025)__
+__Versión 1.3 (09/10/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
