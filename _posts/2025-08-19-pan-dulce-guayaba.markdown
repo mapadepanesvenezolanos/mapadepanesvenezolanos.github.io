@@ -152,7 +152,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Barnices, coberturas y cortes
 
 - Mezcla la mitad de un huevo batido ligeramente, una pizca de sal, una pizca de azúcar y un poquito de leche (5g) y barniza el pastón.
-- Realiza al menos tres (3) cortes diagonales en la dirección del pastón, asegurandote que se vea sólo un poquito el relleno de guayaba. El corte siguiente no se solapa con el anterior.
+- Realiza al menos cuatro (4) cortes diagonales en la dirección del pastón, asegurandote que se vea sólo un poquito el relleno de guayaba. El corte siguiente no se solapa con el anterior.
 
 ### Horneado
 

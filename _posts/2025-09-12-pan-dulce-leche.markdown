@@ -2,8 +2,8 @@
 title: "Pan de Dulde de Leche"
 subtitle: "La Pan "
 description: "El pan de dulce de leche venezolano es una suave y esponjosa masa horneada, rellena con generosas capas de arequipe que se funden en cada bocado, ofreciendo un equilibrio perfecto entre dulzura y tradición"
-date: 2025-09-12 09:10:00 -0400
-published: false
+date: 2025-09-10 09:10:00 -0400
+published: true
 permalink: /panes-venezolanos/pan-dulce-leche/
 categories: pan enriquecido los_andes
 keywords: pan de dulce de leche, el pan de dulce de leche, pan de dulce de leche venezolana, pan de dulce de leche venezuela, receta de pan de dulce de leche, receta pan de dulce de leche, pan de dulce de leche receta, receta de pan de dulce de leche  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de dulce de leche, pan de dulce de leche venezolano, pan de dulce de leche, pan de dulce de leche dulce venezolano, receta del trenza de leche, receta pan de dulce de leche venezolana, panes venezolanos, pan dulce venezolano, pan de dulce de leche receta, ingredientes del pan de dulce de leche, ingredientes para la pan de dulce de leche, pan de dulce de leche  ingredientes, pan de dulce de leche dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de dulce de leche, pan de dulce de leche historia, pan de dulce de leche  origen, origen de la pan de dulce de leche , pan andino de leche, pan de dulce de leche casero, receta pan de dulce de leche dulce, recetas de pan de dulce de leche, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de dulce de leche andino venezolano, pan de dulce de leche andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de dulce de leche, cómo se hace la trenza de leche, como preparar pan de dulce de leche, cómo preparar pan de dulce de leche, pancitos rellenos de dulce de leche, pan de dulce de leche panadería, pan de dulce de leche, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de dulce de leche, como hacer panes venezolanos en la diaspora, pan relleno de arequipe, pan con arequipe
@@ -78,7 +78,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 |-----------------------------------|----------|--------|
 | **Total**                         | **100%** |**180g**|
 
-Relación masa/relleno: 18%
+Relación masa/relleno: 33%
 
 ## Paso a paso para preparar el Pan de Dulce de Leche
 
@@ -135,31 +135,32 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x veinte (20) centímetros.
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
 - Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
 - Comenzando por el lado por donde vas a enrollar el pastón, coloca el relleno sobre la masa, dejando dos (2cm) sin relleno en los tres bordes.
-- En el lado de veinte (20) centímetros, deja diez (10cm) de masa sin rellenar.
--  Partiendo del lado de treinta (30) centímetros cubierto con relleno, enrolla la masa creando una barra sin generar tensión.
-- Sella los bordes con agua/huevo batido, para evitar que se salga el relleno.
+- En el lado de cuarenta (40) centímetros, deja diez (10cm) de masa sin rellenar.
+- Partiendo del lado de treinta (30) centímetros cubierto con relleno, enrolla la masa creando una barra sin generar tensión.
+- Con un huevo batido, barniza el borde sin relleno y sella bien tu barra para evitar que se salga el relleno.
 - Coloca tu barra de pan en una bandeja previamente engrasada con aceite/mantequilla sin sal/alfrombrilla de silicona.
+
+- Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceite neutro.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón con costra de azúcar, sin tapar, aproximadamente por ciento veinte (120) minutos en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo**.
+- Deja reposar el pastón aproximadamente por noventa (90) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
-- Con un aspersor humedece el pastón por todos lados.
-- Con ayuda de un colador, polvorea con azucar blanca la masa para crear la corteza de azúcar. 
-- Realiza tres (3) cortes finos y muy poco profundos en la dirección del pastón.
-- Asegurate que el siguiente corte, no se solape con el anterior.
+- Mezcla la mitad de un huevo batido ligeramente, una pizca de sal, una pizca de azúcar y un poquito de leche (5g) y barniza el pastón.
+- Realiza al menos cuatro (4) cortes diagonales en la dirección del pastón, asegurandote que se vea sólo un poquito el relleno de guayaba. El corte siguiente no se solapa con el anterior.
 
 ### Horneado
 
-- Enciende el horno media hora antes de hornear a una temperatura de 180ºC/355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
-- Verifica el horno asegurándote que la trenza se hornea de manera uniforme. Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu Pan de Dulce de Leche del horno cuando tenga el color dorado de tu gusto.
+- Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
+- Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
+- Saca tu Pan de dulce de leche del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
@@ -181,7 +182,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (09/08/2025)__
+__Versión 1.0 (09/10/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
