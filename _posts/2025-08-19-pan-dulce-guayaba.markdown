@@ -82,6 +82,8 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 |---------------------------|----------|--------|
 | **Total**                 | **100%** |**180g**|
 
+Relación masa/relleno: 33%
+
 ## Paso a paso para preparar el Pan de Guayaba
 
 <div id="preparacion"></div>
@@ -182,7 +184,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (09/03/2025)__
+__Versión 1.3 (09/11/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
