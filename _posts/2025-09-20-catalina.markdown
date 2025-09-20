@@ -64,7 +64,7 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 | Grasa (Mantequilla sin sal).    | 28.3%   |   90g |
 | Canela                          |   0.6%  |    2g |
 | Jengibre molido                 |  0.3%   |    1g |
-| Clavo de olor molido            |  0.3%   |    1g |
+| Clavitos de olor molido         |  0.3%   |    1g |
 | Melao de Papelón Especiado      |   81%   |  258g |
 |---------------------------------|---------|-------|
 | **Total**                       |  220.2% |  700g |
@@ -83,7 +83,7 @@ Relación Masa/Melao: 33%
 | Papelón oscuro       |   73%   |  169g |
 | Agua                 |   40%   | 92.4g |
 | Sal                  |  0.8%   |  1.8g |
-| Clavo de olor        |  0.25%  |    1g |
+| Clavitos de olor     |  0.25%  |    1g |
 | Pimienta guayabita   |  0.25%  |    1g |
 | Rama de canela grande|    1%   |  2.3g |
 | Melaza               |   27%   |   62g |
