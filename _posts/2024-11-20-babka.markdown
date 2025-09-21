@@ -67,7 +67,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 ### Calculadora para la masa de Babka
 
-{% include calculadora-de-panes2.html %}
+{% include calculadora-de-panes.html %}
 
 <div id="babkadoblechoco"></div>
 
