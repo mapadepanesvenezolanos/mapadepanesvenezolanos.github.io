@@ -66,9 +66,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 
 <div id="canelisrellenooriginal"></div>
 
-#### Relación entre la masa y el relleno: 3.5%
-
-### Relleno de Azúcar y Canela
+### Relleno de Azúcar y Canela: Relación entre la masa y el relleno: 3.5%
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -83,9 +81,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 
 {% include calculadora-de-panes2.html %}
 
-#### Relación entre la masa y el relleno: 9.5%
-
-### Glaseado
+### Glaseado: Relación entre la masa y el relleno: 9.5%
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
@@ -206,7 +202,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0 (2025/09/21)__
+__Versión 3.1 (2025/09/21)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
