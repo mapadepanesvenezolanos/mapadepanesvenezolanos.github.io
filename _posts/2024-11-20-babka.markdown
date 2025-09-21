@@ -9,6 +9,9 @@ categories: consentidos
 keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka
 featured_image: '/images/panes/babka/babka_02.jpg'
 formula_name: "babka"
+second_formula_name: "babkachoco"
+third_formula_name: "babkanelis"
+
 ---
 
 # Babka
@@ -67,46 +70,58 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 ### Calculadora para la masa de Babka
 
+{% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
 <div id="babkadoblechoco"></div>
+
+#### Relación entre la masa y el relleno: 7%
 
 ### Relleno de Doble Chocolate y Nueces
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Chocolate negro 70% (trocitos) |          7% |   80g  |
-| Azúcar                         |         12% |  150g  |
-| Mantequilla sin sal            |          8% |  100g  | 
-| Cacao en polvo                 |          3% |   40g  |
-| Nueces                         |          5% |   65g  |
+| Chocolate negro 70% (trocitos) |        100% |   85g  |
+| Azúcar                         |        176% |  150g  |
+| Mantequilla sin sal            |        117% |  100g  | 
+| Cacao en polvo                 |         47% |   40g  |
+| Nueces                         |         76% |   65g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |    **36%**  |**435g**|
+| **Total**                      |    **550%** |**441g**|
 |--------------------------------|-------------|--------|
+
+{% include calculadora-de-panes2.html %}
 
 <div id="babkanelis"></div>
 
-### Relleno de Azúcar y Canela
+#### Relación entre la masa y el relleno: 20%
+
+### Relleno de Azúcar, Canela y Nueces
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Azúcar                         |          3% |   37g  |
-| Azúcar morena                  |          3% |   37g  |
-| Mantequilla sin sal            |          5% |   61g  | 
-| Canela en polvo                |          1% |   12g  |
+| Azúcar                         |        100% |   37g  |
+| Azúcar morena                  |        100% |   37g  |
+| Mantequilla sin sal            |        100% |   37g  | 
+| Canela en polvo                |         30% |   11g  |
+| Nueces                         |        160% |   59g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |    **74%**  |**146g**|
+| **Total**                      |    **490%** |**179g**|
 |--------------------------------|-------------|--------|
+
+{% include calculadora-de-panes3.html %}
+
+#### Relación entre la masa y el relleno: 7%
 
 ### Glaseado
 
 | Ingrediente                    | Fórmula     | Peso   |
 |:-------------------------------|:-----------:|-------:|
-| Azúcar pulverizada (de nevar)  |          7% |   85g  |
-| Leche líquida                  |          1% |   12g  |
-| Zumo de Limón                  |        0.1% |    1g  |
+| Azúcar pulverizada (de nevar)  |        100% |   85g  |
+| Leche líquida                  |         14% |   12g  |
+| Zumo de Limón                  |          1% |    1g  |
 |--------------------------------|-------------|--------|
-| **Total**                      |   **8.1%**  | **99g**|
+| **Total**                      |   **115%**  | **98g**|
 |--------------------------------|-------------|--------|
 
 ## Paso a paso para preparar la Babka 
@@ -242,7 +257,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.2 (2025/09/20)__
+__Versión 3.0 (2025/09/21)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
