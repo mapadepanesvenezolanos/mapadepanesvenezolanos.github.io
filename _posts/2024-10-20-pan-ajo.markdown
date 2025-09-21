@@ -6,7 +6,7 @@ date: 2024-10-20 08:00:00 -0400
 published: true
 permalink: /panes-venezolanos/pan-de-ajo/
 categories: consentidos
-keywords: pan de ajo, pan de ajo venezolano, receta de pan de ajo, receta ajo
+keywords: ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo
 featured_image: '/images/panes/pan-de-ajo/pan-de-ajo_02.jpg'
 formula_name: "ajo"
 ---
