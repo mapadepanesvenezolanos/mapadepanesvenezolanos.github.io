@@ -6,7 +6,7 @@ date:   2022-04-27 18:00:39 -0400
 permalink: /panes-venezolanos/pan-frances/
 categories: pan semirustico capital
 keywords: pan francés, pan frances, pan frances venezolano, pan frances venezolanos, pan frances venezuela, pan frances de venezuela, pan francés venezolano, pan frances venezolano receta, pan frances venezolano ingredientes, panes venezolanos, pan blanco venezolano, pan frances receta, pan frances recetas, pan francés receta, pan frances ingredientes, pan francés ingredientes, pan frances venezolano receta, pan francés venezolano ingredientes, panadería, panadería venezolana, recetas de pan francés, receta de pan frances, receta de pan frances de panaderia, receta del pan frances, receta para hacer pan frances, receta pan frances venezolano, recetas de pan venezolano, panes venezolanos, receta de pan francés venezolano, receta pan francés venezolano, pan frances en venezuela, como hacer pan frances, como hacer el pan frances, como hacer pan frances venezolano, receta para pan frances, pan frances receta venezolana, como hacer pan frances venezolano en casa, que es el pan frances, pan frances que es, que es pan frances, origen del pan frances, recetas de pan frances, cuanto pesa un pan frances, receta de pan frances salado, ingredientes para hacer pan frances, ingredientes de pan frances, recetas pan frances, pan frances pequeño, panes frances, peso de un pan frances, historia del pan frances, cuanto pesa un pan frances en gramos, cual es el pan frances, como se hace el pan frances, como se hace el pan frances de panaderia, como hacer pan fraces paso a paso, el pan frances tiene azucar, como es el pan frances, ingredientes del pan frances, como preparar pan frances, recetas del pan frances de panaderia, el pan frances, pan frances historia, ingredientes del pan frances de panaderia, receta pan frances de panaderia, pan frances de panaderia, cuanto mide un pan frances, recetas para pan frances, cuantos panes frances salen de un kilo de harina, como hacer un buen pan frances, frances pan, pan frances original, pan.frances, pan frances salado, como se hace pan frances, pan frances casero, pan frances panaderia, receta pan frances salado, ingredientes pan frances, pan frances como se hace, pan frances origen, pan frances salado receta, como hacer pan frances en casa, ingredientes para pan frances, que es un pan frances, a que temperatura se hornea el pan frances, peso del pan frances, hacer pan frances, receta del pan frances de panaderia, pan frances peso, el pan frances lleva grasa, 
-featured_image: '/images/panes/frances/frances_2.jpeg'
+featured_image: '/images/panes/frances/frances_02.jpg'
 formula_name: "frances"
 ---
 
@@ -187,7 +187,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 2.1 (09/20/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
