@@ -6,7 +6,7 @@ date: 2023-06-20 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-coco/
 categories: pan enriquecido
 keywords: pan de coco, pan de coco venezolano, pan con coco rallado, pan de coco receta venezolana, historia del pan de coco, pan de coco rallado, origen del pan de coco, pan de coco historia, pan relleno de coco, pan de coco receta, pan coco, receta de pan de coco, panecillos de coco, pan dulce con coco rallado, pan con coco arriba, como hacer pan de coco, panes de coco, pancito de coco, pan dulce de coco, pan con coco, pan de coco ingredientes
-featured_image: '/images/panes/coco/coco_02.jpeg'
+featured_image: '/images/panes/coco/coco_02.jpg'
 formula_name: "coco"
 second_formula_name: "cococoberturasrellenos"
 ---
@@ -160,7 +160,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (09/20/2025)__ 
+__Versión 1.3 (09/20/2025)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
