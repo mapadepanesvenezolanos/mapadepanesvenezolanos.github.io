@@ -6,7 +6,7 @@ date: 2022-09-27 12:00:00 -0400
 permalink: /panes-venezolanos/mini-pan-de-hamburguesa/
 categories: pan semi salado enriquecido capital
 keywords: mini pan de hamburguesa
-featured_image: '/images/panes/sliders/sliders_1.jpeg'
+featured_image: '/images/panes/sliders/sliders_02.jpg'
 formula_name: "sliders"
 ---
 
@@ -157,7 +157,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__ 
+__Versión 2.1 (09/20/2025)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
