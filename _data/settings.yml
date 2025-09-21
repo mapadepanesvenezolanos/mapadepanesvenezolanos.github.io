@@ -85,6 +85,12 @@ color_settings:
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
+  
+ anuncion_settings:
+  anuncio_background_color: '#4B2E2B'
+  anuncio_text_color: '#2A2F36'
+  anuncio_text_link: '#A15C2D'
+  anuncio_accent_color: '#A15C2D'  
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
