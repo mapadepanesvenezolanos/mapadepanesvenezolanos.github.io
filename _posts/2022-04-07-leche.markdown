@@ -6,7 +6,7 @@ date: 2022-04-07 07:13:00 -0400
 permalink: /panes-venezolanos/pan-de-leche/
 categories: pan enriquecido los_andes
 keywords: pan de leche, el pan de leche, pan de leche venezolano, pan de leche venezuela, receta de pan de leche, receta pan de leche, pan de leche receta, receta de pan de leche venezolano,  como hacer pan de leche venezolano, pan dulce de leche, pan dulce de leche venezolano, pan de leche dulce, pan de leche dulce venezolano, receta del pan de leche, receta pan de leche venezolano, panes venezolanos, pan dulce venezolano, pan de leche receta, ingredientes del pan de leche, ingredientes para el pan de leche, pan de leche ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del pan de leche, pan de leche historia, pan de leche origen, origen del pan de leche, pan andino de leche, pan de leche casero, receta pan de leche dulce, recetas de pan de leche, recetas pan de leche, pan de leche con talvina, pan de leche con masa madre, pan de leche con pie francés, pan de leche con biga, como hacer pan de leche, cómo hacer pan de leche, panes de leche, pan de leche andino venezolano, pan de leche andino, receta de panecillos de leche, panecillos de leche, como se hace el pan de leche, cómo se hace el pan de leche, como preparar pan de leche, cómo preparar pan de leche, pancitos de leche dulces, pan de leche panadería, pan leche, receta panes de leche, pan andino con talvina, como hacer pan de leche venezolano en casa
-featured_image: '/images/panes/leche/leche_4.jpeg'
+featured_image: '/images/panes/leche/leche_02.jpg'
 formula_name: "leche"
 second_formula_name: "lechebiga"
 third_formula_name: "lechetalvina"
@@ -376,7 +376,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 4.1 (30/10/2022)__
+__Versión 4.2 (09/25/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

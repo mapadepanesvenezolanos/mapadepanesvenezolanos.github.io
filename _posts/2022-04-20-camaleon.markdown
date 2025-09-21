@@ -6,7 +6,7 @@ date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-camaleon/
 categories: pan_dulce los_andes
 keywords: camaleón, camaleon, camaleon venezolano, camaleon con talvina, pan camaleón, pan camaleon, pan camaleon venezuela, pan camaleon de venezuela, camaleon pan, panes venezolanos, pan dulce venezolano, pan camaleon receta, pan camaleon ingredientes, pan dulce venezolano receta, pan dulce venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, pan andino con talvina, como hacer pan camaleon en casa
-featured_image: '/images/panes/camaleon/camaleon_0.jpeg'
+featured_image: '/images/panes/camaleon/camaleon_02.jpg'
 formula_name: "camaleon"
 ---
 
@@ -169,7 +169,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.1__
+__Versión 3.2 (09/20/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
