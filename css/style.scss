@@ -1,13 +1,8 @@
----
----
-
 // - - - - - - - - - - Foundations
 
 @import "_reset";
 @import "_mixins";
 @import "_plugins";
-
-
 
 // - - - - - - - - - - Variables
 
@@ -135,11 +130,12 @@ $footer-logo-width: {{ site.data.settings.footer_settings.logo_width }}px;
 $overlay-opacity: {{ site.data.settings.grid_settings.overlay_opacity }};
 $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 
-// Anuncio
+// Anuncios
 $anuncio-background-color: {{ site.data.settings.anuncio_settings.anuncio_background_color }};
 $anuncio-text-color: {{ site.data.settings.anuncio_settings.anuncio_text_color}};
-$anuncio-text-link: {{ site.data.settings.anuncio_settings.text_link }};
+$anuncio-text-color: {{ site.data.settings.anuncio_settings.anuncio_text_color }};
 $anuncio-accent-color: {{ site.data.settings.anuncio_settings.anuncio_accent_color }};
+
 
 
 // - - - - - - - - - - Global styles
