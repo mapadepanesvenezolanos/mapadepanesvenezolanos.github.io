@@ -7,9 +7,8 @@ published: true
 featured_image: '/images/comunidad/1painalafois/perfil/jesusmendez-panadero.JPG'
 categories: ajo, babka panes del mundo, roles de canela panes del mundo
 keywords: babka receta, babka rellena, babka, receta de babka, receta de babka de doble chocolate, recetas de babka paso a paso, pan babka, babka con chocolate y nueces, receta de babka rellena, babka al estilo venezolano, de donde es la babka, origen de la babka, babka venezuela, babka con chocolate, la, babka, babka panes del mundo, babka receta, recetas de babka, ajo receta, ajo, receta de pan de ajo, recetas de pan de ajo paso a paso, pan ajo, pan de ajo venezolano, pan de ajo al estilo venezolano, de donde es el pan de ajo, origen del pan de ajo, pan de ajo venezuela, el, pan de ajo, pan de ajo panes del mundo, pan de ajo receta, recetas de ajo, rollo de canela receta, canela, receta de rollo de canela, recetas de rollo de canela paso a paso, pan rollo de canela, rollo de canela venezolanos, rollo de canela al estilo venezolano, de donde son los rollo de canela, origen de los rollo de canela, rollo de canela venezuela, los, rollo de canela, rollo de canela panes del mundo, rollo de canela receta, recetas de rollo de canela
-formula_name: "ajo"
-second_formula_name: "babka"
-third_formula_name: "canelis"
+formula_name: "canelis"
+
 ---
 
 Mi nombre es Jesús Enrique Méndez Alvarez, nacido en la hermosa ciudad de Caracas, Venezuela, especificamente en el municipio Baruta estado Miranda. El hijo mayor de Gladys Cristina (Licenciada en Educación) y Jesús Filiberto (Contador), y el hermano de Eduardo José. Estudié y me gradué de licenciado en Ciencias de la Computación de la Universidad Central de Venezuela en 2001, tengo una especialización en Gerencia de Técnología y Telecomunicaciones de la Universidad Metropolitana, hablo cuatro idiomas (Español, Francés, Inglés e Italiano). Soy Maestro Panadero egresado del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y comparto mi amor por la Panadería a través de la cuenta instagram [@1painalafois]{:target="blank"} y la página web [Panes Venezolanos]{:target="blank"}  
@@ -75,7 +74,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 | **Total**                   |   **202%**  | **900g**|
 
 ### Calculadora para la masa de Canelis/Rollos de Canela
-{% include calculadora-de-panes3.html %}
+{% include calculadora-de-panes.html %}
 
 <div id="canelisrellenooriginal"></div>
 
