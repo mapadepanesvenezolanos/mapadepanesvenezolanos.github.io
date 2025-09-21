@@ -5,7 +5,7 @@ description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más p
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
-featured_image: /images/panes/canilla/canilla_11.jpg
+featured_image: /images/panes/canilla/canilla_02.jpg
 keywords: canilla, canilla pan, canillas, panes canillas, canillas pan, pan canillas, canilla venezuela, pan canilla venezuela, pan canilla en venezuela, canillas venezolanas, pan de canilla, pan canilla, pan canilla venezolano, pan canilla de venezuela, la canilla es un pan venezolano, panes venezolanos, pan blanco venezolano, canilla receta, canilla ingredientes, pan canilla receta, pan canilla venezolano receta, receta pan canilla, receta de pan canilla, receta de pan canilla, receta de pan canilla venezolano, ingredientes pan canilla, pan canilla ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, como hacer pan canilla, como hacer pan canilla venezolano, cuanto pesa un pan canilla, historia del pan canilla, origen del pan canilla, como hacer pan canilla venezolano en casa
 formula_name: "canilla"
 ---
@@ -191,7 +191,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.7__ 
+__Versión 1.8 (09/20/2025)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
