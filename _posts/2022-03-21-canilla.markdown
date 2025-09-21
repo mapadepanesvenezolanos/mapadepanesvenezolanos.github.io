@@ -131,7 +131,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 <img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
 
-- Esta fórmula es para dos unidades, si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
+- Esta fórmula es para dos (2) unidades, si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
 
 ### Preformado 
 
