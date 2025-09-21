@@ -6,7 +6,7 @@ date: 2022-09-30 07:30:39 -0400
 permalink: /panes-venezolanos/pan-chino/
 categories: pan salado enriquecido capital
 keywords: pan chino venezolano, pan chino, receta de pan chino, receta pan chino venezolano, receta de pan chino venezolano, pan chino esponjoso, receta pan chino, pan chino receta, como hacer pan chino, pan chino receta original, pancito chino, pan chino ingredientes, panes chinos, pancitos chinos, panes chinos receta, como hacer el pan chino, pan de arroz chino, pan chino al horno, pan de chino, recetas de pan chino, pan chinos, receta del pan chino, pan.chino, cómo hacer pan chino, receta de pan chino esponjoso, panes chino, panchino, pan chino venezuela, el pan chino, pan chino., pan chino de arroz chino venezolano, como hacer pan chino esponjoso, chino pan, arroz chino con pan, arroz chino venezolano, pan arroz chino, panes de arroz chino, ingredientes pan chino, arroz chino venezolano receta, panes el chino, pan chino blanco, pan esponjoso chino, chinos venezolanos, pam chino, como se hace el pan chino, chinos pan, panecillos chinos, pan blanco chino, ingredientes del pan chino, cual es el pan chino, tipos de pan chino
-featured_image: '/images/panes/chino/chino_2.jpeg'
+featured_image: '/images/panes/chino/chino_02.jpg'
 formula_name: "chino"
 ---
 
@@ -134,7 +134,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1__
+__Versión 1.2 (09/20/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
