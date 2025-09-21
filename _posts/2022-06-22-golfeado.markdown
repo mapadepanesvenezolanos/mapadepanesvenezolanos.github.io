@@ -6,7 +6,7 @@ date:   2022-06-22 14:28:00 -0400
 permalink: /panes-venezolanos/golfeado/
 categories: golfeado capital
 keywords: golfeados del junquito receta, golfeados húmedos, golfeado, receta de golfeado, receta de golfeados melosos, receta golfeados del junquito, recetas de golfeados paso a paso, pan golfeado, golfeado con queso de mano, receta de golfeados, golfeados, golfeado venezolano, de donde es el golfeado, golfeados con queso de mano, origen del golfeado, golfeado venezuela, golfeado con queso, el, golfeado, golfeados del junquito, golfeado receta, recetas de golfeado
-featured_image: '/images/panes/golfeado/golfeado_1.jpeg'
+featured_image: '/images/panes/golfeado/golfeado_02.jeg'
 formula_name: "golfeado"
 second_formula_name: "golfeadorelleno"
 third_formula_name: "golfeadomelao"
@@ -337,7 +337,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__
+__Versión 3.1 (09/20/2025)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
