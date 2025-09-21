@@ -87,10 +87,10 @@ color_settings:
   error_color: '#D64541'
   
  anuncio_settings:
-  anuncio_background_color: '#4B2E2B'
-  anuncio_text_color: '#2A2F36'
-  anuncio_text_link: '#A15C2D'
-  anuncio_accent_color: '#A15C2D'  
+  background_color: '#4B2E2B'
+  text_color: '#2A2F36'
+  text_link: '#A15C2D'
+  accent_color: '#A15C2D'  
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css?family=Poppins:300,500" rel="stylesheet">'
