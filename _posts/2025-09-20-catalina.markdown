@@ -74,21 +74,21 @@ La Catalina es mucho más que un dulce. Es una puerta de entrada a la dulcería 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-Relación Masa/Melao: 33%
+Relación Masa/Melao: 38%
 
 ## Melao de Papelón Especiado
 
 | Ingrediente          | Fórmula | Peso  |
 |----------------------|:-------:|------:|
-| Papelón oscuro       |   73%   |  169g |
-| Agua                 |   40%   | 92.4g |
-| Sal                  |  0.8%   |  1.8g |
+| Papelón oscuro       |   73%   |  194g |
+| Agua                 |   40%   |  106g |
+| Sal                  |  0.6%   |    2g |
 | Clavitos de olor     |  0.25%  |    1g |
 | Pimienta guayabita   |  0.25%  |    1g |
-| Rama de canela grande|    1%   |  2.3g |
-| Melaza               |   27%   |   62g |
+| Rama de canela grande|    1%   |    3g |
+| Melaza               |   27%   |   72g |
 |----------------------|---------|-------|
-| **Total**            | 142.3%  |  329g |
+| **Total**            | 142.1%  |  378g |
 
 ---
 
@@ -151,7 +151,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (2025/09/20)__
+__Versión 2.0 (2025/09/28)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
