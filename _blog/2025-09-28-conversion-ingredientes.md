@@ -4,7 +4,7 @@ date: 2025-09-28 00:00:00
 description: Esta es una tabla que hemos venido construyendo con los ingredientes y sus potenciales sustitutos en el extranjero.
 permalink: /blog/convertir-ingredientes-extranjero/
 published: true
-featured_image: '/images/blog/convertir_ingredientes_extra'
+featured_image: '/images/blog/convertir_ingredientes_extra-c.png'
 ---
 
 # Convertir ingredientes para hacer nuestros panes venezolanos en el extranjero
