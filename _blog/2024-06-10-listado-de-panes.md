@@ -100,7 +100,7 @@ No tenemos registro de panes.
 - Pan dulce de Aguada Grande
 - Pan de azahar
 - Pan semi dulce larense
-- Pan de leche
+- [Pan de leche](/panes-venezolanos/pan-de-leche/)
 - Pan de nuez
 
 ## Mérida
@@ -111,7 +111,7 @@ No tenemos registro de panes.
 - [Pan de avena](/panes-venezolanos/pan-de-avena/)
 - [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- Pan con guayaba
+- [Pan de guayaba](/panes-venezolanos/pan-guayaba/)
 - [Pan de queso](/panes-venezolanos/pan-de-queso/)
 - Pan con chicharrones
 - Acema
@@ -119,14 +119,14 @@ No tenemos registro de panes.
 - Acema de chicharrón
 - Acema integral
 - Mojicón
-- Piñita
+- [Piñita](/panes-venezolanos/pan-pinita/)
 - Bizcochuelo
 - Almojábana
 - Mantecada
 - Bizcochos dulces y salados
 - Rosquitas
 - Rosquetas
-- Catalina / Paledonia / Cuca
+- [Catalina / Paledonia / Cuca](/panes-venezolanos/catalina/)
 
 ## Miranda
 
@@ -176,8 +176,8 @@ No tenemos registro de panes.
 - Pan integral o negro
 - Pan de mantequilla
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- Pan de arequipe
-- Pan de arequipe y Coco
+- [Pan de dulce de leche](/panes-venezolanos/pan-dulce-leche/)
+- Pan de dulce de leche y Coco
 - Pan de agua
 - Pan del Peregrino
 - Bizcocho
@@ -188,7 +188,7 @@ No tenemos registro de panes.
 - Acema de chicharrón
 - Acema de bocadillo / conserva de guayaba
 - Sema
-- [Quesadilla](/panes-venezolanos/quesadilla-andina/)
+- [Quesadilla andina](/panes-venezolanos/quesadilla-andina/)
 - Quesadillita
 - Almidoncito
 - Mantecada
@@ -204,7 +204,7 @@ No tenemos registro de panes.
 - Regañona
 - Cesta
 - Suspiro
-- Catalinas
+- [Catalinas](/panes-venezolanos/catalina/)
 - Besito de coco
 
 ## Trujillo
@@ -232,7 +232,7 @@ No tenemos registro de panes.
 - Galletas de huevo 
 - Galletas de maíz tostado
 - Mandocas
-- Catalina / Paledonia
+- [Catalina / Paledonia](/panes-venezolanos/catalina/)
 - Rollo maracucho
 
 ## Otros panes
