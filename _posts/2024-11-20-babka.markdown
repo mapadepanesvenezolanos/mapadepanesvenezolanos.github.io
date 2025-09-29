@@ -38,7 +38,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa p
 
 "Se trata de un pastel esponjoso con levadura que se prepara tradicionalmente para el domingo de Pascua en Polonia, Lituania, Eslovaquia, Bielorrusia, Ucrania y Rusia Occidental. Darra Goldstein, profesor de ruso en el Williams College, afirma que «babka viene de baba, un delicado pastel con levadura muy alto pero sabroso que se consume en Rusia occidental y Polonia oriental.​ El babka tradicional tiene algún tipo de relleno de frutas, especialmente pasas, y se glasea con un escarchado con sabor a fruta, añadiéndosele a veces ron. Los babkas modernos pueden ser de chocolate o estar rellenos de queso." [Wikipedia Babka]{:target="blank"} 
 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_2.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/babka/babka_2.JPG" alt="{{page.title}}">
 
 ### Tips para preparar la Babka
 
@@ -195,7 +195,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca tu recepiente de la nevera
 - Deposita la masa sobre la superficie espolvoreada de trabajo.
 - Con ayuda de un rodillo de cocina, crea un cuadrado de masa cuarenta (40) cm de largo por treinta (30) cm de ancho, dejando el lado más largo cerca de ti. 
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_relleno.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/babka/babka_relleno.JPG" alt="{{page.title}}">
 - Si escogistes el Relleno Doble Chocolate con Nueces:
     - Extiende la mezcla del relleno enfriada sobre la masa, dejando un borde de 1 cm alrededor.
     - Espolvorea todas las nueces tostadas por encima.
@@ -206,13 +206,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Recorta unos dos (2) cm de cada extremo para dejarlo limpio.
 - Ahora gira el rollo noventa (90)° en el sentido de las agujas del reloj para que el extremo corto quede más cerca de ti. 
 - Con un cuchillo grande y afilado o un cortador de pizza, corta la masa a lo largo y por la mitad, cortándola en dos (2) trozos largos.
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_formado.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/babka/babka_formado.JPG" alt="{{page.title}}">
 - Con los lados cortados hacia arriba, presiona suavemente el extremo superior de cada mitad para sellar.
 - Luego levanta la mitad derecha sobre la mitad izquierda, seguida de la mitad izquierda sobre la mitad derecha. 
 - Repite, girando la masa para hacer una trenza de dos (2) hilos.
 - Presiona suavemente los extremos inferiores para sellar.
 - Levanta con cuidado el pastón de masa y depositalo en un molde redondo similar al de la imagen:
-<img class="post_image post_image_right" src="/images/comunidad/1painalafois/babka/babka_fermentacion1.JPG" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/babka/babka_fermentacion1.JPG" alt="{{page.title}}">
 - Cúbrelo con un paño de cocina limpio (o colócalo en una caja de fermentación, si tienes una). 
 
 ### Fermentación final (maduración)
@@ -251,7 +251,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2025/09/28)__
+__Versión 3.3 (2025/09/28)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
