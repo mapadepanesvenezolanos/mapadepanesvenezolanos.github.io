@@ -1,12 +1,12 @@
 ---
-title: "Pan de Dulce de Leche"
+title: "Pan de Leche Asuntino"
 subtitle: "Un pan suave relleno del caramelo que nos une: el dulce de leche"
-description: "El pan de dulce de leche venezolano es una suave y esponjosa masa horneada, rellena con generosas capas de arequipe que se funden en cada bocado, ofreciendo un equilibrio perfecto entre dulzura y tradición"
+description: "El pan de leche asuntino venezolano es una suave y esponjosa masa horneada, rellena con generosas capas de arequipe que se funden en cada bocado, ofreciendo un equilibrio perfecto entre dulzura y tradición"
 date: 2025-09-10 09:10:00 -0400
 published: true
 permalink: /panes-venezolanos/pan-dulce-leche/
 categories: pan enriquecido los_andes
-keywords: pan de dulce de leche, el pan de dulce de leche, pan de dulce de leche venezolana, pan de dulce de leche venezuela, receta de pan de dulce de leche, receta pan de dulce de leche, pan de dulce de leche receta, receta de pan de dulce de leche  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de dulce de leche, pan de dulce de leche venezolano, pan de dulce de leche, pan de dulce de leche dulce venezolano, receta del trenza de leche, receta pan de dulce de leche venezolana, panes venezolanos, pan dulce venezolano, pan de dulce de leche receta, ingredientes del pan de dulce de leche, ingredientes para la pan de dulce de leche, pan de dulce de leche  ingredientes, pan de dulce de leche dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de dulce de leche, pan de dulce de leche historia, pan de dulce de leche  origen, origen de la pan de dulce de leche , pan andino de leche, pan de dulce de leche casero, receta pan de dulce de leche dulce, recetas de pan de dulce de leche, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de dulce de leche andino venezolano, pan de dulce de leche andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de dulce de leche, cómo se hace la trenza de leche, como preparar pan de dulce de leche, cómo preparar pan de dulce de leche, pancitos rellenos de dulce de leche, pan de dulce de leche panadería, pan de dulce de leche, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de dulce de leche, como hacer panes venezolanos en la diaspora, pan relleno de arequipe, pan con arequipe
+keywords: pan de leche asuntino, el pan de leche asuntino, pan de leche asuntino venezolana, pan de leche asuntino venezuela, receta de pan de leche asuntino, receta pan de leche asuntino, pan de leche asuntino receta, receta de pan de leche asuntino  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de leche asuntino, pan de leche asuntino venezolano, pan de leche asuntino, pan de leche asuntino dulce venezolano, receta del trenza de leche, receta pan de leche asuntino venezolana, panes venezolanos, pan dulce venezolano, pan de leche asuntino receta, ingredientes del pan de leche asuntino, ingredientes para la pan de leche asuntino, pan de leche asuntino  ingredientes, pan de leche asuntino dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de leche asuntino, pan de leche asuntino historia, pan de leche asuntino  origen, origen de la pan de leche asuntino , pan andino de leche, pan de leche asuntino casero, receta pan de leche asuntino dulce, recetas de pan de leche asuntino, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de leche asuntino andino venezolano, pan de leche asuntino andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de leche asuntino, cómo se hace la trenza de leche, como preparar pan de leche asuntino, cómo preparar pan de leche asuntino, pancitos rellenos de dulce de leche, pan de leche asuntino panadería, pan de leche asuntino, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de leche asuntino, como hacer panes venezolanos en la diaspora, pan relleno de arequipe, pan con arequipe
 featured_image: '/images/panes/dulce-de-leche/dulcedeleche_01.jpg'
 formula_name: "dulcedeleche"
 ---
@@ -21,7 +21,7 @@ También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenza-leche/),
 
 Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es suave y de color marrón claro. Es maravilloso para combinarlo con café con leche y comerlo durante cualquier merienda acompañado de un vaso de leche o un toddy.  Jesús [@1painalafois]{:target="blank"} se lo come tempranito en la mañana y Alexander [@hazpanencasa]{:target="blank"} lo prefiere con un buen café negro. Como más te guste, estamos seguros que cuando tu casa se impregne del aroma proveniente del horno, te provocará comertelo todo.
 
-## Origen del Pan de Dulce de Leche 
+## Origen del pan de leche asuntino 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -29,7 +29,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
-## Tips para preparar el Pan de Dulce de Leche
+## Tips para preparar el Pan de Leche Asuntino
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
@@ -42,13 +42,13 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 <div id="retardo"></div>
 
-# Pan de Dulce de Leche
+# Pan de Leche Asuntino
 
 ## Masa leudada con levadura instantánea
 
-* 1 Barra de 620 g de masa rellena.
+* 1 Barra de 680 g de masa rellena.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 42.6 % de hidratación (Baja hidratación).
+* 55.2 % de hidratación (Media hidratación).
 
 ### Ingredientes para la masa
 
@@ -70,7 +70,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno Pan de Dulce de Leche
+### Relleno Pan de Leche Asuntino
 
 | Ingrediente                       | Fórmula  | Peso   |
 |:----------------------------------|:--------:|-------:|
@@ -80,7 +80,7 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 Relación masa/relleno: 33%
 
-## Paso a paso para preparar el Pan de Dulce de Leche
+## Paso a paso para preparar el Pan de Leche Asuntino
 
 <div id="preparacion"></div>
 
@@ -159,13 +159,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu Pan de dulce de leche del horno cuando tenga el color dorado de tu gusto.
+- Saca tu Pan de Leche Asuntino del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
 - Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
-- Disfruta tu Pan de Dulce de Leche!!!
+- Disfruta tu Pan de Leche Asuntino!!!
 
 ------
 
@@ -181,7 +181,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.5 (2025/10/07)__
+__Versión 1.0 (2025/10/07)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
