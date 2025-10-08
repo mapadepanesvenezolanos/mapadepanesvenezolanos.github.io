@@ -1,7 +1,7 @@
 ---
 title: "Consentidos - Rollos de Canela (Canelis)"
-subtitle: "El arte de un pan trenzado que conquista a primera vista"
-description: "El Babka es un pan trenzado de miga suave y esponjosa, que guarda en su interior un generoso relleno de chocolate y nueces o Azúcar y canela."
+subtitle: "Rollos de canela venezolanos: la dulzura que abraza"
+description: "Suaves, esponjosos y llenos de un delicado aroma a canela y mantequilla, nuestros rollos de canela al estilo venezolano son el acompañante perfecto para el desayuno o la merienda. Cada bocado es un abrazo de sabor que recuerda la tradición de nuestra panadería."
 date: 2024-11-20 08:00:00 -0400
 published: true
 permalink: /panes-venezolanos/rollos-canela/
