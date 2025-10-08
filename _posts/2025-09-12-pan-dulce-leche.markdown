@@ -157,9 +157,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 - Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
-- Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
+- Verifica el horno asegurándote que tu Pan de Dulce de Leche se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu Pan de dulce de leche del horno cuando tenga el color dorado de tu gusto.
+- Saca tu Pan de Dulce de Leche del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 

@@ -1,42 +1,45 @@
 ---
 title: "Pan de Leche Asuntino"
-subtitle: "Un pan suave relleno del caramelo que nos une: el dulce de leche"
-description: "El pan de leche asuntino venezolano es una suave y esponjosa masa horneada, rellena con generosas capas de arequipe que se funden en cada bocado, ofreciendo un equilibrio perfecto entre dulzura y tradición"
+subtitle: "Irresistible desde el primer mordisco: así es nuestro pan de leche asuntino."
+description: "El pan de leche asuntino es una joya de la panadería tradicional margariteña."
 date: 2025-09-10 09:10:00 -0400
 published: false
-permalink: /panes-venezolanos/pan-dulce-leche/
-categories: pan enriquecido los_andes
+permalink: /panes-venezolanos/pan-leche-asuntino/
+categories: pan enriquecido nueva_esparta
 keywords: pan de leche asuntino, el pan de leche asuntino, pan de leche asuntino venezolana, pan de leche asuntino venezuela, receta de pan de leche asuntino, receta pan de leche asuntino, pan de leche asuntino receta, receta de pan de leche asuntino  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de leche asuntino, pan de leche asuntino venezolano, pan de leche asuntino, pan de leche asuntino dulce venezolano, receta del trenza de leche, receta pan de leche asuntino venezolana, panes venezolanos, pan dulce venezolano, pan de leche asuntino receta, ingredientes del pan de leche asuntino, ingredientes para la pan de leche asuntino, pan de leche asuntino  ingredientes, pan de leche asuntino dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de leche asuntino, pan de leche asuntino historia, pan de leche asuntino  origen, origen de la pan de leche asuntino , pan andino de leche, pan de leche asuntino casero, receta pan de leche asuntino dulce, recetas de pan de leche asuntino, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de leche asuntino andino venezolano, pan de leche asuntino andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de leche asuntino, cómo se hace la trenza de leche, como preparar pan de leche asuntino, cómo preparar pan de leche asuntino, pancitos rellenos de dulce de leche, pan de leche asuntino panadería, pan de leche asuntino, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de leche asuntino, como hacer panes venezolanos en la diaspora, pan relleno de arequipe, pan con arequipe
-featured_image: '/images/panes/dulce-de-leche/dulcedeleche_01.jpg'
-formula_name: "dulcedeleche"
+featured_image: '/images/panes/pan-leche-asuntino/leche_asuntino_01.jpg'
+formula_name: "lecheasuntino"
 ---
-
-Esta receta es una versión menos hidratada de nuestra típica [Trenza de Leche](/panes-venezolanos/trenza-leche/), formado en barra. El procedimiento que verás a continuación utiliza el método de retardo en nevera.
-
-También se le conoce como: [Trenza de Leche](/panes-venezolanos/trenza-leche/), [Pan de Leche](/panes-venezolanos/pan-de-leche/)Pan Andino, Pan de Leche Andino, Pan de los Andes, Pan de Leche dulce, Pan de Leche Venezolano o Pan dulce Andino.
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 
 ## Resultado esperado
 
-Este es un pan de miga suave y esponjosa debido a la combinación de leche, huevo y mantequilla y tiene un sabor dulce. La corteza es suave y de color marrón claro. Es maravilloso para combinarlo con café con leche y comerlo durante cualquier merienda acompañado de un vaso de leche o un toddy.  Jesús [@1painalafois]{:target="blank"} se lo come tempranito en la mañana y Alexander [@hazpanencasa]{:target="blank"} lo prefiere con un buen café negro. Como más te guste, estamos seguros que cuando tu casa se impregne del aroma proveniente del horno, te provocará comertelo todo.
+El pan de leche asuntino es una joya de la panadería tradicional margariteña. Su miga suave y ligeramente dulce, con un delicado aroma a vainilla y nuez moscada, y su dorado característico lo convierten en un símbolo del sabor y la calidez del oriente venezolano. El aroma es irresistible, ideal para acompañarlo con café con leche o disfrutarlo en una merienda junto a un vaso de leche o un toddy. Jesús [@1painalafois]{:target="blank"} lo come temprano, aún calientico, y Alexander [@hazpanencasa]{:target="blank"} no perdona su café negro para acompañarlo. No importa cómo lo prefieras: cuando el olor empiece a llenar tu casa, sabrás que no podrás parar en la primera rebanada.
 
 ## Origen del pan de leche asuntino 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Trenza de leche, es “Original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina” (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.” [^1]
+El pan de leche asuntino es una especialidad de La Asunción, capital del estado Nueva Esparta, en Margarita, Venezuela. Su tradición en panadería artesanal y dulces locales es centenaria. Pan de Mamá, una de las panaderías más emblemáticas, tiene más de 100 años manteniendo la receta y el oficio.
 
-[^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
+## Evolución de la receta 
+
+"Originalmente, el pan de leche asuntino se hacía con leche fresca. Con el tiempo se incorporaron variaciones: leche en polvo, leche condensada, incluso dulce de leche o malta en algunas versiones. 
+Panes Venezolanos. Se elaboraba en hornos de leña tradicionalmente; hoy muchas panaderías usan hornos a gas, aunque en ocasiones especiales todavía se usa leña. La receta clásica incluye ingredientes como harina de trigo, azúcar, huevos, mantequilla, esencia de vainilla, y especias como nuez moscada."[^1]
+
+[^1]: [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/)
+
+"El pan de leche asuntino no es solo un alimento: es parte de la vida diaria, de la tradición familiar (desayunos, meriendas, fiestas patronales, etc.). Muchos lo recuerdan como un sabor que trae memoria, asociado al olor de la panadería, al hogar, al compartir." [^2]
+
+[^2]: [En la asunción huela a pan](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
 
 ## Tips para preparar el Pan de Leche Asuntino
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
-- Para el relleno, asegurate de utilizar un dulce de Leche oscuro y espeso, que resista el horneado del pan. 
-- Durante el formado, enrolla tu pastón sin generar presión para evitar que el pan se rompa durante el horneado y que el dulce de leche se desborde.
-- Asegurate de cerrar bien con los dedos el pan por debajo, para evitar fugas del dulce de leche oscuro. 
+- Durante el formado, enrolla tu pastón sin generar presión para evitar que el pan se rompa durante el horneado.
 
 {% include whatsapp.html %}
 
@@ -54,31 +57,24 @@ El Pan de Leche, receta de la cual partimos para crear nuestra receta de la Tren
 
 | Ingrediente                 | Fórmula     | Peso   |
 |:----------------------------|:-----------:|-------:|
-| Harina panadera             |        100% |  295g  |
-| Agua                        |         33% |   97g  |
-| Levadura instantánea        |          1% |    3g  |
+| Harina panadera             |        100% |  328g  |
+| Agua                        |         35% |  115g  |
+| Levadura instantánea        |        1.5% |    5g  |
 | Sal                         |          1% |    3g  |
-| Huevos ligeramente batidos  |         10% |   29g  |
-| Grasa (Mantequilla sin sal) |         15% |   44g  |
-| Azúcar                      |         20% |   59g  |
-| Leche en polvo              |          5% |   15g  |
+| Huevos ligeramente batidos  |         20% |   66g  |
+| Grasa (Mantequilla sin sal) |         15% |   49g  |
+| Azúcar                      |         20% |   66g  |
+| Leche en polvo              |          6% |   20g  |
+| Leche condensada            |          6% |   20g  |
+| Nuez moscada                |          1% |    3g  |
+| Esencia de vainilla         |          2% |    7g  |
 |-----------------------------|-------------|--------|
-| **Total**                   |    **185%** |**545g**|
+| **Total**                   |  **207.5%** |**680g**|
 
 ### Calculadora para la masa 
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
-
-### Relleno Pan de Leche Asuntino
-
-| Ingrediente                       | Fórmula  | Peso   |
-|:----------------------------------|:--------:|-------:|
-| Dulce de Leche oscuro (Arequipe)  |   100%   |  180g  |
-|-----------------------------------|----------|--------|
-| **Total**                         | **100%** |**180g**|
-
-Relación masa/relleno: 33%
 
 ## Paso a paso para preparar el Pan de Leche Asuntino
 
@@ -95,19 +91,15 @@ Relación masa/relleno: 33%
 #### Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina, leche en polvo, la azúcar y la levadura instantánea.
-- En otro envase mezcla el agua con el huevo hasta disolver.
+- En un envase mezcla la harina, la nuez moscada y la levadura instantánea.
+- En otro envase mezcla el agua, la esencia de vainilla, el azúcar,la leche en polvo y la leche condensada con el huevo hasta disolver.
 - Crea un volcán con la mezcla de los sólidos y coloca los líquidos en el centro del volcán.
 - Agrega la sal en el borde del volcán.
+- Agrega la mantequilla pomada en el centro.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-
-<div id="segundociclo"></div>
-
-#### Segundo ciclo de amasado (manual)
-
-- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas tres (3) a cinco (5) veces. Dejar reposar diez (10) minutos.
+- Realiza la prueba del gluten, si todavía falta vuelve a sobar la masa y haz reposos de diez (10) minutos hasta que el gluten se desarrolle. Usualmente con una (1) tanda de sobado es suficiente.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
-- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 
 ### Primera fermentación 
@@ -128,34 +120,23 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="retardo"></div>
 
-### Retardo en nevera 
-
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu pan en envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8)y doce (12) horas.
-- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
-
 ### Formado
 
 - Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
-- Coloca la masa como te sea más cómoda para enrollar por uno de los lados de treinta (30) centímetros.
-- Comenzando por el lado por donde vas a enrollar el pastón, coloca el relleno sobre la masa, dejando dos (2cm) sin relleno en los tres bordes.
-- En el lado de cuarenta (40) centímetros, deja diez (10cm) de masa sin rellenar.
-- Partiendo del lado de treinta (30) centímetros cubierto con relleno, enrolla la masa creando una barra sin generar tensión.
-- Con un huevo batido, barniza el borde sin relleno y sella bien tu barra para evitar que se salga el relleno.
-- Coloca tu barra de pan en una bandeja previamente engrasada con aceite/mantequilla sin sal/alfrombrilla de silicona.
-- Coloca tu barra de pan en una bandeja cubierta con una almohadilla de silicona o engrasada previamente con una fina capa de mantequilla sin sal o aceite neutro.
+- Forma una barra, iniciando por uno de los lados de treinta (30) centímetros.
+- Coloca tu barra de pan en una bandeja sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón aproximadamente por noventa (90) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar el pastón aproximadamente por dos (2) horas y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
-- Mezcla la mitad de un huevo batido ligeramente, una pizca de sal, una pizca de azúcar y un poquito de leche (5g) y barniza el pastón.
-- Realiza al menos cuatro (4) cortes diagonales en la dirección del pastón, asegurandote que se vea sólo un poquito el relleno de guayaba. El corte siguiente no se solapa con el anterior.
+- Enciende el horno media (30) minutos antes de hornear a una temperatura de 170ºC/335ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Cubre la superficie de tu barra de pan, con una fina capa de harina de trigo.
 
 ### Horneado
 
-- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
@@ -171,7 +152,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [@panadero_artesanal]{:target="blank"} y [@taosbaker]{:target="blank"}
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la asunción, adpatado y mejorado para el panadero casero.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -191,9 +172,3 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [@luisagonzalezp]: https://www.instagram.com/luisagonzalezp
-[Instituto Europeo del PAN]: https://escuelaiepan.com/
-[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
-[@panadero_artesanal]: http://www.instagram.com/panadero_artesanal
-[@taosbaker]: http://www.instagram.com/taosbaker
-[@elgatogolosoblog]: http://www.instagram.com/elgatogolosoblog
-[@steconstance]: http://www.instagram.com/steconstance
