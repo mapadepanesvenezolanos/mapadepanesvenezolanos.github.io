@@ -9,7 +9,6 @@ En la panadería se usa la fórmula panadera para conocer la proporción de los 
 
 - [De los pesos a la fórmula](/calculadoras/formula)
 - [De la fórmula a los pesos](/calculadoras/pesos)
-- [De la fórmula al porcentaje de hidratación](/calculadoras/hidratacion)
 - [Poolish](/prefermentos/poolish)
 - [Biga](/prefermentos/biga)
 - [Masa vieja](/prefermentos/masa-vieja)
