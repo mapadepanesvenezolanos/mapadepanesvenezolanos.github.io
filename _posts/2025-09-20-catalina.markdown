@@ -1,6 +1,6 @@
 ---
-title: "Consentidos - Catalina"
-subtitle: "Dulce criollo con base a Melao de papelón especiado."
+title: "Consentidos - Catalina/Cuca/Paledonia"
+subtitle: "Dulce criollo con base a Melao de papelón especiado, que se come en varios estados del país."
 description: "La Catalina es una preparación tradicional venezolana conocida también como Cuca, Paledonia, Serrucho o Cuca pargueta."
 date: 2025-09-20 08:00:00 -0400
 published: true
