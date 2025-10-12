@@ -97,7 +97,7 @@ Panes Venezolanos. Se elaboraba en hornos de leña tradicionalmente; hoy muchas 
 - Agrega la sal en el borde del volcán.
 - Agrega la mantequilla pomada en el centro.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas tres (3) a cinco (5) veces. Dejar reposar diez (10) minutos.
+- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas cinco (5) veces. Dejar reposar diez (10) minutos.
 - Realiza la prueba del gluten, si todavía falta vuelve a sobar la masa y haz reposos de diez (10) minutos hasta que el gluten se desarrolle. Usualmente con una (1) tanda de sobado es suficiente.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
@@ -122,9 +122,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
+- Con el rodillo extiende la masa en un rectángulo de treinta (30) x veinte (20) centímetros.
 - Forma una barra, iniciando por uno de los lados de treinta (30) centímetros.
-- Coloca tu barra de pan en una bandeja sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
+- Coloca tu barra de pan en una bandeja metálica, sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
 
 ### Fermentación final (maduración)
 
@@ -133,11 +133,11 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Barnices, coberturas y cortes
 
 - Enciende el horno media (30) minutos antes de hornear a una temperatura de 170ºC/335ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Cubre la superficie de tu barra de pan, con una fina capa de harina de trigo.
+- Utilizando un colador de cocina, cubre la superficie de tu barra de pan con una fina capa de harina de trigo.
 
 ### Horneado
 
-- Coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
+- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
 - Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tu Pan de Leche Asuntino del horno cuando tenga el color dorado de tu gusto.
@@ -145,7 +145,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Enfriamiento
 
 - Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
-- Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi lista. 
+- Deja reposar por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi listo. 
 - Disfruta tu Pan de Leche Asuntino!!!
 
 ------
@@ -162,7 +162,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2025/10/07)__
+__Versión 1.0 (2025/10/12)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
