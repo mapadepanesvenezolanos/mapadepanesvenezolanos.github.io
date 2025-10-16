@@ -7,7 +7,7 @@ published: true
 permalink: /panes-venezolanos/catalina/
 categories: dulce
 keywords: catalina, cuca, paledonia, catalina dulce venezolano, receta de catalina, receta catalina
-featured_image: '/images/panes/catalina/catalinas_01.jpg'
+featured_image: '/images/panes/catalina/catalinas_V1.jpg'
 formula_name: "catalina"
 second_formula_name: "catalina-melao"
 ---
@@ -151,7 +151,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0 (2025/09/28)__
+__Versión 2.1 (2025/10/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
