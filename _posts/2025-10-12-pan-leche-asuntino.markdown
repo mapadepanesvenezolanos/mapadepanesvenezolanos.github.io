@@ -43,8 +43,6 @@ Panes Venezolanos. Se elaboraba en hornos de leña tradicionalmente; hoy muchas 
 
 {% include whatsapp.html %}
 
-<div id="retardo"></div>
-
 # Pan de Leche Asuntino
 
 ## Masa leudada con levadura instantánea
@@ -117,8 +115,6 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
 - Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
-
-<div id="retardo"></div>
 
 ### Formado
 
