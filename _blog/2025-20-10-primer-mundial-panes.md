@@ -9,7 +9,8 @@ featured_image: '/images/blog/venezuela-historia-mundial-pan-2025_01.png'
 keywords: Venezuelan bread at the World Cup of Bread, equipo venezolano mundial de pan, Mondial du Pain Venezuela, Venezuelan bakers in France, panaderos venezolanos en el extranjero, Venezuelan bread abroad stories, Venezuelan bread competition 2025, how to bake Venezuelan bread abroad, ingredientes del pan venezolano fuera de Venezuela, Venezuelan bread ingredients substitution, Venezuelan bread recipes with local ingredients, baking Venezuelan bread in Canada, how to bake Venezuelan bread in Europe, bread flour equivalents for Venezuelan recipes, yeast alternatives Venezuelan baking, Venezuelan traditional bread adaptation, Venezuelan bakery heritage, panadería venezolana internacional, proud to represent Venezuela in baking competitions, Venezuelan bread culture, pan venezolano hecho en el exterior, history of Venezuelan breadmaking, Venezuelan bakers worldwide, competencia internacional de panadería, Ambassadeurs du Pain Venezuela, Venezuelan breadmaking journey, international bread competitions, team Venezuela Mondial du Pain, orgullo venezolano panadería, Venezuelan baking passion abroad
 ---
 
-# 🇻🇪 Venezuela hace historia en el Mundial del Pan 2025  
+## 🇻🇪 Venezuela hace historia en el Mundial del Pan 2025  
+
 ### El sueño que se horneó con esperanza
 
 El **19 y 20 de octubre de 2025** marcarán un antes y un después en la historia de la panadería venezolana.  
@@ -73,14 +74,6 @@ El orgullo de ver a una nueva generación elevarse con dignidad y coraje, de ver
 
 Desde **[Panes Venezolanos](https://panesvenezolanos.com)**, celebramos este hito con emoción y gratitud.  
 Porque cuando el pan venezolano se hornea con **pasión, constancia y fe**, puede llegar tan lejos como los sueños de quienes lo amasan.
-
----
-
-### 📸 Imágenes sugeridas
-- Foto del equipo venezolano durante la preparación en Caracas.  
-- Imagen de la bandera venezolana en Nantes.  
-- Panes del programa “Goût et Nutrition”.  
-- Escena de la competencia en Serbotel, Nantes.  
 
 ---
 
