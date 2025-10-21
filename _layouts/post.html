@@ -152,7 +152,6 @@
   {% include grow.html %}
 
   <script type="text/javascript">
-// Ejecutar solo en páginas de recetas
 if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
   // Contenedor principal
@@ -175,7 +174,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.pointerEvents = 'none';
   document.body.appendChild(translateContainer);
 
-  // Contenedor oculto para Google Translate
+  // Contenedor Google Translate (oculto)
   const translateDiv = document.createElement('div');
   translateDiv.id = 'google_translate_element';
   translateDiv.style.display = 'none';
@@ -200,12 +199,15 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
     btn.addEventListener('click', () => {
-      applyTranslation(flag.lang);
+      const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
+      localStorage.setItem('googtrans', langMap[flag.lang]);
+      document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
+      window.location.reload(); // ⚡ funcional y seguro
     });
     translateContainer.appendChild(btn);
   });
 
-  // Mostrar las banderas al hacer scroll
+  // Mostrar al hacer scroll
   window.addEventListener('scroll', () => {
     if (window.scrollY > 150) {
       translateContainer.style.opacity = '1';
@@ -218,6 +220,17 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     }
   });
 
+  // Detección automática del idioma
+  (function() {
+    const userLang = navigator.language || navigator.userLanguage;
+    const saved = localStorage.getItem('googtrans');
+    if (!saved) {
+      if (userLang.startsWith('en')) localStorage.setItem('googtrans', '/es/en');
+      else if (userLang.startsWith('fr')) localStorage.setItem('googtrans', '/es/fr');
+      else localStorage.setItem('googtrans', '/es/es');
+    }
+  })();
+
   // Inicializar Google Translate
   window.googleTranslateElementInit = function() {
     new google.translate.TranslateElement({
@@ -228,32 +241,13 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     }, 'google_translate_element');
   };
 
-  // Cargar script de Google Translate
+  // Cargar script
   const script = document.createElement('script');
   script.type = 'text/javascript';
   script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
   document.body.appendChild(script);
 
-  // Función para aplicar traducción usando el iframe
-  function applyTranslation(lang) {
-    const langMap = { es: 'es', en: 'en', fr: 'fr' };
-    const frame = document.querySelector('iframe.goog-te-menu-frame');
-    if (!frame) {
-      // Si el iframe no está cargado todavía, esperar y reintentar
-      setTimeout(() => applyTranslation(lang), 500);
-      return;
-    }
-    const frameDoc = frame.contentDocument || frame.contentWindow.document;
-    const items = frameDoc.querySelectorAll('.goog-te-menu2-item span.text');
-    for (let i = 0; i < items.length; i++) {
-      if (items[i].innerText.toLowerCase().includes(langMap[lang])) {
-        items[i].click();
-        break;
-      }
-    }
-  }
-
-  // Ajustes móviles
+  // Estilos móviles
   const style = document.createElement('style');
   style.textContent = `
     @media (max-width: 768px) {
