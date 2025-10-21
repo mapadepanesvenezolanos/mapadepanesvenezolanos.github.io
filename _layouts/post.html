@@ -187,12 +187,15 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     { lang: 'it', emoji: '🇮🇹', label: 'Italiano' },
     { lang: 'pt', emoji: '🇵🇹', label: 'Português (PT)' },
     { lang: 'br', emoji: '🇧🇷', label: 'Português (BR)' },
-    { lang: 'zh-CN', emoji: '🇨🇳', label: '中文' }
+    { lang: 'zh-CN', emoji: '🇨🇳', label: '中文' },
+    { lang: 'ja', emoji: '🇯🇵', label: '日本語' },
+    { lang: 'de', emoji: '🇩🇪', label: 'Deutsch' }
   ];
 
   const langMap = { 
     es: '/es/es', en: '/es/en', fr: '/es/fr', it: '/es/it', 
-    pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN' 
+    pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN',
+    ja: '/es/ja', de: '/es/de'
   };
 
   // Crear botones de banderas
@@ -208,7 +211,6 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
     btn.addEventListener('click', () => {
-      // Guardar idioma seleccionado en localStorage y cookie
       localStorage.setItem('googtrans', langMap[flag.lang]);
       document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
       window.location.reload();
@@ -228,6 +230,8 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       else if (userLang.startsWith('pt-BR')) lang = 'br';
       else if (userLang.startsWith('pt')) lang = 'pt';
       else if (userLang.startsWith('zh')) lang = 'zh-CN';
+      else if (userLang.startsWith('ja')) lang = 'ja';
+      else if (userLang.startsWith('de')) lang = 'de';
       localStorage.setItem('googtrans', langMap[lang]);
       document.cookie = `googtrans=${langMap[lang]};path=/`;
     }
@@ -237,7 +241,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   window.googleTranslateElementInit = function() {
     new google.translate.TranslateElement({
       pageLanguage: 'es',
-      includedLanguages: 'en,fr,es,it,pt,zh-CN',
+      includedLanguages: 'en,fr,es,it,pt,zh-CN,ja,de',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
     }, 'google_translate_element');
