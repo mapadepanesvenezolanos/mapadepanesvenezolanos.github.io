@@ -179,7 +179,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateDiv.style.display = 'none';
   translateContainer.appendChild(translateDiv);
 
-  // Banderas
+  // Idiomas y banderas
   const flags = [
     { lang: 'es', emoji: '🇪🇸', label: 'Español' },
     { lang: 'en', emoji: '🇬🇧', label: 'English' },
@@ -190,6 +190,12 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     { lang: 'zh-CN', emoji: '🇨🇳', label: '中文' }
   ];
 
+  const langMap = { 
+    es: '/es/es', en: '/es/en', fr: '/es/fr', it: '/es/it', 
+    pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN' 
+  };
+
+  // Crear botones de banderas
   flags.forEach(flag => {
     const btn = document.createElement('button');
     btn.textContent = flag.emoji;
@@ -202,10 +208,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
     btn.addEventListener('click', () => {
-      const langMap = { 
-        es: '/es/es', en: '/es/en', fr: '/es/fr', it: '/es/it', 
-        pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN' 
-      };
+      // Guardar idioma seleccionado en localStorage y cookie
       localStorage.setItem('googtrans', langMap[flag.lang]);
       document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
       window.location.reload();
@@ -213,18 +216,20 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     translateContainer.appendChild(btn);
   });
 
-  // Detección automática del idioma
+  // Detectar idioma del navegador si no hay preferencia guardada
   (function() {
     const userLang = navigator.language || navigator.userLanguage;
     const saved = localStorage.getItem('googtrans');
     if (!saved) {
-      if (userLang.startsWith('en')) localStorage.setItem('googtrans', '/es/en');
-      else if (userLang.startsWith('fr')) localStorage.setItem('googtrans', '/es/fr');
-      else if (userLang.startsWith('it')) localStorage.setItem('googtrans', '/es/it');
-      else if (userLang.startsWith('pt-BR')) localStorage.setItem('googtrans', '/es/pt');
-      else if (userLang.startsWith('pt')) localStorage.setItem('googtrans', '/es/pt');
-      else if (userLang.startsWith('zh')) localStorage.setItem('googtrans', '/es/zh-CN');
-      else localStorage.setItem('googtrans', '/es/es');
+      let lang = 'es'; // predeterminado
+      if (userLang.startsWith('en')) lang = 'en';
+      else if (userLang.startsWith('fr')) lang = 'fr';
+      else if (userLang.startsWith('it')) lang = 'it';
+      else if (userLang.startsWith('pt-BR')) lang = 'br';
+      else if (userLang.startsWith('pt')) lang = 'pt';
+      else if (userLang.startsWith('zh')) lang = 'zh-CN';
+      localStorage.setItem('googtrans', langMap[lang]);
+      document.cookie = `googtrans=${langMap[lang]};path=/`;
     }
   })();
 
