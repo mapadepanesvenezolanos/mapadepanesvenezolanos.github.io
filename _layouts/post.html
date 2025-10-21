@@ -158,9 +158,9 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   const translateContainer = document.createElement('div');
   translateContainer.id = 'translator_container';
   translateContainer.style.position = 'fixed';
-  translateContainer.style.top = '20px';
+  translateContainer.style.top = '0px'; // Empezamos fuera de la pantalla
   translateContainer.style.left = '20px';
-  translateContainer.style.zIndex = '9999';
+  translateContainer.style.zIndex = '99999'; 
   translateContainer.style.background = 'rgba(255,255,255,0.95)';
   translateContainer.style.borderRadius = '10px';
   translateContainer.style.padding = '6px 8px';
@@ -168,9 +168,8 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.display = 'flex';
   translateContainer.style.alignItems = 'center';
   translateContainer.style.gap = '6px';
-  translateContainer.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+  translateContainer.style.transition = 'top 0.5s ease, opacity 0.5s ease';
   translateContainer.style.opacity = '0';
-  translateContainer.style.transform = 'translateY(-10px)';
   translateContainer.style.pointerEvents = 'none';
   document.body.appendChild(translateContainer);
 
@@ -202,20 +201,20 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
       localStorage.setItem('googtrans', langMap[flag.lang]);
       document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
-      window.location.reload(); // ⚡ funcional y seguro
+      window.location.reload(); 
     });
     translateContainer.appendChild(btn);
   });
 
-  // Mostrar al hacer scroll
+  // Mostrar al hacer scroll con efecto de deslizamiento
   window.addEventListener('scroll', () => {
     if (window.scrollY > 150) {
       translateContainer.style.opacity = '1';
-      translateContainer.style.transform = 'translateY(0)';
+      translateContainer.style.top = '20px'; // baja desde arriba
       translateContainer.style.pointerEvents = 'auto';
     } else {
       translateContainer.style.opacity = '0';
-      translateContainer.style.transform = 'translateY(-10px)';
+      translateContainer.style.top = '-60px'; // se oculta arriba
       translateContainer.style.pointerEvents = 'none';
     }
   });
@@ -247,7 +246,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
   document.body.appendChild(script);
 
-  // Estilos móviles
+  // Ajustes móviles
   const style = document.createElement('style');
   style.textContent = `
     @media (max-width: 768px) {
