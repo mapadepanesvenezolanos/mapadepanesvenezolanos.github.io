@@ -154,13 +154,13 @@
   <script type="text/javascript">
 if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
-  // Contenedor principal
+  // Contenedor principal en la esquina superior derecha
   const translateContainer = document.createElement('div');
   translateContainer.id = 'translator_container';
   translateContainer.style.position = 'fixed';
-  translateContainer.style.top = '0px'; // Empezamos fuera de la pantalla
-  translateContainer.style.left = '20px';
-  translateContainer.style.zIndex = '99999'; 
+  translateContainer.style.top = '20px';
+  translateContainer.style.right = '20px'; // derecha
+  translateContainer.style.zIndex = '99999';
   translateContainer.style.background = 'rgba(255,255,255,0.95)';
   translateContainer.style.borderRadius = '10px';
   translateContainer.style.padding = '6px 8px';
@@ -169,8 +169,8 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.alignItems = 'center';
   translateContainer.style.gap = '6px';
   translateContainer.style.transition = 'top 0.5s ease, opacity 0.5s ease';
-  translateContainer.style.opacity = '0';
-  translateContainer.style.pointerEvents = 'none';
+  translateContainer.style.opacity = '1'; // siempre visible
+  translateContainer.style.pointerEvents = 'auto';
   document.body.appendChild(translateContainer);
 
   // Contenedor Google Translate (oculto)
@@ -206,19 +206,6 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     translateContainer.appendChild(btn);
   });
 
-  // Mostrar al hacer scroll con efecto de deslizamiento
-  window.addEventListener('scroll', () => {
-    if (window.scrollY > 150) {
-      translateContainer.style.opacity = '1';
-      translateContainer.style.top = '20px'; // baja desde arriba
-      translateContainer.style.pointerEvents = 'auto';
-    } else {
-      translateContainer.style.opacity = '0';
-      translateContainer.style.top = '-60px'; // se oculta arriba
-      translateContainer.style.pointerEvents = 'none';
-    }
-  });
-
   // Detección automática del idioma
   (function() {
     const userLang = navigator.language || navigator.userLanguage;
@@ -252,7 +239,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     @media (max-width: 768px) {
       #translator_container {
         top: 10px !important;
-        left: 10px !important;
+        right: 10px !important;
         padding: 4px 6px !important;
         gap: 4px !important;
       }
