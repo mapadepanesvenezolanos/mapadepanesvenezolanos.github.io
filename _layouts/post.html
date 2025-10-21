@@ -158,9 +158,9 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   const translateContainer = document.createElement('div');
   translateContainer.id = 'translator_container';
   translateContainer.style.position = 'fixed';
-  translateContainer.style.top = '35px'; // un poco más abajo para no quedar detrás de la barra
+  translateContainer.style.top = '35px'; 
   translateContainer.style.right = '20px';
-  translateContainer.style.zIndex = '2147483647'; // máximo posible para que esté siempre visible
+  translateContainer.style.zIndex = '2147483647'; 
   translateContainer.style.background = 'rgba(255,255,255,0.95)';
   translateContainer.style.borderRadius = '10px';
   translateContainer.style.padding = '6px 8px';
@@ -183,7 +183,11 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   const flags = [
     { lang: 'es', emoji: '🇪🇸', label: 'Español' },
     { lang: 'en', emoji: '🇬🇧', label: 'English' },
-    { lang: 'fr', emoji: '🇫🇷', label: 'Français' }
+    { lang: 'fr', emoji: '🇫🇷', label: 'Français' },
+    { lang: 'it', emoji: '🇮🇹', label: 'Italiano' },
+    { lang: 'pt', emoji: '🇵🇹', label: 'Português (PT)' },
+    { lang: 'br', emoji: '🇧🇷', label: 'Português (BR)' },
+    { lang: 'zh-CN', emoji: '🇨🇳', label: '中文' }
   ];
 
   flags.forEach(flag => {
@@ -198,7 +202,10 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
     btn.addEventListener('click', () => {
-      const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
+      const langMap = { 
+        es: '/es/es', en: '/es/en', fr: '/es/fr', it: '/es/it', 
+        pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN' 
+      };
       localStorage.setItem('googtrans', langMap[flag.lang]);
       document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
       window.location.reload();
@@ -213,6 +220,10 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     if (!saved) {
       if (userLang.startsWith('en')) localStorage.setItem('googtrans', '/es/en');
       else if (userLang.startsWith('fr')) localStorage.setItem('googtrans', '/es/fr');
+      else if (userLang.startsWith('it')) localStorage.setItem('googtrans', '/es/it');
+      else if (userLang.startsWith('pt-BR')) localStorage.setItem('googtrans', '/es/pt');
+      else if (userLang.startsWith('pt')) localStorage.setItem('googtrans', '/es/pt');
+      else if (userLang.startsWith('zh')) localStorage.setItem('googtrans', '/es/zh-CN');
       else localStorage.setItem('googtrans', '/es/es');
     }
   })();
@@ -221,7 +232,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   window.googleTranslateElementInit = function() {
     new google.translate.TranslateElement({
       pageLanguage: 'es',
-      includedLanguages: 'en,fr,es',
+      includedLanguages: 'en,fr,es,it,pt,zh-CN',
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
     }, 'google_translate_element');
@@ -251,7 +262,6 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   document.head.appendChild(style);
 }
 </script>
-
 
 </body>
 
