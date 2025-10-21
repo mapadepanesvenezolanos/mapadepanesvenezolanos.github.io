@@ -133,7 +133,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Horneado
 
-- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) a veinticinco (25) minutos.
+- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
 - Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tu Pan de Leche Asuntino del horno cuando tenga el color dorado de tu gusto.
