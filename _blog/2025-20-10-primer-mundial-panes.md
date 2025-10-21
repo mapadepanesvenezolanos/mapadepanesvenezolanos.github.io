@@ -19,8 +19,6 @@ Por primera vez, un equipo de nuestro país participó en el prestigioso **Mundi
 Esta participación no es fruto del azar, sino del resultado de un trabajo constante de más de un año y medio en **Caracas**, donde el equipo nacional se preparó con disciplina, compromiso y pasión.  
 Fines de semana enteros dedicados a prácticas intensas, ajustes de fórmulas, ensayos, errores y mejoras continuas fueron moldeando a un grupo de panaderos que asumió la responsabilidad de representar a un país entero.
 
----
-
 ## 🥖 Un equipo que representa una generación
 
 El **equipo Venezuela** simboliza dos generaciones unidas por un mismo propósito: mostrar al mundo el talento, la creatividad y la resiliencia que caracterizan al panadero venezolano.
@@ -35,8 +33,6 @@ Detrás de ellos, una red de colaboradores, asesores, patrocinadores y voluntari
 
 En conjunto, este equipo encarna el espíritu del oficio panadero venezolano: **humilde en sus recursos, pero inmenso en su determinación.**
 
----
-
 ## 🥐 De Caracas a Nantes: un camino lleno de desafíos
 
 Durante más de dieciocho meses, el equipo se reunió todos los fines de semana para ensayar el programa de competencia:  
@@ -50,8 +46,6 @@ El formato del concurso imponía normas estrictas: trabajar durante **ocho horas
 
 La *mise en place* del día previo fue una experiencia en sí misma: reconocer el espacio, probar los hornos, ajustar tiempos y temperaturas, y lidiar con el nerviosismo de competir junto a **20 países con larga tradición panadera.**
 
----
-
 ## 🌍 Entre los mejores del mundo
 
 El [Mundial del Pan 2025](https://ambassadeursdupain.com/mondialdupain/candidats-2/candidats/) reunió a **21 naciones** de los cinco continentes:  
@@ -63,8 +57,6 @@ El público, los organizadores y los demás equipos recibieron a los nuestros co
 
 Aunque no todo salió como se había planeado, el aprendizaje fue inmenso.  
 Cada imprevisto y cada detalle ajustado sobre la marcha fortalecieron la unión del grupo y su convicción de que este es solo el comienzo de una nueva etapa para la panadería venezolana.
-
----
 
 ## 💛 Un logro que inspira a todo un país
 
@@ -81,8 +73,3 @@ Porque cuando el pan venezolano se hornea con **pasión, constancia y fe**, pued
 - [Ambassadeurs du Pain – Mundial du Pain 2025](https://ambassadeursdupain.com/mondialdupain/)  
 - [Candidatos – Equipos participantes](https://ambassadeursdupain.com/mondialdupain/candidats-2/candidats/)  
 - [Serbotel – Mondial du Pain](https://www.serbotel.com/concours/le-mondial-du-pain)
-
----
-
-**Metadescripción SEO:**  
-> Venezuela participa por primera vez en el Mundial del Pan 2025, celebrado en Nantes, Francia. Una historia de esfuerzo, orgullo y esperanza que marca un nuevo capítulo en la panadería venezolana.
