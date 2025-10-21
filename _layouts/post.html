@@ -168,7 +168,6 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.display = 'flex';
   translateContainer.style.alignItems = 'center';
   translateContainer.style.gap = '6px';
-  translateContainer.style.transition = 'top 0.5s ease, opacity 0.5s ease';
   translateContainer.style.opacity = '1';
   translateContainer.style.pointerEvents = 'auto';
   document.body.appendChild(translateContainer);
@@ -186,17 +185,23 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     { lang: 'fr', emoji: '🇫🇷', label: 'Français' },
     { lang: 'it', emoji: '🇮🇹', label: 'Italiano' },
     { lang: 'pt', emoji: '🇵🇹', label: 'Português (PT)' },
-    { lang: 'br', emoji: '🇧🇷', label: 'Português (BR)' },
+    { lang: 'pt-BR', emoji: '🇧🇷', label: 'Português (BR)' },
     { lang: 'zh-CN', emoji: '🇨🇳', label: '中文' },
     { lang: 'ja', emoji: '🇯🇵', label: '日本語' },
     { lang: 'de', emoji: '🇩🇪', label: 'Deutsch' }
   ];
 
-  const langMap = { 
-    es: '/es/es', en: '/es/en', fr: '/es/fr', it: '/es/it', 
-    pt: '/es/pt', br: '/es/pt', 'zh-CN': '/es/zh-CN',
-    ja: '/es/ja', de: '/es/de'
-  };
+  // Función para cambiar idioma correctamente
+  function setLanguage(langCode) {
+    let googleLang = langCode;
+    // pt-BR se convierte en pt para Google Translate
+    if (langCode === 'pt-BR') googleLang = 'pt';
+    const cookieValue = `/es/${googleLang}`;
+    document.cookie = `googtrans=${cookieValue};path=/`;
+    document.cookie = `googtrans=${cookieValue};path=/;domain=.${location.hostname}`;
+    localStorage.setItem('googtrans', cookieValue);
+    window.location.reload();
+  }
 
   // Crear botones de banderas
   flags.forEach(flag => {
@@ -210,11 +215,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.style.transition = 'transform 0.2s';
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
-    btn.addEventListener('click', () => {
-      localStorage.setItem('googtrans', langMap[flag.lang]);
-      document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
-      window.location.reload();
-    });
+    btn.addEventListener('click', () => setLanguage(flag.lang));
     translateContainer.appendChild(btn);
   });
 
@@ -227,13 +228,12 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       if (userLang.startsWith('en')) lang = 'en';
       else if (userLang.startsWith('fr')) lang = 'fr';
       else if (userLang.startsWith('it')) lang = 'it';
-      else if (userLang.startsWith('pt-BR')) lang = 'br';
+      else if (userLang.startsWith('pt-BR')) lang = 'pt-BR';
       else if (userLang.startsWith('pt')) lang = 'pt';
       else if (userLang.startsWith('zh')) lang = 'zh-CN';
       else if (userLang.startsWith('ja')) lang = 'ja';
       else if (userLang.startsWith('de')) lang = 'de';
-      localStorage.setItem('googtrans', langMap[lang]);
-      document.cookie = `googtrans=${langMap[lang]};path=/`;
+      setLanguage(lang); // aplica el idioma automáticamente
     }
   })();
 
@@ -247,7 +247,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     }, 'google_translate_element');
   };
 
-  // Cargar script
+  // Cargar script de Google Translate
   const script = document.createElement('script');
   script.type = 'text/javascript';
   script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
