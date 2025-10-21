@@ -150,11 +150,12 @@
   {{ site.data.settings.advanced_settings.footer_js }}
   {% endif %}
   {% include grow.html %}
-<script type="text/javascript">
+
+  <script type="text/javascript">
 // Ejecutar solo en páginas de recetas
 if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
-  // Crear contenedor principal
+  // Contenedor principal
   const translateContainer = document.createElement('div');
   translateContainer.id = 'translator_container';
   translateContainer.style.position = 'fixed';
@@ -174,13 +175,13 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.pointerEvents = 'none';
   document.body.appendChild(translateContainer);
 
-  // Contenedor de Google Translate (oculto)
+  // Contenedor oculto para Google Translate
   const translateDiv = document.createElement('div');
   translateDiv.id = 'google_translate_element';
   translateDiv.style.display = 'none';
   translateContainer.appendChild(translateDiv);
 
-  // Agregar banderas
+  // Banderas
   const flags = [
     { lang: 'es', emoji: '🇪🇸', label: 'Español' },
     { lang: 'en', emoji: '🇬🇧', label: 'English' },
@@ -199,12 +200,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
     btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
     btn.addEventListener('click', () => {
-      const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
-      localStorage.setItem('googtrans', langMap[flag.lang]);
-      document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
-      if (window.googleTranslateElementInit && window.googleTranslateElementInit.dynamicTranslate) {
-        window.googleTranslateElementInit.dynamicTranslate(flag.lang);
-      }
+      applyTranslation(flag.lang);
     });
     translateContainer.appendChild(btn);
   });
@@ -222,7 +218,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
     }
   });
 
-  // Inicializar Google Translate con función de traducción dinámica
+  // Inicializar Google Translate
   window.googleTranslateElementInit = function() {
     new google.translate.TranslateElement({
       pageLanguage: 'es',
@@ -230,19 +226,6 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
     }, 'google_translate_element');
-
-    // Función para cambiar idioma dinámicamente sin recargar
-    window.googleTranslateElementInit.dynamicTranslate = function(lang) {
-      const frame = document.querySelector('iframe.goog-te-menu-frame');
-      if (!frame) return; // Espera a que cargue el iframe
-      const frameDoc = frame.contentDocument || frame.contentWindow.document;
-      const langLinks = frameDoc.querySelectorAll('.goog-te-menu2-item span.text');
-      langLinks.forEach(link => {
-        if (link.innerText.toLowerCase().includes(lang)) {
-          link.click();
-        }
-      });
-    };
   };
 
   // Cargar script de Google Translate
@@ -250,6 +233,25 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   script.type = 'text/javascript';
   script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
   document.body.appendChild(script);
+
+  // Función para aplicar traducción usando el iframe
+  function applyTranslation(lang) {
+    const langMap = { es: 'es', en: 'en', fr: 'fr' };
+    const frame = document.querySelector('iframe.goog-te-menu-frame');
+    if (!frame) {
+      // Si el iframe no está cargado todavía, esperar y reintentar
+      setTimeout(() => applyTranslation(lang), 500);
+      return;
+    }
+    const frameDoc = frame.contentDocument || frame.contentWindow.document;
+    const items = frameDoc.querySelectorAll('.goog-te-menu2-item span.text');
+    for (let i = 0; i < items.length; i++) {
+      if (items[i].innerText.toLowerCase().includes(langMap[lang])) {
+        items[i].click();
+        break;
+      }
+    }
+  }
 
   // Ajustes móviles
   const style = document.createElement('style');
