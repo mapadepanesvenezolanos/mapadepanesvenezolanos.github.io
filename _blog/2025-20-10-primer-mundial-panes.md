@@ -3,7 +3,7 @@ title: "Venezuela hace historia en el Mundial del Pan 2025"
 description: "Por primera vez en la historia, un equipo venezolano participa en el prestigioso Mundial del Pan en Nantes, Francia. Una crónica de esfuerzo, esperanza y orgullo nacional."
 author: "Panes Venezolanos"
 permalink: /blog/venezuela-historia-mundial-pan-2025/
-published: false
+published: true
 date: "2025-10-21"
 featured_image: '/images/blog/venezuela-historia-mundial-pan-2025_01.png'
 keywords: Venezuelan bread at the World Cup of Bread, equipo venezolano mundial de pan, Mondial du Pain Venezuela, Venezuelan bakers in France, panaderos venezolanos en el extranjero, Venezuelan bread abroad stories, Venezuelan bread competition 2025, how to bake Venezuelan bread abroad, ingredientes del pan venezolano fuera de Venezuela, Venezuelan bread ingredients substitution, Venezuelan bread recipes with local ingredients, baking Venezuelan bread in Canada, how to bake Venezuelan bread in Europe, bread flour equivalents for Venezuelan recipes, yeast alternatives Venezuelan baking, Venezuelan traditional bread adaptation, Venezuelan bakery heritage, panadería venezolana internacional, proud to represent Venezuela in baking competitions, Venezuelan bread culture, pan venezolano hecho en el exterior, history of Venezuelan breadmaking, Venezuelan bakers worldwide, competencia internacional de panadería, Ambassadeurs du Pain Venezuela, Venezuelan breadmaking journey, international bread competitions, team Venezuela Mondial du Pain, orgullo venezolano panadería, Venezuelan baking passion abroad
