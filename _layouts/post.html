@@ -151,16 +151,16 @@
   {% endif %}
   {% include grow.html %}
 
-  <script type="text/javascript">
+<script type="text/javascript">
 if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
   // Contenedor principal en la esquina superior derecha
   const translateContainer = document.createElement('div');
   translateContainer.id = 'translator_container';
   translateContainer.style.position = 'fixed';
-  translateContainer.style.top = '20px';
-  translateContainer.style.right = '20px'; // derecha
-  translateContainer.style.zIndex = '99999';
+  translateContainer.style.top = '35px'; // un poco más abajo para no quedar detrás de la barra
+  translateContainer.style.right = '20px';
+  translateContainer.style.zIndex = '2147483647'; // máximo posible para que esté siempre visible
   translateContainer.style.background = 'rgba(255,255,255,0.95)';
   translateContainer.style.borderRadius = '10px';
   translateContainer.style.padding = '6px 8px';
@@ -169,7 +169,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   translateContainer.style.alignItems = 'center';
   translateContainer.style.gap = '6px';
   translateContainer.style.transition = 'top 0.5s ease, opacity 0.5s ease';
-  translateContainer.style.opacity = '1'; // siempre visible
+  translateContainer.style.opacity = '1';
   translateContainer.style.pointerEvents = 'auto';
   document.body.appendChild(translateContainer);
 
@@ -201,7 +201,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
       localStorage.setItem('googtrans', langMap[flag.lang]);
       document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
-      window.location.reload(); 
+      window.location.reload();
     });
     translateContainer.appendChild(btn);
   });
@@ -238,7 +238,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   style.textContent = `
     @media (max-width: 768px) {
       #translator_container {
-        top: 10px !important;
+        top: 25px !important;
         right: 10px !important;
         padding: 4px 6px !important;
         gap: 4px !important;
@@ -251,6 +251,7 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
   document.head.appendChild(style);
 }
 </script>
+
 
 </body>
 
