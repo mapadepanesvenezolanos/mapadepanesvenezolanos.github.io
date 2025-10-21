@@ -152,50 +152,94 @@
   {% include grow.html %}
 
   <script type="text/javascript">
-	// Ejecutar solo en páginas de recetas
-	if (window.location.pathname.startsWith('/panes-venezolanos/')) {
+if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
-	// Crear el contenedor del traductor
-	const translateDiv = document.createElement('div');
-	translateDiv.id = 'google_translate_element';
-	translateDiv.style.position = 'fixed';
-	translateDiv.style.bottom = '20px';
-	translateDiv.style.right = '20px';
-	translateDiv.style.zIndex = '9999';
-	translateDiv.style.background = 'white';
-	translateDiv.style.borderRadius = '6px';
-	translateDiv.style.padding = '4px';
-	document.body.appendChild(translateDiv);
+// === Crear contenedor principal ===
+const container = document.createElement('div');
+container.id = 'languageSwitcher';
+container.style.position = 'fixed';
+container.style.bottom = '16px';
+container.style.right = '16px';
+container.style.zIndex = '99999';
+container.style.display = 'flex';
+container.style.gap = '8px';
+container.style.background = 'rgba(255,255,255,0.95)';
+container.style.border = '1px solid #ddd';
+container.style.borderRadius = '12px';
+container.style.padding = '6px 8px';
+container.style.boxShadow = '0 2px 6px rgba(0,0,0,0.15)';
+container.style.backdropFilter = 'blur(5px)';
+container.style.webkitTapHighlightColor = 'transparent';
+document.body.appendChild(container);
 
-	// Detección automática del idioma del navegador
-	(function() {
-	const userLang = navigator.language || navigator.userLanguage;
-	if (userLang.startsWith('en')) {
-	localStorage.setItem('googtrans', '/es/en');
-	} else if (userLang.startsWith('fr')) {
-	localStorage.setItem('googtrans', '/es/fr');
-	} else {
-	localStorage.setItem('googtrans', '/es/es');
-	}
-	})();
+// === Crear banderas ===
+const languages = [
+{ code: 'es', emoji: '🇪🇸', title: 'Español' },
+{ code: 'en', emoji: '🇬🇧', title: 'English' },
+{ code: 'fr', emoji: '🇫🇷', title: 'Français' }
+];
 
-	// Inicializar Google Translate
-	function googleTranslateElementInit() {
-	new google.translate.TranslateElement({
-	pageLanguage: 'es',
-	includedLanguages: 'en,fr,es',
-	layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-	autoDisplay: false
-	}, 'google_translate_element');
-	}
+languages.forEach(lang => {
+const btn = document.createElement('button');
+btn.textContent = lang.emoji;
+btn.title = lang.title;
+btn.style.fontSize = '22px';
+btn.style.background = 'none';
+btn.style.border = 'none';
+btn.style.cursor = 'pointer';
+btn.style.transition = 'transform 0.2s ease';
+btn.style.padding = '4px';
+btn.style.borderRadius = '50%';
+btn.style.lineHeight = '1';
+btn.style.touchAction = 'manipulation';
+btn.addEventListener('click', () => {
+localStorage.setItem('googtrans', `/es/${lang.code}`);
+location.reload(); // recarga para aplicar el cambio
+});
+btn.addEventListener('touchstart', () => btn.style.transform = 'scale(1.2)');
+btn.addEventListener('touchend', () => btn.style.transform = 'scale(1)');
+btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
+btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
+container.appendChild(btn);
+});
 
-	// Cargar script del traductor
-	const script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-	document.body.appendChild(script);
-	}
-	</script>
+// === Detección automática del idioma ===
+(function() {
+const userLang = navigator.language || navigator.userLanguage;
+if (userLang.startsWith('en')) {
+localStorage.setItem('googtrans', '/es/en');
+} else if (userLang.startsWith('fr')) {
+localStorage.setItem('googtrans', '/es/fr');
+} else {
+localStorage.setItem('googtrans', '/es/es');
+}
+})();
+
+// === Inicializar Google Translate ===
+function googleTranslateElementInit() {
+new google.translate.TranslateElement({
+pageLanguage: 'es',
+includedLanguages: 'en,fr,es',
+layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
+autoDisplay: false
+});
+}
+
+// === Cargar el script del traductor ===
+const script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
+document.body.appendChild(script);
+
+// === Ajuste móvil: reducir opacidad al hacer scroll ===
+let lastScroll = 0;
+window.addEventListener('scroll', () => {
+const st = window.pageYOffset || document.documentElement.scrollTop;
+container.style.opacity = st > lastScroll ? '0.5' : '1';
+lastScroll = st <= 0 ? 0 : st;
+}, false);
+}
+</script>
 
 </body>
 
