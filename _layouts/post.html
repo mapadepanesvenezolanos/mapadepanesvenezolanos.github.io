@@ -150,54 +150,79 @@
   {{ site.data.settings.advanced_settings.footer_js }}
   {% endif %}
   {% include grow.html %}
-
-  <script type="text/javascript">
+<script type="text/javascript">
 // Ejecutar solo en páginas de recetas
 if (window.location.pathname.startsWith('/panes-venezolanos/')) {
 
-  // Crear el contenedor del traductor
+  // Crear contenedor principal
+  const translateContainer = document.createElement('div');
+  translateContainer.id = 'translator_container';
+  translateContainer.style.position = 'fixed';
+  translateContainer.style.top = '20px';
+  translateContainer.style.left = '20px';
+  translateContainer.style.zIndex = '9999';
+  translateContainer.style.background = 'rgba(255,255,255,0.95)';
+  translateContainer.style.borderRadius = '10px';
+  translateContainer.style.padding = '6px 8px';
+  translateContainer.style.boxShadow = '0 2px 6px rgba(0,0,0,0.15)';
+  translateContainer.style.display = 'flex';
+  translateContainer.style.alignItems = 'center';
+  translateContainer.style.gap = '6px';
+  translateContainer.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
+  translateContainer.style.opacity = '0';
+  translateContainer.style.transform = 'translateY(-10px)';
+  translateContainer.style.pointerEvents = 'none';
+  document.body.appendChild(translateContainer);
+
+  // Contenedor de Google Translate (oculto)
   const translateDiv = document.createElement('div');
   translateDiv.id = 'google_translate_element';
-  translateDiv.style.position = 'fixed';
-  translateDiv.style.top = '20px';
-  translateDiv.style.left = '20px';
-  translateDiv.style.zIndex = '9999';
-  translateDiv.style.background = 'rgba(255,255,255,0.95)';
-  translateDiv.style.borderRadius = '8px';
-  translateDiv.style.padding = '6px 8px';
-  translateDiv.style.boxShadow = '0 2px 6px rgba(0,0,0,0.15)';
-  translateDiv.style.transition = 'opacity 0.4s ease, transform 0.4s ease';
-  translateDiv.style.opacity = '0';
-  translateDiv.style.transform = 'translateY(-10px)';
-  translateDiv.style.pointerEvents = 'none';
-  document.body.appendChild(translateDiv);
+  translateDiv.style.display = 'none';
+  translateContainer.appendChild(translateDiv);
 
-  // Mostrar el traductor al hacer scroll hacia abajo
+  // Agregar banderas
+  const flags = [
+    { lang: 'es', emoji: '🇪🇸', label: 'Español' },
+    { lang: 'en', emoji: '🇬🇧', label: 'English' },
+    { lang: 'fr', emoji: '🇫🇷', label: 'Français' }
+  ];
+
+  flags.forEach(flag => {
+    const btn = document.createElement('button');
+    btn.textContent = flag.emoji;
+    btn.title = flag.label;
+    btn.style.border = 'none';
+    btn.style.background = 'transparent';
+    btn.style.cursor = 'pointer';
+    btn.style.fontSize = '20px';
+    btn.style.transition = 'transform 0.2s';
+    btn.addEventListener('mouseover', () => btn.style.transform = 'scale(1.2)');
+    btn.addEventListener('mouseout', () => btn.style.transform = 'scale(1)');
+    btn.addEventListener('click', () => {
+      const langMap = { es: '/es/es', en: '/es/en', fr: '/es/fr' };
+      localStorage.setItem('googtrans', langMap[flag.lang]);
+      document.cookie = `googtrans=${langMap[flag.lang]};path=/`;
+      if (window.googleTranslateElementInit && window.googleTranslateElementInit.dynamicTranslate) {
+        window.googleTranslateElementInit.dynamicTranslate(flag.lang);
+      }
+    });
+    translateContainer.appendChild(btn);
+  });
+
+  // Mostrar las banderas al hacer scroll
   window.addEventListener('scroll', () => {
     if (window.scrollY > 150) {
-      translateDiv.style.opacity = '1';
-      translateDiv.style.transform = 'translateY(0)';
-      translateDiv.style.pointerEvents = 'auto';
+      translateContainer.style.opacity = '1';
+      translateContainer.style.transform = 'translateY(0)';
+      translateContainer.style.pointerEvents = 'auto';
     } else {
-      translateDiv.style.opacity = '0';
-      translateDiv.style.transform = 'translateY(-10px)';
-      translateDiv.style.pointerEvents = 'none';
+      translateContainer.style.opacity = '0';
+      translateContainer.style.transform = 'translateY(-10px)';
+      translateContainer.style.pointerEvents = 'none';
     }
   });
 
-  // Detección automática del idioma del navegador
-  (function() {
-    const userLang = navigator.language || navigator.userLanguage;
-    if (userLang.startsWith('en')) {
-      localStorage.setItem('googtrans', '/es/en');
-    } else if (userLang.startsWith('fr')) {
-      localStorage.setItem('googtrans', '/es/fr');
-    } else {
-      localStorage.setItem('googtrans', '/es/es');
-    }
-  })();
-
-  // Inicializar Google Translate
+  // Inicializar Google Translate con función de traducción dinámica
   window.googleTranslateElementInit = function() {
     new google.translate.TranslateElement({
       pageLanguage: 'es',
@@ -205,23 +230,39 @@ if (window.location.pathname.startsWith('/panes-venezolanos/')) {
       layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
       autoDisplay: false
     }, 'google_translate_element');
+
+    // Función para cambiar idioma dinámicamente sin recargar
+    window.googleTranslateElementInit.dynamicTranslate = function(lang) {
+      const frame = document.querySelector('iframe.goog-te-menu-frame');
+      if (!frame) return; // Espera a que cargue el iframe
+      const frameDoc = frame.contentDocument || frame.contentWindow.document;
+      const langLinks = frameDoc.querySelectorAll('.goog-te-menu2-item span.text');
+      langLinks.forEach(link => {
+        if (link.innerText.toLowerCase().includes(lang)) {
+          link.click();
+        }
+      });
+    };
   };
 
-  // Cargar script del traductor
+  // Cargar script de Google Translate
   const script = document.createElement('script');
   script.type = 'text/javascript';
   script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
   document.body.appendChild(script);
 
-  // Ajustes para móviles
+  // Ajustes móviles
   const style = document.createElement('style');
   style.textContent = `
     @media (max-width: 768px) {
-      #google_translate_element {
+      #translator_container {
         top: 10px !important;
         left: 10px !important;
         padding: 4px 6px !important;
-        font-size: 12px !important;
+        gap: 4px !important;
+      }
+      #translator_container button {
+        font-size: 18px !important;
       }
     }
   `;
