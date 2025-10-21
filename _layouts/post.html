@@ -151,52 +151,6 @@
   {% endif %}
   {% include grow.html %}
 
-  <script type="text/javascript">
-	// Ejecutar solo en páginas de recetas
-	if (window.location.pathname.startsWith('/panes-venezolanos/')) {
-
-	// Crear el contenedor del traductor
-	const translateDiv = document.createElement('div');
-	translateDiv.id = 'google_translate_element';
-	translateDiv.style.position = 'fixed';
-	translateDiv.style.bottom = '20px';
-	translateDiv.style.right = '20px';
-	translateDiv.style.zIndex = '9999';
-	translateDiv.style.background = 'white';
-	translateDiv.style.borderRadius = '6px';
-	translateDiv.style.padding = '4px';
-	document.body.appendChild(translateDiv);
-
-	// Detección automática del idioma del navegador
-	(function() {
-	const userLang = navigator.language || navigator.userLanguage;
-	if (userLang.startsWith('en')) {
-	localStorage.setItem('googtrans', '/es/en');
-	} else if (userLang.startsWith('fr')) {
-	localStorage.setItem('googtrans', '/es/fr');
-	} else {
-	localStorage.setItem('googtrans', '/es/es');
-	}
-	})();
-
-	// Inicializar Google Translate
-	function googleTranslateElementInit() {
-	new google.translate.TranslateElement({
-	pageLanguage: 'es',
-	includedLanguages: 'en,fr,es',
-	layout: google.translate.TranslateElement.InlineLayout.SIMPLE,
-	autoDisplay: false
-	}, 'google_translate_element');
-	}
-
-	// Cargar script del traductor
-	const script = document.createElement('script');
-	script.type = 'text/javascript';
-	script.src = '//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit';
-	document.body.appendChild(script);
-	}
-	</script>
-
 </body>
 
 </html>
