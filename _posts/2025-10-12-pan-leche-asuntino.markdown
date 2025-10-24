@@ -15,7 +15,7 @@ formula_name: "lecheasuntino"
 
 ## Resultado esperado
 
-El pan de leche asuntino es una joya de la panadería tradicional margariteña. Su miga suave y ligeramente dulce, con un delicado aroma a vainilla y nuez moscada, y su dorado característico lo convierten en un símbolo del sabor y la calidez del oriente venezolano. El aroma es irresistible, ideal para acompañarlo con café con leche o disfrutarlo en una merienda junto a un vaso de leche o un toddy. Jesús [@1painalafois]{:target="blank"} lo come temprano, aún calientico, y Alexander [@hazpanencasa]{:target="blank"} no perdona su café negro para acompañarlo. No importa cómo lo prefieras: cuando el olor empiece a llenar tu casa, sabrás que no podrás parar en la primera rebanada.
+El pan de leche asuntino es una joya de la panadería tradicional margariteña. Su miga suave y ligeramente dulce, con un delicado aroma a vainilla y nuez moscada, y su dorado característico lo convierten en un símbolo del sabor y la calidez del oriente venezolano. Esta versión es adaptada a la casa y la miga es más abierta que la que encontrarás en los panes que venden en las panaderías de la Asunción en la Isla de Margarita, Estado Nueva Esparta. El aroma es irresistible, ideal para acompañarlo con café con leche o disfrutarlo en una merienda junto a un vaso de leche o un toddy. Jesús [@1painalafois]{:target="blank"} lo come temprano, aún calientico, y Alexander [@hazpanencasa]{:target="blank"} no perdona su café negro para acompañarlo. No importa cómo lo prefieras: cuando el olor empiece a llenar tu casa, sabrás que no podrás parar en la primera rebanada.
 
 ## Origen del pan de leche asuntino 
 
