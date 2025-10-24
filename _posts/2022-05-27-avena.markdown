@@ -6,7 +6,7 @@ date:   2022-05-25 20:54:39 -0400
 permalink: /panes-venezolanos/pan-de-avena/
 categories: pan enriquecido andes
 keywords: pan de avena, pan de avena en horno, pan de afrecho y avena, historia del pan de avena, pan de avena y leche, pan de avena con levadura seca, como hacer pan de avena
-featured_image: '/images/panes/avena/musli_02.jpg'
+featured_image: '/images/panes/avena/avena_01.jpeg'
 formula_name: "avena"
 ---
 
@@ -185,7 +185,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2025/09/20)__
+__Versión 3.3 (2025/10/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

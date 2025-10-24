@@ -2,12 +2,12 @@
 title: "Pan de Leche Asuntino"
 subtitle: "Irresistible desde el primer mordisco: así es nuestro pan de leche asuntino."
 description: "El pan de leche asuntino es una joya de la panadería tradicional margariteña."
-date: 2025-09-10 09:10:00 -0400
-published: false
+date: 2025-10-24 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/pan-leche-asuntino/
 categories: pan enriquecido nueva_esparta
 keywords: pan de leche asuntino, el pan de leche asuntino, pan de leche asuntino venezolana, pan de leche asuntino venezuela, receta de pan de leche asuntino, receta pan de leche asuntino, pan de leche asuntino receta, receta de pan de leche asuntino  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de leche asuntino, pan de leche asuntino venezolano, pan de leche asuntino, pan de leche asuntino dulce venezolano, receta del trenza de leche, receta pan de leche asuntino venezolana, panes venezolanos, pan dulce venezolano, pan de leche asuntino receta, ingredientes del pan de leche asuntino, ingredientes para la pan de leche asuntino, pan de leche asuntino  ingredientes, pan de leche asuntino dulce venezolana receta, pan dulce relleno de dulce de leche  venezolana ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de leche asuntino, pan de leche asuntino historia, pan de leche asuntino  origen, origen de la pan de leche asuntino , pan andino de leche, pan de leche asuntino casero, receta pan de leche asuntino dulce, recetas de pan de leche asuntino, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de leche asuntino andino venezolano, pan de leche asuntino andino, receta de panecillos formado trenza de leche, panecillos de leche, como se hace la pan de leche asuntino, cómo se hace la trenza de leche, como preparar pan de leche asuntino, cómo preparar pan de leche asuntino, pancitos rellenos de dulce de leche, pan de leche asuntino panadería, pan de leche asuntino, receta panes de dulce de leche, como hacer pan de dulce leche venezolano en casa, pan de leche asuntino, como hacer panes venezolanos en la diaspora, pan relleno de arequipe, pan con arequipe
-featured_image: '/images/panes/pan-leche-asuntino/leche_asuntino_01.jpg'
+featured_image: '/images/panes/leche-asuntino/leche_asuntino_01.jpg'
 formula_name: "lecheasuntino"
 ---
 
@@ -158,7 +158,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2025/10/12)__
+__Versión 1.0 (2025/10/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
