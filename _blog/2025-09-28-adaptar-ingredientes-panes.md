@@ -14,8 +14,6 @@ En Panes Venezolanos creemos que no debe haber fronteras para seguir disfrutando
 
 ---
 
-## Tabla de conversiones sugeridas con marcas
-
 ### 🌎 Tabla internacional de equivalencias y sustitutos de ingredientes venezolanos
 
 | Ingrediente en Venezuela | Equivalentes / Sustitutos en el extranjero | Equivalencia (aprox.) | **Marcas EE. UU.** | **Marcas Canadá** | **Marcas Europa** | **Marcas Asia** | **Marcas Latinoamérica** | **Marcas Australia** | Observaciones |
