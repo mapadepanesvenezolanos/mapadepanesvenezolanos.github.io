@@ -16,25 +16,31 @@ En Panes Venezolanos creemos que no debe haber fronteras para seguir disfrutando
 
 ## Tabla de conversiones sugeridas con marcas
 
-| Ingrediente en Venezuela      | Equivalentes/Sustitutos en el extranjero | Marcas recomendadas                                   | Observaciones |
-|-------------------------------|------------------------------------------|------------------------------------------------------|---------------|
-| Harina panadera (11-12% proteína) | Bread flour (EE.UU.), Farine de force (Francia), Manitoba (Italia) | King Arthur, Robin Hood, Gold Medal, Caputo Manitoba | Busca siempre harinas de fuerza media/alta para panes |
-| Harina todo uso               | All-purpose flour (EE.UU./Canadá), Farine T55 (Francia) | Gold Medal, Pillsbury, Robin Hood, La Milanaise      | Útil para panes suaves o dulces |
-| Harina de trigo integral      | Whole wheat flour (EE.UU./Canadá), Farine complète T150 (Francia) | Bob’s Red Mill, King Arthur, La Milanaise, Carrefour Bio | Puede requerir ajustar hidratación |
-| Levadura instantánea seca     | Instant yeast, levure sèche instantanée  | SAF-Instant, Fleischmann’s, Red Star, Dr. Oetker     | Usar ⅓ menos que la levadura fresca |
-| Levadura fresca prensada      | Fresh yeast, levure fraîche              | Lesaffre, Fleischmann’s (bloques), Lallemand         | 3 veces más que la instantánea |
-| Azúcar refinada               | Granulated sugar, sucre blanc            | Domino, Redpath, C&H, Tate & Lyle                    | Sin cambios en proporciones |
-| Papelón rallado               | Panela, piloncillo, jaggery              | Goya (Panela), El Artesano, Piloncillo Mexicano, Panela Colombiana | Ajustar dulzor según la intensidad |
-| Mantequilla                   | Unsalted butter, beurre doux             | Président, Lurpak, Kerrygold, Lactantia              | Evita la mantequilla salada si la receta ya lleva sal |
-| Queso llanero duro rallado    | Cotija (México), Pecorino, Manchego curado | El Mexicano (Cotija), Zerto Pecorino Romano, Don Alonso Manchego | El sabor variará, pero mantienen la textura |
-| Leche completa                | Whole milk, lait entier                  | Natrel, Parmalat, Horizon Organic, Lactaid           | Puede usarse leche en polvo reconstituida |
-| Huevos medianos (50 g)        | Medium eggs (U.K.), Large eggs (EE.UU./Canadá) | Nature’s Best, Organic Valley, Compliments, Kirkland | Pesar si es posible, para mayor precisión |
+### 🌎 Tabla internacional de equivalencias y sustitutos de ingredientes venezolanos
 
+| Ingrediente en Venezuela | Equivalentes / Sustitutos en el extranjero | Equivalencia (aprox.) | **Marcas EE. UU.** | **Marcas Canadá** | **Marcas Europa** | **Marcas Asia** | **Marcas Latinoamérica** | **Marcas Australia** | Observaciones |
+|---------------------------|--------------------------------------------|-----------------------|--------------------|-------------------|------------------|----------------|--------------------------|---------------------|---------------|
+| **Harina panadera (11–12 % proteína)** | Bread flour (EE. UU.), Farine de force (Francia), Manitoba (Italia) | 1 taza = 130 g | King Arthur | Robin Hood | Caputo Manitoba, Francine | Nisshin Seifun | Blancaflor, Harina Juana | Laucke Wallaby | Usa harinas de fuerza media/alta para panes con estructura y volumen. |
+| **Harina todo uso** | All-purpose flour (EE. UU./Canadá), Farine T55 (Francia) | 1 taza = 125 g | Gold Medal, Pillsbury | Robin Hood, La Milanaise | Carrefour Bio T55, Francine | Morinaga | Polar, Mary Todo Uso | Lighthouse | Ideal para panes suaves o dulces; menor contenido de gluten. |
+| **Harina de trigo integral** | Whole wheat flour (EE. UU./Canadá), Farine complète T150 (Francia) | 1 taza = 120 g | Bob’s Red Mill, King Arthur | La Milanaise | Carrefour Bio, Doves Farm | Nisshin Whole Wheat | Harina Juana Integral | Laucke Wholemeal | Puede requerir aumentar la hidratación 5–10 %. |
+| **Levadura instantánea seca** | Instant yeast / levure sèche instantanée | 1 cda = 9 g | SAF-Instant, Fleischmann’s | Red Star | Dr. Oetker, Lesaffre | Angel Yeast | Levapan, Fleischmann | Lowan | Usar ⅓ menos que la levadura fresca. |
+| **Levadura fresca prensada** | Fresh yeast / levure fraîche | 1 cda = 25 g | Fleischmann’s | Lallemand | Lesaffre | Angel Yeast | Levapan | Mauri | Usar 3 veces más que la instantánea; mantener refrigerada. |
+| **Azúcar refinada** | Granulated sugar / sucre blanc | 1 taza = 200 g | Domino, C&H | Redpath | Tate & Lyle | Taikoo | Iansa | CSR White Sugar | Sin cambios en proporciones; puede mezclarse con azúcar moreno. |
+| **Papelón rallado** | Panela, piloncillo, jaggery | 1 taza rallada = 180 g | Goya, El Mexicano | La Fe, Panela Colombiana | Wholesome Organic Panela | Gur (India) | Panela Ecolca, El Artesano | Bundaberg Panela | Ajustar dulzor según intensidad y grado de refinado. |
+| **Mantequilla** | Unsalted butter / beurre doux | 1 cda = 14 g | Kerrygold, Plugrá | Lactantia | Président, Lurpak | Meiji, Snow Brand | Dos Pinos, Alpina | Western Star, Devondale | Evita mantequillas saladas si la receta ya lleva sal. |
+| **Queso llanero duro rallado** | Cotija (México), Pecorino, Manchego curado | 1 taza rallada = 100 g | El Mexicano (Cotija) | Zerto Pecorino | Don Alonso Manchego, Gran Moravia | Anchor Cheese | Queso Palmizulia | Bega Strong Cheddar | Sabor varía, pero mantiene textura y salinidad. |
+| **Leche completa** | Whole milk / lait entier | 1 taza = 240 ml | Horizon Organic, Lactaid | Natrel | Parmalat, Candia | Meiji | Alpina, Los Andes | Norco | Puede usarse leche en polvo reconstituida (1:4). |
+| **Huevos medianos (50 g)** | Medium eggs (UK), Large eggs (EE. UU./Canadá) | 1 unidad = 50 g ≈ ¼ taza | Organic Valley, Nature’s Best | Compliments | Carrefour Bio | Ise Eggs (Japón) | San Jorge | Pace Farm | Pesar si es posible para precisión en masas. |
+| **Melaza de caña / Melaza negra** | Molasses (light, dark o blackstrap), Black Treacle (UK), Golden Syrup (opcional), Panela/Piloncillo fundido | 1 taza = 320 g | Brer Rabbit, Golden Barrel, Wholesome, Grandma’s | Crosby’s, Plantation | Lyle’s Black Treacle, Tate & Lyle | Taikoo Molasses (HK), Healthy Boy (Tailandia) | Melaza Dominicana, La Fama (México) | CSR Molasses, Bundaberg Syrup | Para sabor profundo usar dark molasses o black treacle. Blackstrap es más amarga. Golden syrup solo aporta dulzor. La panela fundida es una alternativa natural. |
 
 ## Conclusión
 
-Hacer nuestros panes venezolanos en casa, aunque vivamos en Canadá, Francia, EE.UU. o Australia, es posible si entendemos cómo adaptar los ingredientes y reconocemos qué marcas nos funcionan mejor.  
+Hacer nuestros panes venezolanos en casa, aunque vivamos en el resto de latinoamérica, Canadá, España, Francia, EE.UU., Asia o Australia, es posible si entendemos cómo adaptar los ingredientes y reconocemos qué marcas nos funcionan mejor.  
 
 Esta tabla es un punto de partida. Lo importante es **atreverse a probar, ajustar y compartir los resultados con la comunidad**.  
 
 Al final, más allá de las marcas y equivalencias, lo que nunca cambia es la **intención de mantener viva nuestra tradición panadera**.  
+
+__Versión 2.0 (2025/10/27)__ 
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
