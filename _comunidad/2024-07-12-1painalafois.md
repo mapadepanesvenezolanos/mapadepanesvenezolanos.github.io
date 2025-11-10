@@ -21,7 +21,7 @@ Siempre estoy leyendo nuevos libros, intentando, probando y aprendiendo nuevas c
 Tomo esta frase de [@lamamideamy]{:target="blank"}:
 "Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia."
 
-Para más detalles sobre mi viaje panadero, te invito a leer: [Mi viaje en la panadería](/panes-venezolanos/blog/articulos/viaje-jesus-panaderia)
+Para más detalles sobre mi viaje panadero, te invito a leer: [Mi viaje en la panadería](/blog/articulos/viaje-jesus-panaderia)
 
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
