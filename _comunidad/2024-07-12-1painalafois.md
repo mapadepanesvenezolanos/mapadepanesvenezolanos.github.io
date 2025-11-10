@@ -14,12 +14,14 @@ Mi nombre es Jesús Enrique Méndez Alvarez, nacido en la hermosa ciudad de Cara
 
 En Agosto del 2016, hornee mi primera hogaza de pan en casa luego de hacer un curso de panadería que me regaló mi esposa Luisa para festejar nuestros 13 años de matrimonio en La Guilde Culinaire. Desde ese momento y seguido de la llegada de mi hija Mayah Rose en 2016, se despertó en mí una necesidad de brindarle a mi familia algo especial, nutritivo y lleno de sabor me llevó a explorar y conocer sobre el pan. Allí nació mi pasión por el pan. 
 
-Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela [GAPP]{:target="blank"} abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanencasa]{:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos]{:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería [Haz Panes Venezolanos en Casa]{:target="blank"} .
+Comencé a leer sobre panadería, a preparar otros tipos de panes utilizando el libro de recetas de pan de Don Armando Scannone y el libro de panes del Cordón Bleu. Al inicio de la pandemia por el COVID-19, exactamente a finales del mes de marzo del 2020, el Grupo Académico Panadero y Pastelero de Venezuela [GAPP]{:target="blank"} abrió inscripciones para su curso de panadería en línea y gracias a mi esposa me inscribí. Me gradué de maestro panadero en noviembre del 2021 y durante ese período conocí a Alexander, mi socio, amigo, profesor, mentor, con quien rápidamente hice clic. Fue tan fuerte el clic, que en abril del 2022 inspirados por la idea de producir un mapa de los panes venezolanos, comencé junto con [@hazpanencasa]{:target="blank"} el hermoso proyecto panadero que dió origen a nuestra página web [Panes Venezolanos]{:target="blank"} y desde diciembre del 2024 a nuestro primer libro de panadería [Haz Panes Venezolanos en Casa]{:target="blank"}.
 
 Siempre estoy leyendo nuevos libros, intentando, probando y aprendiendo nuevas cosas, buscando la manera de mejorar lo que hago, y ayudar a la comunidad de panaderos compartiendo.
 
 Tomo esta frase de [@lamamideamy]{:target="blank"}:
 "Todas las artes gastronómicas requieren de constancia, estudio y dedicación pero la panadería por encima de todas requiere de AMOR por lo que hacemos, orden, disciplina y paciencia."
+
+Para más detalles sobre mi viaje panadero, te invito a leer: [Mi viaje en la panadería](/panes-venezolanos/blog/articulos/viaje-jesus-panaderia)
 
 A continuación el contenido que comparte Jesús a la comunidad de panaderos:
 
