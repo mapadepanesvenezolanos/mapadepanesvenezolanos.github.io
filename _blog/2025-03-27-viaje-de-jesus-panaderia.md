@@ -6,7 +6,7 @@ description: En este artículo, Jesús Méndez nos describe los detalles de su r
 permalink: /blog/articulos/viaje-jesus-panaderia
 published: true
 featured_image: '/images/blog/articulos/jesus/prefermento-jm.jpg'
----
+
 
 Nunca imaginé que mi camino en la panadería comenzaría a distancia y durante una pandemia como la que inicio en el año 2020. Aprender un oficio tan artesanal sin estar físicamente en un obrador parecía un reto enorme, pero con dedicación, práctica y mucha pasión, logré convertirme en panadero profesional. Este aprendizaje fue el primer paso en una travesía que, junto con mi partner [Alexander A Ramírez M.](https://instagram.com/hazpanencasa){:target="blank"}, nos llevaría a crear [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
