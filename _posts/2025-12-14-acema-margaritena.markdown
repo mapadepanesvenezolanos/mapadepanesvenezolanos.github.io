@@ -104,8 +104,8 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 ### Retardo en nevera (Opcional)
 
 - Forma una bola y colócala en un envase tapado con plástico.
-- Deja reposar en mesa durante veinte (20) minutos.
-- Luego lleva tu envase a la nevera a 4ºC durante tres (3) y doce (12) horas.
+- Deja reposar en mesa durante veinte (20) minutos a temperatura ambiente entre 24ºC/75ºF y 27ºC/80ºF.
+- Luego, lleva tu envase a la nevera a 4ºC durante tres (3) y doce (12) horas.
 
 ### División y preformado
 
@@ -133,36 +133,34 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 ### Barnices, coberturas y cortes
 
-- Para preparar el Almibar, en una olla de cocina, mezcla el azúcar con el agua y deja hervir hasta formar un almibar espeso. 
-- Utilizando una brocha de cocina, cubre la superficie de tus Acemas Margariteñas con una capa fina del Almibar.
+- Para preparar el Almibar, mezcla en una olla de cocina el azúcarcon el agua y deja hervir hasta formar un almibar espeso. 
+- Cubre la superficie de tus Acemas Margariteñas con una capa fina del Almibar, utilizando una brocha de cocina.
 
 ### Enfriamiento
 
-- Al sacar tus Acemas Margariteñas del horno, pásalas a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Al sacar tus Acemas Margariteñas del horno, pásalas a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi estan listas. 
 - Disfruta tus Acemas Margariteñas!!!
 
 ### Consumo del pan
 
 - Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
-- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica hasta máximo tres (3) días y luego las metes en el refirgerador.
+- Para congelar, mete en bolsita ziplock. Si las congelaste, entre ocho (8) y doce (12) horas antes de consumirlas pásalas al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ------
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero, la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao]{:target="blank"} y Erika Soto [@oreganobaguette]{:target="blank"}. ¡Muchas gracias!
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero.¡Muchas gracias!
  
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
-
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
 **¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2025/11/12)__
+__Versión 1.0 (2025/12/09)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
