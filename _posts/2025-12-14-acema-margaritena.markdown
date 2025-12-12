@@ -2,12 +2,12 @@
 title: "Acema Margariteña"
 subtitle: "El sabor dulce y artesanal de la panadería margariteña."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana, de Cubiro o Nueva Esparta. En los Andes la preparan como acemitas o con chicharron, en el Táchira con bocadillo de guayaba con queso, en el Tocuyo es de forma de ovalo y la llaman Acema Carachera. En Nueva Esparta, lleva coco rallado o en lonjas, semillas de anis dulce, no lleva melao de papelón y se llama Acema Margariteña."
-date: 2025-12-14 00:00:00 -0400
-published: false
+date: 2025-12-11 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/acema-margaritena/
 categories: pan enriquecido nueva_esparta
 keywords: aceman margariteña, el acema margariteña, acema margariteña venezolana, acema margariteña venezuela, receta de acema margariteña, receta acema margariteña, acema margariteña receta, receta de acema margariteña  venezolana,  como hacer acemas margariteñas venezolanas, acema margariteña, acema margariteña venezolano, acema margariteña, acema margariteña dulce venezolano, receta acema margariteña venezolana, panes venezolanos, pan dulce venezolano, acema margariteña receta, ingredientes del acema margariteña, ingredientes para la acema margariteña, acema margariteña  ingredientes, acema margariteña dulce venezolana receta, acema margariteña ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la acema margariteña, acema margariteña historia, acema margariteña  origen, origen de la acema margariteña , acema margariteña casero, receta acema margariteña dulce, recetas de acema margariteña, recetas de pan margariteño, como hacer acema margariteña, cómo hacer pan, acema margariteña venezolana, acema margariteña, receta de panecillos formado de bolillo, panecillos de redondos dulces, como se hace la acema margariteña, como preparar acema margariteña, cómo preparar acema margariteña, pacema margariteña panadería, acema margariteña, receta panes de la isla de margarita, como hacer pan venezolano en casa, acema margariteña, como hacer panes venezolanos en la diaspora
-featured_image: '/images/panes/acema-maragaritena/acema_margaritena_01.jpg'
+featured_image: '/images/panes/acema-maragaritena/acemas_margaritena_01.jpg'
 formula_name: "acemamargaritena"
 ---
 
@@ -45,18 +45,18 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 | Ingrediente                 | Fórmula     | Peso    |
 |:----------------------------|:-----------:|--------:|
-| Harina media fuerza (12%)   |        100% |  569g   |
-| Agua tibia                  |         40% |  227g   |
-| Levadura instantánea        |          1% |    6g   |
+| Harina media fuerza (12%)   |        100% |  581g   |
+| Agua tibia                  |         35% |  203g   |
+| Levadura instantánea        |        1.5% |    9g   |
 | Sal                         |          1% |    6g   |
-| Huevos ligeramente batidos  |         20% |  114g   |
-| Grasa (Mantequilla sin sal) |         10% |   57g   |
-| Azúcar                      |         15% |   85g   |
+| Huevos ligeramente batidos  |         20% |  116g   |
+| Grasa (Mantequilla sin sal) |         10% |   58g   |
+| Azúcar                      |         15% |   87g   |
 | Leche en polvo              |          2% |   12g   |
-| Coco rallado                |         20% |  114g   |
+| Coco rallado                |         20% |  116g   |
 | Semillas de anis dulce      |          2% |   12g   |
 |-----------------------------|-------------|---------|
-| **Total**                   |    **211%** |**1200g**|
+| **Total**                   |  **206.5%** |**1200g**|
 
 ### Calculadora para la masa 
 
@@ -121,14 +121,15 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 ### Fermentación final (maduración)
 
-- Deja reposar tus Acemas Margariteñas durante aproximadamente dos (2) horas y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar tus Acemas Margariteñas durante aproximadamente tres (3) horas, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Horneado
 - Enciende el horno media (30) minutos antes de hornear a una temperatura de 170ºC/335ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
 - Pasados diez (10) minutos, verifica el horno asegurándote que tus Acemas Margariteñas se horneen de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Alcanzados los veinte (20) minutos, saca tus Acemas Margariteñas del horno.
+- Alcanzados los veinte (20) minutos, verifica el dorado de tus acemas y si aún no están doraditas en la superficie, deja hornear cinco (5) minutos más.
+- Saca tus Acemas Margariteñas del horno.
 - Apaga el horno.
 
 ### Barnices, coberturas y cortes
@@ -160,7 +161,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2025/12/09)__
+__Versión 1.0 (2025/12/11)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
