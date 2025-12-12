@@ -7,40 +7,11 @@ featured_image: /images/social.jpg
 
 {% include intro.html %}
 
-<!-- 🔎 FILTROS -->
-<section class="filters">
-  <h2>Filtrar Recetas</h2>
-
-  <div class="filter-group">
-    <p><strong>Región:</strong></p>
-    <button onclick="filterRegion('all')">Todas</button>
-    <button onclick="filterRegion('oriental')">Oriental</button>
-    <button onclick="filterRegion('central')">Central</button>
-    <button onclick="filterRegion('andina')">Andina</button>
-    <button onclick="filterRegion('zuliana')">Zuliana</button>
-    <button onclick="filterRegion('llanos')">Llanos</button>
-    <button onclick="filterRegion('insular')">Insular</button>
-  </div>
-
-  <div class="filter-group">
-    <p><strong>Tipo:</strong></p>
-    <button onclick="filterTipo('all')">Todos</button>
-    <button onclick="filterTipo('semi-rustico')">Semi Rústicos</button>
-    <button onclick="filterTipo('suave')">Suaves y Rellenos</button>
-    <button onclick="filterTipo('dulce')">Dulces</button>
-  </div>
-</section>
-
 <section class="listing">
 	{% include search-lunr.html %}
 	<div class="content-wrap listing-wrap">
 		
 		{% for post in site.posts %}
-		<div 
-			class="listing-item"
-			data-region="{{ post.region }}"
-			data-tipo="{{ post.tipo }}"
-		>
 
 		<div class="listing-item">
 
@@ -69,5 +40,3 @@ featured_image: /images/social.jpg
 
 {% include aporta.html %}
 
-<!-- Archivo JS externo para filtros -->
-<script src="{{ '/js/filters.js' | relative_url }}"></script>
