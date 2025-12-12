@@ -1,7 +1,7 @@
 ---
 title: "Acema Margariteña"
 subtitle: "El sabor dulce y artesanal de la panadería margariteña."
-description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana, de Cubiro o Nueva Esparta. En los Andes la preparan como acemitas o con chicharron, en el Táchira con bocadillo de guayaba con queso, en el Tocuyo es de forma de ovalo y la llaman Acema Carachera. En Nueva Esparta, lleva coco rallado o en lonjas, semillas de anis dulce, no lleva melao de papelón y se llama Acema Margariteña."
+description: "La Acema es un pan enriquecido y aliñado con coco. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana, de Cubiro o Nueva Esparta. En los Andes la preparan como acemitas o con chicharron, en el Táchira con bocadillo de guayaba con queso, en el Tocuyo es de forma de ovalo y la llaman Acema Carachera. En Nueva Esparta, lleva coco rallado o en lonjas, semillas de anis dulce, no lleva melao de papelón y se llama Acema Margariteña."
 date: 2025-12-11 00:00:00 -0400
 published: true
 permalink: /panes-venezolanos/acema-margaritena/
@@ -15,7 +15,7 @@ formula_name: "acemamargaritena"
 
 ## Resultado esperado
 
-La acema margariteña es una joya de la panadería tradicional margariteña. Su miga suave y ligeramente dulce, con un delicado aroma a vainilla y nuez moscada, y su dorado característico lo convierten en un símbolo del sabor y la calidez del oriente venezolano. Esta versión es adaptada a la casa y la miga es más abierta que la que encontrarás en los panes que venden en las panaderías de la Asunción en la Isla de Margarita, Estado Nueva Esparta. El aroma es irresistible, ideal para acompañarlo con café con leche o disfrutarlo en una merienda junto a un vaso de leche o un toddy. Jesús [@1painalafois]{:target="blank"} lo come temprano, aún calientico, y Alexander [@hazpanencasa]{:target="blank"} no perdona su café negro para acompañarlo. No importa cómo lo prefieras: cuando el olor empiece a llenar tu casa, sabrás que no podrás parar en la primera rebanada.
+La acema margariteña es una joya de la panadería tradicional margariteña. Su miga suave, esponjosa, dulce, rellena de coco rallado, y su corteza dorada cubierta de almibar dulce, la convierten en un símbolo único e indiscutible de la panadería insular. Esta versión es adaptada a la casa y la miga es más abierta que la que encontrarás en los panes que venden en las panaderías en la Isla de Margarita, Estado Nueva Esparta. El aroma que impregna la cocina es irresistible, ideal para acompañarlaa con café con leche o disfrutarlo en una merienda. Jesús [@1painalafois]{:target="blank"} lo come por las tardes y Alexander [@hazpanencasa]{:target="blank"} aún esta descubriendo este perfil de sabores tan especial. Sin importar cómo lo prefieras: cuando te comas la primera bolita, seguro te comes al menos otra.
 
 ## Origen de la Acema Margariteña
 
@@ -30,6 +30,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Debido a la cantidad de mantequilla y huevo es deseable el uso de una harina de media fuerza con al menos 12% de proteínas de calidad.
 - Si estás trabajando en un ambiente con mucho calor, utiliza el agua de la nevera.
+- Si la temperatura de tu cocina es mayor a 25 grados centígrados, entonces reduce la fermentación a 2 horas y 30 minutos.
 
 {% include whatsapp.html %}
 
@@ -46,7 +47,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 | Ingrediente                 | Fórmula     | Peso    |
 |:----------------------------|:-----------:|--------:|
 | Harina media fuerza (12%)   |        100% |  581g   |
-| Agua tibia                  |         35% |  203g   |
+| Agua                        |         35% |  203g   |
 | Levadura instantánea        |        1.5% |    9g   |
 | Sal                         |          1% |    6g   |
 | Huevos ligeramente batidos  |         20% |  116g   |
@@ -161,7 +162,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2025/12/11)__
+__Versión 1.1 (2025/12/12)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
