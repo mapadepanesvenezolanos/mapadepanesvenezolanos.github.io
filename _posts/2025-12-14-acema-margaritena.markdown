@@ -9,6 +9,9 @@ categories: pan enriquecido nueva_esparta
 keywords: aceman margariteña, el acema margariteña, acema margariteña venezolana, acema margariteña venezuela, receta de acema margariteña, receta acema margariteña, acema margariteña receta, receta de acema margariteña  venezolana,  como hacer acemas margariteñas venezolanas, acema margariteña, acema margariteña venezolano, acema margariteña, acema margariteña dulce venezolano, receta acema margariteña venezolana, panes venezolanos, pan dulce venezolano, acema margariteña receta, ingredientes del acema margariteña, ingredientes para la acema margariteña, acema margariteña  ingredientes, acema margariteña dulce venezolana receta, acema margariteña ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la acema margariteña, acema margariteña historia, acema margariteña  origen, origen de la acema margariteña , acema margariteña casero, receta acema margariteña dulce, recetas de acema margariteña, recetas de pan margariteño, como hacer acema margariteña, cómo hacer pan, acema margariteña venezolana, acema margariteña, receta de panecillos formado de bolillo, panecillos de redondos dulces, como se hace la acema margariteña, como preparar acema margariteña, cómo preparar acema margariteña, pacema margariteña panadería, acema margariteña, receta panes de la isla de margarita, como hacer pan venezolano en casa, acema margariteña, como hacer panes venezolanos en la diaspora
 featured_image: '/images/panes/acema-maragaritena/acemas_margaritenas_01.jpg'
 formula_name: "acemamargaritena"
+tipo: dulces
+region: oriental    
+
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS 
@@ -162,7 +165,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2025/12/12)__
+__Versión 1.2 (2025/12/12)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
