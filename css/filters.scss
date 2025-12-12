@@ -1,0 +1,68 @@
+// --- VARIABLES ---
+$bg-filters: #fafafa;
+$btn-bg: #ffffff;
+$btn-border: #ccc;
+$btn-hover: #f1f1f1;
+$btn-active: #e2e2e2;
+$text-color: #333;
+$text-color-secondary: #444;
+$btn-radius: 25px;
+$transition-speed: 0.2s;
+
+// --- FILTROS DE RECETAS ---
+.filters {
+  margin: 30px auto;
+  padding: 20px;
+  background: $bg-filters;
+  border-radius: 10px;
+  max-width: 900px;
+  text-align: center;
+
+  h2 {
+    font-size: 1.6rem;
+    margin-bottom: 15px;
+    color: $text-color;
+  }
+
+  .filter-group {
+    margin: 15px 0;
+
+    p {
+      margin-bottom: 8px;
+      font-weight: 600;
+      color: $text-color-secondary;
+    }
+
+    button {
+      margin: 5px;
+      padding: 8px 15px;
+      background: $btn-bg;
+      border: 1px solid $btn-border;
+      border-radius: $btn-radius;
+      cursor: pointer;
+      transition: all $transition-speed ease-in-out;
+      font-size: 0.95rem;
+
+      &:hover {
+        background: $btn-hover;
+        transform: scale(1.05);
+      }
+
+      &:active {
+        background: $btn-active;
+        transform: scale(0.98);
+      }
+
+      &.active {
+        background: #f9c74f; // ejemplo color botón activo
+        border-color: #f9c74f;
+        color: #fff;
+      }
+    }
+  }
+}
+
+// Tarjetas ocultas (por JS)
+.listing-item {
+  transition: all 0.3s ease-in-out;
+}
