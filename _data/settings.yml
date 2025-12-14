@@ -19,8 +19,6 @@ menu_settings:
       url: '/'
     - title: 'Mapa'
       url: '/mapa/'
-    - title: 'Cursos'
-      url: '/cursos/'    
     - title: 'Libros'
       url: '/libros/'
     - title: 'Calculadoras'
