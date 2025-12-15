@@ -1,12 +1,12 @@
 ---
 title: Taller de pan canilla
 date: 2025-12-14 00:00:00
-description: Si deseas tener en tu casa el aroma de una Canilla recién hecha este es el taller para tí..
+description: Si deseas tener en tu casa el aroma de una Canilla recién hecha este es el taller para tí.
 permalink: /cursos/pan-canilla/
 published: true
 featured_image: /images/cursos/pan-canilla_curso.jpg
 tags:
-  - autodidacta
+  - taller
   - grabado
   - tradicional
 ---
@@ -22,7 +22,6 @@ Vas a contar con varios videos explicativos y paso a paso con todos los detalles
 
 ## ¿Qué aprenderás?
 
-- ✅ Cómo hacer una masa suave, esponjosa y fácil de trabajar.
 - ✅ Introducción
 - ✅ ¿A quién está dirigido el curso?
 - ✅ Soy Alexander Ramírez
