@@ -2,6 +2,7 @@
 layout: panesvenezolanos
 title: Curso de Pan de Jamón Venezolano
 description: Aprende a preparar Pan de Jamón venezolano con criterio, técnica y respeto por la tradición.
+permalink: /cursos/pan-de-jamon/
 featured_image: /images/cursos/pan-de-jamon_curso.jpg
 
 tags:
