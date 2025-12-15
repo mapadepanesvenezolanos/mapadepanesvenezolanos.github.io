@@ -1,5 +1,5 @@
 ---
-title: Curso de Pan de Jamón Venezolano
+title: Haz pan de jamón venezolano en casa
 date: 2025-12-14 00:00:00
 description: Aprende a preparar Pan de Jamón venezolano con criterio, técnica y respeto por la tradición.
 permalink: /cursos/pan-de-jamon/
@@ -12,7 +12,7 @@ tags:
   - navidad
 ---
 
-# Curso de Pan de Jamón Venezolano en casa
+# Curso en línea Haz pan de jamón venezolano en casa
 
 *Un pan que se comparte, se espera y se recuerda.*
 
