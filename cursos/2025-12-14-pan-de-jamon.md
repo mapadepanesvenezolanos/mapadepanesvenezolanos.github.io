@@ -12,7 +12,7 @@ tags:
   - navidad
 ---
 
-# Curso de Pan de Jamón Venezolano
+# Curso de Pan de Jamón Venezolano en casa
 
 *Un pan que se comparte, se espera y se recuerda.*
 
@@ -21,25 +21,31 @@ tags:
 El Pan de Jamón no es solo una receta. Es mesa, familia y diciembre.  
 En este curso te acompañamos a entender el proceso completo: desde la masa hasta el horneado final, para que puedas reproducirlo con confianza, criterio y disfrute.
 
-Este curso nace de años de práctica, de errores, ajustes y aprendizajes, y de la necesidad de explicar el **por qué** detrás de cada paso.
+Aprende a preparar el pan más querido de la Navidad venezolana, sin salir de casa. Este curso está diseñado especialmente para venezolanos en la diáspora que desean aprender desde cero, mejorar su técnica o elevar el nivel de su pan de jamón con un enfoque profesional, práctico y fácil de seguir. 🇻🇪❤️
 
 ## ¿Qué aprenderás?
 
-- Cómo formular y trabajar una masa enriquecida  
-- Preparación y balance del relleno tradicional  
-- Técnicas de armado y sellado  
-- Fermentación, horneado y conservación  
+✅ Cómo hacer una masa suave, esponjosa y fácil de trabajar.
+✅ El orden perfecto del relleno tradicional: aceitunas, jamón, tocineta, pasas y papelón rallado.
+✅ Enrollado y sellado profesional para que tu pan quede hermoso por fuera y delicioso por dentro.
+✅ Técnicas de barnizado y dorado uniforme con huevo y melaza.
+✅ Secretos del horneado perfecto y del enfriamiento sobre rejilla para conservar textura y sabor.
+✅ Consejos prácticos para evitar errores comunes y obtener resultados consistentes cada vez.
 
 ## ¿Qué incluye el curso?
 
-- 12 sesiones estructuradas  
-- Videos explicativos + Guía del participante descargable  
-- Acceso durante 30 días  
-- Curso 100 % autodidacta  
+✅ 18 Videos paso a paso en Instagram para seguir a tu ritmo, desde cualquier parte del mundo.
+✅ Explicaciones detalladas de cada etapa: masa, relleno, enrollado, barnizado, horneado y enfriamiento.
+✅ PDF descargable con la receta + una guía de trucos y astucias, que recibirás directamente por correo electrónico una vez hayamos verificado tu pago.
+✅ Acceso de por vida al contenido del curso en Instagram.
+✅ Soporte personalizado: podrás contactarme directamente por WhatsApp para resolver tus dudas o recibir orientación durante tu proceso. 
+
+🎁 Bonus especial:
+✅ Incluye acceso directo al material descargable, enviado por correo electrónico, incluyendo la receta del pan, el procedimiento paso a paso, proporciones y recomendaciones para lograr siempre un pan perfecto.
 
 ## Inscripción
 
 Si este pan forma parte de tu historia,  
 este curso puede acompañarte a hacerlo tuyo.
 
-👉 [Quiero más información](https://instagram.com/panesve)
+👉 [Quiero más información](https://1painalafois-school.square.site/product/-curso-en-l-nea-pan-de-jam-n-en-casa-/N4TGIU6YYVA6B4OXIQGKOMFW?cs=true)
