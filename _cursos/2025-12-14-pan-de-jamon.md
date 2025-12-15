@@ -1,5 +1,5 @@
 ---
-title: Taller de pan de jamón
+title: Curso de pan de jamón
 date: 2025-12-14 00:00:00
 description: Aprende a preparar Pan de Jamón venezolano con criterio, técnica y respeto por la tradición.
 permalink: /cursos/pan-de-jamon/
