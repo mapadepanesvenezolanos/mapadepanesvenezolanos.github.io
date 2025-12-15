@@ -1,8 +1,8 @@
 ---
-title: Taller de Cachito y Mini lunch
-date: 2025-12-14 00:00:00
+title: Taller de Cachitos y Mini lunch
+date: 2025-12-15 00:00:00
 description: Este Taller es la introducción a los Panes Suaves Rellenos Venezolanos.
-permalink: /cursos/cachito-minilunch/
+permalink: /cursos/cachitos-minilunch/
 published: true
 featured_image: /images/cursos/cachito-minilunch_curso.jpg
 tags:
