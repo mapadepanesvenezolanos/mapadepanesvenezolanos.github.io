@@ -13,14 +13,14 @@ Aquí encontrarás espacios de aprendizaje pensados para panaderos caseros y per
 
 <div class="container py-4">
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
-        {% for post in site.cursos %}
+        {% for curso in site.cursos %}
         <div class="col">
             <div class="card h-100 shadow-sm hover-card">
-                <a href="{{ post.url | relative_url }}" class="text-decoration-none text-dark">
+                <a href="{{ curso.url | relative_url }}" class="text-decoration-none text-dark">
                     <div class="position-relative">
-                        <img src="{{ post.featured_image | relative_url }}" 
+                        <img src="{{ curso.featured_image | relative_url }}" 
                              class="card-img-top" 
-                             alt="{{ post.title }}"
+                             alt="{{ curso.title }}"
                              style="object-fit: cover;">
                     </div>
                     <div class="card-body">
