@@ -55,7 +55,7 @@ defaults:
       path: ""
       type: "cursos"
     values:
-      layout: "cursos"
+      layout: "curso"
   -
     scope:
       path: "assets/**/*.pdf"
