@@ -48,7 +48,6 @@ Vas a contar con varios videos explicativos y paso a paso con todos los detalles
 
 ## ¿Qué incluye el curso?
 
-- ✅ 18 Videos paso a paso en Instagram para seguir a tu ritmo, desde cualquier parte del mundo.
 - ✅ En este Taller completo contarás con el material que consta de 19 lecciones, 8 videos, 2 quizes y ejercicios.
 - ✅ Conocerás sobre el Pan Canilla, su origen, tips, ejercicios, la fórmula panadera, los pasos fundamentales, la técnica de vapor en el horno casero, preparación detallada, resultado esperado, mejoras y la ñapa.
 - ✅ Te comparto mis datos personales para que me contactes y coordinemos la sesión personalizada. Si tienes alguna duda o dificultad tienes opción de contactarme directamente. Mi compromiso personal es que lo prepares y lo logres.
