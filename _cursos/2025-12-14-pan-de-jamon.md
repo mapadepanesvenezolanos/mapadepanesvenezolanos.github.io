@@ -46,7 +46,6 @@ Aprende a preparar el pan más querido de la Navidad venezolana, sin salir de ca
 
 ## Inscripción
 
-Si este pan forma parte de tu historia,  
-este curso puede acompañarte a hacerlo tuyo.
+Si este pan forma parte de tu historia,este curso puede acompañarte a hacerlo tuyo.
 
-👉 [Quiero más información](https://1painalafois-school.square.site/product/-curso-en-l-nea-pan-de-jam-n-en-casa-/N4TGIU6YYVA6B4OXIQGKOMFW?cs=true)
+👉 [Quiero inscribirme](https://1painalafois-school.square.site/product/-curso-en-l-nea-pan-de-jam-n-en-casa-/N4TGIU6YYVA6B4OXIQGKOMFW?cs=true)
