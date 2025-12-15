@@ -25,24 +25,27 @@ Aprende a preparar el pan más querido de la Navidad venezolana, sin salir de ca
 
 ## ¿Qué aprenderás?
 
-✅ Cómo hacer una masa suave, esponjosa y fácil de trabajar.
-✅ El orden perfecto del relleno tradicional: aceitunas, jamón, tocineta, pasas y papelón rallado.
-✅ Enrollado y sellado profesional para que tu pan quede hermoso por fuera y delicioso por dentro.
-✅ Técnicas de barnizado y dorado uniforme con huevo y melaza.
-✅ Secretos del horneado perfecto y del enfriamiento sobre rejilla para conservar textura y sabor.
-✅ Consejos prácticos para evitar errores comunes y obtener resultados consistentes cada vez.
+- ✅ Cómo hacer una masa suave, esponjosa y fácil de trabajar.
+- ✅ El orden perfecto del relleno tradicional: aceitunas, jamón, tocineta, pasas y papelón rallado.
+- ✅ Enrollado y sellado profesional para que tu pan quede hermoso por fuera y delicioso por dentro.
+- ✅ Técnicas de barnizado y dorado uniforme con huevo y melaza.
+- ✅ Secretos del horneado perfecto y del enfriamiento sobre rejilla para conservar textura y sabor.
+- ✅ Consejos prácticos para evitar errores comunes y obtener resultados consistentes cada vez.
 
 ## ¿Qué incluye el curso?
 
-✅ 18 Videos paso a paso en Instagram para seguir a tu ritmo, desde cualquier parte del mundo.
-✅ Explicaciones detalladas de cada etapa: masa, relleno, enrollado, barnizado, horneado y enfriamiento.
-✅ PDF descargable con la receta + una guía de trucos y astucias, que recibirás directamente por correo electrónico una vez hayamos verificado tu pago.
-✅ Acceso de por vida al contenido del curso en Instagram.
-✅ Soporte personalizado: podrás contactarme directamente por WhatsApp para resolver tus dudas o recibir orientación durante tu proceso. 
+- ✅ 18 Videos paso a paso en Instagram para seguir a tu ritmo, desde cualquier parte del mundo.
+- ✅ Explicaciones detalladas de cada etapa: masa, relleno, enrollado, barnizado, horneado y enfriamiento.
+- ✅ PDF descargable con la receta + una guía de trucos y astucias, que recibirás directamente por correo electrónico una vez hayamos verificado tu pago.
+- ✅ Acceso de por vida al contenido del curso en Instagram.
+- ✅ Soporte personalizado: podrás contactarme directamente por WhatsApp para resolver tus dudas o recibir orientación durante tu proceso. 
 
 ## Bonus especial
 
-✅ Incluye acceso directo al material descargable, enviado por correo electrónico, incluyendo la receta del pan, el procedimiento paso a paso, proporciones y recomendaciones para lograr siempre un pan perfecto.
+- ✅ Incluye acceso directo al material descargable, enviado por correo electrónico, incluyendo la receta del pan, el procedimiento paso a paso, proporciones y recomendaciones para lograr siempre un pan perfecto.
+
+## Acerca del Instructor
+Este curso es dictado por [Jesús Méndez](https://1painalafois-school.square.site/about), panadero formado en el Grupo Académico Panadero y Pastelero de Venezuela (GAPP) y creador del proyecto “Panes Venezolanos”.
 
 ## Inscripción
 
