@@ -24,8 +24,8 @@ Aquí encontrarás espacios de aprendizaje pensados para panaderos caseros y per
                              style="object-fit: cover;">
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">{{ post.title }}</h5>
-                        <p class="card-text text-muted" style="font-family: 'Poppins', sans-serif;">{{ post.subtitle }}</p>
+                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">{{ curso.title }}</h5>
+                        <p class="card-text text-muted" style="font-family: 'Poppins', sans-serif;">{{ curso.subtitle }}</p>
                     </div>
                 </a>
             </div>

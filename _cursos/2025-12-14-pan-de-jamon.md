@@ -40,7 +40,8 @@ Aprende a preparar el pan más querido de la Navidad venezolana, sin salir de ca
 ✅ Acceso de por vida al contenido del curso en Instagram.
 ✅ Soporte personalizado: podrás contactarme directamente por WhatsApp para resolver tus dudas o recibir orientación durante tu proceso. 
 
-🎁 Bonus especial:
+## Bonus especial
+
 ✅ Incluye acceso directo al material descargable, enviado por correo electrónico, incluyendo la receta del pan, el procedimiento paso a paso, proporciones y recomendaciones para lograr siempre un pan perfecto.
 
 ## Inscripción

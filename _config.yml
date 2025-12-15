@@ -18,7 +18,7 @@ collections:
     permalink: /comunidad/:slug
   cursos:
     output: true
-    permalink: /cursos/:slug
+    permalink: /cursos/:name
 
 defaults:
   -
@@ -55,7 +55,7 @@ defaults:
       path: ""
       type: "cursos"
     values:
-      layout: "curso"
+      layout: "cursos"
   -
     scope:
       path: "assets/**/*.pdf"
