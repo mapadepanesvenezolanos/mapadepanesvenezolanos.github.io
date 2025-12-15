@@ -13,6 +13,10 @@ Aquí encontrarás espacios de aprendizaje pensados para panaderos caseros y per
 
 <div class="container py-4">
     <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 g-4">
+        {% if site.cursos.size == 0 %}
+          <p>No hay cursos publicados.</p>
+        {% endif %}
+        
         {% for curso in site.cursos %}
         <div class="col">
             <div class="card h-100 shadow-sm hover-card">
