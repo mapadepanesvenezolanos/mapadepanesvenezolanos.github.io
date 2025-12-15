@@ -4,7 +4,7 @@ date: 2025-12-14 00:00:00
 description: Si deseas tener en tu casa el aroma de una Canilla recién hecha este es el taller para tí..
 permalink: /cursos/pan-canilla/
 published: true
-featured_image: /images/cursos/taller_pan-canilla.jpeg
+featured_image: /images/cursos/pan-canilla_curso.jpg
 tags:
   - autodidacta
   - grabado
@@ -13,7 +13,7 @@ tags:
 
 # Taller de pan canilla
 
-*Un pan que se comparte, se espera y se recuerda.*
+*El pan más popular en Venezuela.*
 
 ## Sobre este curso
 
