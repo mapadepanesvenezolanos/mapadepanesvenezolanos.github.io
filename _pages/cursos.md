@@ -19,7 +19,7 @@ Aquí encontrarás espacios de aprendizaje pensados para panaderos caseros y per
         
         {% for curso in site.cursos %}
         <div class="col">
-            <div class="card h-100 shadow-sm hover-card">
+            <div class="card h-50 shadow-sm hover-card">
                 <a href="{{ curso.url | relative_url }}" class="text-decoration-none text-dark">
                     <div class="position-relative">
                         <img src="{{ curso.featured_image | relative_url }}" 
