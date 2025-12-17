@@ -28,7 +28,7 @@ El pan de leche asuntino es una especialidad de La Asunción, capital del estado
 "Originalmente, el pan de leche asuntino se hacía con leche fresca. Con el tiempo se incorporaron variaciones: leche en polvo, leche condensada, incluso dulce de leche o malta en algunas versiones. 
 Panes Venezolanos. Se elaboraba en hornos de leña tradicionalmente; hoy muchas panaderías usan hornos a gas, aunque en ocasiones especiales todavía se usa leña. La receta clásica incluye ingredientes como harina de trigo, azúcar, huevos, mantequilla, esencia de vainilla, y especias como nuez moscada."[^1]
 
-[^1]: [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/)
+[^1]: [Joanther Guacarán](/comunidad/lamamideamy/)
 
 "El pan de leche asuntino no es solo un alimento: es parte de la vida diaria, de la tradición familiar (desayunos, meriendas, fiestas patronales, etc.). Muchos lo recuerdan como un sabor que trae memoria, asociado al olor de la panadería, al hogar, al compartir." [^2]
 
