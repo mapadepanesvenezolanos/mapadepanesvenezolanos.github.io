@@ -160,14 +160,13 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 {% assign curso_pan_jamon = site.cursos | where: "permalink", "/cursos/pan-de-jamon/" | first %}
 
 {% if curso_pan_jamon %}
----
-## ¿Quieres aprender el proceso paso a paso?
 
-Si deseas profundizar en la preparación del Pan de Jamón, entender el **por qué** de cada etapa y trabajar la masa con mayor criterio, tenemos un curso dedicado a este pan.
+## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
 
-👉 **[Ver el Curso de Pan de Jamón Venezolano]({{ curso_pan_jamon.url | relative_url }})**
+Profundiza la preparación del Pan de Jamón, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Curso de Pan de Jamón Venezolano]({{ curso_pan_jamon.url | relative_url }})**
 {% endif %}
 
+---
 
 ### Referencias y enlaces
 
