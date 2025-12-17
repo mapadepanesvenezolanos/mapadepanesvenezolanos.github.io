@@ -148,7 +148,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la asunción, adpatado y mejorado para el panadero casero.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la asunción, adpatado y mejorado para el panadero casero.
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
