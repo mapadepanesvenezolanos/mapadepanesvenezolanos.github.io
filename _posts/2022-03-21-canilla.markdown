@@ -178,7 +178,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 - Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
 - Apaga el horno.
 
-{% include curso-relacionado.html %}
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces del Pan Canilla
 

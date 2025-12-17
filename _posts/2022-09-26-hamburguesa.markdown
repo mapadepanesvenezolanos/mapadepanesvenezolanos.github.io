@@ -149,7 +149,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
-{% include curso-relacionado.html %}
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 

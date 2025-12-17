@@ -192,7 +192,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 - Coloca un barniz de mantequilla clarificada para un brillo espectacular. 
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia!
 
-{% include curso-relacionado.html %}
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 

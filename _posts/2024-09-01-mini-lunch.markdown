@@ -143,7 +143,7 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 - Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
 
-{% include curso-relacionado.html %}
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 

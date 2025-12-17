@@ -151,7 +151,7 @@ Un perro caliente venezolano lleva de todo un poco, sin embargo no todas las per
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) a doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
-{% include curso-relacionado.html %}
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
