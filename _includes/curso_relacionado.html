@@ -1,0 +1,13 @@
+{% if page.curso_relacionado %}
+  {% assign curso = site.cursos | where: "permalink", page.curso_relacionado | first %}
+
+  {% if curso %}
+  ---
+  ## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
+
+  En el curso afinamos detalles, aclaramos dudas y trabajamos el proceso completo con calma y criterio.  
+  👉 **[Ir al {{ curso.title }}]({{ curso.url | relative_url }})**
+  {% endif %}
+{% endif %}
+
+  ----

@@ -8,6 +8,7 @@ categories: pan semirustico capital
 featured_image: /images/panes/canilla/canilla_02.jpg
 keywords: canilla, canilla pan, canillas, panes canillas, canillas pan, pan canillas, canilla venezuela, pan canilla venezuela, pan canilla en venezuela, canillas venezolanas, pan de canilla, pan canilla, pan canilla venezolano, pan canilla de venezuela, la canilla es un pan venezolano, panes venezolanos, pan blanco venezolano, canilla receta, canilla ingredientes, pan canilla receta, pan canilla venezolano receta, receta pan canilla, receta de pan canilla, receta de pan canilla, receta de pan canilla venezolano, ingredientes pan canilla, pan canilla ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, como hacer pan canilla, como hacer pan canilla venezolano, cuanto pesa un pan canilla, historia del pan canilla, origen del pan canilla, como hacer pan canilla venezolano en casa
 formula_name: "canilla"
+curso_relacionado: /cursos/pan-canilla/
 ---
 
 Esta es la receta del Pan Canilla Venezolano, es un pan típico venezolano y es nuestro pan comercial por excelencia. Es el acompañante de muchas comidas y el que pellizcamos antes de llegar a casa, en general lo consumimos recién hecho y tibio.
@@ -177,18 +178,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 - Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
 - Apaga el horno.
 
-------
-
-{% assign curso_canillas = site.cursos | where: "permalink", "/cursos/pan-canilla/" | first %}
-
-{% if curso_canillas %}
-
-## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
-
-Profundiza la preparación del Pan Canilla, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Taller de Pan Canilla ]({{ curso_canillas.url | relative_url }})**
-{% endif %}
-
----
+{% include curso-relacionado.md %}
 
 ### Referencias y enlaces del Pan Canilla
 
