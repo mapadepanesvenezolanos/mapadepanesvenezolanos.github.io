@@ -9,6 +9,8 @@ keywords: cachito, cachitos, cachito venezuela, cachito venezolano, cachitos pan
 featured_image: '/images/panes/cachito/cachito_02.jpg'
 formula_name: "cachitos"
 second_formula_name: "cachitosrelleno"
+curso_relacionado: /cursos/cachitos-minilunch/
+
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS del Cachito
@@ -190,18 +192,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 - Coloca un barniz de mantequilla clarificada para un brillo espectacular. 
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia!
 
-------
-
-{% assign curso_cachitos = site.cursos | where: "permalink", "/cursos/cachitos-minilunch/" | first %}
-
-{% if curso_cachitos %}
-
-## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
-
-Profundiza la preparación de Cachitos, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Taller de Cachitos y Mini Lunch ]({{ curso_cachitos.url | relative_url }})**
-{% endif %}
-
----
+{% include curso-relacionado.md %}
 
 ### Referencias y enlaces
 
