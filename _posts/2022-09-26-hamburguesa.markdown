@@ -8,6 +8,7 @@ categories: pan salado enriquecido capital
 keywords: pan de hamburguesa venezolano, historia del pan de hamburguesa, pan de hamburguesa brioche, pan de hamburguesa historia, pan de batata para hamburguesa, pan de hamburguesa, hamburguesa venezolano, panes de hamburguesa, origen del pan de hamburguesa, hamburguesa venezolana, pan de batata para hamburguesas, hamburguesas venezolanos, pan de hamburguesa chino
 featured_image: '/images/panes/hamburguesa/hamburguesa_02.jpg'
 formula_name: "hamburguesa"
+curso_relacionado: /cursos/perros-hamburguesas/
 ---
 
 Nuestra versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. 
@@ -148,18 +149,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
-------
-
-{% assign curso_hamburguesas = site.cursos | where: "permalink", "/cursos/perros-hamburguesas/" | first %}
-
-{% if curso_hamburguesas %}
-
-## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
-
-Profundiza la preparación de los Panes de empaque, especialmente el Pan de Hamburguesas, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Taller de Panes de empaque ]({{ curso_hamburguesas.url | relative_url }})**
-{% endif %}
-
----
+{% include curso-relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -173,7 +163,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2025/12/16)__ 
+__Versión 3.3 (2025/12/16)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
