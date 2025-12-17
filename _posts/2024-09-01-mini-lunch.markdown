@@ -142,8 +142,18 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 - Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
 
-
 ------
+
+{% assign curso_minilunch = site.cursos | where: "permalink", "/cursos/cachitos-minilunch/" | first %}
+
+{% if curso_minilunch %}
+
+## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
+
+Profundiza la preparación de Mini Lunch, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Taller de Cachitos y Mini Lunch ]({{ curso_minilunch.url | relative_url }})**
+{% endif %}
+
+---
 
 ### Referencias y enlaces
 
@@ -157,7 +167,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1 (2025/09/20)__
+__Versión 2.2 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

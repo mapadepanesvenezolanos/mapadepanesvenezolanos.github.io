@@ -149,6 +149,17 @@ Un perro caliente venezolano lleva de todo un poco, sin embargo no todas las per
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) a doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
+------
+
+{% assign curso_perros = site.cursos | where: "permalink", "/cursos/perros-hamburguesas/" | first %}
+
+{% if curso_perros %}
+
+## Si este paso a paso te dejó con ganas de más, el curso es el siguiente paso.
+
+Profundiza la preparación de los Panes de empaque, especialmente el de perros calientes, entiende cada etapa y trabaja la masa con mayor criterio adquiriendo nuestro **[Taller de Panes de empaque ]({{ curso_perros.url | relative_url }})**
+{% endif %}
+
 ---
 
 ### Referencias y enlaces
@@ -163,7 +174,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.5 (2025/09/20)__
+__Versión 2.6 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

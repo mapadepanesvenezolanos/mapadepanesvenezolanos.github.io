@@ -11,7 +11,7 @@ tags:
   - tradicional
 ---
 
-# Taller de pan canilla
+# Taller de Pan canilla
 
 *El pan más popular en Venezuela.*
 
