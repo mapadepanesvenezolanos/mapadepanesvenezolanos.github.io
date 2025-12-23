@@ -81,9 +81,9 @@ color_settings:
   text_dark_color: '#2A2F36'
   text_medium_color: '#6C7A89'
   text_light_color: '#ABB7B7'
-  accent_color: '#660000' #4ecdc4 verde agua
+  accent_color: '#660000' 
   border_color: '#dddddd'
-  overlay_background_color: '#660000' #4ecdc4 verde agua
+  overlay_background_color: '#660000' 
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
