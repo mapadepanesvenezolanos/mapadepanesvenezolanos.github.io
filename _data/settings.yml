@@ -83,7 +83,7 @@ color_settings:
   text_light_color: '#ABB7B7'
   accent_color: '#660000' #4ecdc4 verde agua
   border_color: '#dddddd'
-  overlay_background_color: '#4ecdc4'
+  overlay_background_color: '#660000' #4ecdc4 verde agua
   overlay_text_color: '#ffffff'
   overlay_accent_color: '#2A2F36'
   error_color: '#D64541'
