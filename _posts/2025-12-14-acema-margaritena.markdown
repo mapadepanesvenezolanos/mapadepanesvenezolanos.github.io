@@ -113,7 +113,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 ### División y preformado
 
-- Saca el envase de la nevera.
+- Lleva la masa a la mesa de trabajo.
 - Divide la masa en porciones iguales de sesenta (60) gramos.
 - Bolea cada porción utilizando la palma de una de tus manos
 - Déjalas reposar por diez (10) minutos.
@@ -165,7 +165,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (2025/12/12)__
+__Versión 1.3 (2026/01/12)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

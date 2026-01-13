@@ -140,8 +140,8 @@ No tenemos registro de panes.
 
 ## Nueva Esparta
 
-- [Pan de Leche Asuntino](/comunidad/lamamideamy/#asuntino)
-- [Acemas margariteñas](/comunidad/lamamideamy/#acema)
+- [Pan de Leche Asuntino](/panes-venezolanos/pan-leche-asuntino/)
+- [Acemas margariteñas](/panes-venezolanos/acema-margaritena/)
 - [Bombón Margariteño](/comunidad/lamamideamy/#bombon)
 - [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca), [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca)
 - Pan aliñado
@@ -238,7 +238,7 @@ No tenemos registro de panes.
 
 ## Otros panes
 
-- Pan integral
+- [Pan integral] (/panes-venezolanos/pan-de-afrecho/)
 - [Pan de Sandwich / Molde](/panes-venezolanos/pan-de-sandwich/)
 - [Pan de Perro Caliente](/panes-venezolanos/pan-de-perro-caliente/)
 - [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/), [de Papa](/panes-venezolanos/pan-de-papa/), [Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/), [Mini Pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
