@@ -67,7 +67,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Almibar: Relación entre la masa y el relleno: 5.2%
+### Almíbar: Relación entre la masa y el relleno: 5.2%
 
 | Ingrediente                    | Fórmula     | Peso    |
 |:-------------------------------|:-----------:|--------:|
@@ -115,13 +115,13 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 - Lleva la masa a la mesa de trabajo.
 - Divide la masa en porciones iguales de sesenta (60) gramos.
-- Bolea cada porción utilizando la palma de una de tus manos
+- Formar una bolita con cada porción utilizando la palma de una de tus manos
 - Déjalas reposar por diez (10) minutos.
 
 ### Formado
 
-- Bolea de nuevo cada porción, hasta alcanzar una superficie uniforme.
-- En una bandeja previamente engrasada o cubierta con un silpat, coloca tus pastones separados de unos cinco (5) centimetros de cada lado.
+- Bolear de nuevo cada porción, hasta alcanzar una superficie uniforme.
+-  En una bandeja de metal previamente cubierta con papel de hornear, a lo largo de la bandeja coloca tus bolitas separadas haciendo cinco (5) filas de cuatro (4) bolitas cada una.
 
 ### Fermentación final (maduración)
 
@@ -136,10 +136,10 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 - Saca tus Acemas Margariteñas del horno.
 - Apaga el horno.
 
-### Barnices, coberturas y cortes
+### Barnices y coberturas
 
-- Para preparar el Almibar, mezcla en una olla de cocina el azúcarcon el agua y deja hervir hasta formar un almibar espeso. 
-- Cubre la superficie de tus Acemas Margariteñas con una capa fina del Almibar, utilizando una brocha de cocina.
+- Para preparar el Almíbar, mezcla en una olla de cocina el azúcarcon el agua y deja hervir hasta formar un almibar espeso. 
+- Cubre la superficie de tus Acemas Margariteñas con una capa fina del Almíbar, utilizando una brocha de cocina.
 
 ### Enfriamiento
 
@@ -149,8 +149,8 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 ### Consumo del pan
 
-- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
-- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica hasta máximo tres (3) días y luego las metes en el refirgerador.
+- Al día siguiente antes de consumir tu pan, lleva la acema margariteña que deseas comerte al horno microondas por diez (10) segundos para que recupere su suavidad inicial. 
+- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica hasta máximo tres (3) días y luego las metes en el refrigerador.
 - Para congelar, mete en bolsita ziplock. Si las congelaste, entre ocho (8) y doce (12) horas antes de consumirlas pásalas al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ------
@@ -165,7 +165,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.3 (2026/01/12)__
+__Versión 1.4 (2026/01/17)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
