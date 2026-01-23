@@ -109,55 +109,54 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 - Forma una bola y colócala en un envase tapado con plástico.
 - Deja reposar en mesa durante veinte (20) minutos a temperatura ambiente entre 24ºC/75ºF y 27ºC/80ºF.
-- Luego, lleva tu envase a la nevera a 4ºC durante tres (3) y doce (12) horas.
+- Luego, lleva tu envase a la nevera a 4ºC durante seis (6) y doce (12) horas.
 
 ### División y preformado
 
-- Lleva la masa a la mesa de trabajo.
+- Saca el envase de la nevera.
 - Divide la masa en porciones iguales de sesenta (60) gramos.
-- Formar una bolita con cada porción utilizando la palma de una de tus manos
+- Bolea cada porción utilizando la palma de una de tus manos
 - Déjalas reposar por diez (10) minutos.
 
 ### Formado
 
-- Bolear de nuevo cada porción, hasta alcanzar una superficie uniforme.
--  En una bandeja de metal previamente cubierta con papel de hornear, a lo largo de la bandeja coloca tus bolitas separadas haciendo cinco (5) filas de cuatro (4) bolitas cada una.
+- Bolea de nuevo cada porción, hasta alcanzar una superficie uniforme.
+- En una bandeja previamente engrasada o cubierta con un silpat, coloca tus pastones separados de unos cinco (5) centimetros de cada lado.
 
 ### Fermentación final (maduración)
 
-- Deja reposar tus Acemas Margariteñas durante aproximadamente tres (3) horas, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar tus Acemas Margariteñas durante aproximadamente tres (3)horas, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Horneado
 - Enciende el horno media (30) minutos antes de hornear a una temperatura de 170ºC/335ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
 - Pasados diez (10) minutos, verifica el horno asegurándote que tus Acemas Margariteñas se horneen de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Alcanzados los veinte (20) minutos, verifica el dorado de tus acemas y si aún no están doraditas en la superficie, deja hornear cinco (5) minutos más.
-- Saca tus Acemas Margariteñas del horno.
+- Alcanzados los veinte (20) minutos, saca tus Acemas Margariteñas del horno.
 - Apaga el horno.
 
-### Barnices y coberturas
+### Barnices, coberturas y cortes
 
-- Para preparar el Almíbar, mezcla en una olla de cocina el azúcarcon el agua y deja hervir hasta formar un almibar espeso. 
-- Cubre la superficie de tus Acemas Margariteñas con una capa fina del Almíbar, utilizando una brocha de cocina.
+- Para preparar el Almibar, en una olla de cocina, mezcla el azúcar con el agua y deja hervir hasta formar un almibar espeso. 
+- Utilizando una brocha de cocina, cubre la superficie de tus Acemas Margariteñas con una capa fina del Almibar.
 
 ### Enfriamiento
 
-- Al sacar tus Acemas Margariteñas del horno, pásalas a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríen y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
+- Al sacar tus Acemas Margariteñas del horno, pásalas a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi estan listas. 
 - Disfruta tus Acemas Margariteñas!!!
 
 ### Consumo del pan
 
-- Al día siguiente antes de consumir tu pan, lleva la acema margariteña que deseas comerte al horno microondas por diez (10) segundos para que recupere su suavidad inicial. 
-- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica hasta máximo tres (3) días y luego las metes en el refrigerador.
-- Para congelar, mete en bolsita ziplock. Si las congelaste, entre ocho (8) y doce (12) horas antes de consumirlas pásalas al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+- Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/350ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
+- Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
+- Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ------
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero.¡Muchas gracias!
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero, la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao]{:target="blank"} y Erika Soto [@oreganobaguette]{:target="blank"}. ¡Muchas gracias!
  
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -165,7 +164,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.4 (2026/01/17)__
+__Versión 1.0 (2026/01/23)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
