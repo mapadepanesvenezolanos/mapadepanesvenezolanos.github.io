@@ -7,7 +7,7 @@ published: true
 permalink: /panes-venezolanos/bombon-margariteno/
 categories: pan enriquecido nueva_esparta
 keywords: bombón margariteño, el bombón margariteño, bombón margariteño venezolano, bombón margariteño venezuela, receta de bombón margariteño, receta bombón margariteño, bombón margariteño receta, receta de bombón margariteño venezolano,  como hacer acemas margariteñas venezolanas, bombón margariteño, bombón margariteño venezolano, bombón margariteño, bombón margariteño dulce venezolano, receta bombón margariteño venezolano, panes venezolanos, pan dulce venezolano, bombón margariteño receta, ingredientes del bombón margariteño, ingredientes para el bombón margariteño, bombón margariteño  ingredientes, bombón margariteño dulce venezolano receta, bombón margariteño ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del bombón margariteño, bombón margariteño historia, bombón margariteño  origen, origen del bombón margariteño , bombón margariteño casero, receta bombón margariteño dulce, recetas de bombón margariteño, recetas de pan margariteño, como hacer bombón margariteño, cómo hacer pan, bombón margariteño venezolano, bombón margariteño, como se hace la bombón margariteño, como preparar bombón margariteño, cómo preparar bombón margariteño, bombón margariteño panadería, bombón margariteño, receta panes de la isla de margarita, como hacer pan venezolano en casa, bombón margariteño, como hacer panes venezolanos en la diaspora
-featured_image: '/images/panes/bombon-maragariteno/bombon_margariteno_01.jpg'
+featured_image: '/images/panes/bombon-margariteno/bombon_margariteno_01.jpg'
 formula_name: "bombonmargariteno"
 ---
 
