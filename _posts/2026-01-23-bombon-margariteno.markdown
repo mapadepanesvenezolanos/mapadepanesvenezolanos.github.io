@@ -2,8 +2,8 @@
 title: "Bombón Margariteño"
 subtitle: "La dulzura insular en su máxima expresión."
 description: "Nacido entre brisas salinas y memorias de hogar, el Bombón Margariteño es una joya dulce de la tradición insular venezolana. Suave, delicado y profundamente reconfortante, este pan envuelve en cada bocado el calor de las cocinas de antaño, donde el tiempo se medía en aromas y las recetas se transmitían de mano en mano, como un tesoro."
-date: 2026-01-23 00:00:00 -0400
-published: false
+date: 2026-01-26 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/bombon-margariteno/
 categories: pan enriquecido nueva_esparta
 keywords: bombón margariteño, el bombón margariteño, bombón margariteño venezolano, bombón margariteño venezuela, receta de bombón margariteño, receta bombón margariteño, bombón margariteño receta, receta de bombón margariteño venezolano,  como hacer acemas margariteñas venezolanas, bombón margariteño, bombón margariteño venezolano, bombón margariteño, bombón margariteño dulce venezolano, receta bombón margariteño venezolano, panes venezolanos, pan dulce venezolano, bombón margariteño receta, ingredientes del bombón margariteño, ingredientes para el bombón margariteño, bombón margariteño  ingredientes, bombón margariteño dulce venezolano receta, bombón margariteño ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del bombón margariteño, bombón margariteño historia, bombón margariteño  origen, origen del bombón margariteño , bombón margariteño casero, receta bombón margariteño dulce, recetas de bombón margariteño, recetas de pan margariteño, como hacer bombón margariteño, cómo hacer pan, bombón margariteño venezolano, bombón margariteño, como se hace la bombón margariteño, como preparar bombón margariteño, cómo preparar bombón margariteño, bombón margariteño panadería, bombón margariteño, receta panes de la isla de margarita, como hacer pan venezolano en casa, bombón margariteño, como hacer panes venezolanos en la diaspora
@@ -47,7 +47,7 @@ Hoy, aunque su corazón sigue latiendo en Nueva Esparta, el Bombón Margariteño
 
 ## Masa leudada con levadura instantánea
 
-* 20 Bombones de 60g cada uno, para una masa total de 1200g.
+* 16 Bombones de 75g cada uno, para una masa total de 1200g.
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 51.5% de hidratación (Media hidratación).
 
@@ -118,14 +118,14 @@ Hoy, aunque su corazón sigue latiendo en Nueva Esparta, el Bombón Margariteño
 ### División 
 
 - Lleva la masa a la mesa de trabajo.
-- Con ayuda de un rodillo de cocina, extiende la masa formando un cudrado de unos sesenta (60) cm por lado.
+- Con ayuda de un rodillo de cocina, extiende la masa formando un rectángulo de sesenta (60) cm de largo por cuarenta (40) cm de ancho.
 - Enrolla flojamente la masa a lo largo, pellizcando al final las orillas para sellar.
 - Empareja los bordes del rollo con las manos.
-- Con ayuda de un cuchillo afilado, divide el rollo en veinte (20) porciones iguales de tres (3) cm cada una.
+- Con ayuda de un cuchillo afilado, divide el rollo en dieciseis (16) porciones iguales de tres (3) cm cada una.
 
 ### Formado y decorado
 
--  En una bandeja de metal previamente cubierta con papel de hornear, coloca tus rollos formando cinco (5) hileras a los largo y cuatro (4) hileras a lo largo.
+-  En una bandeja de metal previamente cubierta con papel de hornear, coloca tus rollos formando cuatro (4) hileras a lo largo y cuatro (4) hileras a lo ancho.
 - Con ayuda de una brocha de cocina, pinta con un huevo ligeramente batido cada rollo.
 
 ### Fermentación final (maduración)
@@ -170,7 +170,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/01/23)__
+__Versión 1.0 (2026/01/26)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
