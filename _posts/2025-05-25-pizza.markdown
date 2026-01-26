@@ -57,12 +57,12 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **180%**   |  **680g** |
 
-### Calculadora para preparar Pizza  
+### Calculadora para preparar Pizza
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar Pizza  
+## Paso a paso para preparar Pizza
 
 <div id="preparacion"></div>
 
@@ -84,12 +84,12 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 - Con las dos manos humedas realiza la prueba de la membrana de gluten.
 - Coloca la masa en la mesa de trabajo previamente enharinada.
 
-### División 
+### División
 
 - Divide la masa en dos porciones de igual peso.
 - Cada bola la colocamos en un recipiente con una capa fina de aceite de oliva.
 
-### Fermentación inicial 
+### Fermentación inicial
 
 - Tapamos ambos envases y dejamos reposar sesenta (60) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
