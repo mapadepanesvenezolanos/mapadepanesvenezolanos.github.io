@@ -142,7 +142,7 @@ No tenemos registro de panes.
 
 - [Pan de Leche Asuntino](/panes-venezolanos/pan-leche-asuntino/)
 - [Acemas margariteñas](/panes-venezolanos/acema-margaritena/)
-- [Bombón Margariteño](/comunidad/lamamideamy/#bombon)
+- [Bombón Margariteño](/panes-venezolanos/bombon-margariteno/)
 - [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca), [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca)
 - Pan aliñado
 - Rosquitas
