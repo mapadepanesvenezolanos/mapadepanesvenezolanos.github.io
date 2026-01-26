@@ -7,7 +7,7 @@ published: true
 permalink: /panes-venezolanos/quesadilla-llanera/
 categories: pan dulce enriquecido los_llanos
 keywords: quesadilla, quesasilla llanera, quesadilla de corozopando
-featured_image: '/images/panes/quesadilla-llanera/quesadilla-llanera-1.jpg'
+featured_image: '/images/panes/quesadilla-llanera/quesadilla-llanera_02.jpg'
 formula_name: "quesadillallanera"
 second_formula_name: "quesadillarellenollanera"
 ---
@@ -173,7 +173,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0__
+__Versión 1.1 (2025/09/20)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

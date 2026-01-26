@@ -7,9 +7,10 @@ published: true
 permalink: /panes-venezolanos/mini-lunch/
 categories: pan semidulce enriquecido relleno
 keywords: mini lunch, mini lunch venezolano, venezuela mini lunch
-featured_image: '/images/panes/mini-lunch/mini-lunch.jpg'
+featured_image: '/images/panes/mini-lunch/mini-lunch_02.jpg'
 formula_name: "minilunch"
 second_formula_name: "minilunchrelleno"
+curso_relacionado: /cursos/cachitos-minilunch/
 ---
 
 El Mini Lunch es un Pan relleno con jamón y queso amarillo de masa suave semi dulce. Se suele conseguir en las panaderías como alternativa al Cachito para el desayuno.
@@ -142,8 +143,7 @@ Debemos recordar que muchas preparaciones de nuestra panadería venezolana surge
 
 - Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
 
-
-------
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -157,7 +157,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1__ (13/02/2025)
+__Versión 2.4 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

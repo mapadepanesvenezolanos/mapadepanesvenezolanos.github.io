@@ -3,16 +3,17 @@ title: 'Mi viaje en la panadería'
 subtitle: 'De la formación a distancia a Panes Venezolanos'
 date: 2025-03-26 00:00:00
 description: En este artículo, Jesús Méndez nos describe los detalles de su recorrido en la Panadería desde su formación académica y los origenes de Panes Venezolanos.
-permalink: /blog/articulos/jesus
+permalink: /blog/articulos/viaje-jesus-panaderia
 published: true
-featured_image: '/images/blog/articulos/jesus/prefermento-jm.jpg'
+featured_image: '/images/blog/articulos/viaje-jesus-panaderia/prefermento-jm.jpg'
+
 ---
 
 Nunca imaginé que mi camino en la panadería comenzaría a distancia y durante una pandemia como la que inicio en el año 2020. Aprender un oficio tan artesanal sin estar físicamente en un obrador parecía un reto enorme, pero con dedicación, práctica y mucha pasión, logré convertirme en panadero profesional. Este aprendizaje fue el primer paso en una travesía que, junto con mi partner [Alexander A Ramírez M.](https://instagram.com/hazpanencasa){:target="blank"}, nos llevaría a crear [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 
 ### Aprender panadería a distancia: Un desafío y una transformación
 
-Ser panadero implica más que solo mezclar ingredientes y seguir recetas. Es comprender las texturas, la fermentación, el comportamiento de la masa y cómo influye cada pequeño detalle en el resultado final. La formación a distancia, vía Whatsapp y los recursos visuales que me ofrecieron mis profesores y colegas del [Grupo Académico Panadero y Pastelero de Venezuela (GAPP)](https://www.gappvzla.dsinternacional.com/){:target="blank"} exigió disciplina y un enfoque autodidacta. Gracias a los talentosos profesores de esta instutición, a su pasión y experiencia, pude adquirir conocimientos sólidos, desarrollar mi técnica y profundizar en la esencia de la panadería artesanal venezolana.
+Ser panadero implica más que solo mezclar ingredientes y seguir recetas. Es comprender las texturas, la fermentación, el comportamiento de la masa y cómo influye cada pequeño detalle en el resultado final. La formación a distancia, vía Whatsapp y los recursos visuales que me ofrecieron mis profesores y colegas del [Grupo Académico Panadero y Pastelero de Venezuela (GAPP)](https://www.gappvzla.dsinternacional.com/){:target="blank"} exigió disciplina y un enfoque autodidacta. Gracias a los talentosos profesores de este instituto, a su pasión y experiencia, pude adquirir conocimientos sólidos, desarrollar mi técnica y profundizar en la esencia de la panadería artesanal venezolana.
 
 Ese aprendizaje no solo me brindó herramientas prácticas, sino también una visión clara de la importancia de preservar y compartir nuestro patrimonio panadero. Aprender desde lejos me demostró que la pasión y el compromiso pueden superar cualquier barrera, y fue este convencimiento el que plantó la semilla de [Panes Venezolanos](https://www.instagram.com/panesve/){:target="blank"}.
 

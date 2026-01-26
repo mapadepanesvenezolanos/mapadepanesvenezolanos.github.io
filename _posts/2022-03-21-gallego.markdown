@@ -6,7 +6,7 @@ date:   2022-03-20 18:00:39 -0400
 permalink: /panes-venezolanos/pan-gallego/
 categories: pan rustico capital
 keywords: gallego, pan gallego, pan gallego venezolano, panes venezolanos, pan gallego venezolano receta, pan gallego venezolano ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos
-featured_image: '/images/panes/gallego/gallego_4.jpeg'
+featured_image: '/images/panes/gallego/gallego_02.jpg'
 formula_name: "gallego"
 ---
 
@@ -152,7 +152,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 5.1__ 
+__Versión 5.2 (2025/09/20)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

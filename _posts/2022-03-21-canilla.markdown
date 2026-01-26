@@ -5,9 +5,10 @@ description: "Receta del Pan Canilla Venezolano. El pan canilla es el pan más p
 date:   2022-03-21 18:00:39 -0400
 permalink: /panes-venezolanos/pan-canilla/
 categories: pan semirustico capital
-featured_image: /images/panes/canilla/canilla_11.jpg
+featured_image: /images/panes/canilla/canilla_02.jpg
 keywords: canilla, canilla pan, canillas, panes canillas, canillas pan, pan canillas, canilla venezuela, pan canilla venezuela, pan canilla en venezuela, canillas venezolanas, pan de canilla, pan canilla, pan canilla venezolano, pan canilla de venezuela, la canilla es un pan venezolano, panes venezolanos, pan blanco venezolano, canilla receta, canilla ingredientes, pan canilla receta, pan canilla venezolano receta, receta pan canilla, receta de pan canilla, receta de pan canilla, receta de pan canilla venezolano, ingredientes pan canilla, pan canilla ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, como hacer pan canilla, como hacer pan canilla venezolano, cuanto pesa un pan canilla, historia del pan canilla, origen del pan canilla, como hacer pan canilla venezolano en casa
 formula_name: "canilla"
+curso_relacionado: /cursos/pan-canilla/
 ---
 
 Esta es la receta del Pan Canilla Venezolano, es un pan típico venezolano y es nuestro pan comercial por excelencia. Es el acompañante de muchas comidas y el que pellizcamos antes de llegar a casa, en general lo consumimos recién hecho y tibio.
@@ -131,7 +132,7 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 
 <img class="post_image post_image_right" src="/images/panes/canilla/canilla_9.jpeg" alt="{{page.title}}">
 
-- Esta fórmula es para dos unidades, si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
+- Esta fórmula es para dos (2) unidades, si haces más, divide la masa en las porciones de acuerdo a la cantidad de masa preparada.
 
 ### Preformado 
 
@@ -177,9 +178,9 @@ Realmente la Canilla es una barra sobada de baja hidratación, es más parecido 
 - Saca la bandeja y pasa el Pan a una rejilla. Deje enfriar al menos una (1) hora.
 - Apaga el horno.
 
----
+{% include curso_relacionado.html %}
 
-### Referencias y enlaces del Pan Canill
+### Referencias y enlaces del Pan Canilla
 
 Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas de [Chef Laszlo Gyomrey]{:target="blank"}, el [Instituto Europeo del PAN]{:target="blank"}, el [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"}, [Panadero Artesanal]{:target="blank"}, [Plaza’s Escuela de Cocina]{:target="blank"}, [William Tse]{:target="blank"}, [@elgatogolosoblog]{:target="blank"}, [@consentidoenboca]{:target="blank"} y [@steconstance]{:target="blank"}.
 
@@ -191,7 +192,7 @@ Las pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dun
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.7__ 
+__Versión 2.0 (2025/12/16)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

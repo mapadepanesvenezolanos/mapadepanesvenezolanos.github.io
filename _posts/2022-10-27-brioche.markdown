@@ -2,11 +2,11 @@
 title: "Pan de hamburguesa con masa Brioche"
 subtitle: "El aperitivo de lujo de tus comidas."
 description: "La masa Brioche es una masa enriquecida, de miga esponjada, sabor delicioso que la utilizas para realizar diversos panes de diario así como festivos."
-date: 2022-09-27 10:55:00 -0400
+date: 2022-10-27 10:55:00 -0400
 permalink: /panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/
 categories: pan semi salado enriquecido capital
 keywords: pan de hamburguesa brioche
-featured_image: '/images/panes/hamburguesa/hamburguesa_1.jpeg'
+featured_image: '/images/panes/brioche/brioche_02.jpg'
 formula_name: "brioche"
 ---
 
@@ -157,7 +157,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__ 
+__Versión 3.2 (2025/09/20)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

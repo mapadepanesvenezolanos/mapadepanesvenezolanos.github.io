@@ -6,9 +6,10 @@ date: 2023-12-24 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-jamon/
 categories: pan salado enriquecido capital
 keywords: pan de jamon, historia del pan de jamon, origen del pan de jamon, pan de jamon venezuela, pan de jamon con levadura instantanea, pan de jamon venezolano origen, pan de jamon miro popic, ingrediente del pan de jamon, caracteristicas del pan de jamon, ingredientes para masa de pan de jamon, venezolano pan de jamon, receta de pan de jamon con levadura instantanea, pan de jamon receta, receta de pan de jamon, pan de jamon venezolano, masa para pan de jamon, receta pan de jamon, que es el pan de jamon, como hacer pan de jamon, el pan de jamon, pan con jamon, masa de pan de jamon, pan de jamon ingredientes, cuanto pesa un pan de jamon, pan de jamon origen, roll de pan de jamon, como saber si el pan de jamon esta listo, ingredientes pan de jamon, panes de jamon, ingredientes del pan de jamon, rollo de pan de jamon
-featured_image: '/images/panes/jamon/jamon_02.jpeg'
+featured_image: '/images/panes/jamon/jamon_02.jpg'
 formula_name: "jamon"
 second_formula_name: "jamonrellenos"
+curso_relacionado: /cursos/pan-de-jamon/
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS del Pan de Jamón
@@ -51,18 +52,18 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 ### Ingredientes para preparar el Pan de Jamón
 
-| Ingrediente                                   |    Fórmula    |      Peso |
-|:----------------------------------------------|:-------------:|----------:|
-| Harina panadera                               |      100%     |      298g |
-| Agua                                          |      45%      |      134g |
-| Levadura instantánea                          |      1%       |        3g |
-| Sal                                           |      2%       |        6g |
-| Huevos ligeramente batidos                    |      15%      |       45g |
-| Mantequilla sin sal o Aceite de canola/maíz   |      10%      |       30g |
-| Azúcar                                        |      10%      |       30g |
-| Leche en polvo                                |      5%       |       15g |
-| ----------------------------------------------|---------------|-----------|
-| **Total**                                     |   **188%**    | **560g**  |
+| Ingrediente                                           |    Fórmula    |      Peso |
+|:------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                       |      100%     |      298g |
+| Agua                                                  |      45%      |      134g |
+| Levadura instantánea                                  |      1%       |        3g |
+| Sal                                                   |      2%       |        6g |
+| Huevos ligeramente batidos                            |      15%      |       45g |
+| Grasa (Mantequilla sin sal)                           |      10%      |       30g |
+| Azúcar                                                |      10%      |       30g |
+| Leche en polvo                                        |      5%       |       15g |
+| ------------------------------------------------------|---------------|-----------|
+| **Total**                                             |   **188%**    | **560g**  |
 
 ### Calculadora para preparar el Pan de Jamón
 
@@ -103,7 +104,8 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 - En un primer envase, mezcla la harina con la levadura seca instantánea y la leche en polvo.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
-- Crea un volcán con la boca ancha con los ingredientes secos y vierte los líquidos y la mantequilla pomada en el centro del volcán y la sal en el borde.
+- Crea un volcán con la boca ancha con los ingredientes secos.
+- Vierte los ingredintes líquidos, la grasa (mantequilla pomada) en el centro del volcán y la sal en el borde.
 - Mezcla hasta obtener una masa homogénea y déjala reposar tapada en un recipiente por diez (10) minutos.
 
 <div id="sobado"></div>
@@ -154,7 +156,7 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 - Coloca un barniz de mantequilla clarificada luego de sacar el pan del horno para lograr mayor suavidad, brillo y sabor. Deja enfriar una rejilla para degustar por treinta (30) minutos.
 
-------
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -166,7 +168,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.3__
+__Versión 2.1 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

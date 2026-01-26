@@ -6,8 +6,10 @@ date: 2022-09-28 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-perro-caliente/
 categories: pan salado enriquecido capital
 keywords: pan de perro caliente, pan de perro, pan de perro venezolano, receta pan de perro caliente, pan de perro caliente venezolano, receta de pan de perro caliente, pan para perros receta, como hacer, pan de perro caliente, pan perro caliente, pan para perro caliente, pan de perros calientes, pan perro, panes de perros calientes, como hacer pan para perros calientes, pan de perro receta, pan en forma de perro, perro caliente venezolano, pan de perros, pan para perros calientes, pan para perros, como hacer pan de perro, pan con forma de perro, panes de perro caliente, perro venezolano, pan para perro, panes de perro, como hacer pan de perros calientes, panes para perros calientes, perro caliente venezolana, perro pan, pan con perro caliente, perro de pan, perros calientes venezolanos, perro caliente, perros venezolanos, pan forma de perro
-featured_image: '/images/panes/perro/perro_alba.jpeg'
+featured_image: '/images/panes/perro/perro-caliente_02.jpg'
 formula_name: "perros"
+curso_relacionado: /cursos/perros-hamburguesas/
+
 ---
 
 Esta es la receta del Pan de Perro Caliente Venezolano.
@@ -149,7 +151,7 @@ Un perro caliente venezolano lleva de todo un poco, sin embargo no todas las per
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) a doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
----
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -163,7 +165,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.4__
+__Versión 2.7 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

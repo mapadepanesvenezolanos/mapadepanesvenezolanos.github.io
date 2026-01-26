@@ -5,6 +5,7 @@ description: Esta es nuestra lista de Panes Venezolanos.
 permalink: /blog/lista-de-panes-venezolanos/
 published: true
 featured_image: '/images/blog/listado.jpg'
+keywords: panes venezolanos, tipos de pan venezolano, lista de panes de Venezuela, traditional Venezuelan breads, Venezuelan bread list, recetas de pan venezolano, Venezuelan bakery, panadería venezolana, mejores panes venezolanos, Venezuelan sweet breads, Venezuelan savory breads, cómo hacer panes venezolanos, Venezuelan bread culture, Venezuelan bread recipes, pan típico venezolano, authentic Venezuelan bread, Venezuelan breads guide, Venezuelan diaspora food, traditional breads from Venezuela, Venezuelan homemade bread, historia de panes venezolanos
 ---
 
 Según la bibliografía que hemos consultado hasta el momento, te presentamos nuestra lista de Panes Venezolanos agrupados por estado. 
@@ -100,7 +101,7 @@ No tenemos registro de panes.
 - Pan dulce de Aguada Grande
 - Pan de azahar
 - Pan semi dulce larense
-- Pan de leche
+- [Pan de leche](/panes-venezolanos/pan-de-leche/)
 - Pan de nuez
 
 ## Mérida
@@ -111,7 +112,7 @@ No tenemos registro de panes.
 - [Pan de avena](/panes-venezolanos/pan-de-avena/)
 - [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- Pan con guayaba
+- [Pan de guayaba](/panes-venezolanos/pan-guayaba/)
 - [Pan de queso](/panes-venezolanos/pan-de-queso/)
 - Pan con chicharrones
 - Acema
@@ -119,14 +120,14 @@ No tenemos registro de panes.
 - Acema de chicharrón
 - Acema integral
 - Mojicón
-- Piñita
+- [Piñita](/panes-venezolanos/pan-pinita/)
 - Bizcochuelo
 - Almojábana
 - Mantecada
 - Bizcochos dulces y salados
 - Rosquitas
 - Rosquetas
-- Catalina / Paledonia / Cuca
+- [Catalina / Paledonia / Cuca](/panes-venezolanos/catalina/)
 
 ## Miranda
 
@@ -139,8 +140,8 @@ No tenemos registro de panes.
 
 ## Nueva Esparta
 
-- [Pan de Leche Asuntino](/comunidad/lamamideamy/#asuntino)
-- [Acemas margariteñas](/comunidad/lamamideamy/#acema)
+- [Pan de Leche Asuntino](/panes-venezolanos/pan-leche-asuntino/)
+- [Acemas margariteñas](/panes-venezolanos/acema-margaritena/)
 - [Bombón Margariteño](/comunidad/lamamideamy/#bombon)
 - [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca), [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca)
 - Pan aliñado
@@ -176,8 +177,8 @@ No tenemos registro de panes.
 - Pan integral o negro
 - Pan de mantequilla
 - [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- Pan de arequipe
-- Pan de arequipe y Coco
+- [Pan de dulce de leche](/panes-venezolanos/pan-dulce-leche/)
+- Pan de dulce de leche y Coco
 - Pan de agua
 - Pan del Peregrino
 - Bizcocho
@@ -188,7 +189,7 @@ No tenemos registro de panes.
 - Acema de chicharrón
 - Acema de bocadillo / conserva de guayaba
 - Sema
-- [Quesadilla](/panes-venezolanos/quesadilla-andina/)
+- [Quesadilla andina](/panes-venezolanos/quesadilla-andina/)
 - Quesadillita
 - Almidoncito
 - Mantecada
@@ -204,7 +205,7 @@ No tenemos registro de panes.
 - Regañona
 - Cesta
 - Suspiro
-- Catalinas
+- [Catalinas](/panes-venezolanos/catalina/)
 - Besito de coco
 
 ## Trujillo
@@ -232,12 +233,12 @@ No tenemos registro de panes.
 - Galletas de huevo 
 - Galletas de maíz tostado
 - Mandocas
-- Catalina / Paledonia
+- [Catalina / Paledonia](/panes-venezolanos/catalina/)
 - Rollo maracucho
 
 ## Otros panes
 
-- Pan integral
+- [Pan integral] (/panes-venezolanos/pan-de-afrecho/)
 - [Pan de Sandwich / Molde](/panes-venezolanos/pan-de-sandwich/)
 - [Pan de Perro Caliente](/panes-venezolanos/pan-de-perro-caliente/)
 - [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/), [de Papa](/panes-venezolanos/pan-de-papa/), [Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/), [Mini Pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)

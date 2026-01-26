@@ -6,9 +6,11 @@ date:   2022-05-12 14:28:00 -0400
 permalink: /panes-venezolanos/cachito/
 categories: cachito capital
 keywords: cachito, cachitos, cachito venezuela, cachito venezolano, cachitos pan, como hacer cachitos venezolanos, masa para cachitos, que es un cachito venezolano, pan cachitos, panes cachitos, masa para cachitos venezolanos, masa de cachitos, masa de cachito, el cachito, para un cachito, receta de cachito, ingredientes cachito, relleno cachito, relleno para cachitos, cachito ingredientes, cachito de pan, historia del cachito venezolano, que es un cachito, masa de cachitos venezolanos, cachito con malta, como hacer cachitos, cachitos pan dulce, receta de cachitos, cachitos venezuela, que es el cachito, pan cachito de mantequilla, cachito de jamón, cachitos de mantequilla, cachito pan venezolano, cachito en venezuela, pan cachito casero, cachitos venezolanos, cachito venezolanos, cachitos de panadería, cachitos de panaderia, pan de cachito venezolano
-featured_image: '/images/panes/cachito/cachito_4.jpeg'
+featured_image: '/images/panes/cachito/cachito_02.jpg'
 formula_name: "cachitos"
 second_formula_name: "cachitosrelleno"
+curso_relacionado: /cursos/cachitos-minilunch/
+
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS del Cachito
@@ -190,7 +192,7 @@ Por lo tanto, su origen no está totalmente comprobado.” [^1]
 - Coloca un barniz de mantequilla clarificada para un brillo espectacular. 
 - Deja reposar, por lo menos, veinte (20) minutos. ¡Mucha paciencia!
 
----
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -204,7 +206,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__
+__Versión 3.3 (2025/12/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

@@ -6,7 +6,7 @@ date:   2022-05-25 20:54:39 -0400
 permalink: /panes-venezolanos/pan-de-afrecho/
 categories: pan enriquecido andes
 keywords: pan de afrecho, pan con afrecho, recetas de pan con afrecho, pan de afrecho beneficios, pan integral con afrecho, pan fabricado con afrecho, afrecho mezclado con harina, como hacer pan de afrecho
-featured_image: '/images/panes/afrecho/afrecho_3.jpeg'
+featured_image: '/images/panes/afrecho/afrecho_01.jpeg'
 formula_name: "afrecho"
 second_formula_name: "afrechopiefrances"
 ---
@@ -252,7 +252,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.0__
+__Versión 2.2 (2025/10/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

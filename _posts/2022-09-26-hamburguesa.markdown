@@ -6,8 +6,9 @@ date: 2022-09-26 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-hamburguesa/
 categories: pan salado enriquecido capital
 keywords: pan de hamburguesa venezolano, historia del pan de hamburguesa, pan de hamburguesa brioche, pan de hamburguesa historia, pan de batata para hamburguesa, pan de hamburguesa, hamburguesa venezolano, panes de hamburguesa, origen del pan de hamburguesa, hamburguesa venezolana, pan de batata para hamburguesas, hamburguesas venezolanos, pan de hamburguesa chino
-featured_image: '/images/panes/hamburguesa/hamburguesa_3.jpeg'
+featured_image: '/images/panes/hamburguesa/hamburguesa_02.jpg'
 formula_name: "hamburguesa"
+curso_relacionado: /cursos/perros-hamburguesas/
 ---
 
 Nuestra versión de pan de hamburguesas, forma parte de las cuatro (4) variantes de panes de hamburguesa del mapa de panes venezolanos. 
@@ -148,7 +149,7 @@ Este es un Pan de Hamburguesa básico de miga cerrada y suave, de corteza unifor
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
 - Si los congelaste, entre ocho (8) y doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
----
+{% include curso_relacionado.html %}
 
 ### Referencias y enlaces
 
@@ -162,7 +163,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.0__ 
+__Versión 3.3 (2025/12/16)__ 
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

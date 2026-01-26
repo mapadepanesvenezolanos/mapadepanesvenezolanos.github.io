@@ -1,0 +1,34 @@
+{% if page.curso_relacionado %}
+  {% assign curso = site.cursos | where: "permalink", page.curso_relacionado | first %}
+
+  {% if curso %}
+  ---
+  <h3>Si este paso a paso te dejó con ganas de más, el Taller/Curso es el siguiente paso.</h3>
+  <ul>
+    <li>En el Taller/Curso afinamos detalles, aclaramos dudas y trabajamos el proceso completo con calma y criterio.</li>
+  </ul>
+
+  <a href="{{ curso.url | relative_url }}" class="btn-curso">
+    {{ curso.title }}
+  </a>
+
+  <style>
+    .btn-curso {
+      display: inline-block;
+      background-color: #ff7f00; /* naranja */
+      color: #fff;
+      text-decoration: none;
+      padding: 0.75rem 1.5rem;
+      border-radius: 8px;
+      font-weight: bold;
+      transition: background-color 0.3s;
+    }
+
+    .btn-curso:hover {
+      background-color: #e67300; /* naranja más oscuro al pasar el mouse */
+    }
+  </style>
+  {% endif %}
+{% endif %}
+
+  ----
