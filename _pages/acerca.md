@@ -49,19 +49,19 @@ Aspiramos a ser la referencia mundial en panadería venezolana para panaderos ca
 
 Rol y responsabilidad : Desarrollar, promover y difundir el contenido de Panes venezolanos.
 
+#### Magia Visual (Fotografía y Estilismo fotográfico)
+
+- Luisa González Pérez [@luisagonzalesp en Instagram](https://www.instagram.com/luisagonzalezp/"){:target="blank"}
+
+Rol y responsabilidad: Estilizar, capturar y reproducir la esencia de nuestros Panes Venezolanos en imágenes que cuenten historias.
+
 #### Aseguramiento de la calidad
 
 - Claudia Raga [@algosevaacocinar en Instagram](https://www.instagram.com/algosevacocinar/"){:target="blank"}
 - Dunia Morales [@dunitasbakery en Instagram](https://www.instagram.com/dunitasbakery/){:target="blank"}
 - Alba Cennerazzo [@farinaelievito en Instagram](https://www.instagram.com/farinaelievito/){:target="blank"}
 
-Rol y responsabilidad: Probar en casa y corregir el contenido de Panes Venezolanos.
-
-#### Magia Visual
-
-- Luisa González Pérez [@luisagonzalesp en Instagram](https://www.instagram.com/luisagonzalezp/"){:target="blank"}
-
-Rol y responsabilidad: Capturar y reproducir la esencia de nuestros Panes Venezolanos en imágenes que cuenten historias.
+Rol y responsabilidad: Probar nuestras recetas en sus casas y apoyar en corregir el contenido de Panes Venezolanos.
 
 ## ¿Cuales son nuestras motivaciones principales?  
 
