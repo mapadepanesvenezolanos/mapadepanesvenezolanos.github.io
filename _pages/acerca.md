@@ -31,7 +31,7 @@ Aspiramos a ser la referencia mundial en panadería venezolana para panaderos ca
 
 ## Principios directores
 - Aspirar a reproducir los aromas y sabores de la memoria panadera del venezolano en casa.
-- Aprender y mejorar de forma iterative y a través de la experiencia.
+- Aprender y mejorar de forma continua y a través de la experiencia.
 - Ser transparentes, dar visibilidad y respetar nuestro trabajo y el de los otros.
 - Verificar, probar y adaptar el contenido para el consumo del Panadero Casero.
 - Dar cabida a la diversidad y crear un ambiente donde todas las personas puedan prosperar.
