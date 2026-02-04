@@ -6,6 +6,7 @@ date: 2026-01-26 00:00:00 -0400
 published: true
 permalink: /panes-venezolanos/bombon-margariteno/
 categories: pan enriquecido nueva_esparta
+region: oriental
 keywords: bombón margariteño, el bombón margariteño, bombón margariteño venezolano, bombón margariteño venezuela, receta de bombón margariteño, receta bombón margariteño, bombón margariteño receta, receta de bombón margariteño venezolano,  como hacer acemas margariteñas venezolanas, bombón margariteño, bombón margariteño venezolano, bombón margariteño, bombón margariteño dulce venezolano, receta bombón margariteño venezolano, panes venezolanos, pan dulce venezolano, bombón margariteño receta, ingredientes del bombón margariteño, ingredientes para el bombón margariteño, bombón margariteño  ingredientes, bombón margariteño dulce venezolano receta, bombón margariteño ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del bombón margariteño, bombón margariteño historia, bombón margariteño  origen, origen del bombón margariteño , bombón margariteño casero, receta bombón margariteño dulce, recetas de bombón margariteño, recetas de pan margariteño, como hacer bombón margariteño, cómo hacer pan, bombón margariteño venezolano, bombón margariteño, como se hace la bombón margariteño, como preparar bombón margariteño, cómo preparar bombón margariteño, bombón margariteño panadería, bombón margariteño, receta panes de la isla de margarita, como hacer pan venezolano en casa, bombón margariteño, como hacer panes venezolanos en la diaspora
 featured_image: '/images/panes/bombon-margariteno/bombon_margariteno_01.jpg'
 formula_name: "bombonmargariteno"
@@ -23,17 +24,7 @@ El Bombón Margariteño es una pieza de la panadería dulce de formato en espira
 
 Según Trina Arocha, el Bombón margariteño, "es una variedad de pan de trigo, semi dulce, elaborado con la misma masa de las acemas margariteñas sin coco, cubiertos con azúcar, enrollados, cortados en cilindros que luego son horneados, cubiertos con almibar y espolvoreados con azúcar. Éste pan tiene parecido al pan de Tunja que se elabora en otras regiones del país." [^2]
 
-"El Bombón Margariteño tiene su raíz en la tradición panadera del oriente de Venezuela, especialmente en el estado Nueva Esparta, en la isla de Margarita y las comunidades costeras que miran al Caribe como si fuera un viejo pariente.
-
-Su origen se entrelaza con la historia colonial de la región. Durante los siglos XVII y XVIII, las técnicas de panificación europeas, sobre todo españolas y canarias, llegaron a la isla junto con comerciantes, misioneros y familias que trajeron consigo sus recetas dulces, sus formas de fermentar y su gusto por los panes suaves y aromáticos. Con el tiempo, esas fórmulas se adaptaron a los ingredientes locales y al clima cálido de la isla, dando lugar a preparaciones más tiernas, ligeramente dulces y de miga delicada, como el bombón.
-
-En Margarita, el bombón se convirtió en un pan cotidiano y festivo a la vez: presente en desayunos, meriendas y celebraciones familiares. Era común encontrarlo en las panaderías de pueblo y en las mesas de las casas, acompañado de café cerrero, chocolate caliente o queso fresco. No era un lujo, sino un pan cercano, pensado para compartir.
-
-Hoy, aunque su corazón sigue latiendo en Nueva Esparta, el Bombón Margariteño se consume también en otras regiones del oriente venezolano como Sucre, Anzoátegui y Monagas, y ha viajado con la diáspora, apareciendo en cocinas y proyectos artesanales dentro y fuera del país."[^3]
-
 [^2]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
-
-[^3]:[Texto de reconstrucción cultural basado en tradición oral y en estudios sobre la panadería insular venezolana, la herencia canaria y la gastronomía del oriente del país (Fundación Bigott; León, Duarte; IPC).]
 
 ## Tips para preparar Bombón Margariteño
 
@@ -170,7 +161,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/01/26)__
+__Versión 1.2 (2026/02/03)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
