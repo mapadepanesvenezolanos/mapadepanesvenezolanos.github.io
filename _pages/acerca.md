@@ -49,7 +49,7 @@ Aspiramos a ser la referencia mundial en panadería venezolana para panaderos ca
 
 Rol y responsabilidad : Desarrollar, promover y difundir el contenido de Panes venezolanos.
 
-#### Magia Visual (Fotografía y Estilismo fotográfico)
+#### Dirección artistica (Fotografía y Estilismo fotográfico)
 
 - Luisa González Pérez [@luisagonzalesp en Instagram](https://www.instagram.com/luisagonzalezp/"){:target="blank"}
 
@@ -88,12 +88,15 @@ una marca que inspire orgullo y arraigo cultural.
 2. Investigación (Se inicia el proceso de investigación para determinar el origen y los ingredientes típicamente utilizados para producir las recetas)
 3. Creación, prueba y ajuste de la fórmula panadera preliminar (Se produce, se prueba y ajusta una primera versión de la receta)
 4. Documentación (Se documenta la receta y se produce una primera versión)
-5. Asesguramiento de la calidad (El equipo de aseguramiento de la calidad prueba la receta, propone correcciones y ajustes tanto a la fórmula como al paso a paso panadero)
-6. Revisión (Se consolidan las correcciones, se ajusta la receta y su fórmula)
-8. Integración (Se integra el contenido en nuestros canales de distribución (Libros, Videos, Cursos, otros))
-9. Publicación (Se hace público el contenido en los canales de distribución)
-10. Difusión en redes sociales (Se difunde en las redes sociales)
-11. Retrospectiva (Se verifica en equipo lo que estamos haciendo bien, lo que se debe mejorar y se toman acciones para adaptar el proceso y la dinámica de trabajo)
+5. Pruebas de laboratorio (En nuestro laboratorio de pruebas en Montreal, Canadá, se hacen las pruebas de la receta necesarias hasta producir el pan deseado)
+6. Aseguramiento de la calidad (El equipo de aseguramiento de la calidad prueba la receta, propone correcciones y ajustes tanto a la fórmula como al paso a paso panadero)
+7. Sesión fotográfica (En nuestro estudio fotográfico en Montrea,Canadá, se hace una sesión para fotografiar el paso a paso panadero y la foto final del pan)
+8. Edición fotográfica (Se editan las fotos, se producen las cuadrículas del paso a paso panadero y se pulen las fotos del pan) 
+9. Revisión (Se consolidan las correcciones, se ajusta la receta y su fórmula)
+10. Integración (Se integra el contenido en nuestros canales de distribución (Página web, libros, cursos, otros))
+11. Publicación (Se hace público el contenido en los canales de distribución: página web y leanpub)
+12. Difusión en redes sociales (Se difunde en las redes sociales)
+13. Mejora continua (Se verifica en equipo lo que estamos haciendo bien, lo que se debe mejorar y se toman acciones para adaptar el proceso y la dinámica de trabajo)
 
 ## ¿Deseas contribuir?
 
