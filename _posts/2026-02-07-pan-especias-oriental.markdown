@@ -2,11 +2,12 @@
 title: "Pan de Especias Oriental/Aliñado Margariteño"
 subtitle: "Irresistible desde el primer mordisco: así es nuestro pan de especias oriental."
 description: "El pan de especias oriental es una joya de la panadería tradicional venezolana"
-date: 2026-02-07 00:00:00 -0400
+date: 2026-02-16 00:00:00 -0400
 published: false
 permalink: /panes-venezolanos/pan-especias-oriental/
 categories: pan enriquecido nueva_esparta
-region: oriental
+tipo: dulces
+region: oriental  
 keywords: pan de especias oriental, el pan de especias oriental, pan de especias oriental venezolana, pan de especias oriental venezuela, receta de pan de especias oriental, receta pan de especias oriental, pan de especias oriental receta, receta de pan de especias oriental  venezolana,  como hacer pan relleno de dulce de leche venezolana, pan de especias oriental, pan de especias oriental venezolano, pan de especias oriental, pan de especias oriental dulce venezolano, receta del trenza de leche, receta pan de especias oriental venezolana, panes venezolanos, pan dulce venezolano, pan de especias oriental receta, ingredientes del pan de especias oriental, ingredientes para la pan de especias oriental, pan de especias oriental  ingredientes, pan de especias oriental dulce venezolano receta, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia de la pan de especias oriental, pan de especias oriental historia, pan de especias oriental  origen, origen de la pan de especias oriental , pan andino de leche, pan de especias oriental casero, receta pan de especias oriental dulce, recetas de pan de especias oriental, recetas pan de leche, como hacer trenza de leche, cómo hacer pan de leche, panes de dulce de leche, pan de especias oriental andino venezolano, pan de especias oriental andino, receta de panecillos dulces orientales venezolanos, panecillos dulces, como se hace la pan de especias oriental, cómo se hace el pan de especies en Venezuela, como preparar pan de especias oriental, cómo preparar pan de especias oriental, pancitos rellenos de dulce de leche, pan de especias oriental panadería, pan de especias oriental, como hacer pan de especies oriental venezolano en casa, pan de especias oriental, como hacer panes venezolanos en la diaspora
 featured_image: '/images/panes/especias-oriental/especias_oriental_01.jpg'
 formula_name: "especiasoriental"
@@ -16,13 +17,15 @@ formula_name: "especiasoriental"
 
 ## Resultado esperado
 
-El pan de especias oriental es una joya de la panadería tradicional margariteña. Su miga suave y ligeramente dulce, con un delicado aroma a vainilla y nuez moscada, y su dorado característico lo convierten en un símbolo del sabor y la calidez del oriente venezolano. Esta versión es adaptada a la casa y la miga es más abierta que la que encontrarás en los panes que venden en las panaderías de la Asunción en la Isla de Margarita, Estado Nueva Esparta. El aroma es irresistible, ideal para acompañarlo con café con leche o disfrutarlo en una merienda junto a un vaso de leche o un toddy. Jesús [@1painalafois]{:target="blank"} lo come temprano, aún calientico, y Alexander [@hazpanencasa]{:target="blank"} no perdona su café negro para acompañarlo. No importa cómo lo prefieras: cuando el olor empiece a llenar tu casa, sabrás que no podrás parar en la primera rebanada.
+El pan de especias oriental o aliñado margariteño se presenta como una obra de sabor y textura que invita a celebrarlo en cada rebanada. Su corteza exterior dorada y ligeramente caramelizada deja entrever un interior tierno, esponjoso y aireado, con matices aromáticos que evocan los viajes, la tradición y la tierra caribeña. Al partirlo, una nube suave se libera, desplegando notas cálidas de canela, clavo, anís y especias ancestrales que acarician los sentidos. Perfecto para acompañar un café humeante en la mañana o para ser el protagonista en una mesa llena de historias y sonrisas. Jesús [@1painalafois]{:target="blank"} lo come aún calientico. Cómo lo prefieras: cuando el olor invada todos los espacios de tu casa, sabrás que has creado una delicia irresistible, un pedacito de Venezuela en tu hogar.
 
 ## Origen del Pan de especias oriental o Aliñado Margariteño
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-El pan de especias oriental es una especialidad de La Asunción, capital del estado Nueva Esparta, en Margarita, Venezuela. Su tradición en panadería artesanal y dulces locales es centenaria. Pan de Mamá, una de las panaderías más emblemáticas, tiene más de 100 años manteniendo la receta y el oficio.
+El pan aliñado margariteño, también conocido como pan de especias oriental, es mencionado por [Trina Arocha]{:target="blank"} en [El manual de la cocina venezolana. Panes y Pastelitos][^1] como parte del repertorio de panes tradicionales dulces y especiados del país. Aunque la autora no desarrolla un origen histórico detallado ni lo asocia de forma exclusiva a una región específica, su inclusión evidencia la presencia de este pan en la memoria culinaria venezolana. Se trata de una elaboración heredada por transmisión doméstica y panadera, donde el uso de especias refleja influencias culturales diversas integradas al hacer cotidiano del pan.
+
+[^1]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
 
 ## Tips para preparar el Pan de Especias oriental o Aliñado Margariteño
 
@@ -37,7 +40,7 @@ El pan de especias oriental es una especialidad de La Asunción, capital del est
 
 ## Masa leudada con levadura instantánea
 
-* 4 Barras de 246 g de masa rellena.
+* 2 Barras de 246 g de masa rellena.
 * Temperatura ambiente 22.5ºC - 27ºC.
 * 50 % de hidratación (Media hidratación).
 
@@ -45,26 +48,30 @@ El pan de especias oriental es una especialidad de La Asunción, capital del est
 
 | Ingrediente                 | Fórmula     | Peso   |
 |:----------------------------|:-----------:|-------:|
-| Harina panadera             |        100% |  328g  |
-| Agua                        |         35% |  115g  |
-| Levadura instantánea        |        1.5% |    5g  |
-| Sal                         |          1% |    3g  |
-| Huevos ligeramente batidos  |         20% |   66g  |
-| Grasa (Mantequilla sin sal) |         15% |   49g  |
-| Azúcar                      |         20% |   66g  |
-| Leche en polvo              |          6% |   20g  |
-| Leche condensada            |          6% |   20g  |
-| Nuez moscada                |          1% |    3g  |
-| Esencia de vainilla         |          2% |    7g  |
+| Harina panadera             |        100% |  249g  |
+| Agua                        |         40% |   96g  |
+| Levadura instantánea        |          2% |    5g  |
+| Sal                         |          1% |    2g  |
+| Huevos ligeramente batidos  |         10% |   24g  |
+| Grasa (Mantequilla sin sal) |         15% |   36g  |
+| Azúcar                      |         10% |   24g  |
+| Papelón rallado             |         20% |   48g  |
+| Leche en polvo              |          2% |    5g  |
+| Esencia de vainilla         |          2% |    5g  |
+| Anís dulce en semillas      |          2% |    5g  |
+| Canela en polvo             |          1% |    2g  |
+| Clavos de olor en polvo     |        0.3% |    1g  |
+| Jengigre en polvo           |        0.3% |    1g  |
+| Pimienta guayabita molida   |        0.3% |    1g  |
 |-----------------------------|-------------|--------|
-| **Total**                   |  **207.5%** |**680g**|
+| **Total**                   |  **205.9%** |**492g**|
 
 ### Calculadora para la masa 
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Pan de Especias oriental
+## Paso a paso para preparar el Pan de Especias oriental/ Aliñado margariteño
 
 <div id="preparacion"></div>
 
@@ -79,66 +86,62 @@ El pan de especias oriental es una especialidad de La Asunción, capital del est
 #### Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina, la nuez moscada y la levadura instantánea.
-- En otro envase mezcla el agua, la esencia de vainilla, el azúcar,la leche en polvo y la leche condensada con el huevo hasta disolver.
+- En un envase mezcla la harina, la levadura instantánea, el jengibre, los clavos de olor, la pimienta guayabita molida, el anís dulce en semillas agrégalo juntando las palmas de las manos y frotandolas para extraer el aroma), el papelón rallado y la canela.
+- En otro envase mezcla el agua, la esencia de vainilla, el azúcar,la leche en polvo con los huevos hasta disolver.
 - Crea un volcán con la mezcla de los sólidos y coloca los líquidos en el centro del volcán.
 - Agrega la sal en el borde del volcán.
 - Agrega la mantequilla pomada en el centro.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas cinco (5) veces. Dejar reposar diez (10) minutos.
+- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma, entre cinco (5) y siete (7) veces. Dejar reposar diez (10) minutos.
 - Realiza la prueba del gluten, si todavía falta vuelve a sobar la masa y haz reposos de diez (10) minutos hasta que el gluten se desarrolle. Usualmente con una (1) tanda de sobado es suficiente.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
 
 ### Primera fermentación 
 
-La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+La masa va a reposar durante una (1) hora a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
 - Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
-- Después de la primera hora se realiza la manipulación.
 
-### Manipulación
-
-La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
-
-- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
-- Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
-- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
-- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+### División
+- Pesa la masa en una balanza.
+- Divide en dos porciones del mismo peso.
+- Haz una bolita con cada porción y deja reposar durante diez (10) minutos en mesa.
 
 ### Formado
 
-- Con el rodillo extiende la masa en un rectángulo de treinta (30) x veinte (20) centímetros.
-- Forma una barra, iniciando por uno de los lados de treinta (30) centímetros.
+- Con el rodillo extiende cada bolita de masa, formando un ovalo de treinta (30) centímetros de diámetro.
+- Enrolla hasta formar una barra, sin hacer mucha presión durante el proceso.
 - Coloca tu barra de pan en una bandeja metálica, sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
+- Repite el proceso con la siguiente bolita de masa.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón aproximadamente por dos (2) horas y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar el pastón aproximadamente por una (1) hora, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
 - Enciende el horno media (30) minutos antes de hornear a una temperatura de 170ºC/335ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Utilizando un colador de cocina, cubre la superficie de tu barra de pan con una fina capa de harina de trigo.
+- Utilizando una brocha de cocina, cubre la superficie de tus barras de pan, con una fina capa de leche líquida.
 
 ### Horneado
 
-- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
-- Verifica el horno asegurándote que tu Pan de Guayaba se hornee de manera uniforme. 
+- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente treinta (30) minutos.
+- Verifica el horno asegurándote que tu Pan de Especias Oriental/Aliñado margariteño, se hornee de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
-- Saca tu Pan de Especias oriental del horno cuando tenga el color dorado de tu gusto.
+- Saca tu Pan de Especias oriental/Aliñado margariteño del horno cuando tenga el color dorado de tu gusto.
 
 ### Enfriamiento
 
 - Al sacar el pan del horno, pásalo a una rejilla o tabla de madera, en un lugar cálido, queremos que se enfríe y evitar que se condense el aire, sino se genera una miga húmeda y definitivamente daña el resultado.
 - Deja reposar por lo menos, veinte (20) minutos. ¡Mucha paciencia! Ya está casi listo. 
-- Disfruta tu Pan de Especias oriental!!!
+- Disfruta tu Pan de Especias oriental/Aliñado margariteño!!!
 
 ------
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la asunción, adpatado y mejorado para el panadero casero.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la fórmula de [Trina Arocha] descrita en su libro [El manual de la cocina venezolana. Panes y Pastelitos]
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -146,7 +149,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/02/07)__
+__Versión 1.0 (2026/02/12)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -156,3 +159,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [@luisagonzalezp]: https://www.instagram.com/luisagonzalezp
+[Trina Arocha]: https://www.instagram.com/trinaarochacocinavenezolana/

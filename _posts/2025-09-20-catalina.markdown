@@ -5,7 +5,9 @@ description: "La Catalina es una preparación tradicional venezolana conocida ta
 date: 2025-09-20 08:00:00 -0400
 published: true
 permalink: /panes-venezolanos/catalina/
-categories: dulce
+categories: pan enriquecido dulce
+tipo: dulces
+region: central  
 keywords: catalina, cuca, paledonia, catalina dulce venezolano, receta de catalina, receta catalina
 featured_image: '/images/panes/catalina/catalinas_V1.jpg'
 formula_name: "catalina"

@@ -6,7 +6,8 @@ date: 2026-01-26 00:00:00 -0400
 published: true
 permalink: /panes-venezolanos/bombon-margariteno/
 categories: pan enriquecido nueva_esparta
-region: oriental
+tipo: dulces
+region: oriental  
 keywords: bombón margariteño, el bombón margariteño, bombón margariteño venezolano, bombón margariteño venezuela, receta de bombón margariteño, receta bombón margariteño, bombón margariteño receta, receta de bombón margariteño venezolano,  como hacer acemas margariteñas venezolanas, bombón margariteño, bombón margariteño venezolano, bombón margariteño, bombón margariteño dulce venezolano, receta bombón margariteño venezolano, panes venezolanos, pan dulce venezolano, bombón margariteño receta, ingredientes del bombón margariteño, ingredientes para el bombón margariteño, bombón margariteño  ingredientes, bombón margariteño dulce venezolano receta, bombón margariteño ingredientes, panadería, panadería venezolana, recetas de pan venezolano, panes venezolanos, historia del bombón margariteño, bombón margariteño historia, bombón margariteño  origen, origen del bombón margariteño , bombón margariteño casero, receta bombón margariteño dulce, recetas de bombón margariteño, recetas de pan margariteño, como hacer bombón margariteño, cómo hacer pan, bombón margariteño venezolano, bombón margariteño, como se hace la bombón margariteño, como preparar bombón margariteño, cómo preparar bombón margariteño, bombón margariteño panadería, bombón margariteño, receta panes de la isla de margarita, como hacer pan venezolano en casa, bombón margariteño, como hacer panes venezolanos en la diaspora
 featured_image: '/images/panes/bombon-margariteno/bombon_margariteno_01.jpg'
 formula_name: "bombonmargariteno"
@@ -22,9 +23,9 @@ El Bombón Margariteño es una pieza de la panadería dulce de formato en espira
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-Según Trina Arocha, el Bombón margariteño, "es una variedad de pan de trigo, semi dulce, elaborado con la misma masa de las acemas margariteñas sin coco, cubiertos con azúcar, enrollados, cortados en cilindros que luego son horneados, cubiertos con almibar y espolvoreados con azúcar. Éste pan tiene parecido al pan de Tunja que se elabora en otras regiones del país." [^2]
+Según [Trina Arocha], el Bombón margariteño, "es una variedad de pan de trigo, semi dulce, elaborado con la misma masa de las acemas margariteñas sin coco, cubiertos con azúcar, enrollados, cortados en cilindros que luego son horneados, cubiertos con almibar y espolvoreados con azúcar. Éste pan tiene parecido al pan de Tunja que se elabora en otras regiones del país." [^1]
 
-[^2]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
+[^1]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
 
 ## Tips para preparar Bombón Margariteño
 

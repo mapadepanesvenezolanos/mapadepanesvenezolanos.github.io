@@ -91,7 +91,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla la harina con la levadura instantánea, la leche en polvo, el coco rallado, las semillas de anís dulce (agrégalo juntando las palmas de las manos y frotandolas para extraer el aroma de anís) y crea un volcán de boca ancha con la mezcla.
+- En un primer envase, mezcla la harina con la levadura instantánea, la leche en polvo, el coco rallado, las semillas de anís dulce (agrégalo juntando las palmas de las manos y frotandolas para extraer el aroma) y crea un volcán de boca ancha con la mezcla.
 - En un segundo envase, mezcla el agua, los huevos y el azúcar.
 - Coloca los líquidos en el centro del volcán, la sal en el borde y la mantequilla pomada en el centro.
 - Mezcla los ingredientes del centro del volcán con la harina poco a poco hasta integrar todos los ingredientes.
