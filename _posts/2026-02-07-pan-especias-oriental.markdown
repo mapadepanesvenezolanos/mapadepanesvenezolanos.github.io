@@ -1,7 +1,7 @@
 ---
 title: "Pan de Especias Oriental/Aliñado Margariteño"
-subtitle: "Irresistible desde el primer mordisco: así es nuestro pan de especias oriental."
-description: "El pan de especias oriental es una joya de la panadería tradicional venezolana"
+subtitle: "El abrazo de las especias, mordisco a mordisco: nuestro pan oriental te espera"
+description: "El pan de especias oriental es un pan aromático donde las especias abrigan la miga y despiertan la memoria."
 date: 2026-02-16 00:00:00 -0400
 published: false
 permalink: /panes-venezolanos/pan-especias-oriental/
@@ -31,8 +31,9 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
-- La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
+- La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomendamos que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Durante el formado, enrolla tu pastón sin generar presión para evitar que el pan se rompa durante el horneado.
+- Durante el horneado, puedes utilizar doble bandeja para reducir el efecto de caramelización que produce el papelón y el azúcar en la base del pan.
 
 {% include whatsapp.html %}
 
@@ -86,16 +87,23 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 #### Primer ciclo de amasado (manual)
 
 - Para la mezcla inicial reserva la mantequilla y la sal.
-- En un envase mezcla la harina, la levadura instantánea, el jengibre, los clavos de olor, la pimienta guayabita molida, el anís dulce en semillas agrégalo juntando las palmas de las manos y frotandolas para extraer el aroma), el papelón rallado y la canela.
-- En otro envase mezcla el agua, la esencia de vainilla, el azúcar,la leche en polvo con los huevos hasta disolver.
+- En un envase mezcla la harina, la levadura instantánea, el jengibre, los clavos de olor, la pimienta guayabita triturada, el anís dulce en semillas (agrégalo juntando las palmas de las manos y frotandolas para extraer el aroma), el papelón rallado y la canela en polvo.
+- En otro envase mezcla el agua, la esencia de vainilla, el azúcar, la leche en polvo con los huevos hasta disolver.
 - Crea un volcán con la mezcla de los sólidos y coloca los líquidos en el centro del volcán.
 - Agrega la sal en el borde del volcán.
-- Agrega la mantequilla pomada en el centro.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma, entre cinco (5) y siete (7) veces. Dejar reposar diez (10) minutos.
-- Realiza la prueba del gluten, si todavía falta vuelve a sobar la masa y haz reposos de diez (10) minutos hasta que el gluten se desarrolle. Usualmente con una (1) tanda de sobado es suficiente.
+
+### Segundo ciclo de amasado (manual)
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
 - Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
 - Realiza un preformado redondo, la masa queda lisa en la superficie.
+
+#### Ciclo de sobado 
+
+- Extiende la masa con el rodillo sobre la mesa de trabajo, forma un cuadrado y los pliegas sobre sí mismo unas cinco (5) a siete (7) veces.
+- Deja reposar durante diez (10) minutos.
+- Realiza la prueba de desarrollo del gluten. Si todavía le falta sigue realizando ciclos de reposo y pliegues hasta desarrollar el gluten.
 
 ### Primera fermentación 
 
