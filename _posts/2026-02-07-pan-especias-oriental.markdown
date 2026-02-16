@@ -3,7 +3,7 @@ title: "Pan de Especias Oriental/Aliñado Margariteño"
 subtitle: "El abrazo de las especias, mordisco a mordisco: nuestro pan oriental te espera"
 description: "El pan de especias oriental es un pan aromático donde las especias abrigan la miga y despiertan la memoria."
 date: 2026-02-16 00:00:00 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/pan-especias-oriental/
 categories: pan enriquecido nueva_esparta
 tipo: dulces
