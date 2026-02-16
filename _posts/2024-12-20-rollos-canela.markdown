@@ -48,7 +48,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 | Ingrediente                 | Fórmula     | Peso    |
 |:----------------------------|:-----------:|--------:|
 | Harina panadera             |        100% |   446g  |
-| Agua                        |         42% |   187g  |
+| Agua o leche líquida        |         42% |   187g  |
 | Levadura instantánea        |          1% |     4g  |
 | Sal                         |          1% |     4g  |
 | Huevos ligeramente batidos  |         15% |    67g  |
@@ -109,7 +109,7 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 #### Primer ciclo de amasado
 
 - Para la mezcla inicial reserva la mantequilla y la sal. 
-- En un primer envase mezcla el agua con la levadura instantánea, la leche en polvo y el azúcar, los huevos ligeramente batidos y la esencia de vainilla. 
+- En un primer envase mezcla el agua o leche líquida con la levadura instantánea, la leche en polvo y el azúcar, los huevos ligeramente batidos y la esencia de vainilla. 
 - En un segundo envase, crea un volcán con la la harina panadera y coloca el contenido del primer envase n el centro del volcán. 
 - Integra los ingredientes hasta tener un amasijo. 
 - Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos. 
@@ -202,7 +202,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.1 (2025/09/21)__
+__Versión 3.2 (2026/02/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
