@@ -19,7 +19,7 @@ formula_name: "especiasoriental"
 
 El pan de especias oriental o aliñado margariteño se presenta como una obra de sabor y textura que invita a celebrarlo en cada rebanada. Su corteza exterior dorada y ligeramente caramelizada deja entrever un interior tierno, esponjoso y aireado, con matices aromáticos que evocan los viajes, la tradición y la tierra caribeña. Al partirlo, una nube suave se libera, desplegando notas cálidas de canela, clavo, anís y especias ancestrales que acarician los sentidos. Perfecto para acompañar un café humeante en la mañana o para ser el protagonista en una mesa llena de historias y sonrisas. Jesús [@1painalafois]{:target="blank"} lo come aún calientico. Cómo lo prefieras: cuando el olor invada todos los espacios de tu casa, sabrás que has creado una delicia irresistible, un pedacito de Venezuela en tu hogar.
 
-## Origen del Pan de especias oriental o Aliñado Margariteño
+## Origen del Pan de especias oriental o Aliñado margariteño
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
@@ -27,7 +27,7 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 
 [^1]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
 
-## Tips para preparar el Pan de Especias oriental o Aliñado Margariteño
+## Tips para preparar el Pan de especias oriental o Aliñado margariteño
 
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
@@ -37,7 +37,7 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 
 {% include whatsapp.html %}
 
-# Pan de Especias oriental/Aliñado Margariteño
+# Pan de especias oriental/Aliñado margariteño
 
 ## Masa leudada con levadura instantánea
 
@@ -72,7 +72,7 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-## Paso a paso para preparar el Pan de Especias oriental/ Aliñado margariteño
+## Paso a paso para preparar el Pan de especias oriental/ Aliñado margariteño
 
 <div id="preparacion"></div>
 
@@ -125,7 +125,7 @@ La masa va a reposar durante una (1) hora a una temperatura de entre 24ºC/75ºF
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón aproximadamente por una (1) hora, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar el pastón aproximadamente por dos (2) horas y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
@@ -157,7 +157,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/02/12)__
+__Versión 1.0 (2026/02/16)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
