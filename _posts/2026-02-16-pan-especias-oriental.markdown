@@ -25,7 +25,7 @@ El pan de especias oriental o aliñado margariteño se presenta como una obra de
 
 El pan aliñado margariteño, también conocido como pan de especias oriental, es mencionado por [Trina Arocha]{:target="blank"} en [El manual de la cocina venezolana. Panes y Pastelitos][^1] como parte del repertorio de panes tradicionales dulces y especiados del país. Aunque la autora no desarrolla un origen histórico detallado ni lo asocia de forma exclusiva a una región específica, su inclusión evidencia la presencia de este pan en la memoria culinaria venezolana. Se trata de una elaboración heredada por transmisión doméstica y panadera, donde el uso de especias refleja influencias culturales diversas integradas al hacer cotidiano del pan.
 
-[^1]: [El manual de la cocina venezolana. Panes y Pastelitos](https://margaritaentusmanosrevista.com/wp/en-la-asuncion-huele-a-pan)
+[^1]: [El manual de la cocina venezolana. Panes y Pastelitos](https://www.amazon.com/manual-cocina-venezolana-Panes-pastelitos/dp/9802443352?source=ps-sl-shoppingads-lpcontext&ref_=fplfs&psc=1&smid=A1V2R6WAWTQIN6)
 
 ## Tips para preparar el Pan de especias oriental o Aliñado margariteño
 
@@ -157,7 +157,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/02/17)__
+__Versión 1.2 (2026/02/17)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
