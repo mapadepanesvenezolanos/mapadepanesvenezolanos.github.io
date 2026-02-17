@@ -17,7 +17,7 @@ formula_name: "especiasoriental"
 
 ## Resultado esperado
 
-El pan de especias oriental o aliñado margariteño se presenta como una obra de sabor y textura que invita a celebrarlo en cada rebanada. Su corteza exterior dorada y ligeramente caramelizada deja entrever un interior tierno, esponjoso y aireado, con matices aromáticos que evocan los viajes, la tradición y la tierra caribeña. Al partirlo, una nube suave se libera, desplegando notas cálidas de canela, clavo, anís y especias ancestrales que acarician los sentidos. Perfecto para acompañar un café humeante en la mañana o para ser el protagonista en una mesa llena de historias y sonrisas. Jesús [@1painalafois]{:target="blank"} lo come aún calientico. Cómo lo prefieras: cuando el olor invada todos los espacios de tu casa, sabrás que has creado una delicia irresistible, un pedacito de Venezuela en tu hogar.
+El pan de especias oriental o aliñado margariteño se presenta como una obra de sabor y textura que invita a celebrarlo en cada rebanada. Su corteza exterior dorada y ligeramente caramelizada deja entrever un interior tierno, esponjoso y aireado, con matices aromáticos que evocan los viajes, la tradición y la tierra caribeña. Al partirlo, una nube suave se libera, desplegando notas cálidas de canela, clavo, anís, jengibre y especias ancestrales que acarician los sentidos. Perfecto para acompañar un café humeante en la mañana o para ser el protagonista en una mesa llena de historias y sonrisas. Jesús [@1painalafois]{:target="blank"} lo come aún calientico. Cómo lo prefieras: cuando el olor invada todos los espacios de tu casa, sabrás que has creado una delicia irresistible, un pedacito de Venezuela en tu hogar.
 
 ## Origen del Pan de especias oriental o Aliñado margariteño
 
@@ -62,7 +62,7 @@ El pan aliñado margariteño, también conocido como pan de especias oriental, e
 | Anís dulce en semillas      |          2% |    5g  |
 | Canela en polvo             |          1% |    2g  |
 | Clavos de olor en polvo     |        0.3% |    1g  |
-| Jengigre en polvo           |        0.3% |    1g  |
+| Jengibre en polvo           |        0.3% |    1g  |
 | Pimienta guayabita molida   |        0.3% |    1g  |
 |-----------------------------|-------------|--------|
 | **Total**                   |  **205.9%** |**492g**|
@@ -157,7 +157,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/02/16)__
+__Versión 1.1 (2026/02/17)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
