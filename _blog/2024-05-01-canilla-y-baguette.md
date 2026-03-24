@@ -7,7 +7,7 @@ permalink: /blog/canilla-vs-baguette/
 featured_image: '/images/panes/canilla/canilla_11.jpg'
 ---
 
-Vamos a profundizar en las características de la Canilla y compararla con la Baguette. Si deseas prepararla puedes ir a [nuestra receta de Canillas](/panes-venezolanos/pan-canilla/).
+Vamos a profundizar en las características de la Canilla y compararla con la Baguette. Si deseas prepararla puedes ir a [nuestra receta de Canillas](/panes-venezolanos/pan-canilla/){:target="blank"}.
 
 ## ¿Qué es una Canilla?
 
