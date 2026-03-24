@@ -32,6 +32,8 @@ Se tropicaliza la receta:
 
 Y empieza a convivir con otros panes hermanos como el [cachito] o el [pan de leche], formando ese universo de panadería urbana caraqueña.
 
+Importante: Nuestra versión ha sido adaptada para el comfort y disfrute del panadero casero, familiares y amigos. Ten en consideración que la receta clasica del pan vienés no lleva huevo como ingrediente. 
+
 ## Origen del Pan vienés 
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
@@ -52,6 +54,7 @@ A finales del siglo XIX y comienzos del XX, Venezuela, especialmente Caracas, re
 Es como si en lugar de construir una malla de acero, construyeras una red de algodón. es por ello que se incorpora al mezclar todos los ingredientes y después de la sal.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomendamos que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Durante el formado, enrolla tu pastón sin generar presión para evitar que el pan se rompa durante el horneado.
+- El corte diagonal múltiple al decorar el pan vienes, viene del pan vienés europeo, pero en Venezuela se volvió más limpio, repetitivo y estético, casi como si el pan se peinara antes de entrar al horno 💇‍♂️🔥
 
 {% include whatsapp.html %}
 
@@ -122,7 +125,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Fermentación en bloque (maduración en nevera opcional)
 
-- Coloca el recipiente tapado en la nevera entre ocho (8h) y doce (12h).
+- Coloca el recipiente tapado en la nevera entre ocho (8h) y doce (12h) horas.
 
 ### División
 - Pesa la masa en una balanza.
@@ -131,24 +134,24 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado en barra 
 
-- Con el rodillo extiende cada bolita de masa, formando un rectángulo de quince (15) centímetros de diámetro.
+- Con el rodillo extiende cada bolita de masa, formando un rectángulo de treinta (30) centímetros de largo por quince (15) centímetros de largo.
 - Enrolla hasta formar una barra, sin hacer mucha presión durante el proceso.
 - Coloca tus barra de pan en una bandeja metálica, sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
 - Repite el proceso con la siguiente bolita de masa.
 
 ### Fermentación final (maduración)
 
-- Deja reposar el pastón aproximadamente por una (1) hora, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
+- Deja reposar el pastón aproximadamente por una (1) hora y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Barnices, coberturas y cortes
 
-- Enciende el horno media (30) minutos antes de hornear a una temperatura de 190ºC/375ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
 - Utilizando una brocha de cocina, cubre la superficie de tus barritas de pan con una fina capa de huevo batido colado, una pizca de sal y una de azúcar.
-- Con una hojilla o cuchilla bien afilada, en cada pastón realiza varios cortes transversales.
+- Con una hojilla o cuchilla bien afilada, en cada pastón realiza cortes diagonales múltiples, Inclinados a unos 30°–45°, distribuidos a lo largo de la barra, poco profundos pero definidos, bastante uniformes y ordenados.
 
 ### Horneado
 
-- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinticinco (25) minutos.
+- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
 - Verifica el horno asegurándote que tus Panes Vienéses, se horneen de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tus Panes Vienéses del horno cuando tengan el color dorado de tu gusto.
@@ -171,7 +174,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/03/02)__
+__Versión 1.0 (2026/03/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
