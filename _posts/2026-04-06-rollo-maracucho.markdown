@@ -9,7 +9,7 @@ categories: pan suave y relleno enriquecido semi dulce Zulia
 tipo: suaves y rellenos
 region: Sistema Coreano y sus márgenes  
 
-keywords: pan de jamon, historia del pan de jamon, origen del pan de jamon, pan de jamon venezuela, pan de jamon con levadura instantanea, pan de jamon venezolano origen, pan de jamon, ingrediente del pan de jamon, caracteristicas del pan de jamon, ingredientes para masa de pan de jamon, venezolano pan de jamon, receta de pan de jamon con levadura instantanea, pan de jamon receta, receta de pan de jamon, pan de jamon venezolano, masa para pan de jamon, receta pan de jamon, que es el pan de jamon, como hacer pan de jamon, el pan de jamon, pan con jamon, masa de pan de jamon, pan de jamon ingredientes, cuanto pesa un pan de jamon, pan de jamon origen, roll de pan de jamon, como saber si el pan de jamon esta listo, ingredientes pan de jamon, panes de jamon, ingredientes del pan de jamon, rollo de pan de jamon
+keywords: rollo maracucho, historia del rollo maracucho, origen del rollo maracucho, rollo maracucho venezuela, rollo maracucho con levadura instantanea, rollo maracucho venezolano origen, rollo maracucho, ingrediente del rollo maracucho, caracteristicas del rollo maracucho, ingredientes para masa de rollo maracucho, venezolano rollo maracucho, receta de rollo maracucho con levadura instantanea, rollo maracucho receta, receta de rollo maracucho, rollo maracucho venezolano, masa para rollo maracucho, receta rollo maracucho, que es el rollo maracucho, como hacer rollo maracucho, el rollo maracucho, pan con jamon, masa de rollo maracucho, rollo maracucho ingredientes, cuanto pesa un rollo maracucho, rollo maracucho origen, roll de rollo maracucho, como saber si el rollo maracucho esta listo, ingredientes rollo maracucho, panes de jamon, ingredientes del rollo maracucho, rollo de rollo maracucho
 featured_image: '/images/panes/rollo-maracucho/rollo_maracucho_01.jpg'
 formula_name: "rollomaracucho"
 second_formula_name: "rollomaracuchorelleno"
@@ -32,28 +32,28 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 
 ## Tips para preparar el Rollo Maracucho
 
-* La calidad del pan de jamón está fuertemente relacionada con la calidad de los ingredientes del relleno. Solemos utilizar Jamón Ahumado, aunque no es limitante.
-* La masa, por razones de producción en las panaderías, se prepara con el método directo, sin embargo, en casa se pueden trabajar masas con prefermentos o masa madre para mejorar las características nutricionales y para hacerla más digerible. No tanto por el sabor de la masa, ya que el pan tiene mucho relleno con sabores fuertes que provienen del jamón, la tocineta y las aceitunas.
-* Después de extender la masa y antes de colocar el relleno algunos panaderos suelen extender mostaza o salsa barbeque, melaza o melao de papelón, este detalle puede hacer diferencia al agregar tonos ácidos o dulces.
+* La calidad del Rollo maracucho está fuertemente relacionada con la calidad de los ingredientes del relleno. Solemos utilizar Plátanos maduros y queso blanco fresco semi duro.
+* La masa, por razones de producción en las panaderías, se prepara con el método directo, sin embargo, en casa se pueden trabajar masas con prefermentos o masa madre para mejorar las características nutricionales y para hacerla más digerible. 
 * Utiliza los ingredientes del relleno a temperatura ambiente para que no afecte el desarrollo de la masa.
-* Es muy importante dejar reposar la masa suficientemente para que esté relajada antes de entrar al horno. * Para evitar que se rompa el rollo, amasa hasta que la textura sea lisa y uniforme, si sientes muy seca la masa agrega agua de acuerdo al tipo de harina que utilices, extiende con un grosor uniforme y en forma de rectángulo, coloca la cantidad de relleno indicada y al cerrar el rollo no lo aprietes demasiado.
+* Es muy importante dejar reposar la masa suficientemente para que esté relajada antes de entrar al horno. 
+* Para evitar que se rompa el rollo, amasa hasta que la textura sea lisa y uniforme, si sientes muy seca la masa agrega agua de acuerdo al tipo de harina que utilices, extiende con un grosor uniforme y en forma de rectángulo, coloca la cantidad de relleno indicada y al cerrar el rollo no lo aprietes demasiado.
 * Realizar las perforaciones a la masa después de armar el rollo para que los gases tengan forma de escapar.
 * Si vas a utilizar harina todo uso de origen canadiense o europeo, agrega 11g de agua adicional a la cantidad de agua indicada en la lista de ingredientes de la masa.
 
 {% include whatsapp.html %}
 
-# Pan de Jamón
+# Rollo Maracucho
 
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_01.jpeg" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/rollo-maracucho/rollo_maracucho_01.jpeg" alt="{{page.title}}">
 
 ## Masa leudada con levadura instantánea
 
-* Es un rollo relleno con aceitunas, jamón, tocineta y pasas.
+* Es un rollo relleno con tajadas fritas, queso blanco fresco semi-duro rallado y tocineta.
 * Son 560g de masa y 672g de relleno.
 * Temperatura ambiente 22ºC - 26ºC
 * 58% de hidratación (Baja hidratación) y 10% de grasa.
 
-### Ingredientes para preparar el Pan de Jamón
+### Ingredientes para preparar el Rollo Maracucho
 
 | Ingrediente                                           |    Fórmula    |      Peso |
 |:------------------------------------------------------|:-------------:|----------:|
@@ -68,30 +68,28 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 | ------------------------------------------------------|---------------|-----------|
 | **Total**                                             |   **188%**    | **560g**  |
 
-### Calculadora para preparar el Pan de Jamón
+### Calculadora para preparar el Rollo maracucho
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-### Relleno del Pan de Jamón
+### Relleno del Rollo maracucho
 
 | Ingrediente                               |    Fórmula    |      Peso |
 |:------------------------------------------|:-------------:|----------:|
-| Jamón ahumado                             |      100%     |      467g |
+| Queso blanco rallado                      |      100%     |      467g |
 | Tocineta                                  |      15%      |       70g |
-| Aceitunas verdes rellenas                 |      15%      |       70g |
+| Tajadas de plátano fritas                 |      15%      |       70g |
 | Pasas negras                              |      10%      |       47g |
 | Papelón rallado                           |       4%      |       19g |
 | ------------------------------------------|---------------|-----------|
 | **Total**                                 |   **144%**    | **672g**  |
 
-### Calculadora para preparar el Pan de Jamón
+### Calculadora para preparar el Rollo maracucho
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso para preparar el Pan de Jamón
-
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_03.jpeg" alt="{{page.title}}">
+## Paso a paso para preparar el Rollo maracucho
 
 <div id="preparacion"></div>
 
@@ -113,8 +111,6 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 
 <div id="sobado"></div>
 
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_04.jpeg" alt="{{page.title}}">
-
 #### Ciclo de sobado 
 
 - Extiende la masa con ayuda de un rodillo en la mesa de trabajo, formando un cuadrado y haz un pliegue de la masa sobre sí misma al menos 5 a 7 veces.
@@ -127,14 +123,12 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 
 ### Formado
 
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_05.jpeg" alt="{{page.title}}">
-
 - Con la ayuda de un rodillo, extiende la masa en un rectángulo de 30cm x 40cm.
-- Coloca el barniz de mostaza u otra salsa de tu preferencia.
-- Coloca las aceitunas en una hilera en el extremo superior de la masa. Enrolla las aceitunas en la masa.
-- Coloca el jamón bien repartido sobre la masa.
-- Coloca las tiras de tocineta encima de forma diagonal, luego las pasas y esparce el papelón rallado.
-- Desde el extremo donde están las aceitunas comienza a enrollar hacia tí, sin apretar mucho.
+- Coloca el barniz de mantequilla aligerada y luego esparce el papelón rallado sobre la masa.
+- Coloca el queso blanco bien repartido sobre la masa.
+- Coloca las tajadas de plátano fritas sobre el queso blanco, bien repartidas a lo largo del pan.
+- Coloca las tiras de tocineta encima de forma diagonal.
+- Comienza a enrollar hacia tí, sin apretar mucho.
 - Extiende manteca vegetal sobre una bandeja y colóca el rollo.
 - Con un palito de altura o un tenedor realiza perforaciones sin llegar al fondo de la masa.
 - Extiende una barniz de aceite vegetal sobre todo el rollo.
@@ -144,8 +138,6 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 - Deja reposar el rollo en la bandeja tapada con plástico preferiblemente a una temperatura entre 24ºC y 27ºC durante noventa (90) minutos.
 
 ### Barnices, coberturas y cortes
-
-<img class="post_image post_image_right" src="/images/panes/jamon/jamon_06.jpeg" alt="{{page.title}}">
 
 - Con ayuda de una brocha de cocina, barniza el pastón de masa con una capa de huevo batido colado con una pizca de azúcar y sal.
 
@@ -165,13 +157,12 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia Morales [@dunitasbakery]{:target="blank"}, Alba Cennerazzo [@farinaelievito]{:target="blank"} y Claudia Raga [@algosevaacocinar]{:target="blank"}.
 
 **¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1 (2025/12/16)__
+__Versión 1.0 (2026/03/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
