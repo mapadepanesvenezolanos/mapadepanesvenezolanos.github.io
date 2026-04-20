@@ -155,8 +155,8 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
 - Coloca ciento un (101)gramos del relleno sobre la masa, dejando unos cinco (5cm) sin relleno en uno de los lados de treinta (30) centímetros.
 - Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno.
-- Engrasa un recipiente o bandeja alto para mantener la humedad.
-- Corta el rollo en seis (6) partes iguales y coloca cada porción en una bandeja previamente engrasada.
+- Engrasa un recipiente o bandeja.
+- Corta el rollo en seis (6) partes iguales y coloca cada porción en el recipiente o bandeja.
 
 ### Fermentación final (maduración)
 
@@ -292,8 +292,8 @@ Les dejamos una foto del corte transversal de la cereza de un grano de café. La
 - Con el rodillo extiende la masa en un rectángulo de treinta (30) x cuarenta (40) centímetros.
 - Coloca el relleno sobre la masa, dejando unos cinco (5) centímetros sin relleno en uno de los lados de treinta (30) centímetros.
 - Enrolla la masa sin generar tensión, desde el lado de treinta (30) centímetros con relleno.
-- Engrasa un recipiente o bandeja alto para mantener la humedad.
-- Corta el rollo en seis (6) partes iguales y coloca cada porción en una bandeja previamente engrasada.
+- Engrasa un recipiente o bandeja.
+- Corta el rollo en seis (6) partes iguales y coloca cada porción en el recipiente o bandeja.
 
 ### Fermentación final (maduración)
 
@@ -335,7 +335,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2026/04/20)__
+__Versión 3.3 (2026/04/20)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
