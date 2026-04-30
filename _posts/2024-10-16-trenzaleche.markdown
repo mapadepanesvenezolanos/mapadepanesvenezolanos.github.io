@@ -40,7 +40,6 @@ En nuestra versión contemporánea, el pan evoluciona hacia una masa donde la ri
 - En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
 - Este pan utiliza el quince (15%) por ciento de mantequilla en relación a la harina, es por ello que se incorpora después de mezclar todos los ingredientes y después de la sal. Cuando la mantequilla supera el cinco (5%) por ciento , debe incorpórase al final del amasado y cuando la incorpore no se desespere, la masa se va a separar, asi que siga amasando hasta que la masa ceda, absorba la mantequilla y quede tersa, flexible y suave.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomiendo que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
-- Esta receta sigue el método directo de la panadería, que consiste en doce (12) pasos que van desde la preparación y pesado de los ingredientes, hasta el enfriamiento del pan. El método describe los pasos que se realizan para elaborar un pan el mismo día. Hemos notado que generalmente se consiguen las recetas pero no se explican las técnicas y métodos del panadero casero, esperamos cerrar un poco esta brecha y abonar en la dirección de que puedas elaborar panes en casa de muy alta calidad.
 - Normalmente se realiza la decoración del pastón justo antes de meterlo en el horno. Como la trenza de leche va a tener una costra de azúcar, este paso se va a realizar antes de la fermentación final. Se cambia el orden para generar el efecto de la costra de azúcar. Ahora vamos a ver los ingredientes para luego seguir el paso a paso del panadero.
 
 {% include whatsapp.html %}
@@ -126,7 +125,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomendamos meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6) y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, lleva tu envase cubierto con una bolsa plástica a la nevera, preferiblemente a cuatro (4) grados centígrados, entre seis (6) y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
@@ -173,7 +172,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.4 (2026/04/30)__
+__Versión 3.5 (2026/04/30)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
