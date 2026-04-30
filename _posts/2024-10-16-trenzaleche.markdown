@@ -29,7 +29,9 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 <img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
-“Original del estado Táchira, este pan dulce parte de un fermento denominado “guarapo” o “talvina” (masa prefermentada), confeccionado con harina de trigo, panela y agua que, luego de mezclarse, se deja hasta el día siguiente.” [^1]
+"Original del estado Táchira"[^1], la Trenza de leche nace de la tradición del pan de leche andino, un pan dulce enriquecido que en sus versiones más antiguas partía de fermentos naturales como el guarapo o la talvina.
+
+En nuestra versión contemporánea, el pan evoluciona hacia una masa directa, donde la riqueza no proviene del prefermento sino de la incorporación de ingredientes como la leche en polvo, el huevo, la mantequilla y el azúcar, que aportan suavidad, elasticidad y un perfil aromático más inmediato.
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
@@ -121,9 +123,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 <div id="retardo"></div>
 
-### Retardo en nevera (opcional)
+### Retardo en nevera 
 
-- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomiendo meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6)y ocho (8) horas.
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, te recomendamos meter tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre seis (6) y ocho (8) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado
@@ -170,7 +172,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.1 (2025/09/20)__
+__Versión 3.2 (2026/04/30)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
