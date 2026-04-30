@@ -31,7 +31,7 @@ Este es un pan de miga suave y esponjosa debido a la combinación de leche, huev
 
 "Original del estado Táchira"[^1], la Trenza de leche nace de la tradición del pan de leche andino, un pan dulce enriquecido que en sus versiones más antiguas partía de fermentos naturales como el guarapo o la talvina.
 
-En nuestra versión contemporánea, el pan evoluciona hacia una masa directa, donde la riqueza no proviene del prefermento sino de la incorporación de ingredientes como la leche en polvo, el huevo, la mantequilla y el azúcar, que aportan suavidad, elasticidad y un perfil aromático más inmediato.
+En nuestra versión contemporánea, el pan evoluciona hacia una masa donde la riqueza no proviene del prefermento sino de la incorporación de ingredientes como la leche en polvo, el huevo, la mantequilla y el azúcar, que aportan suavidad, elasticidad y un perfil aromático más inmediato.
 
 [^1]: Soy Panadero, un homenaje a los artesanos del pan en venezuela.
 
@@ -172,7 +172,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2026/04/30)__
+__Versión 3.3 (2026/04/30)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
