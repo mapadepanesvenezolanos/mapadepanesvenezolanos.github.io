@@ -94,7 +94,8 @@ En nuestra versión contemporánea, el pan evoluciona hacia una masa donde la ri
 - En otro envase mezcla el agua con la leche en polvo, el huevo y el azúcar hasta disolver.
 - Crea un volcán con la mezcla de harina y levadura y coloca los líquidos en el centro del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
-- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
+- Amasa la mezcla durante un (1) minuto y agrega la sal, amasa hasta que no sientas granos de sal en la masa, no más de dos (2) minutos. 
+- Forma una bola y colócala dentro de un envase cubierto durante diez (10) minutos.
 
 <div id="segundociclo"></div>
 
@@ -172,7 +173,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.3 (2026/04/30)__
+__Versión 3.4 (2026/04/30)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
