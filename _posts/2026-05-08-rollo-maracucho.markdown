@@ -45,7 +45,7 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 
 # Rollo Maracucho
 
-<img class="post_image post_image_right" src="/images/panes/rollo-maracucho/rollo_maracucho_01.jpeg" alt="{{page.title}}">
+<img class="post_image post_image_right" src="/images/panes/rollo-maracucho/rollo_maracucho_01.jpg" alt="{{page.title}}">
 
 ## Masa leudada con levadura instantánea
 
