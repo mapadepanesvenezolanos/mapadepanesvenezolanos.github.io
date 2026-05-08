@@ -13,7 +13,6 @@ keywords: rollo maracucho, historia del rollo maracucho, origen del rollo maracu
 featured_image: '/images/panes/rollo-maracucho/rollo_maracucho_01.jpg'
 formula_name: "rollomaracucho"
 second_formula_name: "rollomaracuchorelleno"
-
 ---
 
 ## RECETA, FÓRMULA y TÉCNICAS del Rollo Maracucho
