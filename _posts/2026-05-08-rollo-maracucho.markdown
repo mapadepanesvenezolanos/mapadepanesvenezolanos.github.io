@@ -8,7 +8,6 @@ permalink: /panes-venezolanos/rollo-maracucho/
 categories: pan suave y relleno enriquecido semi dulce Zulia
 tipo: suaves y rellenos
 region: Sistema Coreano y sus márgenes  
-
 keywords: rollo maracucho, historia del rollo maracucho, origen del rollo maracucho, rollo maracucho venezuela, rollo maracucho con levadura instantanea, rollo maracucho venezolano origen, rollo maracucho, ingrediente del rollo maracucho, caracteristicas del rollo maracucho, ingredientes para masa de rollo maracucho, venezolano rollo maracucho, receta de rollo maracucho con levadura instantanea, rollo maracucho receta, receta de rollo maracucho, rollo maracucho venezolano, masa para rollo maracucho, receta rollo maracucho, que es el rollo maracucho, como hacer rollo maracucho, el rollo maracucho, pan con jamon, masa de rollo maracucho, rollo maracucho ingredientes, cuanto pesa un rollo maracucho, rollo maracucho origen, roll de rollo maracucho, como saber si el rollo maracucho esta listo, ingredientes rollo maracucho, panes de jamon, ingredientes del rollo maracucho, rollo de rollo maracucho
 featured_image: '/images/panes/rollo-maracucho/rollo_maracucho_01.jpg'
 formula_name: "rollomaracucho"
