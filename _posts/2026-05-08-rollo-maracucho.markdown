@@ -77,8 +77,8 @@ Este pan nace en el ecosistema panadero del estado Zulia, donde la panadería ti
 | Ingrediente                               |    Fórmula    |      Peso |
 |:------------------------------------------|:-------------:|----------:|
 | Queso blanco rallado                      |     100%      |      244g |
-| Tocineta                                  |      45%      |       98g |
-| Tajadas de plátano maduro fritas          |      40%      |      110g |
+| Tocineta                                  |      40%      |       98g |
+| Tajadas de plátano maduro fritas          |      45%      |      110g |
 | Papelón rallado                           |       5%      |       12g |
 | Mantequilla sin sal                       |       5%      |       12g |
 | ------------------------------------------|---------------|-----------|
