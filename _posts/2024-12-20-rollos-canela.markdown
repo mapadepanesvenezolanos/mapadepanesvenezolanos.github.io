@@ -198,14 +198,15 @@ Para la concepción de este pan, hemos utilizado como fuente de inspiración, la
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@panesve]{:target="blank"},[@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.2 (2026/02/16)__
+__Versión 3.3 (2026/05/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
+[@panesve]: https://www.instagram.com/panesve
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
 [@dunitasbakery]: https://www.instagram.com/dunitasbakery

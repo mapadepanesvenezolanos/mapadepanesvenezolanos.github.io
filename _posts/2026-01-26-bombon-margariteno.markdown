@@ -154,18 +154,19 @@ Según [Trina Arocha], el Bombón margariteño, "es una variedad de pan de trigo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Isla de Margarita, estado Nueva Esparta adapatadas y mejoradas para el panadero casero.¡Muchas gracias!
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"}, y la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio ha sido la clave mágica, que nos permitió alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Isla de Margarita, estado Nueva Esparta, siempre adaptado al panadero casero.¡Muchas gracias!
  
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
-**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@panesve]{:target="blank"},[@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.3 (2026/02/17)__
+__Versión 1.4 (2026/05/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
+[@panesve]: https://www.instagram.com/panesve
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
 [@dunitasbakery]: https://www.instagram.com/dunitasbakery

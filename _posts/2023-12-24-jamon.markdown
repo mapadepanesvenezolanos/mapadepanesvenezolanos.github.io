@@ -122,6 +122,18 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 - Realiza un preformado redondo y deja reposar la masa tapada por diez (10) minutos.
 
+### Primera fermentación
+
+La masa va a reposar durante una (1) hora a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. 
+
+- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+
+### Retardo en nevera 
+
+- Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, lleva tu envase cubierto con una bolsa plástica a la nevera, preferiblemente a cuatro (4) grados centígrados, entre seis (6) y ocho (8) horas.
+- Saca el envase de la nevera y llévalo a la mesa de trabajo durante treinta (30) minutos entre 24ºC/75ºF y 27ºC/80ºF .
+
+
 ### Formado
 
 <img class="post_image post_image_right" src="/images/panes/jamon/jamon_05.jpeg" alt="{{page.title}}">
@@ -148,7 +160,7 @@ Probablemente la mejor fuente sobre el origen del Pan de Jamón es el libro de M
 
 ### Horneado
 
-- Una hora antes enciende el horno a una temperatura de 180ºC/350ºF.
+- Una hora antes enciende el horno a una temperatura de 180ºC/355ºF.
 - Introduce la bandeja en el horno y déjala por cuarenta y cinco (45) minutos.
 - Está pendiente para que no quede muy oscuro el Pan. Si hace falta coloca una bandeja en una rejilla superior para controlar el color final.
 
@@ -168,7 +180,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 2.1 (2025/12/16)__
+__Versión 3.0 (2026/05/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
