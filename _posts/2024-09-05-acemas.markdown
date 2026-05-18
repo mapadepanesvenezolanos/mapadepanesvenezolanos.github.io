@@ -54,11 +54,11 @@ xxxxxx
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
 | Harina panadera                                              |      100%     |      462g |
-| Agua                                                         |      30%      |      139g |
+| Agua                                                        |      30%      |      139g |
 | Levadura instantánea                                         |      1%       |        5g |
 | Sal                                                          |      2%       |        9g |
-| Huevos batidos                                               |      20%      |       92g |
-| Mantequilla/Aceite de canola/maíz                            |      10%      |       46g |
+| Huevos ligeramente batidos                                   |      20%      |       92g |
+| Grasa (Mantequilla sin sal)                                  |      10%      |       46g |
 | Azúcar                                                       |      5%       |       23g |
 | Leche en polvo                                               |      5%       |       23g |
 | -------------------------------------------------------------|---------------|-----------|
