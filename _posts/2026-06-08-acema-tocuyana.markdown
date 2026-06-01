@@ -2,7 +2,7 @@
 title: "Acema tocuyana"
 subtitle: "Tradición del Estado Lara para todo el mundo."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana o de Cubiro. En los Andes también la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
-date: 2026-31-05 00:00:00 -0400
+date: 2026-06-08 00:00:00 -0400
 published: false
 permalink: /panes-venezolanos/acema-tocuyana/
 categories: pan dulce enriquecido los_andes occidente
@@ -48,7 +48,7 @@ Más que un pan dulce, la acema tocuyana es un símbolo de la tradición panader
 
 - Prepararemos 1 unidad de 800g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 55% de hidratación (media hidratación)
+- 65% de hidratación (media hidratación)
 
 ### Ingredientes para preparar la Acema Tocuyana
 
@@ -153,7 +153,7 @@ Pruebas de aseguramiento de calidad han sido realizadas en conjunto con: Dunia M
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/05/18)__
+__Versión 1.0 (2026/06/01)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 

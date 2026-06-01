@@ -2,7 +2,7 @@
 title: "Pan vienés"
 subtitle: "El pan suave que acompaña generaciones"
 description: "El pan vienés es de miga fina y suavidad envolvente, que resume la tradición caraqueña en cada bocado."
-date: 2026-03-24 00:00:00 -0400
+date: 2026-06-08 00:00:00 -0400
 published: false
 permalink: /panes-venezolanos/pan-vienes/
 categories: pan enriquecido distrito capital
@@ -62,24 +62,23 @@ Es como si en lugar de construir una malla de acero, construyeras una red de alg
 
 ## Masa leudada con levadura instantánea
 
-* 10 Barras de 100 g de masa.
+* 6 Barras de 120 g de masa.
 * Temperatura ambiente 22.5ºC - 27ºC.
-* 59.5 % de hidratación (Media hidratación).
+* 55% de hidratación (Media hidratación).
 
 ### Ingredientes para la masa
 
 | Ingrediente                 | Fórmula     | Peso    |
 |:----------------------------|:-----------:|--------:|
-| Harina panadera             |        100% |   562g  |
-| Agua                        |         55% |   309g  |
-| Levadura instantánea        |          1% |     6g  |
-| Sal                         |          2% |    11g  |
-| Huevos ligeramente batidos  |          5% |    28g  |
-| Grasa (Mantequilla sin sal) |          5% |    28g  |
-| Azúcar                      |          5% |    28g  |
-| Leche en polvo              |          5% |    28g  |
+| Harina panadera             |        100% |   414g  |
+| Agua                        |         55% |   228g  |
+| Levadura instantánea        |          1% |     4g  |
+| Sal                         |          1% |     4g  |
+| Grasa (Mantequilla sin sal) |          5% |    21g  |
+| Azúcar                      |         10% |    41g  |
+| Leche en polvo              |          2% |     8g  |
 |-----------------------------|-------------|---------|
-| **Total**                   |   **178%**  |**1000g**|
+| **Total**                   |   **174%**  | **720g**|
 
 ### Calculadora para la masa 
 
@@ -102,30 +101,16 @@ Es como si en lugar de construir una malla de acero, construyeras una red de alg
 
 - Para la mezcla inicial reserva la sal.
 - En un envase mezcla la harina y la levadura instantánea.
-- En otro envase mezcla el agua, el azúcar, la leche en polvo con los huevos hasta disolver.
+- En otro envase mezcla el agua, el azúcar y la leche en polvo hasta disolver.
 - Crea un volcán con la mezcla de los sólidos. 
 - Coloca los líquidos y la mantequilla pomada en el centro del volcán.
 - Agrega la sal en el borde del volcán.
 - Integra los ingredientes hasta tener un amasijo. Amasa dos minutos, forma una bola y deja reposar por diez (10) minutos.
 
-### Primera fermentación 
-
-La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
-
-- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
-
-### Manipulación
-
-La idea de la manipulación es igualar la temperatura de toda la masa y sacar los gases (desgasificar) para evitar que los gases generen un sabor ácido en la masa.
-
-- Saca la masa del envase, extiende la masa sobre la mesa y desgasifica la masa presionando con la palma de la mano, sin dañar, ni romper.
-- Realiza pliegues desde los extremos de la masa al centro, formando un moño en el centro.
-- Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
-- Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
-
-### Fermentación en bloque (maduración en nevera opcional)
-
-- Coloca el recipiente tapado en la nevera entre ocho (8h) y doce (12h) horas.
+#### Ciclo de Sobado
+- Realiza sobados con el rodillo estirando y plegando la masa sobre sí misma unas siete (7) a diez (10) veces. 
+- Dejar reposar la masa diez (10) minutos.
+- Realiza la prueba del gluten, si todavía falta vuelve a sobar la masa y haga reposos de diez (10) minutos hasta que el gluten se desarrolle. 
 
 ### División
 - Pesa la masa en una balanza.
@@ -135,26 +120,27 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Formado en barra 
 
 - Con el rodillo extiende cada bolita de masa, formando un rectángulo de treinta (30) centímetros de largo por quince (15) centímetros de largo.
-- Enrolla hasta formar una barra, sin hacer mucha presión durante el proceso.
+- Enrolla hasta formar una barra, sin hacer mucha presión durante el proceso, pellizcando al final las orillas para sellar.
 - Coloca tus barra de pan en una bandeja metálica, sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
 - Repite el proceso con la siguiente bolita de masa.
 
-### Fermentación final (maduración)
-
-- Deja reposar el pastón aproximadamente por una (1) hora y treinta (30) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
-
 ### Barnices, coberturas y cortes
 
-- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/355ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Utilizando una brocha de cocina, cubre la superficie de tus barritas de pan con una fina capa de huevo batido colado, una pizca de sal y una de azúcar.
+- Utilizando una brocha de cocina, cubre la superficie de tus barritas de pan con una fina capa de huevo batido, aligerado con tres (3) gramos de leche líquido, colado y mezclado con una pizca de sal y otra de azúcar.
 - Con una hojilla o cuchilla bien afilada, en cada pastón realiza cortes diagonales múltiples, Inclinados a unos 30°–45°, distribuidos a lo largo de la barra, poco profundos pero definidos, bastante uniformes y ordenados.
+
+### Fermentación final (maduración)
+
+- Deja reposar el pastón aproximadamente por una (1) hora y quince (15) minutos, en un lugar fresco y sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF o hasta que **supere la prueba de maduración con el dedo, es decir, que la masa no se regrese o se regrese muy lentamente**.
 
 ### Horneado
 
-- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante aproximadamente veinte (20) minutos.
+- Enciende el horno media (30) minutos antes de hornear a una temperatura de 180ºC/350ºF. Si tienes un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Cuando el horno haya alcanzado la temperatura indicada, coloca la bandeja en el medio del horno durante entre quince (15) y veinte (20) minutos.
 - Verifica el horno asegurándote que tus Panes Vienéses, se horneen de manera uniforme. 
 - Mueve la bandeja o dale vueltas si hace falta para lograr un horneado uniforme.
 - Saca tus Panes Vienéses del horno cuando tengan el color dorado de tu gusto.
+- Apaga el horno.
 
 ### Enfriamiento
 
@@ -166,7 +152,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración la fórmula del [Grupo Académico Panadero y Pastelero de Venezuela GAPP] descrita en la maestría de panadería.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración la fórmula del [Grupo Académico Panadero y Pastelero de Venezuela GAPP] y las referencias del proceso [Le Grand Manuel du Boulanger]
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -174,7 +160,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/03/24)__
+__Versión 1.0 (2026/06/01)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -186,3 +172,4 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
 [@luisagonzalezp]: https://www.instagram.com/luisagonzalezp
 [Grupo Académico Panadero y Pastelero de Venezuela GAPP]: https://www.gappvzla.dsinternacional.com/restaurant_menu1.html
+[Le Grand Manuel du Boulanger]: https://www.amazon.ca/grand-manuel-du-boulanger/dp/2501188284/ref=asc_df_2501188284?mcid=45c71b14a7f03eb790266dacca5dcf62&tag=googleshopc0c-20&linkCode=df0&hvadid=730947764843&hvpos=&hvnetw=g&hvrand=12526539070378154530&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000432&hvtargid=pla-2373124288743&psc=1&hvocijid=12526539070378154530-2501188284-&hvexpln=0&gad_source=1
