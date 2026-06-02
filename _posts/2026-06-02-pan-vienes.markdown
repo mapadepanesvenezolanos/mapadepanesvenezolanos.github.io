@@ -2,8 +2,8 @@
 title: "Pan vienés"
 subtitle: "El pan suave que acompaña generaciones"
 description: "El pan vienés es de miga fina y suavidad envolvente, que resume la tradición caraqueña en cada bocado."
-date: 2026-06-08 00:00:00 -0400
-published: false
+date: 2026-06-02 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/pan-vienes/
 categories: pan enriquecido distrito capital
 tipo: suaves
@@ -47,11 +47,7 @@ A finales del siglo XIX y comienzos del XX, Venezuela, especialmente Caracas, re
 
 ## Tips para preparar el Pan vienés 
 
-- En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee;
-- Este pan utiliza el cinco (5%) por ciento de mantequilla en relación a la harina. Cuando agregas la mantequilla desde el inicio, la grasa interfiere desde temprano en la formación del gluten, se forma una red más corta, menos elástica y más frágil, el resultado:
-👉 el pan no desarrolla una estructura “tensa”.
-👉 sino una estructura tierna y homogénea.
-Es como si en lugar de construir una malla de acero, construyeras una red de algodón. es por ello que se incorpora al mezclar todos los ingredientes y después de la sal.
+- En panadería se utiliza la fórmula panadera que consiste en colocar todos los ingredientes en función de la harina, que representa el cien (100%) por ciento. De esta manera utilizando una regla de tres, se puede saber el peso de cada ingrediente y así producir la cantidad de panes requeridos, del peso que se desee.
 - La harina panadera se caracteriza por la cantidad de proteínas que contiene. Recomendamos que la harina que utilices contenga alrededor de doce (12%) por ciento de proteínas.
 - Durante el formado, enrolla tu pastón sin generar presión para evitar que el pan se rompa durante el horneado.
 - El corte diagonal múltiple al decorar el pan vienes, viene del pan vienés europeo, pero en Venezuela se volvió más limpio, repetitivo y estético, casi como si el pan se peinara antes de entrar al horno 💇‍♂️🔥
@@ -119,7 +115,7 @@ Es como si en lugar de construir una malla de acero, construyeras una red de alg
 
 ### Formado en barra 
 
-- Con el rodillo extiende cada bolita de masa, formando un rectángulo de treinta (30) centímetros de largo por quince (15) centímetros de largo.
+- Con el rodillo extiende cada bolita de masa, formando un cilindo de veinticinco (25) centímetros de largo por veinte (20) centímetros de largo.
 - Enrolla hasta formar una barra, sin hacer mucha presión durante el proceso, pellizcando al final las orillas para sellar.
 - Coloca tus barra de pan en una bandeja metálica, sobre una alfombrilla de silicona o engrasada previamente con mantequilla sin sal.
 - Repite el proceso con la siguiente bolita de masa.
@@ -160,7 +156,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/06/01)__
+__Versión 1.0 (2026/06/02)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
