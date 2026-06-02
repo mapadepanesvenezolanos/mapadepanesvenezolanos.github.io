@@ -169,3 +169,5 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@luisagonzalezp]: https://www.instagram.com/luisagonzalezp
 [Grupo Académico Panadero y Pastelero de Venezuela GAPP]: https://www.gappvzla.dsinternacional.com/restaurant_menu1.html
 [Le Grand Manuel du Boulanger]: https://www.amazon.ca/grand-manuel-du-boulanger/dp/2501188284/ref=asc_df_2501188284?mcid=45c71b14a7f03eb790266dacca5dcf62&tag=googleshopc0c-20&linkCode=df0&hvadid=730947764843&hvpos=&hvnetw=g&hvrand=12526539070378154530&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9000432&hvtargid=pla-2373124288743&psc=1&hvocijid=12526539070378154530-2501188284-&hvexpln=0&gad_source=1
+[cachito]: (/panes-venezolanos/cachito/)
+[pan de leche]: (/panes-venezolanos/pan-de-leche/)
