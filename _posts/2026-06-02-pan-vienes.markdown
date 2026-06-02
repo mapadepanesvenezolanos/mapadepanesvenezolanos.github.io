@@ -9,7 +9,7 @@ categories: pan enriquecido distrito capital
 tipo: suaves
 region: Sistema de la costa  
 keywords: pan vienés, el pan vienés, pan vienés venezolano, pan vienés venezuela, receta de pan vienés, receta pan vienés, pan vienés receta, receta de pan vienés  venezolano,  como hacer pan suave y relleno vienés, pan vienés, pan vienés venezolano, pan vienés, pan vienés  venezolano, receta del trenza de leche, receta pan vienés venezolano, panes venezolanos, pan suave venezolano, pan vienés receta, ingredientes del pan vienés, ingredientes para el pan vienés, pan vienés  ingredientes, pan vienés suave venezolano receta, panadería venezolana, recetas de pan venezolano,  historia del pan vienés, pan vienés historia, pan vienés origen, origen del pan vienés , pan vienés casero, receta pan vienés, recetas de pan vienés, recetas pan vienés, cómo hacer pan vienés, panes suaves, pan vienés  venezolano, pan vienés , receta de panecillos suaves venezolanos, panecillos suaves y rellenos, como se hace la pan vienés, cómo se hace el pan vienés en Venezuela, como preparar pan vienés, cómo preparar pan vienés, pancitos rellenos , pan vienés panadería, pan vienés, como hacer pan vienés venezolano en casa, pan vienés, como hacer panes venezolanos en la diaspora
-featured_image: '/images/panes/pan-vienes/pan_vienes_01.jpg'
+featured_image: '/images/panes/vienes/pan_vienes_01.jpg'
 formula_name: "panvienes"
 ---
 
