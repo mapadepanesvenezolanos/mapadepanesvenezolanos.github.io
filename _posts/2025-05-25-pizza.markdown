@@ -84,14 +84,14 @@ Es una base tipo pan plano, dorada y crujiente por fuera, suave y aireada por de
 - Con las dos manos humedas realiza la prueba de la membrana de gluten.
 - Coloca la masa en la mesa de trabajo previamente enharinada.
 
+### Fermentación inicial
+
+- Tapamos ambos envases y dejamos reposar sesenta (60) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
+
 ### División
 
 - Divide la masa en dos porciones de igual peso.
 - Cada bola la colocamos en un recipiente con una capa fina de aceite de oliva.
-
-### Fermentación inicial
-
-- Tapamos ambos envases y dejamos reposar sesenta (60) minutos a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
 ### Retardo en nevera
 
@@ -160,7 +160,7 @@ Este procedimiento ha sido escrito, validado, ajustado y probado a 4 manos por: 
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.5 (2026/05/08)__
+__Versión 1.6 (2026/06/09)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
