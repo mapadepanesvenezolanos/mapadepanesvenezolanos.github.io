@@ -80,15 +80,16 @@ Relación Masa/Melao: 20%
 
 ## Melao de Papelón Especiado
 
-| Ingrediente          | Fórmula | Peso   |
-|----------------------|:-------:|-------:|
-| Papelón oscuro       |   73%   |   117g |
-| Agua                 |   40%   |    64g |
-| Melaza               |   27%   |    43g |
-| Clavitos de olor     |    0.5% |     1g |
-| Pimienta guayabita   |    0.5% |     1g |
-|----------------------|---------|--------|
-| **Total**            | **141%**|**226g**|
+| Ingrediente           | Fórmula   | Peso   |
+|-----------------------|:---------:|-------:|
+| Papelón oscuro        |   73%     |   117g |
+| Agua                  |   40%     |    64g |
+| Melaza                |   27%     |    43g |
+| Clavitos de olor      |    0.5%   |     1g |
+| Pimienta guayabita    |    0.5%   |     1g |
+| Rama de canela grande |    0.5%   |     1g |
+|-----------------------|-----------|--------|
+| **Total**             | **141.5%**|**227g**|
 
 ---
 
@@ -109,9 +110,9 @@ Relación Masa/Melao: 20%
 ## Preparación del melao de papelón especiado (al menos 2 horas antes de preparar la masa del pan)
 - Reserva la melaza a parte.
 - En una olla, coloca el papelón en trozos y el agua.
-- Agrega los clavo de olor enteros y la pimienta guayabita.
-- Cocina a baja temperatura o fuego bajo durante cuarenta (40) minutos aproximadamente, revolviendo ocasionalmente hasta disolver y hasta que el papelón alcance el punto nape.
-- Retira el melao de la hornilla 
+- Agrega la rama de canela, los clavos de olor enteros y la pimienta guayabita.
+- Cocina a baja temperatura o fuego bajo durante treinta (30) minutos aproximadamente, revolviendo ocasionalmente hasta disolver y hasta que el papelón alcance el punto nape.
+- Retira el melao de la hornilla. 
 - Cuela para retirar las especias y reserva.
 - Deja enfriar por al menos treinta (30) minutos.
 - Agrega la melaza al meleao de papelón especiado.
@@ -155,7 +156,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Saca el envase de la nevera y llévalo a la mesa de trabajo, dejando reposar durante sesenta (60) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
 ### Formado de la Acema Tocuyana (ovalado)
-- Vuelca la masa sobre la mesa de trabajo y desgasifícala suavemente, sin apretarla en exceso.
+- Vuelca la masa sobre la mesa de trabajo y desgasifíca suavemente, sin apretarla en exceso.
 - Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un disco grueso.
 - Dobla los lados del disco hacia el centro, como si cerraras un sobre.
 - Sella la unión central presionando suavemente con los dedos.
@@ -167,7 +168,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Fermentación final (maduración)
 
 - Tapa la bandeja con plástico.
-- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 24ºC y 27ºC durante una (1) hora.
+- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 24ºC y 27ºC durante dos (2) horas.
 - El pastón, al menos, debe haber duplicado su volumen inicial.
 
 ### Horneado
@@ -178,7 +179,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Enfriamiento
 
 - Coloca el panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
-- Opcional: pincela de inmediato con una mezcla de agua y papelón o de agua y melaza. En este caso, puedes usar dos cucharadas de melaza por una de agua. Es un toque opcional que no forma parte de la receta original, pero ayuda a darle al pan un brillo hermoso y apetitoso en la superficie.
+- **Opcional**: pincela de inmediato con una mezcla de agua y papelón o de agua y melaza. En este caso, puedes usar dos cucharadas de melaza por una de agua. Es un toque opcional que no forma parte de la receta original, pero ayuda a darle al pan un brillo hermoso y apetitoso en la superficie.
 - Déjalos reposar, por lo menos, veinte (20) minutos.
 
 ### Consumo del pan
