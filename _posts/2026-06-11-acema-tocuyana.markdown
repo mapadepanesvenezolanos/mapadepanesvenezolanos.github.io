@@ -2,14 +2,14 @@
 title: "Acema tocuyana"
 subtitle: "Tradición del Estado Lara para todo el mundo."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana o de Cubiro. En los Andes también la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
-date: 2026-06-09 00:00:00 -0400
-published: false
+date: 2026-06-11 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/acema-tocuyana/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
 region: Sistema Coreano y sus márgenes  
 keywords: acema tocuyana, historia de la acema tocuyana, origen de la acema tocuyana, acema tocuyana venezuela, acema tocuyana con levadura instantanea, acema tocuyana venezolana origen, acema tocuyana, ingrediente de la acema tocuyana, caracteristicas de la acema tocuyana, ingredientes para masa de acema tocuyana, venezolana acema tocuyana, receta de acema tocuyana con levadura instantanea, acema tocuyana receta, receta de acema tocuyana, acema tocuyana venezolana, masa para acema tocuyana, receta acema tocuyana, que es la acema tocuyana, como hacer acema tocuyana, la acema tocuyana, masa de acema tocuyana, acema tocuyana ingredientes, cuanto pesa una acema tocuyana, acema tocuyana origen, roll de acema tocuyana, como saber si la acema tocuyana esta lista, ingredientes acema tocuyana, ingredientes del acema tocuyana, formado de acema tocuyana
-featured_image: '/images/panes/acema-tocuyana/acema_1.jpeg'
+featured_image: '/images/panes/acema-tocuyana/acema-tocuyana_01.jpg'
 formula_name: "acematocuyana"
 second_formula_name: "acematocuyana-melao"
 
@@ -107,6 +107,7 @@ Relación Masa/Melao: 20%
 - Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
 - Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
 
+
 ## Preparación del melao de papelón especiado (al menos 2 horas antes de preparar la masa del pan)
 - Reserva la melaza a parte.
 - En una olla, coloca el papelón en trozos y el agua.
@@ -157,13 +158,13 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Formado de la Acema Tocuyana (ovalado)
 - Vuelca la masa sobre la mesa de trabajo y desgasifíca suavemente, sin apretarla en exceso.
-- Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un disco grueso.
-- Dobla los lados del disco hacia el centro, como si cerraras un sobre.
-- Sella la unión central presionando suavemente con los dedos.
-- Enrolla la pieza desde un extremo hasta el otro para formar un cilindro corto.
-- Coloca la unión hacia abajo y rueda suavemente con las manos para darle forma.
-- Ajusta hasta obtener un óvalo parejo, con los extremos redondeados.
-- Coloca la pieza de pan en la bandeja con la unión hacia abajo.
+- Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un rectángulo de 40 cm de largo x 30 cm de ancho.
+- Enrolla la pieza desde un extremo hasta el otro para formar un cilindro largo.
+- Sella ambos extremos presionando suavemente con los dedos.
+- Coloca la unión hacia abajo y rueda suavemente con las manos para darle forma y evitar que se abra durante el horneado.
+- Ajusta hasta obtener un cilindro parejo, con los extremos redondeados.
+- Coloca la pieza de pan en bandeja metalica previamente engrasada con la unión hacia abajo.
+- Forma haciendo una herradura. 
 
 ### Fermentación final (maduración)
 
