@@ -1,17 +1,17 @@
 ---
-title: "Acema tocuyana"
-subtitle: "Tradición del Estado Lara para todo el mundo."
-description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema Tocuyana o de Cubiro. En los Andes también la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
+title: "Acema andina"
+subtitle: "Un pan con alma andina."
+description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema andina o de Cubiro. En los Andes la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
 date: 2026-06-11 00:00:00 -0400
 published: true
-permalink: /panes-venezolanos/acema-tocuyana/
+permalink: /panes-venezolanos/acema-andina/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
-region: Sistema Coreano y sus márgenes  
-keywords: acema tocuyana, historia de la acema tocuyana, origen de la acema tocuyana, acema tocuyana venezuela, acema tocuyana con levadura instantanea, acema tocuyana venezolana origen, acema tocuyana, ingrediente de la acema tocuyana, caracteristicas de la acema tocuyana, ingredientes para masa de acema tocuyana, venezolana acema tocuyana, receta de acema tocuyana con levadura instantanea, acema tocuyana receta, receta de acema tocuyana, acema tocuyana venezolana, masa para acema tocuyana, receta acema tocuyana, que es la acema tocuyana, como hacer acema tocuyana, la acema tocuyana, masa de acema tocuyana, acema tocuyana ingredientes, cuanto pesa una acema tocuyana, acema tocuyana origen, roll de acema tocuyana, como saber si la acema tocuyana esta lista, ingredientes acema tocuyana, ingredientes del acema tocuyana, formado de acema tocuyana
-featured_image: '/images/panes/acema-tocuyana/acema-tocuyana_01.jpg'
-formula_name: "acematocuyana"
-second_formula_name: "acematocuyana-melao"
+region: Los Andes  
+keywords: acema andina, historia de la acema andina, origen de la acema andina, acema andina venezuela, acema andina con levadura instantanea, acema andina venezolana origen, acema andina, ingrediente de la acema andina, caracteristicas de la acema andina, ingredientes para masa de acema andina, venezolana acema andina, receta de acema andina con levadura instantanea, acema andina receta, receta de acema andina, acema andina venezolana, masa para acema andina, receta acema andina, que es la acema andina, como hacer acema andina, la acema andina, masa de acema andina, acema andina ingredientes, cuanto pesa una acema andina, acema andina origen, roll de acema andina, como saber si la acema andina esta lista, ingredientes acema andina, ingredientes del acema andina, formado de acema andina
+featured_image: '/images/panes/acema-andina/acema-andina_01.jpg'
+formula_name: "acemaandina"
+second_formula_name: "acemaandina-melao"
 
 ---
 
@@ -19,78 +19,64 @@ second_formula_name: "acematocuyana-melao"
 
 La acema es un Pan enriquecido y aliñado con especies. 
 
-## RECETA, FÓRMULA y TÉCNICAS de la Acema Tocuyana
+## RECETA, FÓRMULA y TÉCNICAS de la Acema andina
 
 ## Resultado esperado
 
-La **Acema tocuyana** debe salir del horno con el alma de El Tocuyo intacta: una pieza de forma ovalada o de herradura irregular, de corteza fina, suave y ligeramente brillante, teñida de un tono canela oscuro que delata la presencia generosa del papelón. Al partirla, revela una miga cerrada, tierna y ligeramente compacta, con pequeños alveolos que sostienen su carácter rústico y artesanal.
+La acema andina debe presentar una miga suave, ligeramente húmeda y de estructura fina, sin llegar a ser aireada como un pan tipo brioche, pero tampoco densa como un pan rústico. Es un punto intermedio donde el sobado y la presencia del afrecho construyen una textura sedosa con un leve carácter.
 
-En aroma, es imposible pasarla por alto: notas cálidas de canela, anís y nuez moscada se mezclan con el dulzor profundo del papelón y el toque salino del queso blanco, creando un equilibrio que la hace inconfundible. Cada bocado debe sentirse reconfortante y lleno de memoria: dulce, especiado y sutilmente lácteo, como esos panes que suelen viajar en bolsas de papel por las carreteras larenses y que rara vez llegan completos a su destino.
+En boca, el dulzor del papelón aparece de forma envolvente, sin saturar, acompañado por notas cálidas de canela, anís o clavo, dependiendo de la mezcla especiada utilizada. La mantequilla aporta redondez y persistencia, mientras que el afrecho introduce un contraste discreto que recuerda su origen andino.
 
-Más que un pan dulce, la acema tocuyana es un símbolo de la tradición panadera de Lara. Su resultado esperado no busca perfección industrial: celebra las formas imperfectas, el color intenso de su horneado y ese sabor que permanece en boca como un eco de fogón antiguo, café recién colado y viajes por carretera hacia el occidente venezolano. ([Mis recetas favoritas by Hilmar][1]) ([es.wikipedia.org][2])
+La corteza es delgada, de color dorado profundo a ámbar, con un brillo leve si ha sido pincelada con melao al salir del horno. Su aroma es intenso y complejo: mezcla de trigo tostado, azúcar caramelizada y especias suaves.
 
-[1]: https://www.recetasfavoritashilmar.com/2010/06/acemita-tocuyana.html "Acemita tocuyana - Mis recetas favoritas by Hilmar"
-[2]: https://es.wikipedia.org/wiki/Acemita "Acemita"
+Es un pan que no busca imponerse, sino acompañar. Funciona tanto en desayunos como en meriendas, y mantiene su calidad incluso horas después del horneado, cuando los aromas del papelón se asientan y la miga gana cohesión.
 
 ## Origen
 
-La acema tocuyana es un pan tradicional originario de El Tocuyo, en el estado Lara, Venezuela, una de las regiones panaderas más antiguas del país.
+La acema andina es uno de esos panes que cuentan la historia de una región a través de sus aromas y sabores. Nacida en los Andes venezolanos, donde el cultivo del trigo encontró tierras fértiles y un clima favorable desde la época colonial, esta acema forma parte de una tradición panadera que ha pasado de generación en generación.
 
-Su historia se remonta a la época colonial, cuando el trigo introducido por los españoles comenzó a transformarse en panes adaptados al gusto y los ingredientes locales.
+Su sabor característico proviene de la combinación de harina de trigo, papelón y especias como el anís, la canela o el clavo de olor, ingredientes que reflejan el encuentro entre las técnicas traídas por los europeos y los productos propios de la cocina venezolana. El resultado es un pan de miga suave y húmeda, con notas dulces y especiadas que evocan las panaderías y hogares andinos.
 
-En este proceso, la acema evolucionó como una preparación propia del occidente venezolano, con identidad larense muy marcada.
+Aunque existen muchas versiones según la familia, el pueblo o la región donde se prepare, la acema andina conserva una esencia común: ser un pan elaborado con paciencia, tradición y profundo arraigo cultural. Cada pieza es un testimonio vivo de la riqueza gastronómica de los Andes venezolanos y del papel que el pan ha tenido en la vida cotidiana de sus habitantes.
 
-Se caracteriza por su mezcla de sabores dulces y especiados, donde el papelón, la canela y el anís juegan un papel importante.
+Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, acompañando desayunos, meriendas y encuentros familiares, mientras preserva una herencia panadera que forma parte del patrimonio culinario del país. 
 
-También incorpora ingredientes como leche, huevos y en nuestra versión queso, lo que le da un perfil único dentro de la panadería venezolana.
+[1]: https://elestimulo.com/bienmesabe/el-fogon-creativo/2023-06-10/acema-tocuyana-el-fogon-creativo-lara Juan Alonso Molina. Diversos trabajos y entrevistas sobre panadería tradicional venezolana, especialmente sobre las acemas criollas y la acema tocuyana.
+[2]: Diccionario de Historia de la Alimentación en Venezuela.
+[3]: Lexicón de formas dialectales del español de Venezuela, útil para rastrear términos tradicionales como "acema".
 
-En El Tocuyo, este pan se consolidó como parte de la vida cotidiana, presente en meriendas, celebraciones y viajes.
-Su forma ovalada o en rosca refleja una tradición artesanal transmitida en hornos familiares y comunitarios.
+## Tips para preparar la Acema andina
 
-La acema tocuyana forma parte de una red de panes regionales andinos y occidentales con profundas raíces históricas.
-Más que una receta, representa la memoria panadera de una ciudad clave en la historia de Venezuela.
-
-Hoy sigue siendo un símbolo vivo de El Tocuyo y de su legado gastronómico.
-
-## Tips para preparar la Acema Tocuyana
-
-- Al momento de colocar el barniz hazlo con mucha atención para que todo el pastón tenga barniz y el color quede con un acabado uniforme.
-- Una vez formada tu acema tocuyana, con la palma de una de tus manos, aplasta suavente la superficie del pan antes de llevarlo a la fermentación final.
+- Durante el sobado realiza pliegues para darle estructura a la masa hasta alcanzar una textura en la masa lisa y tersa.
 
 {% include whatsapp.html %}
 
-<div id="tocuyana"></div>
-
-# Acema Tocuyana
+# Acema andina
 
 ## Masa leudada con levadura instantánea
 
-- Prepararemos 1 unidad de 800g de masa
+- Prepararemos 10 unidad de 50g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 65% de hidratación (media hidratación)
+- 50% de hidratación (media hidratación)
 
-### Ingredientes para preparar la Acema Tocuyana
+### Ingredientes para preparar la Acema andina
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      366g |
-| Agua                                                         |       25%     |       92g |
-| Levadura instantánea                                         |        2%     |        7g |
-| Sal                                                          |        1%     |        4g |
-| Huevos ligeramente batidos                                   |       10%     |       37g |
-| Grasa (Mantequilla sin sal)                                  |        5%     |       18g |
-| Azúcar                                                       |        2%     |        7g |
-| Leche en polvo                                               |        2%     |        7g |
-| Melao de papelón especiado                                   |       30%     |      110g |
-| Queso blanco semiduro rallado                                |       20%     |       73g |
-| Semillas de anís molido                                      |        0.5%   |        2g |
-| Nuez moscada en polvo                                        |        0.5%   |        2g |
-| Canela en polvo                                              |        0.5%   |        2g |
-| Talvina                                                      |       20%     |       73g |
+| Harina panadera                                              |      100%     |      250g |
+| Afrecho                                                      |       10%     |       25g |
+| Agua/leche líquida hervida                                   |       35%     |       88g |
+| Levadura instantánea                                         |        2%     |        5g |
+| Sal                                                          |        1%     |        3g |
+| Huevos ligeramente batidos                                   |        5%     |       13g |
+| Grasa (Mantequilla sin sal)                                  |       15%     |       38g |
+| Azúcar                                                       |       20%     |       50g |
+| Leche en polvo                                               |        2%     |        5g |
+| Melao de papelón especiado                                   |       10%     |       25g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **219%**   |  **800g** |
+| **Total**                                                    |    **200%**   |  **500g** |
 
-### Calculadora para preparar el acema tocuyana
+### Calculadora para preparar el Acema andina
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
@@ -101,14 +87,13 @@ Relación Masa/Melao: 20%
 
 | Ingrediente           | Fórmula   | Peso   |
 |-----------------------|:---------:|-------:|
-| Papelón oscuro        |   73%     |   117g |
-| Agua                  |   40%     |    64g |
-| Melaza                |   27%     |    43g |
+| Papelón oscuro        |   73%     |    73g |
+| Agua                  |   40%     |    40g |
 | Clavitos de olor      |    0.5%   |     1g |
 | Pimienta guayabita    |    0.5%   |     1g |
 | Rama de canela grande |    0.5%   |     1g |
 |-----------------------|-----------|--------|
-| **Total**             | **141.5%**|**227g**|
+| **Total**             | **114.5%**|**115g**|
 
 ---
 
@@ -116,7 +101,7 @@ Relación Masa/Melao: 20%
 
 {% include calculadora-de-panes2.html %}
 
-## Paso a paso para preparar la Acema Tocuyana
+## Paso a paso para preparar la Acema andina
 
 <div id="preparacion"></div>
 
@@ -175,7 +160,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8) y doce (12) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo, dejando reposar durante sesenta (60) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
-### Formado de la Acema Tocuyana (ovalado)
+### Formado de la Acema andina (ovalado)
 - Vuelca la masa sobre la mesa de trabajo y desgasifíca suavemente, sin apretarla en exceso.
 - Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un rectángulo de 40 cm de largo x 30 cm de ancho.
 - Enrolla la pieza desde un extremo hasta el otro para formar un cilindro largo.
@@ -210,7 +195,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta de acemita tocuyana de Hilmar [Recetas Favoritas Hilmar]{:target="blank"}. Muchas gracias por la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao]{:target="blank"} y Erika Soto [@oreganobaguette]{:target="blank"}.
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta de acemita andina de Hilmar [Recetas Favoritas Hilmar]{:target="blank"}. 
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -218,7 +203,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/06/15)__
+__Versión 1.0 (2026/06/09)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -228,7 +213,7 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@dunitasbakery]: https://www.instagram.com/dunitasbakery
 [@farinaelievito]: https://www.instagram.com/farinaelievito
 [@algosevaacocinar]: https://www.instagram.com/algosevaacocinar
-[Recetas Favoritas Hilmar]: https://www.recetasfavoritashilmar.com/2010/06/acemita-tocuyana.html
+[Recetas Favoritas Hilmar]: https://www.recetasfavoritashilmar.com/2010/06/acemita-andina.html
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
 [Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
