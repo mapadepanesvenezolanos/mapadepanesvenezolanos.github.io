@@ -3,7 +3,7 @@ title: "Acema andina"
 subtitle: "Un pan con alma andina."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema andina o de Cubiro. En los Andes la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
 date: 2026-06-11 00:00:00 -0400
-published: true
+published: false
 permalink: /panes-venezolanos/acema-andina/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
