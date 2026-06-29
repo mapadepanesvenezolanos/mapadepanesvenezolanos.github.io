@@ -57,7 +57,7 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 - Prepararemos 10 unidades de 100g de masa
 - Temperatura ambiente 22ºC - 27ºC
-- 50% de hidratación (media hidratación)
+- 60% de hidratación (media hidratación)
 
 ### Ingredientes para preparar la Acema andina
 
