@@ -55,7 +55,7 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 ## Masa leudada con levadura instantánea
 
-- Prepararemos 10 unidad de 50g de masa
+- Prepararemos 10 unidades de 100g de masa
 - Temperatura ambiente 22ºC - 27ºC
 - 50% de hidratación (media hidratación)
 
@@ -63,37 +63,37 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      250g |
-| Afrecho                                                      |       10%     |       25g |
-| Agua/leche líquida hervida                                   |       35%     |       88g |
-| Levadura instantánea                                         |        2%     |        5g |
-| Sal                                                          |        1%     |        3g |
-| Huevos ligeramente batidos                                   |        5%     |       13g |
-| Grasa (Mantequilla sin sal)                                  |       15%     |       38g |
-| Azúcar                                                       |       20%     |       50g |
-| Leche en polvo                                               |        2%     |        5g |
-| Melao de papelón especiado                                   |       10%     |       25g |
+| Harina panadera                                              |      100%     |      508g |
+| Afrecho                                                      |        5%     |       25g |
+| Agua.                                                        |       40%     |      203g |
+| Levadura instantánea                                         |        2%     |       10g |
+| Sal                                                          |        1%     |        5g |
+| Huevos ligeramente batidos                                   |       10%     |       51g |
+| Grasa (Mantequilla sin sal)                                  |       12%     |       61g |
+| Azúcar                                                       |       15%     |       76g |
+| Leche en polvo                                               |        2%     |       10g |
+| Melao de papelón especiado                                   |       10%     |       51g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **200%**   |  **500g** |
+| **Total**                                                    |    **197%**   | **1000g** |
 
 ### Calculadora para preparar el Acema andina
 
 {% include formulas.html %}
 {% include calculadora-de-panes.html %}
 
-Relación Masa/Melao: 20%
+Relación Masa/Melao: 12%
 
 ## Melao de Papelón Especiado
 
 | Ingrediente           | Fórmula   | Peso   |
 |-----------------------|:---------:|-------:|
-| Papelón oscuro        |   73%     |    73g |
-| Agua                  |   40%     |    40g |
+| Papelón oscuro        |   73%     |    88g |
+| Agua                  |   40%     |    48g |
 | Clavitos de olor      |    0.5%   |     1g |
 | Pimienta guayabita    |    0.5%   |     1g |
 | Rama de canela grande |    0.5%   |     1g |
 |-----------------------|-----------|--------|
-| **Total**             | **114.5%**|**115g**|
+| **Total**             | **116%**  |**139g**|
 
 ---
 
@@ -127,21 +127,29 @@ Relación Masa/Melao: 20%
 
 #### Ciclo de amasado
 
-- En un primer envase, mezcla la harina con la levadura instantánea, la nuéz moscada, la canela en polvo, las semillas de anís dulce molidas, la leche en polvo y el queso rallado.
+- Reserva la mantequilla a parte.
+- En un primer envase mezcla la harina con el afrecho, la levadura instantánea, la leche en polvo.
 - Crea un volcán con boca ancha.
-- En un segundo envase mezcla la talvina, el melao de papelón especiado, el agua, los huevos y el azúcar.
-- Coloca los líquidos en el centro del volcán, coloca la sal en el borde y la mantequilla pomada en el centro.
+- En un segundo envase mezcla el agua con el melao de papelón especiado, el azúcar, los huevos.
+- Coloca los líquidos en el centro del volcán y la sal en el borde.
 - Integra los ingredientes mezclando hasta obtener una papilla.
 - Incorpora hasta obtener una masa homogénea.
 - Forma una bola y déjala reposar por diez (10) minutos.
 
-<div id="sobado"></div>
+<div id="segundociclo"></div>
+
+#### Segundo ciclo de amasado (manual)
+
+- Extiende la masa y coloca la mantequilla picada en cuadritos sobre la masa. Envuelve la mantequilla con la masa y comienza a amasarla para incorporar el nuevo ingrediente. La masa se va a separar durante esta etapa, es normal que esto suceda. Sigue amasando hasta incorporar dentro de la masa, se alcance una masa tersa y lisa. La mesa y tus manos deben quedar limpias luego del amasado.
+- Forma una bola y deja reposar tapada con un envase durante diez (10) minutos.
+- Realiza la prueba de la malla de gluten para verificar que ya se formó. Si todavía le falta, repite el ciclo de amasado de dos (2) minutos y reposos de diez (10) minutos, hasta superar la prueba de la malla de gluten.
+- Realiza un preformado redondo, la masa queda lisa en la superficie.
 
 ### Primera fermentación 
 
-La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF. El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+La masa va a reposar durante dos (2) horas a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF . El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
-- Coloca la masa en un envase con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
+- Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar por una (1) hora.
 - Después de la primera hora se realiza la manipulación.
 
 ### Manipulación
@@ -160,42 +168,52 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Para mejorar los sabores en la miga, hacer un pan más saludable y digerible, mete tu envase cubierto con una bolsa plástica en la nevera a 4 grados centígrados entre ocho (8) y doce (12) horas.
 - Saca el envase de la nevera y llévalo a la mesa de trabajo, dejando reposar durante sesenta (60) minutos entre 24ºC/75ºF y 27ºC/80ºF .
 
-### Formado de la Acema andina (ovalado)
-- Vuelca la masa sobre la mesa de trabajo y desgasifíca suavemente, sin apretarla en exceso.
-- Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un rectángulo de 40 cm de largo x 30 cm de ancho.
-- Enrolla la pieza desde un extremo hasta el otro para formar un cilindro largo.
-- Sella ambos extremos presionando suavemente con los dedos.
-- Coloca la unión hacia abajo y rueda suavemente con las manos para darle forma y evitar que se abra durante el horneado.
-- Ajusta hasta obtener un cilindro parejo, con los extremos redondeados.
-- Coloca la pieza de pan en bandeja metalica previamente engrasada con la unión hacia abajo.
-- Forma haciendo una herradura. 
+### División y pesado
+
+- Saca la masa del recipiente.
+- Procede a pesar la masa total.
+- Divide la masa en diez (10) porciones de igual peso.
+
+### Preformado
+
+- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+
+### Reposo en mesa (relajación de la masa)
+
+- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
+
+### Formado
+
+- **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
+
+### Barnices, coberturas y cortes
+
+- Con una brocha de cocina, barniza cada pastón con una capa fina de huevo batido mezclado con una pizca de sal y azúcar y colado.
+- En una bandeja engrasada, coloca todos los pastones formando dos líneas de cinco (5) separados medio centímetro uno de otro de cada lado. En la fermentación se pegarán y crecerán hacia arriba.  
 
 ### Fermentación final (maduración)
 
-- Tapa la bandeja con plástico.
-- Deja la bandeja en un lugar sin corrientes de aire a una temperatura entre 24ºC y 27ºC durante dos (2) horas.
-- El pastón, al menos, debe haber duplicado su volumen inicial.
+- Deja reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF  o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
-- Enciende el horno una media hora antes de hornear a una temperatura de 180ºC - 355ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente entre veinticinco (25) y treinta (30) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+- Enciende el horno una media hora antes de hornear a una temperatura de 180ºC - 350ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente entre veinte (20) veinticinco (25) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
 
 ### Enfriamiento
 
 - Coloca el panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
-- **Opcional**: pincela de inmediato con una mezcla de agua y papelón o de agua y melaza. En este caso, puedes usar dos cucharadas de melaza por una de agua. Es un toque opcional que no forma parte de la receta original, pero ayuda a darle al pan un brillo hermoso y apetitoso en la superficie.
 - Déjalos reposar, por lo menos, veinte (20) minutos.
 
 ### Consumo del pan
 
 - Si vas a consumir el pan al día siguiente del horneado, antes de consumirlo, coloca el Pan en el horno a 180ºC/355ºF por cinco (5) a diez (10) minutos para que recuperen su frescura.
 - Si no lo vas a consumir el mismo día, déjalos enfriar, colócalos en una bolsa plástica y lo metes en el congelador.
-- Si los congelaste, entre 8 a 12 horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
+- Si los congelaste, entre ocho (8) a doce (12) horas antes de consumirlos pásalos al refrigerador y luego los colocas en el horno como hemos indicado previamente.
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta de acemita andina de Hilmar [Recetas Favoritas Hilmar]{:target="blank"}. 
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, la receta de acemita andina la fórmula de [Trina Arocha] descrita en su libro [El manual de la cocina venezolana. Panes y Pastelitos]{:target="blank"}
 
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -203,7 +221,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/06/09)__
+__Versión 1.0 (2026/06/29)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -216,4 +234,5 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [Recetas Favoritas Hilmar]: https://www.recetasfavoritashilmar.com/2010/06/acemita-andina.html
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
-[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
+[Trina Arocha]: https://www.instagram.com/trinaarochacocinavenezolana/
+
