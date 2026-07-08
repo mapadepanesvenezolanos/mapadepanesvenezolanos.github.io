@@ -2,8 +2,8 @@
 title: "Acema andina"
 subtitle: "Un pan con alma andina."
 description: "La Acema es un pan enriquecido y aliñado con especies. Es un Pan que se presenta de muchas maneras tanto en Occidente como la Acema andina o de Cubiro. En los Andes la preparan como acemitas o con chicharron o bocadillo de guayaba con queso en el Táchira o la Acema Carachera."
-date: 2026-06-11 00:00:00 -0400
-published: false
+date: 2026-07-07 00:00:00 -0400
+published: true
 permalink: /panes-venezolanos/acema-andina/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
@@ -63,18 +63,18 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      508g |
+| Harina panadera                                              |      100%     |      503g |
 | Afrecho                                                      |        5%     |       25g |
-| Agua.                                                        |       40%     |      203g |
+| Agua.                                                        |       40%     |      201g |
 | Levadura instantánea                                         |        2%     |       10g |
 | Sal                                                          |        1%     |        5g |
-| Huevos ligeramente batidos                                   |       10%     |       51g |
-| Grasa (Mantequilla sin sal)                                  |       12%     |       61g |
-| Azúcar                                                       |       15%     |       76g |
+| Huevos ligeramente batidos                                   |       10%     |       50g |
+| Grasa (Mantequilla sin sal)                                  |       12%     |       60g |
+| Azúcar                                                       |       17%     |       85g |
 | Leche en polvo                                               |        2%     |       10g |
-| Melao de papelón especiado                                   |       10%     |       51g |
+| Melao de papelón especiado                                   |       10%     |       50g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **197%**   | **1000g** |
+| **Total**                                                    |    **199%**   | **1000g** |
 
 ### Calculadora para preparar el Acema andina
 
@@ -176,7 +176,9 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Preformado
 
-- A cada porción aplica un preformado redondo. Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. Voltee la bola (el lado liso por arriba), bolear un poco sin generar mucha tensión y cubrirlas con una bolsa plástica.
+- A cada porción aplica un preformado redondo. 
+- Extiende la porción con el lado liso por debajo y desgasifica con la palma de la mano, realizando pliegues desde los bordes al centro para formar una bola de nuevo. 
+- Voltea la bola (el lado liso por arriba), bolea un poco sin generar mucha tensión y cúbrelas con una bolsa plástica.
 
 ### Reposo en mesa (relajación de la masa)
 
@@ -185,15 +187,15 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Formado
 
 - **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
+- En una bandeja engrasada, coloca todos los pastones formando dos filas de cinco (5) separados medio centímetro uno de otro de cada lado. En la fermentación los pastones se pegarán y crecerán hacia arriba.  
+
+### Fermentación final (maduración)
+
+- Deja reposar los pastones, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF  o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Barnices, coberturas y cortes
 
 - Con una brocha de cocina, barniza cada pastón con una capa fina de huevo batido mezclado con una pizca de sal y azúcar y colado.
-- En una bandeja engrasada, coloca todos los pastones formando dos líneas de cinco (5) separados medio centímetro uno de otro de cada lado. En la fermentación se pegarán y crecerán hacia arriba.  
-
-### Fermentación final (maduración)
-
-- Deja reposar los pastones con costra de azúcar, sin tapar, aproximadamente por una (1) hora en un lugar fresco, sin corrientes de aire, a una temperatura entre 24ºC/75ºF y 27ºC/80ºF  o hasta que **supere la prueba de maduración con el dedo**.
 
 ### Horneado
 
