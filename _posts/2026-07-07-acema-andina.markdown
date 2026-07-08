@@ -183,7 +183,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 ### Formado
 
 - **Bolea** la masa dejando la superficie lisa y suave, genera un poco de tensión sin exagerar. Cuando hay mucha tensión la masa se puede desgarrar cuando crece en el horno.
-- En una bandeja engrasada, coloca todos los pastones formando dos filas de cinco (5) separados medio centímetro uno de otro de cada lado. En la fermentación los pastones se pegarán y crecerán hacia arriba.  
+- En una bandeja engrasada, coloca las bolitas formando dos filas de cinco (5) separadas medio centímetro.
 
 ### Fermentación final (maduración)
 
