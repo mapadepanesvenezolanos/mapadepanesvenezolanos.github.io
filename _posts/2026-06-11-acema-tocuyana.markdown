@@ -106,9 +106,9 @@ Relación Masa/Melao: 20%
 | Melaza                |   27%     |    43g |
 | Clavitos de olor      |    0.5%   |     1g |
 | Pimienta guayabita    |    0.5%   |     1g |
-| Rama de canela grande |    0.5%   |     1g |
+| Rama de canela        |    0.5%   |     1g |
 |-----------------------|-----------|--------|
-| **Total**             | **141.5%**|**227g**|
+| **Total**             | **141.5%**|**226g**|
 
 ---
 
@@ -218,7 +218,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/06/15)__
+__Versión 1.2 (2026/07/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
