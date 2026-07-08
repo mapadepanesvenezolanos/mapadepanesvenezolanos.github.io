@@ -23,13 +23,9 @@ La acema es un Pan enriquecido y aliñado con especies.
 
 ## Resultado esperado
 
-La acema andina debe presentar una miga suave, ligeramente húmeda y de estructura fina, sin llegar a ser aireada como un pan tipo brioche, pero tampoco densa como un pan rústico. Es un punto intermedio donde el sobado y la presencia del afrecho construyen una textura sedosa con un leve carácter.
+La acema andina se distingue por su miga suave, ligeramente húmeda y de textura fina, resultado del sobado tradicional y la incorporación de afrecho. Su sabor equilibra el dulzor del papelón con delicadas notas de canela, anís y otras especias, mientras que la mantequilla aporta una agradable untuosidad.
 
-En boca, el dulzor del papelón aparece de forma envolvente, sin saturar, acompañado por notas cálidas de canela, anís o clavo, dependiendo de la mezcla especiada utilizada. La mantequilla aporta redondez y persistencia, mientras que el afrecho introduce un contraste discreto que recuerda su origen andino.
-
-La corteza es delgada, de color dorado profundo a ámbar, con un brillo leve si ha sido pincelada con melao al salir del horno. Su aroma es intenso y complejo: mezcla de trigo tostado, azúcar caramelizada y especias suaves.
-
-Es un pan que no busca imponerse, sino acompañar. Funciona tanto en desayunos como en meriendas, y mantiene su calidad incluso horas después del horneado, cuando los aromas del papelón se asientan y la miga gana cohesión.
+Presenta una corteza delgada de color dorado y un aroma que combina trigo tostado, papelón caramelizado y especias. Es un pan versátil, ideal para acompañar desayunos o meriendas, y cuyo sabor se vuelve aún más armonioso con el paso de las horas.
 
 ## Origen
 
@@ -223,7 +219,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.0 (2026/06/29)__
+__Versión 1.1 (2026/07/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
