@@ -59,18 +59,18 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 | Ingrediente                                                  |    Fórmula    |      Peso |
 |:-------------------------------------------------------------|:-------------:|----------:|
-| Harina panadera                                              |      100%     |      503g |
+| Harina panadera                                              |      100%     |      495g |
 | Afrecho                                                      |        5%     |       25g |
-| Agua.                                                        |       40%     |      201g |
+| Agua                                                         |       40%     |      198g |
 | Levadura instantánea                                         |        2%     |       10g |
 | Sal                                                          |        1%     |        5g |
 | Huevos ligeramente batidos                                   |       10%     |       50g |
-| Grasa (Mantequilla sin sal)                                  |       12%     |       60g |
-| Azúcar                                                       |       17%     |       85g |
+| Grasa (Mantequilla sin sal)                                  |       15%     |       74g |
+| Azúcar                                                       |       17%     |       84g |
 | Leche en polvo                                               |        2%     |       10g |
 | Melao de papelón especiado                                   |       10%     |       50g |
 | -------------------------------------------------------------|---------------|-----------|
-| **Total**                                                    |    **199%**   | **1000g** |
+| **Total**                                                    |    **202%**   | **1000g** |
 
 ### Calculadora para preparar el Acema andina
 
