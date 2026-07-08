@@ -43,7 +43,7 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 ## Tips para preparar la Acema andina
 
-- Durante el sobado realiza pliegues para darle estructura a la masa hasta alcanzar una textura en la masa lisa y tersa.
+- Ajusta el tiempo de fermentación final según la temperatura ambiente de tu cocina.
 
 {% include whatsapp.html %}
 
@@ -219,7 +219,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/07/08)__
+__Versión 1.2 (2026/07/08)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
