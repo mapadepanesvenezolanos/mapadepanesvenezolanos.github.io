@@ -52,7 +52,7 @@ defaults:
       path: ""
       type: "mundial"
     values:
-      layout: "post"
+      layout: "posts"
   -
     scope:
       path: ""
