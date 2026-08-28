@@ -1,22 +1,12 @@
 ---
-title: "Venezuela enciende sus hornos: comienza la Ruta al Mundial de Panadería 2027"
+title: 'Venezuela enciende sus hornos: comienza la Ruta al Mundial de Panadería 2027'
 description: Tres equipos, seis panaderos y un objetivo común: ganarse el derecho de representar a Venezuela en el Mondial du Pain 2027 en Francia.
-permalink: /mundial/prensa/ruta-mundial-panadería-2027/
+author: "Panes Venezolanos"
+permalink: /mundial/prensa/ruta-mundial-panaderia-2027/
 published: true
 date: 2026-08-21 00:00:00
 featured_image: '/images/mundial/2027/3equipos_1mision.png'
-
-author: "Panes Venezolanos"
-categories:
-  - Panadería venezolana
-  - Ruta al Mundial
-  - Competencias
-tags:
-  - Venezuela
-  - Panadería venezolana
-  - Mondial du Pain
-  - Ruta al Mundial 2027
-  - Campeonato Nacional de Panadería
+keywords: Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 2027, Campeonato Nacional de Panadería
 ---
 
 # Venezuela enciende los hornos: la Ruta al Mundial 2027 ya está en marcha
@@ -105,18 +95,26 @@ Pero alrededor de ellos quedará algo mucho más difícil de medir: nuevos refer
 
 Las semifinales continuarán hasta el **5 de septiembre** y la gran final está prevista para noviembre.
 
-Desde **Panes Venezolanos** seguiremos de cerca este recorrido, sus protagonistas y las historias que vayan naciendo alrededor de las mesas de trabajo.
+Desde **[Panes Venezolanos](https://panesvenezolanos.com)**, celebramos con gran emoción este nuevo capítulo en la gastronomía venezolana que es el resultado directo de la incansable labor de formación, difusión y excelencia desarrollada por el maestro panadero William Tse (@taosbaker) junto a la delegación de los Embajadores del Pan en Venezuela (@ambassadeursdupainvenezuela), quienes Desde se han venido dedicando a elevar los estándares del oficio, demostrando que el pan venezolano tiene calidad de exportación y nivel competitivo internacional.  
+
+Porque cuando el pan venezolano se hornea con **pasión, constancia y fe**, puede llegar tan lejos como los sueños de quienes lo amasan.
+
+# Invitación 
+
+La invitación está abierta a todos los venezolanos, medios de comunicación, marcas aliadas y patrocinantes oficiales y entusiastas de la gastronomía a seguir de cerca cada detalle de esta eliminatoria a través de las redes sociales oficiales en @taosbaker / @ambassadeursdupainvenezuela / @mundialdelpan_teamve / @molvenca y @monteadentro, y a apoyar a estos artesanos que hoy amasan el sueño de todo un país. 
 
 Hoy conocemos seis nombres:
 
 **Carlos Marchena y Jeison Olivo. José Montiel y Blainer García. Rogelio Salcedo y Alan Gutiérrez.**
 
-Tres equipos.
-
-Dos lugares en la final.
-
-Y, al final de la ruta, una sola responsabilidad: **representar a Venezuela en Francia en 2027.**
-
-Los hornos ya están encendidos.
+- Tres equipos.
+- Dos lugares en la final.
+- Y, al final de la ruta, una sola responsabilidad: **representar a Venezuela en Francia en 2027.**
+- Los hornos ya están encendidos.
 
 La historia apenas comienza.
+
+# Contacto de Prensa: William Tse
+ [Correo Electrónico:](taosbaker@gmail.com) 
+ [Número de Teléfono:](+584142588230) 
+ [Instagram:](https://instagram.com/taosbaker) 
