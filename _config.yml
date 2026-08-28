@@ -13,6 +13,9 @@ collections:
   blog:
     output: true
     permalink: /blog/:slug
+  mundial:
+    output: true
+    permalink: /mundial/:slug
   comunidad:
     output: true
     permalink: /comunidad/:slug
@@ -42,6 +45,12 @@ defaults:
     scope:
       path: ""
       type: "blog"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "mundial"
     values:
       layout: "post"
   -
