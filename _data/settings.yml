@@ -27,6 +27,8 @@ menu_settings:
       url: '/calculadoras'
     - title: 'Blog'
       url: '/blog/'
+    - title: 'Ruta al Mundial'
+      url: '/rutamundial/'
     - title: 'Comunidad'
       url: '/comunidad/'
     - title: 'Acerca'
