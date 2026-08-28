@@ -15,7 +15,7 @@ collections:
     permalink: /blog/:slug
   mundial:
     output: true
-    permalink: /mundial/:slug
+    permalink: /mundial/:name
   comunidad:
     output: true
     permalink: /comunidad/:slug
