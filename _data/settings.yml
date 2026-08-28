@@ -28,7 +28,7 @@ menu_settings:
     - title: 'Blog'
       url: '/blog/'
     - title: '#RutaMundial'
-      url: '/rutamundial/'
+      url: '/mundial/'
     - title: 'Comunidad'
       url: '/comunidad/'
     - title: 'Acerca'
