@@ -9,8 +9,10 @@ featured_image: /images/social.jpg
 <section class="listing">
 
 	<div class="content-wrap listing-wrap">
+	 
+	    {% assign mundial_posts = site.mundial | sort: "date" | reverse %}
 
-		{% for post in site.mundial reversed %}
+		{% for post in mundial_posts reversed %}
 
 		<div class="listing-item">
 
