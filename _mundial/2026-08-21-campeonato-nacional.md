@@ -1,12 +1,12 @@
 ---
-title: 'Venezuela enciende sus hornos: comienza la Ruta al Mundial de Panadería 2027'
-description: Tres equipos, seis panaderos y un objetivo común: ganarse el derecho de representar a Venezuela en el Mondial du Pain 2027 en Francia.
+title: "Venezuela enciende sus hornos: comienza la Ruta al Mundial de Panadería 2027"
+description: "Tres equipos, seis panaderos y un objetivo común: ganarse el derecho de representar a Venezuela en el Mondial du Pain 2027 en Francia."
 author: "Panes Venezolanos"
 permalink: /mundial/prensa/ruta-mundial-panaderia-2027/
 published: true
 date: 2026-08-21 00:00:00
-featured_image: '/images/mundial/2027/3equipos_1mision.png'
-keywords: Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 2027, Campeonato Nacional de Panadería
+featured_image: "/images/mundial/2027/3equipos_1mision.png"
+keywords: "Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 2027, Campeonato Nacional de Panadería"
 ---
 
 # Venezuela enciende los hornos: la Ruta al Mundial 2027 ya está en marcha
