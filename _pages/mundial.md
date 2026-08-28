@@ -1,8 +1,8 @@
 ---
 layout: page-pv
-title: Ruta al Mundial de Panes (Francia)
+title: Ruta al Mundial del Pan en Francia (Mondial du Pain - France)
 permalink: /mundial/
-description: Referencias del recorrido de los equipos venezolanos al mundial de Panes en Francia
+description: Campeonato Nacional de Panadería Venezuela en la ruta al Mondial du Pain (France)
 featured_image: /images/social.jpg
 ---
 
