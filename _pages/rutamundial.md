@@ -1,6 +1,6 @@
 ---
 layout: page-pv
-title: Ruta al Mundial de Panes 
+title: Ruta al Mundial de Panes (Francia)
 permalink: /rutamundial/
 description: Referencias del recorrido de los equipos venezolanos al mundial de Panes en Francia
 featured_image: /images/social.jpg
