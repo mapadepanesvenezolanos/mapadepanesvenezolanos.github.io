@@ -10,7 +10,7 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap listing-wrap">
 
-		{% for post in site.blog reversed %}
+		{% for post in site.rutamundial reversed %}
 
 		<div class="listing-item">
 
