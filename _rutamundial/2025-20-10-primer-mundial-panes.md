@@ -2,7 +2,7 @@
 title: 'Venezuela hace historia en el Mundial del Pan 2025'
 description: Por primera vez en la historia, un equipo venezolano participa en el prestigioso Mundial del Pan en Nantes, Francia. Una crónica de esfuerzo, esperanza y orgullo nacional.
 author: "Panes Venezolanos"
-permalink: /rutamundial/venezuela-historia-mundial-pan-2025/
+permalink: /rutamundial/prensa/venezuela-historia-mundial-pan-2025/
 published: true
 date: 2025-10-20 00:00:00
 featured_image: '/images/rutamundial/venezuela-historia-mundial-pan-2025.png'
