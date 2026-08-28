@@ -19,7 +19,7 @@ featured_image: /images/social.jpg
 			<a class="listing-item__link" href="{{ post.url | relative_url }}">
 
 				<div class="listing-item__image">
-					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}">
+					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" loading="lazy" style="max-width: 800px; width: 100%; height: auto;">
 				</div>
 
 				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
