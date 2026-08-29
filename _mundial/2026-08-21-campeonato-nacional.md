@@ -32,7 +32,7 @@ Con ellos comenzó esta historia competitiva que pone a cada dupla frente a una 
 
 ### Equipo 2: José Montiel y Blainer García
 
-![Equipo 2: José Montiel, candidato panadero, y Blainer García, commis]((/images/mundial/2027/Equipo_2.jpg)
+![Equipo 2: José Montiel, candidato panadero, y Blainer García, commis](/images/mundial/2027/Equipo_2.jpg)
 
 El **Equipo 2** está conformado por **José Montiel**, candidato panadero, acompañado por **Blainer García** como commis.
 
