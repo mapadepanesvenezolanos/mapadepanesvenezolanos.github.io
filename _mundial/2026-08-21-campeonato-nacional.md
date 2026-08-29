@@ -104,12 +104,15 @@ Hoy conocemos seis nombres:
 - Los hornos ya están encendidos.
 
 La historia apenas comienza.
+
 ---
 **Contacto de Prensa: William Tse**
- - Correo electrónico: mailto:taosbaker@gmail.com
- - Instagram:[@taosbaker]{:target="blank"}
--  Número de Teléfono:+584142588230 
+ - Correo electrónico: **taosbaker@gmail.com**
+-  Número de Teléfono: **+584142588230**
+- Instagram [@taosbaker]{:target="blank"}
+
 ---
+
 ### 🔗 Enlaces relacionados
 - [Ambassadeurs du Pain – Mundial du Pain 2025]{:target="blank"}  
 - [Ambassadeurs du Pain Venezuela ]{:target="blank"}
