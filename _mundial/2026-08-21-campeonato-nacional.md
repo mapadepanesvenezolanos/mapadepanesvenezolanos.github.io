@@ -9,24 +9,6 @@ featured_image: "/images/mundial/2027/3equipos_1mision.png"
 keywords: "Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 2027, Campeonato Nacional de Panadería"
 ---
 
-<style>
-  .equipo-mundial {
-    display: block;
-    width: 100%;
-    max-width: 520px;
-    height: auto;
-    margin: 25px auto 35px auto;
-    border-radius: 8px;
-  }
-
-  @media (max-width: 600px) {
-    .equipo-mundial {
-      max-width: 100%;
-      margin: 20px auto 30px auto;
-    }
-  }
-</style>
-
 **Caracas, agosto de 2026.** 
 La panadería venezolana vuelve a ponerse a prueba, esta vez con la mirada fija en Francia.
 
@@ -42,11 +24,7 @@ La competencia reúne a tres duplas formadas por un candidato panadero y un *com
 
 ### Equipo 1: Carlos Marchena y Jeison Olivo
 
-<img
-  src="/images/mundial/2027/Equipo1.jpg"
-  alt="Equipo 1: Carlos Marchena, candidato panadero, y Jeison Olivo, commis"
-  class="equipo-mundial"
-  loading="lazy">
+![Equipo 1: Carlos Marchena, candidato panadero, y Jeison Olivo, commis](/images/mundial/2027/Equipo_1.jpg)
 
 El **Equipo 1** está integrado por **Carlos Marchena**, como candidato panadero, y **Jeison Olivo**, como commis.
 
@@ -54,11 +32,7 @@ Con ellos comenzó esta historia competitiva que pone a cada dupla frente a una 
 
 ### Equipo 2: José Montiel y Blainer García
 
-<img
-  src="/images/mundial/2027/Equipo2.jpg"
-  alt="Equipo 2: José Montiel, candidato panadero, y Blainer García, commis"
-  class="equipo-mundial"
-  loading="lazy">
+![Equipo 2: José Montiel, candidato panadero, y Blainer García, commis]((/images/mundial/2027/Equipo_2.jpg)
 
 El **Equipo 2** está conformado por **José Montiel**, candidato panadero, acompañado por **Blainer García** como commis.
 
@@ -66,11 +40,7 @@ Su presencia amplía una competencia en la que no basta con ejecutar una buena r
 
 ### Equipo 3: Rogelio Salcedo y Alan Gutiérrez
 
-<img
-  src="/images/mundial/2027/Equipo3.jpg"
-  alt="Equipo 3: Rogelio Salcedo, candidato panadero, y Alan Gutiérrez, commis"
-  class="equipo-mundial"
-  loading="lazy">
+![Equipo 3: Rogelio Salcedo, candidato panadero, y Alan Gutiérrez, commis](/images/mundial/2027/Equipo_3.jpg)
 
 El **Equipo 3** lo integran **Rogelio Salcedo**, como candidato panadero, y **Alan Gutiérrez**, como commis.
 
@@ -143,7 +113,7 @@ Hoy conocemos seis nombres:
 
 La historia apenas comienza.
 
- **Contacto de Prensa: William Tse**
+**Contacto de Prensa: William Tse**
  [Correo Electrónico:](taosbaker@gmail.com) 
  [Número de Teléfono:](+584142588230) 
  [Instagram:](https://instagram.com/taosbaker) 

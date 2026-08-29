@@ -30,6 +30,8 @@ featured_image: /images/social.jpg
 
 	</div>
 
+</section>
+
 <style>
   .mundial-post-image {
     width: 100%;
@@ -40,5 +42,3 @@ featured_image: /images/social.jpg
     margin: 0 auto;
   }
 </style>
-
-</section>
