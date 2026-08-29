@@ -88,9 +88,7 @@ Pero alrededor de ellos quedará algo mucho más difícil de medir: nuevos refer
 
 Las semifinales continuarán hasta el **5 de septiembre** y la gran final está prevista para noviembre.
 
-Desde **[Panes Venezolanos]{:target="blank"}**, celebramos con gran emoción este nuevo capítulo en la gastronomía venezolana que es el resultado directo de la incansable labor de formación, difusión y excelencia desarrollada por el maestro panadero William Tse (@taosbaker) junto a la delegación de los **Embajadores del Pan en Venezuela [@ambassadeursdupainvenezuela]{:target="blank"}**, quienes desde hace varios años, se han venido dedicando a elevar los estándares del oficio, demostrando que el pan venezolano tiene calidad de exportación y nivel competitivo internacional.  
-
-Porque cuando el pan venezolano se hornea con **pasión, constancia y fe**, puede llegar tan lejos como los sueños de quienes lo amasan.
+Desde **[Panes Venezolanos]{:target="blank"}**, celebramos con gran emoción este nuevo capítulo en la gastronomía venezolana que es el resultado directo de la incansable labor de formación, difusión y excelencia desarrollada por el maestro panadero **William Tse[@taosbaker]{:target="blank"}** junto a la **delegación de los Embajadores del Pan en Venezuela [@ambassadeursdupainvenezuela]{:target="blank"}**, quienes desde hace varios años se han venido dedicando a elevar los estándares del oficio, demostrando que el pan venezolano tiene calidad de exportación y nivel competitivo internacional.  
 
 # Invitación 
 
@@ -106,20 +104,20 @@ Hoy conocemos seis nombres:
 - Los hornos ya están encendidos.
 
 La historia apenas comienza.
-
 ---
-
-** Contacto de Prensa: William Tse**
- - [taosbaker@gmail.com](mailto:taosbaker@gmail.com)
- - [@taosbaker]
+**Contacto de Prensa: William Tse**
+ - Correo electrónico: mailto:taosbaker@gmail.com
+ - Instagram:[@taosbaker]{:target="blank"}
 -  Número de Teléfono:+584142588230 
-
 ---
 ### 🔗 Enlaces relacionados
-- [Ambassadeurs du Pain – Mundial du Pain 2025]:https://ambassadeursdupain.com/mondialdupain/  
-- [Ambassadeurs du Pain Venezuela ]:https://ambassadeursdupain.com/  
-- [Serbotel – Mondial du Pain]:https://www.serbotel.com/concours/le-mondial-du-pain
+- [Ambassadeurs du Pain – Mundial du Pain 2025]{:target="blank"}  
+- [Ambassadeurs du Pain Venezuela ]{:target="blank"}
+- [Serbotel – Mondial du Pain]{:target="blank"}
 
+[Ambassadeurs du Pain – Mundial du Pain 2025]:https://ambassadeursdupain.com/mondialdupain/  
+[Ambassadeurs du Pain Venezuela ]:https://ambassadeursdupainvenezuela.com/ 
+[Serbotel – Mondial du Pain]:https://www.serbotel.com/concours/le-mondial-du-pain
 [@ambassadeursdupainvenezuela]:https://instagram.com/ambassadeursdupainvenezuela
 [@taosbaker]:https://instagram.com/taosbaker
 [@mundialdelpan_teamve]:https://instagram.com/mundialdelpan_teamve
