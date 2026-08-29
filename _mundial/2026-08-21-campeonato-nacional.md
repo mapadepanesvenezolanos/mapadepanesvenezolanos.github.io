@@ -24,23 +24,17 @@ La competencia reúne a tres duplas formadas por un candidato panadero y un *com
 
 ### Equipo 1: Carlos Marchena y Jeison Olivo
 
-![Equipo 1: Carlos Marchena, candidato panadero, y Jeison Olivo, commis](/images/mundial/2027/Equipo_1.jpg)
-
 El **Equipo 1** está integrado por **Carlos Marchena**, como candidato panadero, y **Jeison Olivo**, como commis.
 
 Con ellos comenzó esta historia competitiva que pone a cada dupla frente a una exigencia particular: convertir meses de preparación en decisiones precisas dentro de un tiempo limitado. En la mesa de trabajo, cada minuto cuenta y cada pieza termina contando una parte de la historia del equipo.
 
 ### Equipo 2: José Montiel y Blainer García
 
-![Equipo 2: José Montiel, candidato panadero, y Blainer García, commis]((/images/mundial/2027/Equipo_2.jpg)
-
 El **Equipo 2** está conformado por **José Montiel**, candidato panadero, acompañado por **Blainer García** como commis.
 
 Su presencia amplía una competencia en la que no basta con ejecutar una buena receta. El desafío exige coordinación entre dos personas, lectura de las masas, dominio de los procesos y capacidad para mantener la precisión mientras el cronómetro continúa avanzando.
 
 ### Equipo 3: Rogelio Salcedo y Alan Gutiérrez
-
-![Equipo 3: Rogelio Salcedo, candidato panadero, y Alan Gutiérrez, commis](/images/mundial/2027/Equipo_3.jpg)
 
 El **Equipo 3** lo integran **Rogelio Salcedo**, como candidato panadero, y **Alan Gutiérrez**, como commis.
 
@@ -74,7 +68,7 @@ La formación técnica, la profesionalización del oficio y la conexión con org
 
 El trabajo desarrollado alrededor de los **Ambassadeurs du Pain en Venezuela**, junto con el impulso de quienes han promovido la formación y los estándares internacionales en el país, forma parte del contexto que hace posible este campeonato.
 
-![Representantes de la organización y evaluación de la Ruta al Mundial, Campeonato Nacional de Panadería](/images/mundial/2027/ambassadeursdupain_ve.jpg)
+![Representantes de la organización y evaluación de la Ruta al Mundial, Campeonato Nacional de Panadería](/images/mundial/2027/3equipos_1mision.png)
 
 La imagen de los responsables y representantes vinculados a esta ruta frente al emblema del Campeonato Nacional resume bien el momento: Venezuela ya no observa la alta panadería competitiva desde lejos. Está construyendo su propio camino dentro de ella.
 
