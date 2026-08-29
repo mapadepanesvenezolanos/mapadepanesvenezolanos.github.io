@@ -40,9 +40,11 @@ featured_image: /images/social.jpg
 <style>
   .mundial-post-image {
     width: 100%;
-    height: 320px;
+    max-width: 520px;
+    height: auto;
     object-fit: cover;
-    border-radius: 10px;
+    display: block;
+    margin: 0 auto;
   }
 </style>
 
