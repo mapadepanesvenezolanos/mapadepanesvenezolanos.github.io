@@ -22,13 +22,6 @@ featured_image: /images/social.jpg
 					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" loading="lazy" class="mundial-post-image">
 				</div>
 
-				<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
-					<div class="listing-item__info">
-						<h2 class="listing-item__title">{{ post.title }}</h2>
-						<p class="listing-item__subtitle">{{ post.subtitle }}</p>
-					</div>
-				</div>
-
 			</a>
 
 		</div>
