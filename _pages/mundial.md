@@ -12,7 +12,7 @@ featured_image: /images/social.jpg
 	 
 	    {% assign mundial_posts = site.mundial | sort: "date" | reverse %}
 
-		{% for post in mundial_posts reversed %}
+		{% for post in mundial_posts %}
 
 		<div class="listing-item">
 
