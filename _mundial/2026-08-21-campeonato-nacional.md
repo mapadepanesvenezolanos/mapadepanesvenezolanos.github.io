@@ -116,14 +116,14 @@ La historia apenas comienza.
 
 ---
 ### 🔗 Enlaces relacionados
-- [Ambassadeurs du Pain – Mundial du Pain 2025](https://ambassadeursdupain.com/mondialdupain/)  
-- [Ambassadeurs du Pain Venezuela ](https://ambassadeursdupain.com/)  
-- [Serbotel – Mondial du Pain](https://www.serbotel.com/concours/le-mondial-du-pain)
+- [Ambassadeurs du Pain – Mundial du Pain 2025]:https://ambassadeursdupain.com/mondialdupain/  
+- [Ambassadeurs du Pain Venezuela ]:https://ambassadeursdupain.com/  
+- [Serbotel – Mondial du Pain]:https://www.serbotel.com/concours/le-mondial-du-pain
 
-[@ambassadeursdupainvenezuela](https://instagram.com/ambassadeursdupainvenezuela)
-[@taosbaker](https://instagram.com/taosbaker) 
-[@mundialdelpan_teamve](https://instagram.com/mundialdelpan_teamve)
-[@molvenca](https://instagram.com/molvenca)
-[@monteadentro](https://instagram.com/monteadentro)
-[Panes Venezolanos](https://panesvenezolanos.com)
+[@ambassadeursdupainvenezuela]:https://instagram.com/ambassadeursdupainvenezuela
+[@taosbaker]:https://instagram.com/taosbaker
+[@mundialdelpan_teamve]:https://instagram.com/mundialdelpan_teamve
+[@molvenca]:https://instagram.com/molvenca
+[@monteadentro]:https://instagram.com/monteadentro
+[Panes Venezolanos]:https://panesvenezolanos.com
 
