@@ -9,8 +9,6 @@ featured_image: "/images/mundial/2027/3equipos_1mision.png"
 keywords: "Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 2027, Campeonato Nacional de Panadería"
 ---
 
-# Venezuela enciende los hornos: la Ruta al Mundial 2027 ya está en marcha
-
 **Caracas, agosto de 2026.** 
 La panadería venezolana vuelve a ponerse a prueba, esta vez con la mirada fija en Francia.
 
