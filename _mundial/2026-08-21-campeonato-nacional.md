@@ -11,9 +11,8 @@ keywords: "Venezuela, Panadería venezolana, Mondial du Pain, Ruta al Mundial 20
 
 # Venezuela enciende los hornos: la Ruta al Mundial 2027 ya está en marcha
 
-![Representantes de la organización y evaluación de la Ruta al Mundial, Campeonato Nacional de Panadería](/images/mundial/2027/ambassadeursdupain_ve.jpg)
-
-**Caracas, agosto de 2026.** La panadería venezolana vuelve a ponerse a prueba, esta vez con la mirada fija en Francia.
+**Caracas, agosto de 2026.** 
+La panadería venezolana vuelve a ponerse a prueba, esta vez con la mirada fija en Francia.
 
 Después de la histórica participación de Venezuela en el **Mondial du Pain 2025**, comienza un nuevo ciclo: la **Ruta al Mundial**, el Campeonato Nacional de Panadería que determinará quién tendrá la responsabilidad de representar al país en el **Mondial du Pain 2027**.
 
@@ -77,6 +76,8 @@ La formación técnica, la profesionalización del oficio y la conexión con org
 
 El trabajo desarrollado alrededor de los **Ambassadeurs du Pain en Venezuela**, junto con el impulso de quienes han promovido la formación y los estándares internacionales en el país, forma parte del contexto que hace posible este campeonato.
 
+![Representantes de la organización y evaluación de la Ruta al Mundial, Campeonato Nacional de Panadería](/images/mundial/2027/ambassadeursdupain_ve.jpg)
+
 La imagen de los responsables y representantes vinculados a esta ruta frente al emblema del Campeonato Nacional resume bien el momento: Venezuela ya no observa la alta panadería competitiva desde lejos. Está construyendo su propio camino dentro de ella.
 
 ## De Venezuela a Francia, una masa a la vez
@@ -114,7 +115,7 @@ Hoy conocemos seis nombres:
 
 La historia apenas comienza.
 
-# Contacto de Prensa: William Tse
+ **Contacto de Prensa: William Tse**
  [Correo Electrónico:](taosbaker@gmail.com) 
  [Número de Teléfono:](+584142588230) 
  [Instagram:](https://instagram.com/taosbaker) 
