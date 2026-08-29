@@ -19,7 +19,7 @@ featured_image: /images/social.jpg
 			<a class="listing-item__link" href="{{ post.url | relative_url }}">
 
 				<div class="listing-item__image">
-					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" loading="lazy" class="mundial-post-image">
+					<img src="{{ post.featured_image | relative_url }}" alt="{{ post.title }}" class="mundial-post-image">
 				</div>
 
 			</a>
@@ -38,7 +38,6 @@ featured_image: /images/social.jpg
     max-width: 520px;
     height: auto;
     object-fit: cover;
-    display: block;
     margin: 0 auto;
   }
 </style>
