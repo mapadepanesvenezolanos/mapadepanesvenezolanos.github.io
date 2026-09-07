@@ -99,7 +99,7 @@ El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciuda
 
 ### Primera fermentación 
 
-La masa va a reposar durante treinta (30) minutos a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF . El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
+La masa va a reposar durante una (1) hora a una temperatura de entre 24ºC/75ºF y 27ºC/80ºF . El objetivo de la fermentación es que se desarrollen los sabores y texturas en la masa. La fermentación termina cuando se duplica el tamaño de la masa aproximadamente.
 
 - Coloca la masa en un recipiente con una película de aceite vegetal, distribuyendo el aceite de manera uniforme, para mantener la masa hidratada y evitar que se pegue al recipiente. Cubre la masa con una bolsa plástica y deje reposar.
 
@@ -114,14 +114,10 @@ La masa va a reposar durante treinta (30) minutos a una temperatura de entre 24�
 
 - Extiende la masa en la mesa y desgasifica con ayuda del rodillo de cocina.
 
-### Reposo en mesa (relajación de la masa)
-
-- Deja reposar la masa sobre la mesa de trabajo, tapada por diez (10) minutos.
-
 ### Formado
 
 - Vuelca la masa sobre la mesa de trabajo y desgasifíca suavemente, sin apretarla en exceso.
-- Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un rectángulo de 40 cm de largo x 30 cm de ancho.
+- Con la ayuda de un rodillo de cocina, aplana la masa hasta formar un rectángulo de cuarenta y cinco (45) cm de largo x treinta y cinco (35) cm de ancho.
 - Enrolla la pieza desde un extremo hasta el otro para formar un cilindro largo.
 - Sella ambos extremos presionando suavemente con los dedos.
 - Coloca la unión hacia abajo, rueda suavemente con las manos para darle forma y evitar que se abra durante el horneado.
@@ -139,7 +135,9 @@ La masa va a reposar durante treinta (30) minutos a una temperatura de entre 24�
 ### Horneado
 
 - Enciende el horno una media hora antes de hornear a una temperatura de 168ºC - 335ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno aproximadamente entre treinta (30) y treinta y cinco (35) minutos o hasta que tengan el color deseado. Puede ser más o menos minutos dependiendo de la potencia de tu horno. Pon atención.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno entre treinta (30) y treinta y cinco (35) minutos o hasta que tengan el color deseado. 
+- Puede ser más o menos minutos dependiendo de la potencia de tu horno, pon atención.
+- Apaga el horno y saca la bandeja con el pan del horno.
 
 ### Enfriamiento
 
