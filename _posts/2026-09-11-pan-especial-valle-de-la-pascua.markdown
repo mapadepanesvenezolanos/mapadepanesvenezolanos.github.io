@@ -1,9 +1,9 @@
 ---
-title: "Pan Especial de Valle de la Pascua"
+title: "Pan Especial de la Pascua"
 subtitle: "El dulce orgullo de Valle de la Pascua."
 description: "Descubre el origen y la receta del Pan Especial de Valle de la Pascua, un tradicional pan dulce de Guárico elaborado con malta, mantequilla y vainilla."
 date: 2026-07-07 00:00:00 -0400
-published: false
+published: true
 permalink: /panes-venezolanos/pan-especial-valle-de-la-pascua/
 categories: pan dulce enriquecido centro 
 tipo: dulces
@@ -20,7 +20,7 @@ keywords:
   - pan con Maltín Polar
   - panes tradicionales venezolanos
   - panes venezolanos
-featured_image: '/images/panes/pan-especial-valle-de-la-pascua/especial-valle-dela-pascua_01.jpg'
+featured_image: '/images/panes/especial-valle-de-la-pascua/especial-valle-dela-pascua_01.jpg'
 formula_name: "especialvalledelapascua"
 
 ---
@@ -65,7 +65,7 @@ El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciuda
 | Grasa (Mantequilla sin sal)                                  |       20%     |       63g |
 | Azúcar                                                       |       12%     |       38g |
 | Esencia de vainilla                                          |        1%     |        3g |
-| Malta líquida.                                               |       20%     |       63g |
+| Malta liquida.                                               |       20%     |       63g |
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **191%**   | **600g**  |
 
@@ -135,8 +135,8 @@ La masa va a reposar durante una (1) hora a una temperatura de entre 24ºC/75ºF
 ### Horneado
 
 - Enciende el horno una media hora antes de hornear a una temperatura de 168ºC - 335ºF. Si tiene un medidor de temperatura en el horno es mejor para conocer la temperatura real del horno.
-- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno entre treinta (30) y treinta y cinco (35) minutos o hasta que tengan el color deseado. 
-- Puede ser más o menos minutos dependiendo de la potencia de tu horno, pon atención.
+- Una vez que el horno haya alcanzado la temperatura indicada anteriormente, introduce la bandeja y déjala en el horno treinta y cinco (35) minutos o hasta que la corteza tenga el color deseado. 
+- Puede ser más o menos minutos dependiendo de la potencia de tu horno, pon atención y conoce mejor tu horno.
 - Apaga el horno y saca la bandeja con el pan del horno.
 
 ### Enfriamiento
@@ -160,7 +160,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/09/07)__
+__Versión 1.0 (2026/09/07)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
