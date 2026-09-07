@@ -47,7 +47,7 @@ Hoy, la acema andina sigue ocupando un lugar especial en las mesas venezolanas, 
 
 {% include whatsapp.html %}
 
-# Acema andina
+# Cómo hacer Acemas andinas
 
 ## Masa leudada con levadura instantánea
 
@@ -200,7 +200,7 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 
 ### Enfriamiento
 
-- Coloca el panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríe y evitar que se condense el aire.
+- Coloca los panes sobre una rejilla, en un lugar sin corrientes de aire, queremos que se enfríen y evitar que se condense el aire.
 - Déjalos reposar, por lo menos, veinte (20) minutos.
 
 ### Consumo del pan
