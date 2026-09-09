@@ -80,7 +80,7 @@ plugins:
 # ----------------------------------
 
 # Cantidad de panes mostrados por página
-paginate: 40
+paginate: 20
 
 # URL para las páginas 2, 3, 4...
 paginate_path: "/panes/page:num/"
