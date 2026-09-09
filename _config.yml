@@ -85,23 +85,25 @@ grid_alignments:
 
 home_panes:
   tipos:
+    - tipo: "suaves y rellenos"
+      limite: 7
+
+    - tipo: "dulces"
+      limite: 7
+    
+    - tipo: "semi-rusticos y rusticos"
+      limite: 4
+
+    - tipo: "consentidos"
+      limite: 4
+
+    - tipo: "heredados"
+      limite: 4
+
     - tipo: "arepa"
       limite: 1
 
     - tipo: "masa madre"
       limite: 1
 
-    - tipo: "semi-rusticos y rusticos"
-      limite: 4
-
-    - tipo: "suaves y rellenos"
-      limite: 3
-
-    - tipo: "dulces"
-      limite: 5
-
-    - tipo: "consentidos"
-      limite: 2
-
-    - tipo: "heredados"
-      limite: 2
+    
