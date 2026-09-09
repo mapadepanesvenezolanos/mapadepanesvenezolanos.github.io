@@ -311,3 +311,18 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	display: inline-block !important;
 	cursor: pointer !important;
 }
+
+.listing::before,
+.listing::after {
+	pointer-events: none !important;
+}
+
+.listing-item__content,
+.listing-item__image::before,
+.listing-item__image::after {
+	pointer-events: none;
+}
+
+.listing-item__link {
+	pointer-events: auto;
+}
