@@ -97,7 +97,7 @@ home_panes:
       limite: 4
 
     - tipo: "suaves y rellenos"
-      limite: 5
+      limite: 3
 
     - tipo: "dulces"
       limite: 5
