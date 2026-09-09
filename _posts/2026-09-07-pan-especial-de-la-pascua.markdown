@@ -2,7 +2,7 @@
 title: "Pan Especial de la Pascua"
 subtitle: "El dulce orgullo de Valle de la Pascua."
 description: "Descubre el origen y la receta del Pan Especial de Valle de la Pascua, un tradicional pan dulce de Guárico elaborado con malta, mantequilla y vainilla."
-date: 2026-09-07 00:00:00 -0400
+date: 2026-08-07 00:00:00 -0400
 published: true
 permalink: /panes-venezolanos/pan-especial-de-la-pascua/
 categories: pan dulce enriquecido centro 
