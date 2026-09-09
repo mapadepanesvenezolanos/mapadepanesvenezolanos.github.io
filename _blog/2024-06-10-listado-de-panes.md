@@ -84,7 +84,7 @@ No tenemos registro de panes.
 
 ## Guárico
 
-- [Pan Especial de la Pascua](/panes-venezolanos/arepa/){:target="blank"}.
+- [Pan Especial de la Pascua](/panes-venezolanos/pan-especial-de-la-pascua/){:target="blank"}.
 - [Quesadilla de Corozopando](/panes-venezolanos/quesadilla-llanera/){:target="blank"}., [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY){:target="blank"}
 - Pan de horno 
 
