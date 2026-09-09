@@ -13,7 +13,7 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap listing-wrap">
 
-		{% for grupo in site.home_panes %}
+		{% for grupo in site.home_panes.tipos %}
 
 			{% assign panes = site.posts | where: "tipo", grupo.tipo %}
 
