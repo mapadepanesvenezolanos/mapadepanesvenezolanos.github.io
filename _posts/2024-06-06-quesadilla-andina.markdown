@@ -6,6 +6,7 @@ date: 2024-06-06 10:32:39 -0400
 published: true
 permalink: /panes-venezolanos/quesadilla-andina/
 categories: pan dulce enriquecido los_andes
+tipo: suaves y rellenos
 keywords: quesadilla, quesasilla andina, quesadilla de la grita, quesadilla tachirense, quesadilla del táchita, quesadilla del tachira
 featured_image: '/images/panes/quesadilla-andina/quesadilla-andina_02.jpg'
 formula_name: "quesadilla"

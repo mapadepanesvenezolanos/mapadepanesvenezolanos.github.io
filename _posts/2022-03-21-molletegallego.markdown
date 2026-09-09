@@ -5,6 +5,7 @@ description: "El Mollete gallego tiene una corteza rústica, dura y crujiente co
 date:   2022-03-21 01:00:39 -0400
 permalink: /panes-venezolanos/mollete-gallego/
 categories: pan rustico heredados
+tipo: semi-rusticos y rusticos
 featured_image: '/images/panes/molletegallego/gallego_7.jpeg'
 formula_name: "molletegallego"
 ---

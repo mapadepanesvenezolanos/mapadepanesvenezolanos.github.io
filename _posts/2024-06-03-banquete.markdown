@@ -6,6 +6,7 @@ date: 2024-06-03 00:13:00 -0400
 permalink: /panes-venezolanos/pan-de-banquete/
 published: true
 categories: pan enriquecido 
+tipo: suaves y rellenos
 keywords: pan de banquete, pan de banquete venezuela, pan de banquete venezolano
 featured_image: '/images/panes/banquete/banquete_02.jpg'
 formula_name: "banquete"

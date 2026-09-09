@@ -5,6 +5,7 @@ description: "El Pan Campesino, country bread, pan de campo, hogaza, barra rúst
 date:   2022-05-30 18:00:39 -0400
 permalink: /panes-venezolanos/pan-campesino/
 categories: pan rustico capital
+tipo: semi-rusticos y rusticos
 keywords: pan campesino, pan campesino origen, pan campesino venezolano historia, historia del pan campesino, pan campesino venezolano, receta de pan campesino, pan campesino receta original, origen del pan campesino, pan campesino receta, receta pan campesino, receta de pan campesino venezolano, pan campesino de venezuela, cuanto pesa un pan campesino, receta pan campesino venezolano, pan campesino venezuela, pan campesino redondo, como hacer pan campesino, pan campesino grande, receta del pan campesino, panes campesinos, diferencia entre pan sobao y campesino, pan campesino historia, como hacer, pan campesino venezolano, campesino venezolano, pan campesino casero, como hacer pan campesino casero, pan campesino en venezuela, pan tipo campesino,  pan campesino relleno, campesino pan, pan campesino sobado, pan campesinos, pan de campesino
 featured_image: '/images/panes/campesino/campesino_02.jpg'
 formula_name: "campesino"

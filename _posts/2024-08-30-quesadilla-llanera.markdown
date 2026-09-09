@@ -6,6 +6,7 @@ date: 2024-08-30 10:32:39 -0400
 published: true
 permalink: /panes-venezolanos/quesadilla-llanera/
 categories: pan dulce enriquecido los_llanos
+tipo: suaves y rellenos
 keywords: quesadilla, quesasilla llanera, quesadilla de corozopando
 featured_image: '/images/panes/quesadilla-llanera/quesadilla-llanera_02.jpg'
 formula_name: "quesadillallanera"

@@ -6,6 +6,7 @@ date: 2024-05-15 00:30:39 -0400
 published: true
 permalink: /panes-venezolanos/pan-sobao/
 categories: pan salado capital
+tipo: semi-rusticos y rusticos
 keywords: pan sobao venezolano, pan sobao
 featured_image: '/images/panes/sobao/sobao_02.jpg'
 formula_name: "sobao"
