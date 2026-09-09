@@ -299,3 +299,15 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	}
 
 }
+
+.pagination,
+.pagination * {
+	position: relative !important;
+	z-index: 99999 !important;
+	pointer-events: auto !important;
+}
+
+.pagination a {
+	display: inline-block !important;
+	cursor: pointer !important;
+}
