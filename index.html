@@ -13,51 +13,82 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap listing-wrap">
 
-		{% for grupo in site.home_panes.tipos %}
+		{% for post in paginator.posts %}
 
-			{% assign panes = site.posts | where: "tipo", grupo.tipo %}
+			<div class="listing-item">
 
-			{% for post in panes limit: grupo.limite %}
+				<a class="listing-item__link" href="{{ post.url | relative_url }}">
 
-				<div class="listing-item">
+					<div class="listing-item__image">
 
-					<a class="listing-item__link" href="{{ post.url | relative_url }}">
+						<img
+							src="{{ post.featured_image | relative_url }}"
+							alt="{{ post.title }}"
+							loading="lazy"
+							decoding="async">
 
-						<div class="listing-item__image">
+					</div>
 
-							<img
-								src="{{ post.featured_image | relative_url }}"
-								alt="{{ post.title }}"
-								loading="lazy"
-								decoding="async">
+					<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
 
-						</div>
+						<div class="listing-item__info">
 
-						<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+							<h2 class="listing-item__title">
+								{{ post.title }}
+							</h2>
 
-							<div class="listing-item__info">
-
-								<h2 class="listing-item__title">
-									{{ post.title }}
-								</h2>
-
-								<p class="listing-item__subtitle">
-									{{ post.subtitle }}
-								</p>
-
-							</div>
+							<p class="listing-item__subtitle">
+								{{ post.subtitle }}
+							</p>
 
 						</div>
 
-					</a>
+					</div>
 
-				</div>
+				</a>
 
-			{% endfor %}
+			</div>
 
 		{% endfor %}
 
 	</div>
+
+
+	{% if paginator.total_pages > 1 %}
+
+		<nav class="pagination" aria-label="Navegación de páginas">
+
+			{% if paginator.previous_page %}
+
+				<a
+					class="pagination__prev"
+					href="{{ paginator.previous_page_path | relative_url }}">
+					← Más recientes
+				</a>
+
+			{% endif %}
+
+
+			<span class="pagination__info">
+
+				Página {{ paginator.page }} de {{ paginator.total_pages }}
+
+			</span>
+
+
+			{% if paginator.next_page %}
+
+				<a
+					class="pagination__next"
+					href="{{ paginator.next_page_path | relative_url }}">
+					Ver panes anteriores →
+				</a>
+
+			{% endif %}
+
+		</nav>
+
+	{% endif %}
 
 </section>
 

@@ -75,7 +75,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+# ----------------------------------
+# Paginación de panes
+# ----------------------------------
+
+# Cantidad de panes mostrados por página
 paginate: 40
+
+# URL para las páginas 2, 3, 4...
 paginate_path: "/panes/page:num/"
 
 grid_alignments:
