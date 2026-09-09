@@ -203,38 +203,77 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
   margin-left: 20px;
 }
 
-// Pagination Home page
+/// - - - - - - - - - - Home pagination
+
 .pagination {
-	display: flex;
-	justify-content: center;
+	display: grid;
+	grid-template-columns: 1fr auto 1fr;
 	align-items: center;
-	gap: 2rem;
 	width: 100%;
+	max-width: 1200px;
 	margin: 3rem auto;
 	padding: 2rem 1rem;
+	gap: 1.5rem;
+}
+
+.pagination__left {
+	text-align: left;
+}
+
+.pagination__center {
+	text-align: center;
+}
+
+.pagination__right {
+	text-align: right;
 }
 
 .pagination__prev,
 .pagination__next {
+	display: inline-block;
 	text-decoration: none;
-	font-weight: 600;
+	font-weight: $bold-weight;
+	color: $accent-color;
+	transition: opacity 0.2s ease;
+}
+
+.pagination__prev:hover,
+.pagination__next:hover {
+	opacity: 0.65;
+	text-decoration: none;
 }
 
 .pagination__info {
 	font-size: 0.9rem;
-	opacity: 0.7;
+	color: $text-medium-color;
+	white-space: nowrap;
 }
 
 @media (max-width: 600px) {
-
 	.pagination {
+		grid-template-columns: 1fr 1fr;
 		gap: 1rem;
-		flex-wrap: wrap;
-		text-align: center;
+		padding: 1.5rem 1rem;
 	}
 
-	.pagination__info {
-		width: 100%;
-		order: -1;
+	.pagination__center {
+		grid-column: 1 / -1;
+		grid-row: 1;
+		margin-bottom: 0.5rem;
+	}
+
+	.pagination__left {
+		grid-column: 1;
+		grid-row: 2;
+	}
+
+	.pagination__right {
+		grid-column: 2;
+		grid-row: 2;
+	}
+
+	.pagination__prev,
+	.pagination__next {
+		font-size: 0.9rem;
 	}
 }
