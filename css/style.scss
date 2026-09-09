@@ -3,18 +3,16 @@
 
 // - - - - - - - - - - Foundations
 
-@import "_reset";
-@import "_mixins";
-@import "_plugins";
-
-
+@import "reset";
+@import "mixins";
+@import "plugins";
 
 // - - - - - - - - - - Variables
 
 
 // Colors
 
-$background-color: {{ site.data.settings.color_settings.background_color }};
+$background-color:{{ site.data.settings.color_settings.background_color }};
 $background-alt-color: {{ site.data.settings.color_settings.background_alt_color }};
 $border-color: {{ site.data.settings.color_settings.border_color }};
 
