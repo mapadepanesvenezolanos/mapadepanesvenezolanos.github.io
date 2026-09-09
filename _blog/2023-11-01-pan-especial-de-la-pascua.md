@@ -1,5 +1,5 @@
 ---
-title: 'Pan Especial de la Pascual'
+title: 'Pan Especial de la Pascua (Referencia)'
 date: 2023-11-01 00:00:00
 description: Reseña sobre el Pan Especial de la Pascua.
 permalink: /blog/referencias/pan-especial-de-la-pascua/

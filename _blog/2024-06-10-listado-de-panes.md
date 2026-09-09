@@ -20,7 +20,7 @@ No tenemos registro de panes.
 
 ## Anzoátegui
 
-- [Arepa](/panes-venezolanos/arepa/)
+- [Arepa](/panes-venezolanos/arepa/){:target="blank"}
 - Casabe
 - Pan de horno
 
@@ -40,12 +40,12 @@ No tenemos registro de panes.
 
 ## Bolivar
 
-- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina).
+- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina){:target="blank"}
 - Cagaleras
 
 ## Carabobo
 
-- [Pan de leche](/panes-venezolanos/pan-de-leche/)
+- [Pan de leche](/panes-venezolanos/pan-de-leche/){:target="blank"}.
 - Pan Butaque
 - Panelas de San Joaquín
 - Pan Cachicamo (fuente: Lic. Elena Alcalá)
@@ -53,11 +53,11 @@ No tenemos registro de panes.
 
 ## Cojedes
 
-- [Pan de Tunja](/panes-venezolanos/pan-pinita/)
+- [Pan de Tunja](/panes-venezolanos/pan-pinita/){:target="blank"}
 
 ## Delta Amacuro
 
-- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina).
+- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina){:target="blank"}
 
 ## Dependencias Federales
 
@@ -65,18 +65,18 @@ No tenemos registro de panes.
 
 ## Distrito Capital
 
-- [Pan Canilla](/panes-venezolanos/pan-canilla/)
-- [Pan Francés](/panes-venezolanos/pan-frances/)
-- [Pan Chino](/panes-venezolanos/pan-chino/)
-- [Pan Sobao](/panes-venezolanos/pan-sobao/)
-- [Pan de Jamón](/panes-venezolanos/pan-de-jamon/)
+- [Pan Canilla](/panes-venezolanos/pan-canilla/){:target="blank"}.
+- [Pan Francés](/panes-venezolanos/pan-frances/){:target="blank"}.
+- [Pan Chino](/panes-venezolanos/pan-chino/){:target="blank"}.
+- [Pan Sobao](/panes-venezolanos/pan-sobao/){:target="blank"}.
+- [Pan de Jamón](/panes-venezolanos/pan-de-jamon/){:target="blank"}.
 - Pan dulce en rebanadas (Pan librillo)
-- [Pan de banquete](/panes-venezolanos/pan-de-banquete/)
-- [Mini lunch](/panes-venezolanos/mini-lunch/)
+- [Pan de banquete](/panes-venezolanos/pan-de-banquete/){:target="blank"}.
+- [Mini lunch](/panes-venezolanos/mini-lunch/){:target="blank"}.
 - Pan de Lima
-- [Golfeado](/panes-venezolanos/golfeado/)
-- [Cachito](/panes-venezolanos/cachito/)
-- [Pan Campesino](/panes-venezolanos/pan-campesino/)
+- [Golfeado](/panes-venezolanos/golfeado/){:target="blank"}.
+- [Cachito](/panes-venezolanos/cachito/){:target="blank"}.
+- [Pan Campesino](/panes-venezolanos/pan-campesino/){:target="blank"}.
 
 ## Falcón
 
@@ -84,15 +84,15 @@ No tenemos registro de panes.
 
 ## Guárico
 
-- Pan Especial de la Pascua, [YouTube El PAN ICÓNICO de Valle de la Pascua / Soy Gustin Gomez](https://www.youtube.com/watch?v=Q-od27wBnAQ){:target="blank"}.
-- [Quesadilla de Corozopando](/panes-venezolanos/quesadilla-llanera/), [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY){:target="blank"}
+- [Pan Especial de la Pascua](/panes-venezolanos/arepa/){:target="blank"}.
+- [Quesadilla de Corozopando](/panes-venezolanos/quesadilla-llanera/){:target="blank"}., [Versión de Yaya](/comunidad/originalyayahenriquez/#quesadilla), [YouTube Rutas Sabor y Tradición](https://www.youtube.com/watch?v=YYxbEF0XUzY){:target="blank"}
 - Pan de horno 
 
 ## Lara
 
-- Acema Tocuyana
+- [Acema Tocuyana](/panes-venezolanos/acema-tocuyana/){:target="blank"}.
 - Pan de Tunja tocuyano
-- [Pan de Tunja / Piñita](/panes-venezolanos/pan-pinita/)
+- [Pan de Tunja / Piñita](/panes-venezolanos/pan-pinita/){:target="blank"}.
 - Acema Carachera
 - Cepelines
 - Pan de horno
@@ -101,38 +101,38 @@ No tenemos registro de panes.
 - Pan dulce de Aguada Grande
 - Pan de azahar
 - Pan semi dulce larense
-- [Pan de leche](/panes-venezolanos/pan-de-leche/)
+- [Pan de leche](/panes-venezolanos/pan-de-leche/){:target="blank"}.
 - Pan de nuez
 
 ## Mérida
 
-- [Pan Tovareño](/panes-venezolanos/pan-tovareno/)
+- [Pan Tovareño](/panes-venezolanos/pan-tovareno/){:target="blank"}.
 - Pan aliñado
-- [Pan de Tunja](/panes-venezolanos/pan-pinita/)
-- [Pan de avena](/panes-venezolanos/pan-de-avena/)
-- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
-- [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- [Pan de guayaba](/panes-venezolanos/pan-guayaba/)
-- [Pan de queso](/panes-venezolanos/pan-de-queso/)
+- [Pan de Tunja](/panes-venezolanos/pan-pinita/){:target="blank"}.
+- [Pan de avena](/panes-venezolanos/pan-de-avena/){:target="blank"}.
+- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/){:target="blank"}.
+- [Pan de leche](/panes-venezolanos/pan-de-leche/){:target="blank"}.
+- [Pan de guayaba](/panes-venezolanos/pan-guayaba/){:target="blank"}.
+- [Pan de queso](/panes-venezolanos/pan-de-queso/){:target="blank"}.
 - Pan con chicharrones
-- Acema
+- [Acema andina](/panes-venezolanos/acema-andina/){:target="blank"}.
 - Acemita
 - Acema de chicharrón
 - Acema integral
 - Mojicón
-- [Piñita](/panes-venezolanos/pan-pinita/)
+- [Piñita](/panes-venezolanos/pan-pinita/){:target="blank"}.
 - Bizcochuelo
 - Almojábana
 - Mantecada
 - Bizcochos dulces y salados
 - Rosquitas
 - Rosquetas
-- [Catalina / Paledonia / Cuca](/panes-venezolanos/catalina/)
+- [Catalina / Paledonia / Cuca](/panes-venezolanos/catalina/){:target="blank"}.
 
 ## Miranda
 
-- [Golfeado](/panes-venezolanos/golfeado/)
-- [Cachito](/panes-venezolanos/cachito/)
+- [Golfeado](/panes-venezolanos/golfeado/){:target="blank"}.
+- [Cachito](/panes-venezolanos/cachito/){:target="blank"}.
 
 ## Monagas
 
@@ -140,13 +140,14 @@ No tenemos registro de panes.
 
 ## Nueva Esparta
 
-- [Pan de Leche Asuntino](/panes-venezolanos/pan-leche-asuntino/)
-- [Acemas margariteñas](/panes-venezolanos/acema-margaritena/)
-- [Bombón Margariteño](/panes-venezolanos/bombon-margariteno/)
-- [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca), [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca)
+- [Pan de Leche Asuntino](/panes-venezolanos/pan-especias-oriental/){:target="blank"}
+- [Pan Aliñado Margariteño](/panes-venezolanos/pan-leche-asuntino/){:target="blank"}
+- [Acemas margariteñas](/panes-venezolanos/acema-margaritena/){:target="blank"}
+- [Bombón Margariteño](/panes-venezolanos/bombon-margariteno/){:target="blank"}
+- [Roscas de coco margariteñas por Los Portadores de Tradición](/comunidad/lamamideamy/#rosca){:target="blank"}, [Roscas de coco margariteñas por Joselin Bread](/comunidad/joselinbread/#rosca){:target="blank"}
 - Pan aliñado
 - Rosquitas
-- [Saboyano](/comunidad/lamamideamy/#saboyano)
+- [Saboyano](/comunidad/lamamideamy/#saboyano){:target="blank"}
 - [Pan de la Vieja / Referencia de Joselin Bread](https://www.instagram.com/p/C66qX_ionH2/?igsh=eHlqYXp5MzRxNGFh){:target="blank"}
 - Coscorrones
 
@@ -156,35 +157,36 @@ No tenemos registro de panes.
 
 ## Sucre
 
-- Pan de especias oriental
+- [Pan de especias oriental](/panes-venezolanos/pan-especias-oriental/){:target="blank"}
 - Casabe
-- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina).
+- [Domplinas, bekas, galetas, flotas, cholas, pan de minero](/comunidad/arturoa3971/#domplina){:target="blank"}
 
 ## Táchira
 
-- [Pan Camaleón](/panes-venezolanos/pan-camaleon/)
+- [Pan Camaleón](/panes-venezolanos/pan-camaleon/){:target="blank"}
 - Pan aliñado dulce
 - Pan aliñado de sal
 - Pan aliñado en rosca
 - Pan azucarado
-- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/)
+- [Pan de maíz](/panes-venezolanos/pan-de-jojoto/){:target="blank"}
 - Pan negro
-- [Pan de avena](/panes-venezolanos/pan-de-avena/)
-- [Pan de afrecho](/panes-venezolanos/pan-de-afrecho/)
+- [Pan de avena](/panes-venezolanos/pan-de-avena/){:target="blank"}
+- [Pan de afrecho](/panes-venezolanos/pan-de-afrecho/){:target="blank"}
 - Pan mojicón
-- [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
-- [Pan de queso](/panes-venezolanos/pan-de-queso/)
+- [Pan de yuca](/panes-venezolanos/pan-de-yuca/){:target="blank"}
+- [Pan de queso](/panes-venezolanos/pan-de-queso/){:target="blank"}
 - Pan integral o negro
 - Pan de mantequilla
-- [Pan de leche](/panes-venezolanos/pan-de-leche/)
-- [Pan de dulce de leche](/panes-venezolanos/pan-dulce-leche/)
+- [Pan de leche](/panes-venezolanos/pan-de-leche/){:target="blank"}
+- [Pan de dulce de leche](/panes-venezolanos/pan-dulce-leche/){:target="blank"}
+- [Pan de guayaba](/panes-venezolanos/pan-guayaba/){:target="blank"}
 - Pan de dulce de leche y Coco
 - Pan de agua
 - Pan del Peregrino
 - Bizcocho
 - Bizcochuelo
 - Almojábana
-- Acema
+- [Acema](/panes-venezolanos/acema-andina/){:target="blank"}
 - Acemitas
 - Acema de chicharrón
 - Acema de bocadillo / conserva de guayaba
@@ -216,12 +218,12 @@ No tenemos registro de panes.
 - Pan de plátano
 - [Pan de yuca](/panes-venezolanos/pan-de-yuca/)
 - [Pan de papa](/panes-venezolanos/pan-de-papa/)
-- Acema 
+- [Acema](/panes-venezolanos/acema-andina/){:target="blank"}
 - Acemita 
 
 ## Vargas
 
-- [Golfeado](/panes-venezolanos/golfeado/)
+- [Golfeado](/panes-venezolanos/golfeado/){:target="blank"}
 
 ## Yaracuy
 
@@ -233,18 +235,18 @@ No tenemos registro de panes.
 - Galletas de huevo 
 - Galletas de maíz tostado
 - Mandocas
-- [Catalina / Paledonia](/panes-venezolanos/catalina/)
-- Rollo maracucho
+- [Catalina / Paledonia](/panes-venezolanos/catalina/){:target="blank"}
+- [Rollo maracucho](/panes-venezolanos/rollo-maracucho/){:target="blank"}
 
 ## Otros panes
 
-- [Pan integral] (/panes-venezolanos/pan-de-afrecho/)
-- [Pan de Sandwich / Molde](/panes-venezolanos/pan-de-sandwich/)
-- [Pan de Perro Caliente](/panes-venezolanos/pan-de-perro-caliente/)
-- [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/), [de Papa](/panes-venezolanos/pan-de-papa/), [Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/), [Mini Pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/)
-- [Pan Gallego](/panes-venezolanos/pan-gallego/)
+- [Pan integral](/panes-venezolanos/pan-de-afrecho/){:target="blank"}
+- [Pan de Sandwich / Molde](/panes-venezolanos/pan-de-sandwich/){:target="blank"}
+- [Pan de Perro Caliente](/panes-venezolanos/pan-de-perro-caliente/){:target="blank"}
+- [Pan de Hamburguesa](/panes-venezolanos/pan-de-hamburguesa/), [de Papa](/panes-venezolanos/pan-de-papa/){:target="blank"}, [Masa Brioche](/panes-venezolanos/pan-de-hamburguesa-con-masa-brioche/){:target="blank"}, [Mini Pan de hamburguesa (Sliders)](/panes-venezolanos/mini-pan-de-hamburguesa/){:target="blank"}
+- [Pan Gallego](/panes-venezolanos/pan-gallego/){:target="blank"}
 - Pan de Dios (Pan de Deus)
-- [Pan de coco](/panes-venezolanos/pan-de-coco/)
+- [Pan de coco](/panes-venezolanos/pan-de-coco/){:target="blank"}
 
 ## Fuentes
 
@@ -257,5 +259,8 @@ No tenemos registro de panes.
 - Soy Panadero, Un homenaje a los artesanos del Pan en Venezuela, Adriana Gibbs, Alumware.
 - El Pan nuestro de cada día, Rafael Cartay, Fundación Bigott.
 - [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf){:target="blank"}, Fundación Polar.
+- Panes Venezolanos 
+
+__Versión 2.0 (2026/09/07)__
 
 
