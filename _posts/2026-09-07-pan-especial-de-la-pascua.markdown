@@ -26,7 +26,7 @@ El **Especial de Valle de la Pascua** se distingue por una miga cerrada, fina, s
 
 El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciudad del estado Guárico. Su origen se sitúa a comienzos de la década de 1960 y se atribuye al maestro panadero **Agustín Azuaje**, quien habría desarrollado un pan de larga fermentación, miga suave y cerrado perfil aromático. Según el testimonio del panadero Ramón “Moncheiro” Rivas, comenzó a llamarse *Especial* para distinguirlo de los panes dulces comunes que se ofrecían entonces. Con el tiempo, aquel nombre terminó identificando a un pan profundamente ligado a la tradición panadera de Valle de la Pascua.[1]
 
-[1]: [Gibbs, Adriana. (2019). Soy panadero: Un homenaje a los artesanos del pan en Venezuela. Caracas, Venezuela](https://alumware.com/wp-content/uploads/2020/05/Libro_Soy_Panadero_Pag-Enfrentadas.pdf){:target="blank"} 
+[1]: [Soy panadero: Un homenaje a los artesanos del pan en Venezuela. Caracas, Venezuela](https://alumware.com/wp-content/uploads/2020/05/Libro_Soy_Panadero_Pag-Enfrentadas.pdf){:target="blank"} 
 
 ## Tips para su preparación
 
@@ -149,7 +149,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/09/07)__
+__Versión 1.2 (2026/09/07)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
