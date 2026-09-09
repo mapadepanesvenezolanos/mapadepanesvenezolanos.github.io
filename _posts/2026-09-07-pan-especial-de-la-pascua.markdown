@@ -2,9 +2,9 @@
 title: "Pan Especial de la Pascua"
 subtitle: "El dulce orgullo de Valle de la Pascua."
 description: "Descubre el origen y la receta del Pan Especial de Valle de la Pascua, un tradicional pan dulce de Guárico elaborado con malta, mantequilla y vainilla."
-date: 2026-07-07 00:00:00 -0400
+date: 2026-09-07 00:00:00 -0400
 published: true
-permalink: /panes-venezolanos/pan-especial-valle-de-la-pascua/
+permalink: /panes-venezolanos/pan-especial-de-la-pascua/
 categories: pan dulce enriquecido centro 
 tipo: dulces
 region: Los Llanos  
@@ -20,8 +20,8 @@ keywords:
   - pan con Maltín Polar
   - panes tradicionales venezolanos
   - panes venezolanos
-featured_image: '/images/panes/especial-valle-de-la-pascua/especial-valle-dela-pascua_01.jpg'
-formula_name: "especialvalledelapascua"
+featured_image: '/images/panes/especial-de-la-pascua/especial-dela-pascua_01.jpg'
+formula_name: "especialdelapascua"
 
 ---
 
@@ -29,11 +29,11 @@ formula_name: "especialvalledelapascua"
 
 ## RECETA, FÓRMULA y TÉCNICAS 
 
-## Resultado esperado del Pan Especial de Valle de la Pascua
+## Resultado esperado del Pan Especial de la Pascua
 
 El **Especial de Valle de la Pascua** se distingue por una miga cerrada, fina, sedosa y muy suave, acompañada de una corteza dorada a ámbar, bien formada pero delicada. Su perfil aromático combina las notas desarrolladas durante la fermentación con el dulzor de la malta, la mantequilla y la vainilla. En boca ofrece suavidad y persistencia, con un dulzor equilibrado y un característico fondo de malta que aporta profundidad sin dominar el conjunto.
 
-## Origen del Pan Especial de Valle de la Pascua
+## Origen del Pan Especial de la Pascua
 
 El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciudad del estado Guárico. Su origen se sitúa a comienzos de la década de 1960 y se atribuye al maestro panadero **Agustín Azuaje**, quien habría desarrollado un pan de larga fermentación, miga suave y cerrado perfil aromático. Según el testimonio del panadero Ramón “Moncheiro” Rivas, comenzó a llamarse *Especial* para distinguirlo de los panes dulces comunes que se ofrecían entonces. Con el tiempo, aquel nombre terminó identificando a un pan profundamente ligado a la tradición panadera de Valle de la Pascua.[1]
 
@@ -46,7 +46,7 @@ El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciuda
 
 {% include whatsapp.html %}
 
-# Cómo hacer el Pan Especial de Valle de la Pascua/Especial de la Pascua
+# Cómo hacer el Pan Especial de la Pascua
 
 ## Masa leudada con levadura instantánea
 
