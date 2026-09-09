@@ -219,7 +219,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.2 (2026/07/08)__
+__Versión 1.3 (2026/09/07)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
@@ -233,4 +233,6 @@ Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommo
 [@pandemelao]: https://www.instagram.com/pandemelao
 [@oreganobaguette]: https://www.instagram.com/oreganobaguette
 [Trina Arocha]: https://www.instagram.com/trinaarochacocinavenezolana/
+[El manual de la cocina venezolana. Panes y Pastelitos]:https://www.amazon.com/dp/9802443352
+
 
