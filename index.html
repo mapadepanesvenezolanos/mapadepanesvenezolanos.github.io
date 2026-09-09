@@ -90,6 +90,14 @@ featured_image: /images/social.jpg
 
 	{% endif %}
 
+	<p>
+	Página actual: {{ paginator.page }}<br>
+	Total páginas: {{ paginator.total_pages }}<br>
+	Total posts: {{ paginator.total_posts }}<br>
+	Siguiente: {{ paginator.next_page }}<br>
+	Siguiente URL: {{ paginator.next_page_path }}
+  </p>
+
 </section>
 
 {% include aporta.html %}
