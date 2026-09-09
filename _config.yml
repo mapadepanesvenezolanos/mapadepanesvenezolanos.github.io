@@ -84,8 +84,6 @@ grid_alignments:
   - bottom
 
 home_panes:
-  limite_total: 20
-
   tipos:
     - tipo: "arepa"
       limite: 1
