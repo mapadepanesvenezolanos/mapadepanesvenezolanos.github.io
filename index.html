@@ -61,37 +61,29 @@ featured_image: /images/social.jpg
 	<nav class="pagination" aria-label="Navegación de páginas">
 
 		<div class="pagination__left">
-
 			{% if paginator.previous_page %}
 				<a
-					class="pagination__link pagination__prev"
+					class="pagination__link"
 					href="{{ paginator.previous_page_path | relative_url }}">
-					← Volver atrás 
+					← Más recientes
 				</a>
 			{% endif %}
-
 		</div>
 
-
 		<div class="pagination__center">
-
 			<span class="pagination__info">
 				Página {{ paginator.page }} de {{ paginator.total_pages }}
 			</span>
-
 		</div>
 
-
 		<div class="pagination__right">
-
 			{% if paginator.next_page %}
 				<a
-					class="pagination__link pagination__next"
+					class="pagination__link"
 					href="{{ paginator.next_page_path | relative_url }}">
 					Ver más panes →
 				</a>
 			{% endif %}
-
 		</div>
 
 	</nav>
@@ -99,6 +91,5 @@ featured_image: /images/social.jpg
 </div>
 
 {% endif %}
-
 
 {% include aporta.html %}
