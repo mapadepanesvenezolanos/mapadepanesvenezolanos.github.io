@@ -305,7 +305,22 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	}
 
 	.pagination__link {
-		padding: 10px 5px;
-		font-size: 0.9rem;
+		position: relative;
+		z-index: 999999;
+
+		display: inline-block;
+		padding: 12px 16px;
+
+		color: #7A2E2E;
+		text-decoration: none;
+		font-weight: $bold-weight;
+
+		cursor: pointer;
+		pointer-events: auto;
+	}
+
+	.pagination__link:hover {
+		color: #5C2020;
+		text-decoration: underline;
 	}
 }
