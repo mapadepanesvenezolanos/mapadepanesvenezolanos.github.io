@@ -209,8 +209,10 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	position: relative;
 	z-index: 999999;
 	clear: both;
+
 	width: 100%;
 	padding: 3rem 0;
+
 	background: $background-color;
 	pointer-events: auto;
 }
@@ -219,9 +221,10 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	position: relative;
 	z-index: 999999;
 
-	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
+	display: flex;
+	justify-content: center;
 	align-items: center;
+	gap: 2rem;
 
 	width: 100%;
 	max-width: 1200px;
@@ -229,26 +232,16 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	margin: 0 auto;
 	padding: 0 2rem;
 
+	text-align: center;
 	pointer-events: auto;
 }
 
-.pagination__left {
-	display: flex;
-	justify-content: flex-start;
-	align-items: center;
-}
-
-.pagination__center {
-	display: flex;
-	justify-content: center;
-	align-items: center;
-	text-align: center;
-}
-
+.pagination__left,
+.pagination__center,
 .pagination__right {
 	display: flex;
-	justify-content: flex-end;
 	align-items: center;
+	justify-content: center;
 }
 
 .pagination__link {
@@ -258,7 +251,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 	display: inline-block;
 	padding: 12px 16px;
 
-	color: $accent-color;
+	color: #7A2E2E;
 	text-decoration: none;
 	font-weight: $bold-weight;
 
@@ -267,6 +260,7 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 }
 
 .pagination__link:hover {
+	color: #5C2020;
 	text-decoration: underline;
 }
 
@@ -282,45 +276,20 @@ $grid-spacing: {{ site.data.settings.grid_settings.grid_spacing }}px;
 @media (max-width: 600px) {
 
 	.pagination {
-		grid-template-columns: 1fr 1fr;
-		gap: 1rem;
+		flex-wrap: wrap;
+		justify-content: center;
+		gap: 0.5rem 1rem;
+
 		padding: 0 1rem;
 	}
 
 	.pagination__center {
-		grid-column: 1 / -1;
-		grid-row: 1;
-	}
-
-	.pagination__left {
-		grid-column: 1;
-		grid-row: 2;
-		justify-content: flex-start;
-	}
-
-	.pagination__right {
-		grid-column: 2;
-		grid-row: 2;
-		justify-content: flex-end;
+		order: -1;
+		width: 100%;
 	}
 
 	.pagination__link {
-		position: relative;
-		z-index: 999999;
-
-		display: inline-block;
-		padding: 12px 16px;
-
-		color: #7A2E2E;
-		text-decoration: none;
-		font-weight: $bold-weight;
-
-		cursor: pointer;
-		pointer-events: auto;
-	}
-
-	.pagination__link:hover {
-		color: #5C2020;
-		text-decoration: underline;
+		padding: 10px 8px;
+		font-size: 0.9rem;
 	}
 }
