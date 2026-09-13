@@ -3,6 +3,12 @@ site: Mapa de Panes Venezolanos
 url: 
 baseurl: 
 
+# Contenido de herramientas de desarrollo que Jekyll debe ignorar
+exclude:
+  - plans
+  - tests
+  - opencode.json
+
 collections:
   pages:
     output: true
