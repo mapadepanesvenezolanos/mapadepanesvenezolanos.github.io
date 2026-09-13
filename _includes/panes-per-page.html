@@ -1,0 +1,19 @@
+<div class="panes-per-page">
+	<label class="panes-per-page__label" for="panes-per-page-select">Panes por página:</label>
+	<select id="panes-per-page-select" class="panes-per-page__select">
+		<option value="10">10</option>
+		<option value="20" selected>20</option>
+		<option value="40">40</option>
+		<option value="todos">Todos</option>
+	</select>
+</div>
+
+<noscript>
+	<style>
+		#listing-wrap .listing-item { display: block !important; }
+		#panes-per-page-select { display: none; }
+	</style>
+</noscript>
+
+<script src="{{ '/js/panes-paging.js' | relative_url }}"></script>
+<script src="{{ '/js/panes-paginator.js' | relative_url }}"></script>

@@ -9,13 +9,19 @@ featured_image: /images/social.jpg
 
 <section class="listing">
 
-	{% include search-lunr.html %}
+	<div class="listing-toolbar">
 
-	<div class="content-wrap listing-wrap">
+		{% include panes-per-page.html %}
 
-		{% for post in paginator.posts %}
+		{% include search-lunr.html %}
 
-			<div class="listing-item">
+	</div>
+
+	<div class="content-wrap listing-wrap" id="listing-wrap">
+
+		{% for post in site.posts %}
+
+			<div class="listing-item" data-pos="{{ forloop.index0 }}">
 
 				<a class="listing-item__link" href="{{ post.url | relative_url }}">
 
@@ -51,45 +57,10 @@ featured_image: /images/social.jpg
 
 	</div>
 
+	<div class="pagination-wrapper" id="panes-pagination-wrapper" hidden>
+		<nav class="pagination" id="panes-pagination" aria-label="Navegación de páginas"></nav>
+	</div>
+
 </section>
-
-
-{% if paginator.total_pages > 1 %}
-
-<div class="pagination-wrapper">
-
-	<nav class="pagination" aria-label="Navegación de páginas">
-
-		<div class="pagination__left">
-			{% if paginator.previous_page %}
-				<a
-					class="pagination__link"
-					href="{{ paginator.previous_page_path | relative_url }}">
-					← Más recientes
-				</a>
-			{% endif %}
-		</div>
-
-		<div class="pagination__center">
-			<span class="pagination__info">
-				Página {{ paginator.page }} de {{ paginator.total_pages }}
-			</span>
-		</div>
-
-		<div class="pagination__right">
-			{% if paginator.next_page %}
-				<a
-					class="pagination__link"
-					href="{{ paginator.next_page_path | relative_url }}">
-					Ver más panes →
-				</a>
-			{% endif %}
-		</div>
-
-	</nav>
-
-</div>
-
-{% endif %}
 
 {% include aporta.html %}
