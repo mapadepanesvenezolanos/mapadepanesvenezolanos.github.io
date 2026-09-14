@@ -17,6 +17,51 @@ Aquí encontrarás espacios de aprendizaje pensados para panaderos caseros y per
           <p>No hay cursos publicados.</p>
         {% endif %}
         
+        <div class="col">
+            <div class="card h-30 shadow-sm hover-card">
+                <a href="https://cursos.hazpanen.casa/cursos/pan-canilla/introduccion/" target="_blank" class="text-decoration-none text-dark">
+                    <div class="position-relative">
+                        <img src="{{ '/images/cursos/pan-canilla_curso.jpg' | relative_url }}"
+                             class="card-img-top"
+                             alt="Taller de Pan Canilla"
+                             style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">Taller de Pan Canilla</h5>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-30 shadow-sm hover-card">
+                <a href="https://cursos.hazpanen.casa/cursos/cachito-y-mini-lunch/introduccion/" target="_blank" class="text-decoration-none text-dark">
+                    <div class="position-relative">
+                        <img src="{{ '/images/cursos/cachito-minilunch_curso.jpg' | relative_url }}"
+                             class="card-img-top"
+                             alt="Taller de Cachitos y Mini Lunch"
+                             style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">Taller de Cachitos y Mini Lunch</h5>
+                    </div>
+                </a>
+            </div>
+        </div>
+        <div class="col">
+            <div class="card h-30 shadow-sm hover-card">
+                <a href="https://cursos.hazpanen.casa/cursos/panes-de-empaque/introduccion/" target="_blank" class="text-decoration-none text-dark">
+                    <div class="position-relative">
+                        <img src="{{ '/images/cursos/perros-hamburguesas_curso.jpg' | relative_url }}"
+                             class="card-img-top"
+                             alt="Taller de Panes de Empaque"
+                             style="object-fit: cover;">
+                    </div>
+                    <div class="card-body">
+                        <h5 class="card-title fw-bold" style="font-family: 'Alfa Slab One', serif;">Taller de Panes de Empaque</h5>
+                    </div>
+                </a>
+            </div>
+        </div>
         {% for curso in site.cursos %}
         <div class="col">
             <div class="card h-30 shadow-sm hover-card">
