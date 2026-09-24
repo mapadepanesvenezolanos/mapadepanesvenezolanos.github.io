@@ -122,10 +122,10 @@ A continuación encontrarás la receta y el paso a paso para preparar la [masa d
 #### Segundo ciclo de amasado (con máquina)
 - Derrite la mantequilla sin sal, en un envase al microondas durante veinte (20) segundos.
 - Coloca la bolita de masa en el mezclador/asistente de cocina y a velocidad intermedia (3), utilizando el utensilio tipo batidor plano, agrega poco a poco la mantequilla a la mezcla hasta incorporar a la masa. 
-- Mezcla durante seis (6) minutos.
+- Mezcla durante cuatro (4) minutos.
 - Con la ayuda de un dedo mágico de cocina, recupera la masa contenida en la máquina y forma una bolita.
 - Deja reposar la masa cubierta durante diez (10) minutos.
-- Con el utensilio tipo batidor plano, soba la masa a velocidad intermedia (3) durante tres (3) minutos más.
+- Con el utensilio tipo gancho plano, soba la masa a velocidad intermedia (3) durante tres (3) minutos más.
 - Recupera la masa contenida en la máquina y forma una bolita.
 
 ### Primera Fermentación 
@@ -144,8 +144,8 @@ La idea de la manipulación es igualar la temperatura de toda la masa y sacar lo
 - Voltea la masa y forma una bola, que quede lisa en la parte superior, coloca una película de aceite en el envase y coloca un poquito de aceite sobre la masa y extiendelo para mantenerla hidratada y no se pegue.
 - Cubre la masa con una bolsa plástica y déjala reposar por una (1) hora en un lugar fresco a una temperatura entre 24ºC/75ºF y 27ºC/80ºF.
 
-### Fermentación en bloque (maduración en nevera)
-- Coloca el recipiente tapado en la nevera entre seis (6) y ocho (8) horas.
+### Retardo en nevera 
+- Coloca el recipiente tapado con la masa en la nevera entre seis (6) y ocho (8) horas.
 
 ### Preparación del relleno - Azúcar y Canela
 - En un envase mezcla el Azúcar blanca, el Azúcar morena, la canela en polvo y la ralladura de limón.
@@ -203,7 +203,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 3.3 (2026/05/08)__
+__Versión 3.4 (2026/09/24)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
