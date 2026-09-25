@@ -1,0 +1,197 @@
+---
+title:  "Heredados - Ciabatta"
+subtitle: "Nuestra versión de la deliciosa ciabatta italiana"
+description: "En el contexto venezolano, la ciabatta se presenta como un pan plano, suave y esponjoso, con una corteza ligeramente crujiente y un sabor que puede ir de neutro a ligeramente salado. Suele elaborarse con una base de harina de trigo, aceite de oliva, agua, sal y levadura, al igual que la receta tradicional italiana."
+date:   2026-10-29 00:00:00 -0400
+published: false
+permalink: /panes-venezolanos/ciabatta/
+categories: pan tipo barra heredados
+region: Sistema de la Costa  
+tipo: heredados
+keywords:  ciabatta, ciabatta origen, ciabatta venezolana historia, historia de la ciabatta, ciabatta venezolana, receta de ciabatta, pan ciabatta receta original, origen del pan ciabatta, pan ciabatta receta, receta pan ciabatta, receta de ciabatta venezolana, pan ciabatta, cuanto pesa una ciabatta, receta pan ciabatta venezolana, pan ciabatta venezuela, pan ciabatta en barra, como hacer ciabatta, ciabatta grande, receta de ciabatta, panes ciabatta, pan ciabatta historia, como hacer, ciabatta venezolana, ciabatta venezolana, pan ciabatta casero, como hacer pan ciabatta casero, pan ciabatta en venezuela, pan ciabatta relleno, ciabatta pan, pan ciabatta
+featured_image: '/images/panes/ciabatta/ciabatta_001.jpg'
+formula_name: "ciabatta"
+
+---
+
+Ahora vamos a hacer una ciabatta utilizando el método indirecto con levadura instantánea.
+
+## RECETA, FÓRMULA y TÉCNICAS 
+
+## Resultado esperado
+
+Es un Pan tipo plano de textura esponjosa y suave, Al igual que la ciabatta italiana, la versión venezolana mantiene una miga aireada y una textura interna húmeda, gracias al uso generoso de aceite de oliva y a una buena fermentación. La corteza suele ser ligeramente crujiente por fuera, especialmente si se hornea con un poco de aceite en la superficie. 
+
+## Origen  
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
+
+"El misterioso origen de la ciabatta:
+
+Se cree que la ciabatta tiene sus raíces en la antigua Roma, donde se elaboraba un pan plano llamado «panis focacius» en los hornos comunales. Este pan se horneaba en las brasas, lo que le daba su característica textura crujiente por fuera y suave por dentro. 
+
+Otra teoría sugiere que la ciabatta se originó en la región de Liguria, en el noroeste de Italia, donde se preparaba como un alimento básico simple con aceite de oliva, sal marina y hierbas locales.
+
+A lo largo de los siglos, la receta básica de la ciabatta ha evolucionado y se ha adaptado a las preferencias regionales, dando lugar a variaciones como la ciabatta genovesa, cubierta con sal gruesa y romero; o la ciabatta barese, que se rellena con tomate cherry y aceitunas.
+
+La popularidad actual de la ciabatta fuera de Italia se debe en parte a su versatilidad en la cocina moderna. Se puede servir como acompañamiento, como base para pizzas o incluso como un sándwich relleno.
+
+En resumen, la ciabatta es mucho más que un simple pan; es un producto de siglos de tradición culinaria e innovación gastronómica que ha conquistado paladares en todo el mundo." 
+
+[^1]: https://reyvinoblanco.com/cual-es-el-origen-del-pan-ciabatta/, Rey Vino Blanco
+
+### Migración italiana a Venezuela
+
+Entre los años 1945 y 1970, Venezuela recibió una importante ola migratoria italiana. Miles de familias llegaron al país huyendo de la posguerra, muchos de ellos desde regiones como Liguria, Campania y Sicilia. Estos inmigrantes trajeron consigo sus costumbres, recetas y tradiciones culinarias, incluyendo preparaciones como pasta fresca, pizza… y por supuesto, la ciabatta. Inicialmente, la ciabatta se preparaba en panaderías italianas tradicionales en Caracas, Maracaibo, Valencia y otras ciudades con fuerte presencia europea. Con el tiempo, se fue fusionando con ingredientes venezolanos, incorporando quesos criollos, jamón planchado, ají dulce, entre otros.
+
+## Tips para preparar ciabatta tradicional 
+
+{% include whatsapp.html %}
+
+<div id="indirecto"></div>
+
+## Masa leudada con levadura instantánea
+
+- Una ciabatta de 995g de masa.
+- Una masa suave, alveolada con 75% de hidratación.
+
+### Ingredientes para preparar ciabatta tradicional (1 unidad)
+
+| Ingrediente                                                  |    Fórmula    |      Peso |
+|:-------------------------------------------------------------|:-------------:|----------:|
+| Harina panadera                                              |      100%     |      546g |
+| Agua                                                         |       75%     |      410g |
+| Levadura instantánea                                         |      0.2%     |        1g |
+| Sal                                                          |        2%     |       11g |
+| Grasa (Aceite de oliva)                                      |        5%     |       27g |
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |   **182.2%**  |  **995g** |
+
+### Calculadora para preparar el Foccacia tradicional 
+
+{% include formulas.html %}
+{% include calculadora-de-panes.html %}
+
+## Paso a paso para preparar la Ciabatta
+
+<div id="preparacion"></div>
+
+### Preparación
+
+* Pesa todos los ingredientes y colócalos en recipientes separados.
+* Asegúrate de que cada ingrediente esté pesado en gramos y de haber descontado el peso de los recipientes.
+* Ten a mano una rasqueta, un recipiente amplio y todos los utensilios que utilizarás durante el proceso.
+* Esta es una masa con 75 % de hidratación, así que será húmeda y pegajosa. Resiste la tentación de agregar harina adicional: queremos conservar toda esa agua para conseguir la miga abierta y alveolada que caracteriza a la Ciabatta.
+
+### Mezcla y amasado
+
+* Mezcla la harina con la levadura instantánea.
+* Incorpora el agua poco a poco y mezcla hasta que toda la harina esté hidratada.
+* Continúa mezclando hasta obtener una masa homogénea, húmeda y pegajosa.
+* Incorpora la sal y continúa amasando hasta comenzar a desarrollar la estructura de la masa.
+* Agrega el aceite de oliva progresivamente y continúa trabajando hasta integrarlo completamente.
+* Amasa durante dos (2) minutos y deja reposar la masa durante diez (10) minutos.
+* Después del reposo, trabaja nuevamente la masa hasta observar que comienza a ganar elasticidad y resistencia.
+
+No buscamos una masa seca ni firme. La Ciabatta comienza siendo una masa bastante húmeda y será el tiempo, la fermentación y los pliegues quienes nos ayudarán a desarrollar su estructura.
+
+### Retardo en nevera
+
+* Coloca la masa en un recipiente o bolsa ligeramente aceitada y cúbrela bien.
+* Lleva la masa a la nevera a 4 °C durante doce (12) a dieciocho (18) horas.
+* Durante este tiempo la fermentación continuará lentamente, ayudándonos a desarrollar aromas y sabor.
+
+### Manipulación y pliegues
+
+* Saca la masa de la nevera y colócala cuidadosamente en un recipiente amplio ligeramente aceitado.
+* Deja que pierda parte del frío antes de comenzar a manipularla.
+* Con las manos ligeramente húmedas, toma uno de los extremos de la masa, estíralo suavemente y pliégalo sobre sí mismo.
+* Repite el movimiento desde el extremo opuesto.
+* Gira el recipiente y repite los pliegues desde los otros dos lados.
+* Deja reposar la masa cubierta durante veinte (20) minutos.
+* Realiza una segunda serie de pliegues y deja reposar nuevamente durante veinte (20) minutos.
+
+A medida que hacemos los pliegues veremos cómo aquella masa inicialmente floja comienza a ganar fuerza, elasticidad y volumen. Hazlo con delicadeza: queremos desarrollar estructura sin expulsar el gas que comienza a acumularse dentro de la masa.
+
+### Fermentación
+
+* Deja reposar la masa cubierta a una temperatura entre 24 °C/75 °F y 27 °C/80 °F.
+* Observa la masa más que el reloj. Estará lista cuando haya ganado volumen, se vea ligera y presente burbujas visibles bajo la superficie.
+* Evita desgasificarla durante esta etapa.
+
+### División
+
+* Enharina generosamente la superficie de trabajo.
+* Vuelca la masa con cuidado, ayudándote con una rasqueta y procurando conservar el aire acumulado durante la fermentación.
+* Espolvorea ligeramente la superficie de la masa con harina.
+* Con la rasqueta, divide la masa en las piezas deseadas.
+* Evita amasar, aplastar o enrollar las piezas después de dividirlas.
+
+### Formado
+
+La Ciabatta necesita muy poco formado. Aquí queremos intervenir lo menos posible.
+
+* Con las manos bien enharinadas, acomoda suavemente cada pieza hasta obtener una forma rectangular y alargada.
+* No presiones la masa para conseguir una forma perfecta.
+* Evita desgasificarla.
+* Si necesitas alargarla, hazlo suavemente desde los extremos.
+
+Una Ciabatta puede quedar un poco irregular. Déjala ser: buena parte de su encanto está precisamente allí.
+
+### Maduración
+
+* Coloca las piezas sobre una tela de panadero bien enharinada o sobre papel de hornear.
+* Deja suficiente espacio entre ellas.
+* Cubre sin ejercer presión sobre la masa.
+* Deja madurar hasta que las piezas se vean ligeras, aireadas y hayan aumentado claramente de volumen.
+
+Al tocarlas suavemente debemos sentir una masa llena de aire. Desde este momento, cada burbuja cuenta.
+
+### Precalentar el horno
+
+* Precalienta el horno a **230 °C/450 °F**.
+* Coloca dentro la superficie o bandeja donde hornearás los panes para que esté bien caliente.
+* Prepara también un recipiente metálico en la parte inferior del horno para generar vapor durante los primeros minutos de cocción.
+
+### Cortes
+
+La Ciabatta **no necesita cortes**.
+
+Su alta hidratación, el formado delicado y su estructura irregular permiten que se expanda naturalmente durante el horneado. Manipúlala lo menos posible cuando la lleves al horno.
+
+### Horneado
+
+* Lleva cuidadosamente las Ciabattas al horno procurando no desgasificarlas.
+* Genera vapor al comienzo de la cocción.
+* Hornea a **230 °C/450 °F durante aproximadamente veinte (20) a veinticinco (25) minutos**.
+* Hacia el final de la cocción, permite que salga el exceso de vapor para ayudar a desarrollar una corteza crujiente.
+* Hornea hasta conseguir una corteza bien dorada y una temperatura interna cercana a **93 °C**.
+* Retira los panes del horno.
+
+### Enfriamiento
+
+* Pasa inmediatamente las Ciabattas a una rejilla.
+* Déjalas enfriar durante al menos treinta (30) minutos antes de cortarlas.
+
+Sabemos que provoca abrirlas apenas salen del horno para descubrir esos alveolos, pero espera un poquito. Durante el enfriamiento la humedad termina de distribuirse y la miga completa su estructura. Después sí: cuchillo, corte y a descubrir qué dibujó la fermentación por dentro.
+---
+
+### Referencias y enlaces
+
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, las fórmulas del [Grupo Académico Panadero y Pastelero de Venezuela]{:target="blank"} y [La Guilde Culinaire]{:target="blank"}.
+
+Este procedimiento ha sido escrito, validado, probado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
+
+**¿Te gustó esta receta? Corre la voz y comparte esta receta en tus redes sociales con la etiqueta _#mapadepanesvenezolanos_ y etiqueta a [@panesve]{:target="blank"},[@1painalafois]{:target="blank"} y [@hazpanencasa]{:target="blank"}.**
+
+**Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
+
+__Versión 1.0 (2026/09/25)__ 
+
+Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
+
+[@panesve]: https://www.instagram.com/panesve
+[@hazpanencasa]: https://www.instagram.com/hazpanencasa
+[@1painalafois]: https://www.instagram.com/1painalafois
+[La Guilde Culinaire]: https://www.laguildeculinaire.com/
+[Grupo Académico Panadero y Pastelero de Venezuela]: https://gappvzla.com/
