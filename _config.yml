@@ -85,15 +85,11 @@ plugins:
 # Paginación de panes
 # ----------------------------------
 
-# La paginación ahora es 100% del cliente (js/panes-paginator.js): el selector
-# "Panes por página" de la portada decide cuántos panes ver. Se mantienen
-# estos valores comentados como referencia; jekyll-paginate queda inactivo.
-
 # Cantidad de panes mostrados por página
-# paginate: 20
+paginate: 20
 
 # URL para las páginas 2, 3, 4...
-# paginate_path: "/page:num/"
+paginate_path: "/page:num/"
 
 grid_alignments:
   - top

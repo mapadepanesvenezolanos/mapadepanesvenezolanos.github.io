@@ -104,50 +104,26 @@ function lunr_search(term) {
     .lunrsearchresult { list-style-type: none; }
 
     .lunrsearch { 
-        margin-bottom: 0;
+        margin-bottom: 1rem;
+        margin-right: 2rem;
         border-color: grey;
         border-radius: 6px;
         border-width: 3px;
-        width: 100%;
-        box-sizing: border-box;
     } 
 
     .searchForm {
         display: flex;
-        flex-direction: row;
-        justify-content: flex-end;
-    }
-
-    .searchForm p {
-        margin-bottom: 0;
-        width: 100%;
-    }
-
-    #search-block {
-        flex: 0 1 360px;
-        display: flex;
         flex-direction: column;
-        align-items: stretch;
-        min-width: 240px;
-    }
-
-    #search-block #lunrsearchresults {
-        padding-left: 0;
-        padding-right: 0;
-        text-align: left;
-        max-height: 360px;
-        overflow-y: auto;
+        align-items: center;
     }
 </style>
 
 
-<div id="search-block">
 <form class="searchForm" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
     <p><input type="text" class="form-control lunrsearch" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Quisiera hacer ..." /></p>
 </form>
 <div id="lunrsearchresults">
     <ul></ul>
-</div>
 </div>
 
 

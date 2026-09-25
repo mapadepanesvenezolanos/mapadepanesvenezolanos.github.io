@@ -5,26 +5,6 @@
 - En el atributo 'seo' agrega las palabras claves o frases que son similares
 
 
-# Panes por página (selector en la portada)
-
-La página principal (`index.html`) muestra todos los panes publicados y permite al
-usuario elegir cuántos ver con el selector **"Panes por página"** (10 / 20 / 40 / Todos).
-La paginación es 100% del navegador (cliente): ya no usa `jekyll-paginate`.
-
-- **`js/panes-paging.js`** – lógica pura (`totalPages`, `slice`) en formato UMD (navegador + Node).
-- **`js/panes-paginator.js`** – controlador: lee el selector, re-pagina la lista, renderiza la
-  navegación y guarda la preferencia en `localStorage` (clave `panes-per-page`).
-- **`_includes/panes-per-page.html`** – UI del selector e inclusión de los scripts.
-- **`tests/panes-paging.test.js`** – pruebas del módulo puro con el runner integrado de Node.
-
-Para probar: `node --test "tests/*.test.js"`. Sin JavaScript se muestran todos los panes.
-
-# Comando /plan
-
-El repositorio incluye el comando `/plan` (`.opencode/commands/plan.md`) para generar planes de
-implementación en `plans/` con filosofía TDD antes de escribir código.
-
-
 # Board by JekyllThemes.io – Instructions
 
 If you have any questions or feedback about the theme, don't hesitate to reach out to hello@jekyllthemes.io for 1-to-1 support direct from the developers.

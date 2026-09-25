@@ -9,19 +9,6 @@
 	margin-top: calc(-1 * $grid-spacing / 2);
 }
 
-.listing-toolbar {
-	display: flex;
-	justify-content: space-between;
-	align-items: flex-start;
-	gap: 1rem;
-	flex-wrap: wrap;
-	margin: 1.5rem 0 0.5rem;
-
-	.panes-per-page {
-		margin: 0;
-	}
-}
-
 .listing-wrap {
 	
 }
@@ -30,11 +17,7 @@
 	position: relative;
 	padding: calc($grid-spacing / 2);
 	float: left;
-	width: 100%;
-
-	@include mq(tabletp) {
-		width: 50%;
-	}
+	width: 50%;
 
 	@include mq(tabletl) {
 		width: 25%;
@@ -184,34 +167,4 @@
 
 .pagination__next {
 	float: right;
-}
-
-// - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Selector "Panes por página"
-
-.panes-per-page {
-	display: flex;
-	align-items: center;
-	gap: 0.5rem;
-	width: max-content;
-	margin: 1.5rem auto 0.5rem;
-	padding: 0.35rem 1rem;
-	border: 1px solid $border-color;
-	border-radius: 999px;
-	background: $background-alt-color;
-
-	&__label {
-		font-size: 0.85rem;
-		color: $text-medium-color;
-		white-space: nowrap;
-	}
-
-	&__select {
-		padding: 0.2rem 0.5rem;
-		border: 1px solid $border-color;
-		border-radius: 999px;
-		background: #fff;
-		color: $text-dark-color;
-		font-size: 0.85rem;
-		cursor: pointer;
-	}
 }
