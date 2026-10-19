@@ -23,8 +23,6 @@ El Pan de Pavo es de corteza fina, uniforme y bien dorada, con una miga suave, c
 
 El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestras panaderías y está especialmente asociado con Aragua y Maracay. Su sello está en ese relleno rojizo preparado con miga de pan, azúcar y aromas, una sabrosa manera de aprovechar el pan del día anterior. Aunque encontramos recuerdos y recetas que mantienen viva su preparación, su historia todavía tiene páginas por descubrir. Por ahora, no sabemos con certeza cuándo nació ni quién preparó el primero, pero sigue siendo parte de esa panadería venezolana que merece ser contada, horneada y compartida. Su origen exacto aún está por documentarse: seguimos buscando referencias que nos permitan saber cuándo comenzó a elaborarse en Aragua y qué panadería puso los primeros Panes de Pavo en sus vitrinas.
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips para su preparación
 
 - Ajusta el tiempo de la fermentación final según la temperatura ambiente de tu cocina.
@@ -37,6 +35,8 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 - Prepararemos 1 unidad de 600g de masa
 - Temperatura ambiente 22ºC - 27ºC
 - 53% de hidratación (baja hidratación)
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ### Ingredientes para la masa
 
