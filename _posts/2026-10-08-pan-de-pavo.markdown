@@ -49,6 +49,8 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 | Levadura instantánea                                         |      1.5%     |        5g |
 | Sal                                                          |        1%     |        3g |
 | Huevos ligeramente batidos                                   |       10%     |       33g |
+|:-------------------------------------------------------------|:-------------:|----------:|
+
 <div style="margin: 2rem 0; padding: 2rem 1.5rem; border: 1px solid #d9c2b6; border-radius: 12px; background: #fff9f5; text-align: center;">
   <h2 style="color: #713b2d; margin-top: 0;">¡La receta continúa en nuestro libro!</h2>
   <p>Ya conoces los primeros ingredientes de la masa del <strong>Pan de Pavo</strong>. Descubre la fórmula completa, el relleno de su característica espiral y todas las técnicas de preparación en <strong>Haz Panes Venezolanos en Casa</strong>.</p>
