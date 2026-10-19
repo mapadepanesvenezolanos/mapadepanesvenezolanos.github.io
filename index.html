@@ -13,7 +13,11 @@ featured_image: /images/social.jpg
 
 	<div class="content-wrap listing-wrap">
 
-		{% for post in paginator.posts %}
+	{% assign panes_visibles = site.posts | where_exp: "post", "post.hidden != true" %}
+	{% assign panes_ordenados = panes_visibles | sort: "orden" %}
+	{% assign inicio = paginator.page | minus: 1 | times: paginator.per_page %}
+
+	{% for post in panes_ordenados offset: inicio limit: paginator.per_page %}
 
 			<div class="listing-item">
 
@@ -65,7 +69,7 @@ featured_image: /images/social.jpg
 				<a
 					class="pagination__link"
 					href="{{ paginator.previous_page_path | relative_url }}">
-					← Más recientes
+					← Panes anteriores
 				</a>
 			{% endif %}
 		</div>

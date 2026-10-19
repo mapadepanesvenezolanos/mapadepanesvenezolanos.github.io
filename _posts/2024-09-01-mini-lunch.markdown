@@ -7,6 +7,7 @@ published: true
 permalink: /panes-venezolanos/mini-lunch/
 categories: pan semidulce enriquecido relleno
 tipo: suaves y rellenos
+orden: 80
 keywords: mini lunch, mini lunch venezolano, venezuela mini lunch
 featured_image: '/images/panes/mini-lunch/mini-lunch_02.jpg'
 formula_name: "minilunch"

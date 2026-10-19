@@ -6,6 +6,7 @@ date: 2022-09-26 10:32:39 -0400
 permalink: /panes-venezolanos/pan-de-hamburguesa/
 categories: pan salado enriquecido capital
 tipo: suaves y rellenos
+orden: 120
 keywords: pan de hamburguesa venezolano, historia del pan de hamburguesa, pan de hamburguesa brioche, pan de hamburguesa historia, pan de batata para hamburguesa, pan de hamburguesa, hamburguesa venezolano, panes de hamburguesa, origen del pan de hamburguesa, hamburguesa venezolana, pan de batata para hamburguesas, hamburguesas venezolanos, pan de hamburguesa chino
 featured_image: '/images/panes/hamburguesa/hamburguesa_02.jpg'
 formula_name: "hamburguesa"

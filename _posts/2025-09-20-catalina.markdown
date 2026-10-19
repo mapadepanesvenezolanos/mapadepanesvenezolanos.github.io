@@ -8,6 +8,7 @@ permalink: /panes-venezolanos/catalina/
 categories: pan enriquecido dulce
 tipo: dulces
 region: central  
+orden: 60
 keywords: catalina, cuca, paledonia, catalina dulce venezolano, receta de catalina, receta catalina
 featured_image: '/images/panes/catalina/catalinas_V1.jpg'
 formula_name: "catalina"
