@@ -8,6 +8,7 @@ permalink: /panes-venezolanos/acema-andina/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
 region: Los Andes  
+orden: 35
 keywords: acema andina, historia de la acema andina, origen de la acema andina, acema andina venezuela, acema andina con levadura instantanea, acema andina venezolana origen, acema andina, ingrediente de la acema andina, caracteristicas de la acema andina, ingredientes para masa de acema andina, venezolana acema andina, receta de acema andina con levadura instantanea, acema andina receta, receta de acema andina, acema andina venezolana, masa para acema andina, receta acema andina, que es la acema andina, como hacer acema andina, la acema andina, masa de acema andina, acema andina ingredientes, cuanto pesa una acema andina, acema andina origen, roll de acema andina, como saber si la acema andina esta lista, ingredientes acema andina, ingredientes del acema andina, formado de acema andina
 featured_image: '/images/panes/acema-andina/acema-andina_01.jpg'
 formula_name: "acemaandina"

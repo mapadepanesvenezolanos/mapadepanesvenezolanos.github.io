@@ -7,6 +7,7 @@ published: true
 permalink: /panes-venezolanos/rollos-canela/
 categories: consentidos
 tipo: consentidos
+orden: 49
 keywords: rollo de canela receta, canela, receta de rollo de canela, recetas de rollo de canela paso a paso, pan rollo de canela, rollo de canela venezolanos, rollo de canela al estilo venezolano, de donde son los rollo de canela, origen de los rollo de canela, rollo de canela venezuela, los, rollo de canela, rollo de canela panes del mundo, rollo de canela receta, recetas de rollo de canela
 featured_image: '/images/panes/rollos-canela/rollos-canela_02.jpg'
 formula_name: "canelis"

@@ -7,7 +7,8 @@ published: true
 permalink: /panes-venezolanos/acema-tocuyana/
 categories: pan dulce enriquecido los_andes occidente
 tipo: dulces
-region: Sistema Coreano y sus márgenes  
+region: Sistema Coreano y sus márgenes 
+orden: 33 
 keywords: acema tocuyana, historia de la acema tocuyana, origen de la acema tocuyana, acema tocuyana venezuela, acema tocuyana con levadura instantanea, acema tocuyana venezolana origen, acema tocuyana, ingrediente de la acema tocuyana, caracteristicas de la acema tocuyana, ingredientes para masa de acema tocuyana, venezolana acema tocuyana, receta de acema tocuyana con levadura instantanea, acema tocuyana receta, receta de acema tocuyana, acema tocuyana venezolana, masa para acema tocuyana, receta acema tocuyana, que es la acema tocuyana, como hacer acema tocuyana, la acema tocuyana, masa de acema tocuyana, acema tocuyana ingredientes, cuanto pesa una acema tocuyana, acema tocuyana origen, roll de acema tocuyana, como saber si la acema tocuyana esta lista, ingredientes acema tocuyana, ingredientes del acema tocuyana, formado de acema tocuyana
 featured_image: '/images/panes/acema-tocuyana/acema-tocuyana_01.jpg'
 formula_name: "acematocuyana"

@@ -7,7 +7,7 @@ published: true
 permalink: /panes-venezolanos/pan-de-queso/
 categories: pan semidulce enriquecido
 tipo: suaves y rellenos
-orden: 135
+orden: 16
 keywords: pan de queso
 featured_image: '/images/panes/pan-de-queso/pan-de-queso_02.jpg'
 formula_name: "pandequeso"

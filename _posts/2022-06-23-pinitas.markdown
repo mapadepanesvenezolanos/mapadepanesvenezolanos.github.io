@@ -6,7 +6,7 @@ date:   2022-06-23 19:19:00 -0400
 permalink: /panes-venezolanos/pan-pinita/
 categories: piñita Lara
 tipo: dulces
-orden: 40
+orden: 5
 keywords: tunjitas, tunjas, pan de tunja, piñitas, piñitas venezolanas, piñitas pan, pan piñitas, receta de piñitas venezolanas, pan piñitas venezolanas, piñitas dulces, panes piñitas, las piñitas
 featured_image: '/images/panes/pinitas/pinitas_02.jpg'
 formula_name: "pinitas"

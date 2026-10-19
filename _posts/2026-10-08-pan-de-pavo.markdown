@@ -8,6 +8,7 @@ permalink: /panes-venezolanos/pan-de-pavo/
 categories: pan dulce enriquecido centro 
 tipo: dulces
 region: Sistema de la Costa  
+orden: 45
 keywords: pan pavito, pan pavito venezolano, pan de pavo, pan de pavo venezolano, pan pavito de Aragua, pan de pavo de Aragua, pan pavito Maracay, pan de pavo Maracay, panes de Aragua, panes venezolanos, panadería venezolana, pan dulce venezolano, pan relleno venezolano, pan relleno de miga, pan relleno de pan, pavito venezolano, receta pan pavito, receta pan de pavo, cómo hacer pan pavito, ingredientes pan pavito, pan tradicional venezolano, panadería tradicional de Aragua
 featured_image: '/images/panes/pavo/panpavo_01.jpg'
 

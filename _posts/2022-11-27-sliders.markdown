@@ -6,6 +6,7 @@ date: 2022-11-27 12:00:00 -0400
 permalink: /panes-venezolanos/mini-pan-de-hamburguesa/
 categories: pan semi salado enriquecido capital
 tipo: suaves y rellenos
+orden: 38
 keywords: mini pan de hamburguesa
 featured_image: '/images/panes/sliders/sliders_02.jpg'
 formula_name: "sliders"

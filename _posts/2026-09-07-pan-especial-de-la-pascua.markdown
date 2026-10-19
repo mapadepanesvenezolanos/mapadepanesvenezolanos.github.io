@@ -7,7 +7,8 @@ published: true
 permalink: /panes-venezolanos/pan-especial-de-la-pascua/
 categories: pan dulce enriquecido centro 
 tipo: dulces
-region: Los Llanos  
+region: Los Llanos 
+orden: 44 
 keywords: pan especial de Valle de la Pascua, Especial de Valle de la Pascua, receta pan especial de Valle de la Pascua, pan dulce de Valle de la Pascua, pan de Valle de la Pascua, pan tradicional de Guárico, pan dulce guariqueño, pan venezolano con malta, pan con Maltín Polar, panes tradicionales venezolanos, panes venezolanos
 featured_image: '/images/panes/especial-de-la-pascua/especial-dela-pascua_01.jpg'
 formula_name: "especialdelapascua"
