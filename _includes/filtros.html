@@ -163,10 +163,10 @@
 
   <button
     type="button"
-    data-filtro="dulces"
+    data-filtro="unicos"
     aria-pressed="false"
     aria-controls="panes-listado">
-    Dulces
+    Únicos
   </button>
 
   <button
@@ -187,10 +187,26 @@
 
   <button
     type="button"
+    data-filtro="dulces"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Dulces
+  </button>
+
+<button
+    type="button"
+    data-filtro="heredados"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Heredados
+  </button>
+
+  <button
+    type="button"
     data-filtro="consentidos"
     aria-pressed="false"
     aria-controls="panes-listado">
-    Consentidos y únicos
+    Consentidos
   </button>
 
 </div>
@@ -263,15 +279,20 @@
         "dulces"
       ],
       rusticos: [
-        "semi rusticos y rusticos",
+        "semi-rusticos y rusticos",
         "semirusticos y rusticos"
       ],
       suaves: [
         "suaves y rellenos"
       ],
+      heredados: [
+        "heredados"
+      ],
       consentidos: [
-        "consentidos",
-        "consentidos y unicos"
+        "consentidos"
+      ],
+      unicos: [
+        "únicos"
       ]
     };
 
