@@ -52,7 +52,8 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 | Esencia de vainilla.                                         |       ...     |       ... |
 | Semillas de anís dulce.                                      |       ...     |       ... |
 | Leche en polvo.                                              |       ...     |       ... |
-|:-------------------------------------------------------------|:-------------:|----------:|
+| -------------------------------------------------------------|---------------|-----------|
+| **Total**                                                    |    **...%**   | **600g**  |
 
 
 <div style="margin: 2rem 0; padding: 2rem 1.5rem; border: 1px solid #d9c2b6; border-radius: 12px; background: #fff9f5; text-align: center;">
@@ -60,7 +61,7 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
   <p>Descubre la fórmula completa, el procedimiento, el relleno de su característica espiral y todas las técnicas de preparación en</p>
   <p><strong>Haz Panes Venezolanos en Casa</strong>.</p>
   <p>Te acompañamos paso a paso para que este pan te conecte con Venezuela y también forme parte de tus recuerdos de nuestra panadería</p>
-  <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" style="display: inline-block; background: #77382b; color: #fff; padding: 14px 24px; border-radius: 7px; font-weight: 700; text-decoration: none;" aria-label="Quiero saber más en el libro Haz Panes Venezolanos en Casa">Quiero la receta en el libro →</a>
+  <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" style="display: inline-block; background:rgb(240, 94, 9); color: #fff; padding: 14px 24px; border-radius: 7px; font-weight: 700; text-decoration: none;" aria-label="Quiero saber más en el libro Haz Panes Venezolanos en Casa">Quiero la receta en el libro →</a>
 </div>
 
 [@panesve]: https://www.instagram.com/panesve
