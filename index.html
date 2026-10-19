@@ -9,91 +9,94 @@ featured_image: /images/social.jpg
 
 <section class="listing">
 
-	{% include search-lunr.html %}
+  {% include search-lunr.html %}
+  {% include filtros.html %}
 
-	<div class="content-wrap listing-wrap">
+  <div class="content-wrap listing-wrap" id="panes-listado">
 
-	{% assign panes_visibles = site.posts | where_exp: "post", "post.hidden != true" %}
+    {% assign panes_visibles = site.posts | where_exp: "post", "post.hidden != true" %}
     {% assign panes_ordenados = panes_visibles | sort: "orden", "last" %}
-	{% assign inicio = paginator.page | minus: 1 | times: paginator.per_page %}
 
-	{% for post in panes_ordenados offset: inicio limit: paginator.per_page %}
+    {% for post in panes_ordenados %}
 
-			<div class="listing-item">
+      <div
+        class="listing-item"
+        data-tipo="{{ post.tipo | escape }}">
 
-				<a class="listing-item__link" href="{{ post.url | relative_url }}">
+        <a
+          class="listing-item__link"
+          href="{{ post.url | relative_url }}">
 
-					<div class="listing-item__image">
-						<img
-							src="{{ post.featured_image | relative_url }}"
-							alt="{{ post.title }}"
-							loading="lazy"
-							decoding="async">
-					</div>
+          <div class="listing-item__image">
+            <img
+              src="{{ post.featured_image | relative_url }}"
+              alt="{{ post.title | escape }}"
+              loading="lazy"
+              decoding="async">
+          </div>
 
-					<div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
+          <div class="listing-item__content listing-item__content--{{ site.data.settings.grid_settings.content_alignment }}">
 
-						<div class="listing-item__info">
+            <div class="listing-item__info">
 
-							<h2 class="listing-item__title">
-								{{ post.title }}
-							</h2>
+              <h2 class="listing-item__title">
+                {{ post.title }}
+              </h2>
 
-							<p class="listing-item__subtitle">
-								{{ post.subtitle }}
-							</p>
+              <p class="listing-item__subtitle">
+                {{ post.subtitle }}
+              </p>
 
-						</div>
+            </div>
 
-					</div>
+          </div>
 
-				</a>
+        </a>
 
-			</div>
+      </div>
 
-		{% endfor %}
+    {% endfor %}
 
-	</div>
+  </div>
 
 </section>
 
+<div
+  class="pagination-wrapper"
+  id="panes-paginacion"
+  hidden>
 
-{% if paginator.total_pages > 1 %}
+  <nav class="pagination" aria-label="Navegación de panes">
 
-<div class="pagination-wrapper">
+    <div class="pagination__left">
+      <button
+        type="button"
+        class="pagination__link"
+        id="panes-anterior"
+        aria-controls="panes-listado">
+        ← Panes anteriores
+      </button>
+    </div>
 
-	<nav class="pagination" aria-label="Navegación de páginas">
+    <div class="pagination__center">
+      <span
+        class="pagination__info"
+        id="panes-pagina">
+      </span>
+    </div>
 
-		<div class="pagination__left">
-			{% if paginator.previous_page %}
-				<a
-					class="pagination__link"
-					href="{{ paginator.previous_page_path | relative_url }}">
-					← Panes anteriores
-				</a>
-			{% endif %}
-		</div>
+    <div class="pagination__right">
+      <button
+        type="button"
+        class="pagination__link"
+        id="panes-siguiente"
+        aria-controls="panes-listado">
+        Ver más panes →
+      </button>
+    </div>
 
-		<div class="pagination__center">
-			<span class="pagination__info">
-				Página {{ paginator.page }} de {{ paginator.total_pages }}
-			</span>
-		</div>
-
-		<div class="pagination__right">
-			{% if paginator.next_page %}
-				<a
-					class="pagination__link"
-					href="{{ paginator.next_page_path | relative_url }}">
-					Ver más panes →
-				</a>
-			{% endif %}
-		</div>
-
-	</nav>
+  </nav>
 
 </div>
-
-{% endif %}
 
 {% include aporta.html %}

@@ -1,0 +1,376 @@
+<style>
+  #panes-listado .listing-item[hidden],
+  #panes-paginacion[hidden],
+  #panes-filtros[hidden] {
+    display: none !important;
+  }
+
+  .panes-filtros {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 10px;
+    margin: 24px auto 12px;
+    padding: 0 16px;
+  }
+
+  .panes-filtros button {
+    padding: 10px 18px;
+    border: 1px solid #713b32;
+    border-radius: 24px;
+    background: transparent;
+    color: #713b32;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  .panes-filtros button:hover,
+  .panes-filtros button[aria-pressed="true"] {
+    background: #713b32;
+    color: #fff;
+  }
+
+  .panes-filtros button:focus-visible,
+  #panes-paginacion button:focus-visible {
+    outline: 3px solid #713b32;
+    outline-offset: 4px;
+  }
+
+  .panes-resultado {
+    margin: 12px 0 24px;
+    text-align: center;
+  }
+
+  .panes-resultado:empty {
+    display: none;
+  }
+
+  #panes-paginacion .pagination {
+    display: grid;
+    grid-template-columns: 1fr auto 1fr;
+    align-items: center;
+    gap: 16px;
+    width: 100%;
+  }
+
+  #panes-paginacion .pagination__left {
+    text-align: left;
+  }
+
+  #panes-paginacion .pagination__center {
+    text-align: center;
+  }
+
+  #panes-paginacion .pagination__right {
+    text-align: right;
+  }
+
+  #panes-paginacion button {
+    border: 0;
+    padding: 8px 0;
+    background: transparent;
+    color: #713b32;
+    font: inherit;
+    cursor: pointer;
+  }
+
+  #panes-paginacion button:hover {
+    text-decoration: underline;
+  }
+
+  #panes-paginacion button:disabled {
+    visibility: hidden;
+  }
+
+  @media (max-width: 480px) {
+    #panes-paginacion .pagination {
+      grid-template-columns: 1fr 1fr;
+    }
+
+    #panes-paginacion .pagination__center {
+      grid-column: 1 / -1;
+      grid-row: 1;
+    }
+  }
+</style>
+
+<div
+  class="panes-filtros"
+  id="panes-filtros"
+  role="group"
+  aria-label="Filtrar por tipo de pan"
+  hidden>
+
+  <button
+    type="button"
+    data-filtro="todos"
+    aria-pressed="true"
+    aria-controls="panes-listado">
+    Todos
+  </button>
+
+  <button
+    type="button"
+    data-filtro="dulces"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Dulces
+  </button>
+
+  <button
+    type="button"
+    data-filtro="rusticos"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Semi-rústicos y rústicos
+  </button>
+
+  <button
+    type="button"
+    data-filtro="suaves"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Suaves y rellenos
+  </button>
+
+  <button
+    type="button"
+    data-filtro="consentidos"
+    aria-pressed="false"
+    aria-controls="panes-listado">
+    Consentidos y únicos
+  </button>
+
+</div>
+
+<p
+  id="panes-resultado"
+  class="panes-resultado"
+  role="status"
+  aria-atomic="true">
+</p>
+
+<script>
+(() => {
+  function iniciarFiltros() {
+    const listado = document.getElementById("panes-listado");
+    const filtros = document.getElementById("panes-filtros");
+    const navegacion = document.getElementById("panes-paginacion");
+    const anterior = document.getElementById("panes-anterior");
+    const siguiente = document.getElementById("panes-siguiente");
+    const indicador = document.getElementById("panes-pagina");
+    const resultado = document.getElementById("panes-resultado");
+
+    if (
+      !listado ||
+      !filtros ||
+      !navegacion ||
+      !anterior ||
+      !siguiente ||
+      !indicador ||
+      !resultado
+    ) {
+      console.warn(
+        "Filtros de panes: falta el listado o algún control de paginación."
+      );
+      return;
+    }
+
+    if (filtros.dataset.inicializado === "true") return;
+    filtros.dataset.inicializado = "true";
+
+    const tarjetas = Array.from(
+      listado.querySelectorAll(".listing-item[data-tipo]")
+    );
+
+    const botones = Array.from(
+      filtros.querySelectorAll("[data-filtro]")
+    );
+
+    const cantidadConfigurada = Number(
+      {{ site.paginate | default: 15 | jsonify }}
+    );
+
+    const porPagina =
+      Number.isInteger(cantidadConfigurada) && cantidadConfigurada > 0
+        ? cantidadConfigurada
+        : 15;
+
+    function normalizar(valor) {
+      return String(valor || "")
+        .normalize("NFD")
+        .replace(/[\u0300-\u036f]/g, "")
+        .toLowerCase()
+        .replace(/[-_]/g, " ")
+        .replace(/\s+/g, " ")
+        .trim();
+    }
+
+    const grupos = {
+      dulces: [
+        "dulces"
+      ],
+      rusticos: [
+        "semi rusticos y rusticos",
+        "semirusticos y rusticos"
+      ],
+      suaves: [
+        "suaves y rellenos"
+      ],
+      consentidos: [
+        "consentidos",
+        "consentidos y unicos"
+      ]
+    };
+
+    const tipos = new Map(
+      tarjetas.map(tarjeta => [
+        tarjeta,
+        normalizar(tarjeta.dataset.tipo)
+      ])
+    );
+
+    let filtro = "todos";
+    let pagina = 1;
+
+    function leerEstadoURL() {
+      const parametros = new URLSearchParams(window.location.search);
+      const tipoSolicitado = parametros.get("tipo");
+
+      filtro = Object.prototype.hasOwnProperty.call(
+        grupos,
+        tipoSolicitado
+      )
+        ? tipoSolicitado
+        : "todos";
+
+      // Compatibilidad con las páginas existentes /page2/, /page3/...
+      const paginaRuta = window.location.pathname.match(
+        /\/page(\d+)\/?$/
+      );
+
+      const paginaSolicitada = Number(
+        parametros.get("pagina") ||
+        (paginaRuta ? paginaRuta[1] : 1)
+      );
+
+      pagina =
+        Number.isSafeInteger(paginaSolicitada) && paginaSolicitada > 0
+          ? paginaSolicitada
+          : 1;
+    }
+
+    function actualizarURL() {
+      const url = new URL(window.location.href);
+
+      // Conserva el prefijo del sitio si utiliza baseurl.
+      url.pathname = url.pathname.replace(/\/page\d+\/?$/, "/");
+
+      url.searchParams.delete("tipo");
+      url.searchParams.delete("pagina");
+
+      if (filtro !== "todos") {
+        url.searchParams.set("tipo", filtro);
+      }
+
+      if (pagina > 1) {
+        url.searchParams.set("pagina", String(pagina));
+      }
+
+      window.history.replaceState(null, "", url);
+    }
+
+    function mostrar(cambiarURL = false) {
+      const seleccionadas = tarjetas.filter(tarjeta => {
+        return filtro === "todos" ||
+          grupos[filtro].includes(tipos.get(tarjeta));
+      });
+
+      const cantidad = seleccionadas.length;
+
+      const totalPaginas = Math.max(
+        1,
+        Math.ceil(cantidad / porPagina)
+      );
+
+      pagina = Math.max(1, Math.min(pagina, totalPaginas));
+
+      tarjetas.forEach(tarjeta => {
+        tarjeta.hidden = true;
+      });
+
+      const inicio = (pagina - 1) * porPagina;
+
+      seleccionadas
+        .slice(inicio, inicio + porPagina)
+        .forEach(tarjeta => {
+          tarjeta.hidden = false;
+        });
+
+      botones.forEach(boton => {
+        boton.setAttribute(
+          "aria-pressed",
+          String(boton.dataset.filtro === filtro)
+        );
+      });
+
+      const mensaje = cantidad === 0
+        ? "No hay panes disponibles en esta categoría."
+        : cantidad === 1
+          ? "1 pan encontrado"
+          : `${cantidad} panes encontrados`;
+
+      resultado.textContent = cantidad > 0
+        ? `${mensaje} · Página ${pagina} de ${totalPaginas}`
+        : mensaje;
+
+      indicador.textContent = `Página ${pagina} de ${totalPaginas}`;
+
+      anterior.disabled = pagina === 1;
+      siguiente.disabled = pagina === totalPaginas;
+      navegacion.hidden = totalPaginas <= 1;
+
+      if (cambiarURL) actualizarURL();
+    }
+
+    botones.forEach(boton => {
+      boton.addEventListener("click", () => {
+        filtro = boton.dataset.filtro;
+        pagina = 1;
+        mostrar(true);
+      });
+    });
+
+    anterior.addEventListener("click", () => {
+      if (anterior.disabled) return;
+      pagina--;
+      mostrar(true);
+    });
+
+    siguiente.addEventListener("click", () => {
+      if (siguiente.disabled) return;
+      pagina++;
+      mostrar(true);
+    });
+
+    window.addEventListener("popstate", () => {
+      leerEstadoURL();
+      mostrar();
+    });
+
+    leerEstadoURL();
+    mostrar();
+    filtros.hidden = false;
+  }
+
+  // El include aparece antes de las tarjetas y la paginación.
+  // Esperamos a que todos esos elementos existan.
+  if (document.readyState === "loading") {
+    document.addEventListener("DOMContentLoaded", iniciarFiltros, {
+      once: true
+    });
+  } else {
+    iniciarFiltros();
+  }
+})();
+</script>
