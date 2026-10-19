@@ -282,16 +282,20 @@
       ],
 
       rusticos: [
-        "semi-rústicos y rusticos"
+        "semi-rusticos y rusticos"
       ],
 
       suaves: [
         "suaves y rellenos"
       ],
+      heredados: [
+        "heredados"
+      ],
 
       consentidos: [
         "consentidos"
       ],
+      
       unicos: [
         "únicos"
       ]
@@ -356,9 +360,11 @@
 
     function mostrar(cambiarURL = false) {
       const seleccionadas = tarjetas.filter(tarjeta => {
-        return filtro === "todos" ||
-          grupos[filtro].includes(tipos.get(tarjeta));
-      });
+      if (filtro === "todos") return true;
+
+      const tiposDelGrupo = grupos[filtro] || [];
+      return tiposDelGrupo.includes(tipos.get(tarjeta));
+    });
 
       const cantidad = seleccionadas.length;
 
