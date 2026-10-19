@@ -26,8 +26,6 @@ El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciuda
 
 [^1]: [Soy panadero: Un homenaje a los artesanos del pan en Venezuela. Caracas, Venezuela](https://alumware.com/wp-content/uploads/2020/05/Libro_Soy_Panadero_Pag-Enfrentadas.pdf)
 
-<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
-
 ## Tips para su preparación
 
 - Ajusta el tiempo de la fermentación final según la temperatura ambiente de tu cocina.
@@ -42,6 +40,8 @@ El **Especial de Valle de la Pascua** es un pan dulce emblemático de esta ciuda
 - Prepararemos 1 unidad de 600g de masa
 - Temperatura ambiente 22ºC - 27ºC
 - 53% de hidratación (baja hidratación)
+
+<img class="post_image post_image_right" src="{{page.featured_image}}" alt="{{page.title}}">
 
 ### Ingredientes para la masa
 
