@@ -55,11 +55,11 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 |:-------------------------------------------------------------|:-------------:|----------:|
 
 <div style="margin: 2rem 0; padding: 2rem 1.5rem; border: 1px solid #d9c2b6; border-radius: 12px; background: #fff9f5; text-align: center;">
-  <h2 style="color: #713b2d; margin-top: 0;">¡La receta y el procedimiento con el paso a paso fotográfico continúan en nuestro libro!</h2>
+  <h2 style="color: #713b2d; margin-top: 0;">¡La historia, la receta y el procedimiento con el paso a paso fotográfico <p>continúan en nuestro libro!</p></h2>
   <p>Ya conoces los primeros ingredientes de la masa del <strong>Pan de Pavo</strong>.</p>
   <p>Descubre la fórmula completa, el relleno de su característica espiral y todas las técnicas de preparación en <strong>Haz Panes Venezolanos en Casa</strong>.</p>
   <p>Te acompañamos paso a paso para que este pan también forme parte de tus recuerdos de panadería en casa.</p>
-  <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" style="display: inline-block; background: #77382b; color: #fff; padding: 14px 24px; border-radius: 7px; font-weight: 700; text-decoration: none;" aria-label="Quiero saber más en el libro Haz Panes Venezolanos en Casa">Quiero la receta y más en el libro →</a>
+  <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" style="display: inline-block; background: #77382b; color: #fff; padding: 14px 24px; border-radius: 7px; font-weight: 700; text-decoration: none;" aria-label="Quiero saber más en el libro Haz Panes Venezolanos en Casa">Quiero la receta en el libro →</a>
 </div>
 
 __Versión 1.0 (2026/10/18)__
