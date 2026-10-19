@@ -32,7 +32,7 @@ No tenemos registro de panes.
 
 - Pan de horno
 - Pan Prote (Colonia Tovar)
-- [Pan de pavo (pavito)] (/panes-venezolanos/pan-de-pavo/){:target="blank"}
+- [Pan de pavo (pavito)](/panes-venezolanos/pan-de-pavo/){:target="blank"}
 
 ## Barinas
 
