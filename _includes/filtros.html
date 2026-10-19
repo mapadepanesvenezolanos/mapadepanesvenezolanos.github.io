@@ -265,29 +265,30 @@
         : 15;
 
     function normalizar(valor) {
-      return String(valor || "")
+    return String(valor || "")
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .toLowerCase()
-        .replace(/[-_]/g, " ")
+        .replace(/[-‐‑‒–—_]/g, " ")
         .replace(/\s+/g, " ")
-        .trim();
+        .trim()
+        // Unifica: semi-rústicos, semi rústicos y semirústicos.
+        .replace(/\bsemi\s+rusticos\b/g, "semirusticos");
     }
 
     const grupos = {
       dulces: [
         "dulces"
       ],
+
       rusticos: [
-        "semi-rusticos y rusticos",
-        "semirusticos y rusticos"
+        "semi-rústicos y rusticos"
       ],
+
       suaves: [
         "suaves y rellenos"
       ],
-      heredados: [
-        "heredados"
-      ],
+
       consentidos: [
         "consentidos"
       ],
