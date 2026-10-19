@@ -92,6 +92,58 @@
       grid-row: 1;
     }
   }
+
+/* Reorganiza automáticamente las tarjetas visibles. */
+#panes-listado {
+  display: grid !important;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 30px;
+  height: auto !important;
+}
+
+/* Evita que las tarjetas conserven posiciones del diseño anterior. */
+#panes-listado > .listing-item {
+  position: relative !important;
+  inset: auto !important;
+  transform: none !important;
+  translate: none !important;
+  float: none !important;
+
+  width: 100% !important;
+  max-width: none !important;
+  min-width: 0;
+
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+/* Las tarjetas ocultas no ocupan espacio en la cuadrícula. */
+#panes-listado > .listing-item[hidden] {
+  display: none !important;
+}
+
+  /* Evita espacios adicionales creados por clearfix del tema. */
+  #panes-listado::before,
+  #panes-listado::after {
+    content: none !important;
+    display: none !important;
+  }
+
+  /* Dos columnas en tabletas. */
+  @media (max-width: 900px) {
+    #panes-listado {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 24px;
+    }
+  }
+
+  /* Una columna en teléfonos. */
+  @media (max-width: 600px) {
+    #panes-listado {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 24px;
+    }
+  }
 </style>
 
 <div
