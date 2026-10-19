@@ -14,7 +14,7 @@ featured_image: /images/social.jpg
 	<div class="content-wrap listing-wrap">
 
 	{% assign panes_visibles = site.posts | where_exp: "post", "post.hidden != true" %}
-	{% assign panes_ordenados = panes_visibles | sort: "orden" %}
+    {% assign panes_ordenados = panes_visibles | sort: "orden", "last" %}
 	{% assign inicio = paginator.page | minus: 1 | times: paginator.per_page %}
 
 	{% for post in panes_ordenados offset: inicio limit: paginator.per_page %}
