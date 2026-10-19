@@ -32,7 +32,7 @@ No tenemos registro de panes.
 
 - Pan de horno
 - Pan Prote (Colonia Tovar)
-- Pan de pavo (pavito)
+- [Pan de pavo (pavito)] (/panes-venezolanos/pan-de-pavo/){:target="blank"}
 
 ## Barinas
 
@@ -116,7 +116,6 @@ No tenemos registro de panes.
 - [Pan de queso](/panes-venezolanos/pan-de-queso/){:target="blank"}.
 - Pan con chicharrones
 - [Acema andina](/panes-venezolanos/acema-andina/){:target="blank"}.
-- Acemita
 - Acema de chicharrón
 - Acema integral
 - Mojicón
@@ -261,6 +260,6 @@ No tenemos registro de panes.
 - [Listos para llevar, productos alimenticios en Venezuela](https://bibliofep.fundacionempresaspolar.org/media/17097/libro_listos_para_llevar_lw.pdf){:target="blank"}, Fundación Polar.
 - Panes Venezolanos 
 
-__Versión 2.0 (2026/09/07)__
+__Versión 2.1 (2026/10/18)__
 
 
