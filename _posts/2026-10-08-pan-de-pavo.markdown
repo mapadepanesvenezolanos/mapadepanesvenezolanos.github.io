@@ -30,8 +30,6 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 - Ajusta el tiempo de la fermentación final según la temperatura ambiente de tu cocina.
 - Recuerda que cada horno es un mundo y el tuyo también.
 
-{% include whatsapp.html %}
-
 # Cómo hacer el Pan de Pavo
 
 ## Masa leudada con levadura instantánea
