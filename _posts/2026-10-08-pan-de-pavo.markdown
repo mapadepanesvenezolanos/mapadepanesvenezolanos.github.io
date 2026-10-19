@@ -63,8 +63,6 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
   <a href="https://panesvenezolanos.com/libros/haz-panes-venezolanos-en-casa/" style="display: inline-block; background: #77382b; color: #fff; padding: 14px 24px; border-radius: 7px; font-weight: 700; text-decoration: none;" aria-label="Quiero saber más en el libro Haz Panes Venezolanos en Casa">Quiero la receta en el libro →</a>
 </div>
 
-__Versión 1.0 (2026/10/18)__
-
 [@panesve]: https://www.instagram.com/panesve
 [@hazpanencasa]: https://www.instagram.com/hazpanencasa
 [@1painalafois]: https://www.instagram.com/1painalafois
