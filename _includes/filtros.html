@@ -5,6 +5,7 @@
     display: none !important;
   }
 
+  /* Botones de filtros */
   .panes-filtros {
     display: flex;
     flex-wrap: wrap;
@@ -36,6 +37,7 @@
     outline-offset: 4px;
   }
 
+  /* Contador de resultados */
   .panes-resultado {
     margin: 12px 0 24px;
     text-align: center;
@@ -45,6 +47,34 @@
     display: none;
   }
 
+  /* Reorganización de las tarjetas visibles */
+  #panes-listado {
+    display: grid !important;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 30px;
+    height: auto !important;
+  }
+
+  #panes-listado > .listing-item {
+    position: relative !important;
+    inset: auto !important;
+    transform: none !important;
+    translate: none !important;
+    float: none !important;
+    width: 100% !important;
+    max-width: none !important;
+    min-width: 0;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+
+  #panes-listado::before,
+  #panes-listado::after {
+    content: none !important;
+    display: none !important;
+  }
+
+  /* Paginación */
   #panes-paginacion .pagination {
     display: grid;
     grid-template-columns: 1fr auto 1fr;
@@ -82,6 +112,20 @@
     visibility: hidden;
   }
 
+  @media (max-width: 900px) {
+    #panes-listado {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 24px;
+    }
+  }
+
+  @media (max-width: 600px) {
+    #panes-listado {
+      grid-template-columns: minmax(0, 1fr);
+      gap: 24px;
+    }
+  }
+
   @media (max-width: 480px) {
     #panes-paginacion .pagination {
       grid-template-columns: 1fr 1fr;
@@ -90,58 +134,6 @@
     #panes-paginacion .pagination__center {
       grid-column: 1 / -1;
       grid-row: 1;
-    }
-  }
-
-/* Reorganiza automáticamente las tarjetas visibles. */
-#panes-listado {
-  display: grid !important;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 30px;
-  height: auto !important;
-}
-
-/* Evita que las tarjetas conserven posiciones del diseño anterior. */
-#panes-listado > .listing-item {
-  position: relative !important;
-  inset: auto !important;
-  transform: none !important;
-  translate: none !important;
-  float: none !important;
-
-  width: 100% !important;
-  max-width: none !important;
-  min-width: 0;
-
-  margin: 0 !important;
-  padding: 0 !important;
-}
-
-/* Las tarjetas ocultas no ocupan espacio en la cuadrícula. */
-#panes-listado > .listing-item[hidden] {
-  display: none !important;
-}
-
-  /* Evita espacios adicionales creados por clearfix del tema. */
-  #panes-listado::before,
-  #panes-listado::after {
-    content: none !important;
-    display: none !important;
-  }
-
-  /* Dos columnas en tabletas. */
-  @media (max-width: 900px) {
-    #panes-listado {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-      gap: 24px;
-    }
-  }
-
-  /* Una columna en teléfonos. */
-  @media (max-width: 600px) {
-    #panes-listado {
-      grid-template-columns: minmax(0, 1fr);
-      gap: 24px;
     }
   }
 </style>
@@ -193,7 +185,7 @@
     Dulces
   </button>
 
-<button
+  <button
     type="button"
     data-filtro="heredados"
     aria-pressed="false"
@@ -244,8 +236,8 @@
       return;
     }
 
+    // Evita registrar los eventos más de una vez.
     if (filtros.dataset.inicializado === "true") return;
-    filtros.dataset.inicializado = "true";
 
     const tarjetas = Array.from(
       listado.querySelectorAll(".listing-item[data-tipo]")
@@ -255,6 +247,7 @@
       filtros.querySelectorAll("[data-filtro]")
     );
 
+    // Cantidad de panes por página definida en _config.yml.
     const cantidadConfigurada = Number(
       {{ site.paginate | default: 15 | jsonify }}
     );
@@ -265,41 +258,47 @@
         : 15;
 
     function normalizar(valor) {
-    return String(valor || "")
+      return String(valor || "")
         .normalize("NFD")
         .replace(/[\u0300-\u036f]/g, "")
         .toLowerCase()
         .replace(/[-‐‑‒–—_]/g, " ")
         .replace(/\s+/g, " ")
-        .trim()
-        // Unifica: semi-rústicos, semi rústicos y semirústicos.
-        .replace(/\bsemi\s+rusticos\b/g, "semirusticos");
+        .trim();
     }
 
+    // Las claves corresponden al atributo data-filtro de los botones.
+    // Los valores corresponden al campo tipo de los posts.
     const grupos = {
-      dulces: [
-        "dulces"
+      unicos: [
+        "unicos"
       ],
 
       rusticos: [
-        "semi-rusticos y rusticos"
+        "semi rusticos y rusticos"
       ],
 
       suaves: [
         "suaves y rellenos"
       ],
+
+      dulces: [
+        "dulces"
+      ],
+
       heredados: [
         "heredados"
       ],
 
       consentidos: [
         "consentidos"
-      ],
-      
-      unicos: [
-        "únicos"
       ]
     };
+
+    // Normaliza ambos lados de la comparación.
+    Object.keys(grupos).forEach(clave => {
+      grupos[clave] = grupos[clave].map(normalizar);
+    });
 
     const tipos = new Map(
       tarjetas.map(tarjeta => [
@@ -311,18 +310,20 @@
     let filtro = "todos";
     let pagina = 1;
 
+    function esFiltroValido(valor) {
+      return valor === "todos" ||
+        Object.prototype.hasOwnProperty.call(grupos, valor);
+    }
+
     function leerEstadoURL() {
       const parametros = new URLSearchParams(window.location.search);
-      const tipoSolicitado = parametros.get("tipo");
+      const tipoSolicitado = parametros.get("tipo") || "todos";
 
-      filtro = Object.prototype.hasOwnProperty.call(
-        grupos,
-        tipoSolicitado
-      )
+      filtro = esFiltroValido(tipoSolicitado)
         ? tipoSolicitado
         : "todos";
 
-      // Compatibilidad con las páginas existentes /page2/, /page3/...
+      // Compatibilidad con /page2/, /page3/, etc.
       const paginaRuta = window.location.pathname.match(
         /\/page(\d+)\/?$/
       );
@@ -360,11 +361,11 @@
 
     function mostrar(cambiarURL = false) {
       const seleccionadas = tarjetas.filter(tarjeta => {
-      if (filtro === "todos") return true;
+        if (filtro === "todos") return true;
 
-      const tiposDelGrupo = grupos[filtro] || [];
-      return tiposDelGrupo.includes(tipos.get(tarjeta));
-    });
+        const tiposDelGrupo = grupos[filtro] || [];
+        return tiposDelGrupo.includes(tipos.get(tarjeta));
+      });
 
       const cantidad = seleccionadas.length;
 
@@ -375,6 +376,7 @@
 
       pagina = Math.max(1, Math.min(pagina, totalPaginas));
 
+      // Oculta todas las tarjetas antes de mostrar la página elegida.
       tarjetas.forEach(tarjeta => {
         tarjeta.hidden = true;
       });
@@ -415,7 +417,14 @@
 
     botones.forEach(boton => {
       boton.addEventListener("click", () => {
-        filtro = boton.dataset.filtro;
+        const seleccionado = boton.dataset.filtro;
+
+        if (!esFiltroValido(seleccionado)) {
+          console.warn("Filtro de panes desconocido:", seleccionado);
+          return;
+        }
+
+        filtro = seleccionado;
         pagina = 1;
         mostrar(true);
       });
@@ -423,12 +432,14 @@
 
     anterior.addEventListener("click", () => {
       if (anterior.disabled) return;
+
       pagina--;
       mostrar(true);
     });
 
     siguiente.addEventListener("click", () => {
       if (siguiente.disabled) return;
+
       pagina++;
       mostrar(true);
     });
@@ -440,11 +451,12 @@
 
     leerEstadoURL();
     mostrar();
+
+    filtros.dataset.inicializado = "true";
     filtros.hidden = false;
   }
 
-  // El include aparece antes de las tarjetas y la paginación.
-  // Esperamos a que todos esos elementos existan.
+  // Espera a que existan las tarjetas y los controles de paginación.
   if (document.readyState === "loading") {
     document.addEventListener("DOMContentLoaded", iniciarFiltros, {
       once: true
