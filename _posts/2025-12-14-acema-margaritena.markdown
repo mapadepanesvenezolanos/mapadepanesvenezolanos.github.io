@@ -157,7 +157,7 @@ Podríamos decir que la idea de una acema —o acemita— “margariteña” no 
 
 ### Referencias y enlaces
 
-Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/panes-venezolanos/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero, la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao]{:target="blank"} y Erika Soto [@oreganobaguette]{:target="blank"}. ¡Muchas gracias!
+Para la concepción de este pan, hemos utilizado como fuente de inspiración, El Manual de la Cocina Venezolana, Panes y Pastelitos de [Trina Arocha]{:target="blank"},la fórmula de [Joanther Guacarán](/comunidad/lamamideamy/), cuyo soporte técnico durante las pruebas de laboratorio para elaborar ha sido la clave para permitirnos alcanzar un resultado parecido al de los panes que se fabrican actualmente en las panaderías de la Asunción, adapatadas y mejoradas para el panadero casero, la colaboración con fórmulas y tips valiosos de Erika Parra [@pandemelao]{:target="blank"} y Erika Soto [@oreganobaguette]{:target="blank"}. ¡Muchas gracias!
  
 Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander Ramírez [@hazpanencasa]{:target="blank"} y Jesús Méndez [@1painalafois]{:target="blank"}.
 
@@ -165,7 +165,7 @@ Este procedimiento ha sido escrito, validado y ajustado a 4 manos por: Alexander
 
 **Advertencia**: Toda esta información se comparte con la ilusión de dar a conocer nuestras preparaciones con un enfoque casero. Este trabajo está en progreso y sabremos agradecer cualquier colaboración para mejorar, completar y/o complementar la información que aquí se presenta.
 
-__Versión 1.1 (2026/06/09)__
+__Versión 1.2 (2026/10/21)__
 
 Este contenido se comparte bajo la licencia [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/deed.es){:target="blank"}, es decir, debes dar crédito a la página panesvenezolanos.com y a no usarlo para propósitos comerciales.
 
