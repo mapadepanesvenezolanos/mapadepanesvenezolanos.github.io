@@ -56,6 +56,22 @@ El Pan de Pavo forma parte de esos panes que sobreviven en la memoria de nuestra
 | -------------------------------------------------------------|---------------|-----------|
 | **Total**                                                    |    **...%**   | **600g**  |
 
+## Paso a paso panadero
+
+<div id="preparacion"></div>
+
+### Preparación
+
+- Pesa todos los ingredientes y colócalos en envases separados.
+- Asegúrate de que cada ingrediente está bien pesado de acuerdo a la fórmula. Una falla en las medidas afecta significativamente el resultado.
+- Coloca los utensilios que vas a utilizar durante el proceso al alcance de tu mano.
+
+### Mezcla y amasado
+
+#### Ciclo de amasado
+
+- Reserva la mantequilla pomada a parte.
+- En un primer envase mezcla la harina...
 
 <div style="margin: 2rem 0; padding: 2rem 1.5rem; border: 1px solid #d9c2b6; border-radius: 12px; background: #fff9f5; text-align: center;">
   <h2 style="color: #713b2d; margin-top: 0;">Ya conoces los primeros ingredientes de la masa del <strong>Pan de Pavo</strong>.</h2>
