@@ -1,5 +1,5 @@
 ---
-layout: page-pv
+layout: default
 title: Mapa
 description: La Referencia sobre Panes Venezolanos para panaderos caseros.
 featured_image: /images/social2.jpg
