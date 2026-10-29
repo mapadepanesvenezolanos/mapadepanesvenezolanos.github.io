@@ -151,8 +151,52 @@
       transform: scale(1.05);
       cursor: pointer;
     }
-    
+
   </style>
+  {% if site.data.settings.advanced_settings.custom_styles %}
+	<!-- Custom Styles -->
+	<style>
+		.circle-frame {
+			width: 100px;
+			/* Adjust the size of the circular frame */
+			height: 100px;
+			border-radius: 50%;
+			overflow: hidden;
+			margin-right: 10px;
+			/* Adjust spacing as needed */
+		}
+
+		.circle-image {
+			width: 100%;
+			/* Make the image fit inside the circular frame */
+			height: auto;
+		}
+		.title {
+		  font-family: "Alfa Slab One", serif;
+		  font-size: calc(3rem);
+		  line-height: 1.2;
+		  color: #00000f;
+		  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+		}
+		.breadtitle {
+		  font-family: "Alfa Slab One", serif;
+		  font-size: calc(2.5rem);
+		  line-height: 1.2;
+		  color: #00000f;
+		  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.2);
+		}
+	</style>
+	{% endif %}
+
+	{% if jekyll.environment == 'production' and site.data.settings.advanced_settings.analytics_code %}
+	{%- include google-analytics.html -%}
+	{% endif %}
+
+	{% if site.data.settings.advanced_settings.header_js %}
+	<!-- Extra Header JS Code -->
+	{{ site.data.settings.advanced_settings.header_js }}
+	{% endif %}
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 </head>
 
 <body class="{% if site.data.settings.advanced_settings.ajax_loading == true %}loading ajax-loading{% endif %}"
