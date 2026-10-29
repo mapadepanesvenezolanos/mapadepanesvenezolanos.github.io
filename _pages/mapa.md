@@ -6,8 +6,6 @@ featured_image: /images/social2.jpg
 permalink: /mapa/
 ---
 
-{% include intro.html %}
-
 <section class="listing">
 
 	<div class="wrap">

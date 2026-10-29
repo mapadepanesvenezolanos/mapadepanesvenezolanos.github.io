@@ -1,5 +1,5 @@
 ---
-layout: page-pv
+layout: post-np
 title: Acerca
 subtitle: ¿Quienes somos?
 description: Somos un equipo decidido a ayudarte a hacer los Panes Venezolanos en casa.
