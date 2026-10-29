@@ -151,12 +151,14 @@
       transform: scale(1.05);
       cursor: pointer;
     }
+    
   </style>
 </head>
 
-<body class="bg-white text-black">
+<body class="{% if site.data.settings.advanced_settings.ajax_loading == true %}loading ajax-loading{% endif %}"
+	data-site-url="{{ site.url }}" data-page-url="{{ page.url | replace: 'index.html', '' }}">
 
-  <!-- Header -->
+  <!-- Header class="bg-white text-black" -->
  
   {% include header-panes-venezolanos.html %}
 
